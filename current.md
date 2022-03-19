@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Experience League活動是學習、互動和從Adobe產品專家那裡獲得答�
 [!DNL Adobe System Status]會提供有關 Adobe 產品及服務中斷、作業中斷和維護事件的詳細資訊、狀態更新和電子郵件通知。 請造訪 [status.adobe.com](https://status.adobe.com/) 來查看。
 
 ## ![表徵圖](/assets/ec_appicon_24.png) Experience Cloud — 中央介面元件和管理 {#ecloud}
-=======
-發行日期：**2021 年 11 月 16 日**
-
-**新增功能**
-
-* Adobe Status 現在於產品等級報告事件。Status「雲端」和「產品」頁面有新外觀，以及根據產品等級事件報告的增強型篩選器。這可讓您在 [status.adobe.com](https://status.adobe.com/) 以及電子郵件通知中更輕鬆地了解您的產品如何受影響。如果您尚未訂閱，請使用此連結來設定個人化的訂閱偏好設定 [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)。
-
-* Status 首頁現在已個人化，會根據使用者權利和產品訂閱來篩選事件。請造訪 **status.adobe.com** >「**[!UICONTROL 我的事件]**」索引標籤進行查看。
 
 Experience Cloud [中央UI元件](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=zh-Hant) 包括首頁和永久產品標題上提供的功能。 這些功能包括用戶配置檔案設定、首選項和搜索。 您還可以找到有關用戶和產品管理、客戶屬性和Experience Cloud受眾的幫助。
 
@@ -110,7 +102,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文�
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 3 月 | [在移動應用教程中實施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 課程 | 瞭解如何使用Adobe Experience Cloud移動軟體開發工具包在您的移動應用中實施Adobe Experience Platform應用程式。 |
 | 2022 年 3 月 | [生成第一方設備ID](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | 影片 | 瞭解如何生成第一方設備ID及其工作方式。 |
-| 2022 年 3 月 | [設定資料串流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 影片 | 瞭解如何為Web和Mobile SDK實現建立和配置資料流。 |
+| 2022 年 3 月 | [設定資料串流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 影片 | 瞭解如何為Web和MobileSDK實現建立和配置資料流。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
