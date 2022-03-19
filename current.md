@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: deda4aee7483e0ea77a31f1e71016306fbb17473
+source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
 workflow-type: tm+mt
 source-wordcount: '5786'
 ht-degree: 50%
@@ -55,7 +55,7 @@ ht-degree: 50%
 Experience League活動是學習、互動和從Adobe產品專家那裡獲得答案的絕佳場所！
 
 | 事件 | 類型 | 說明 |
-| -----------|---------- | ---|
+| -----------|---------- | ----|
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | 即時和按需視頻 | 由Experience League隊製作的直播節目。 您可以藉此機會與 Adobe 產品專家交流。了解可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。<br> [詳細資訊和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live網路研討會 | 使用Adobe快速Bootstrap和部署單頁應SPA用() [!UICONTROL 應用程式生成器] 工作流和工具，而不需要傳統的Experience Manager技能，如Java™和Sling。 使用Experience Manager無頭產品，營銷人員和開發人員可以各自擁有自己領域的專業知識 — 開發人員控制整個應用程式框架、樣式和路由，而營銷人員則決定內容及其顯示方式。<br>**日期：** 3月23日星期三 —  [詳細資訊和註冊](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics:用資料講述影響力的故事](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live網路研討會 | 當資料是藝術和科學的平衡時，資料講故事是很好的。 那麼，為什麼過度設計它呢？ Adobe Analytics冠軍艾米·阿德討論了三個部分：<ul><li>確定機會或問題</li><li>通過資料進行說明</li><li>提供解決方案</li></ul>**日期：** 3月31日星期四 —  [詳細資訊和註冊](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
@@ -110,7 +110,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文�
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 3 月 | [在移動應用教程中實施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 課程 | 瞭解如何使用Adobe Experience Cloud移動軟體開發工具包在您的移動應用中實施Adobe Experience Platform應用程式。 |
 | 2022 年 3 月 | [生成第一方設備ID](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | 影片 | 瞭解如何生成第一方設備ID及其工作方式。 |
-| 2022 年 3 月 | [設定資料串流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 影片 | 瞭解如何為Web和MobileSDK實現建立和配置資料流。 |
+| 2022 年 3 月 | [設定資料串流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 影片 | 瞭解如何為Web和Mobile SDK實現建立和配置資料流。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
