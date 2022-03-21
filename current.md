@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
+source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
 workflow-type: tm+mt
-source-wordcount: '5702'
+source-wordcount: '5696'
 ht-degree: 49%
 
 ---
@@ -116,7 +116,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文�
 
 發行日期：**2022 年 3 月 23 日**
 
-* Adobe Analytics [發行說明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hant) (**新位置**)(審閱者，轉到 `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
+* Adobe Analytics [發行說明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hant) (**新位置**)
 * Adobe Analytics [產品文件與教學課程](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
 
 ### AppMeasurement {#appm}
@@ -146,7 +146,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文�
 
 發行日期：**2022 年 3 月 23 日**
 
-* Customer Journey Analytics [發行說明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=zh-Hant)  (**新位置**)(審閱者，轉到 `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* Customer Journey Analytics [發行說明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=zh-Hant) (**新位置**)
 * Customer Journey Analytics [產品文件與教學課程](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=zh-Hant)
 
 ## ![圖示](/assets/audience-manager.png) Audience Manager {#aam}
