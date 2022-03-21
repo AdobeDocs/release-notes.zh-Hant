@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
+source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
 workflow-type: tm+mt
 source-wordcount: '5696'
 ht-degree: 49%
@@ -25,7 +25,7 @@ ht-degree: 49%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。 請經常回來查看，持續了解 Experience League 最新消息。
 
-上次更新日期：**2022 年 3 月 18 日**
+上次更新日期：**2022 年 3 月 21 日**
 
 * [[!DNL Experience League]events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -102,7 +102,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文�
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 3 月 | [在移動應用教程中實施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 課程 | 瞭解如何使用Adobe Experience Cloud移動軟體開發工具包在您的移動應用中實施Adobe Experience Platform應用程式。 |
+| 2022 年 3 月 | [在移動應用教程中實施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 課程 | 瞭解如何使用Adobe Experience PlatformAdobe Experience CloudSDK在您的移動應用中實施Mobile應用程式。 |
 | 2022 年 3 月 | [生成第一方設備ID](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | 影片 | 瞭解如何生成第一方設備ID及其工作方式。 |
 | 2022 年 3 月 | [設定資料串流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 影片 | 瞭解如何為Web和MobileSDK實現建立和配置資料流。 |
 
@@ -340,7 +340,7 @@ Adobe Commerce關於Experience League的新文檔和教程。
 
 ## ![圖示](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新日期：**2022 年 2 月 1 日**
+上次更新時間： **2022年3月21日**
 
 * 如需發行前版本資訊，請參閱 [Adobe Target 發行說明 (發行前)](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hant)。
 * 如需目前版本資訊，請參閱 [Adobe Target 發行說明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hant)。
