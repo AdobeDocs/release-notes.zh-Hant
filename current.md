@@ -342,7 +342,7 @@ Adobe Experience Manager 的 XML 文件是部署至 AEM 的應用程式。這是
 
 ## ![圖示](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新時間： **2022年3月21日**
+上次更新日期: **2022 年 3 月 21 日**
 
 * 如需發行前版本資訊，請參閱 [Adobe Target 發行說明 (發行前)](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hant)。
 * 如需目前版本資訊，請參閱 [Adobe Target 發行說明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hant)。
