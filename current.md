@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
+source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
 workflow-type: tm+mt
 source-wordcount: '5733'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 99%
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live 網路研討會 | 使用 Adobe [!UICONTROL App Builder] 工作流程和工具快速啟動載入和部署單頁應用程式，無須具備如 Java™ 等傳統的 Experience Manager 技能和所需的 Sling。有了 Experience Manager Headless，行銷人員和開發人員可以掌握自身領域的專業知識 — 開發人員掌控整體應用程式框架、樣式和路由，而行銷人員則會決定內容及其顯示方式。<br>**日期：** 2022 年 3 月 23 日星期三 - [詳情和註冊](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics：使用資料訴說有影響力的故事](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live 網路研討會 | 藝術和科學完美融合之時，即可用資料完美地述說故事。因此，為何要過度設計？Adobe Analytics 達人 Amy Ard 探討旨在指引您用資料述說故事，而又不會減損創意的三大部分：<ul><li>識別商機或問題</li><li>透過資料解說</li><li>提供解決方案</li></ul>**日期：** 2022 年 3 月 31 日星期四 - [詳情和註冊](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 網路研討會 | 我們很高興宣布 Experience Makers - The Skill Exchange for Adobe Workfront 的第一版將在 4 月 13 日舉辦。這場 3 小時的免費數位學習活動完全著重於 Workfront，客戶將有機會向最了解工作管理的專家和同行詢問問題。無論您是否為 Workfront 的新手或經驗豐富的專家，我們有為每個人備妥合適的內容。<br>**日期：** 4 月 13 日星期三 - [詳情和註冊](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hant) | 影片 | [!DNL Developers Live] 會展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、文件服務和客戶體驗管理。檢視專題演講、了解 Analytics API、客戶資料層、Adobe I/O 開放原始碼專案等等。 |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hant) | 影片 | [!DNL Developers Live] 會展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、文件服務和客戶體驗管理。查看主題演講，瞭解分析API、客戶端資料層、Adobe開發人員開源項目等。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -260,7 +260,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 | -----------| ---------- | ---------- | ---------- | ------|
 | 2022 年 3 月 | [開始使用 AEM Headless 開發](https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=zh-Hant) | 課程 | 建立在 ExL 上提取 AEM Headless 上所有內容的 AEM Headless 登陸頁面。 | AEM Headless |
 | 2022 年 3 月 | [在 Adobe Experience Manager as a Cloud Service 中建立您的第一個網站](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.1.aemcs.website) | 課程 | 使用預先定義的網站範本快速在 Experience Manager 中產生新網站。 | AEM Sites |
-| 2022 年 3 月 | [從提交的資料 xml 擷取節點](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=zh-Hant) | 影片 | 了解此自訂流程步驟，以從另一個 XML 文件擷取節點，建立 XML 文件。當您想要將提交的資料與 XDP 範本合併，以產生 PDF 時，請依照此流程進行。 | AEM Forms |
+| 2022 年 3 月 | [從提交的資料 xml 擷取節點](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=zh-Hant) | 影片 | 瞭解此自定義流程步驟，通過從另一個XML文檔中提取節點來建立XML文檔。 當您想要將提交的資料與 XDP 範本合併，以產生 PDF 時，請依照此流程進行。 | AEM Forms |
 | 2022 年 3 月 | [將文件寫入檔案系統](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/write-payload-document.html?lang=zh-Hant) | 影片 | 了解如何將在工作流程中產生的文件寫入檔案系統。 | AEM Forms |
 | 2022 年 3 月 | [自訂函數](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/custom-functions-aem-forms.html?lang=zh-Hant) | 影片 | AEM Forms 6.5 導入定義 JavaScript 函數的功能，以在使用規則編輯器定義業務規則時使用這些函數。 | AEM Forms |
 | 2022 年 3 月 | [Workfront for Experience Manager 加強連接器專家系列](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=zh-Hant) | 影片 | 與 Adobe 的 Workfront 和 Experience Manager Assets 專家加入這部包含 4 段的影片系列，讓他們示範和討論 Workfront for Experience Manager 加強連接器的各個面向。 | AEM Assets，Workfront |
@@ -530,7 +530,7 @@ Last updated: **October 27, 2021**
 
 ## ![圖示](/assets/experience-league.png) 客戶資料管理 - 對話 {#voices}
 
-身為客戶資料管理技術和行銷實務主管和專家的您，[客戶資料管理對話](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=zh-Hant)是您的最終目的地。此教學課程集合是您聆聽同行的意見、獲取靈感並了解 MarTech 中發展的一站式中心。無須註冊，按一下即可觀看。
+身為客戶資料管理技術和行銷實務主管和專家的您，[客戶資料管理對話](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=zh-Hant)是您的最終目的地。此教學課程集合是您聆聽同行的意見、獲取靈感並了解 MarTech 中發展的一站式中心。無需註冊，只需按一下並觀看即可。
 
 ## ![圖示](/assets/experience-league.png)數位體驗藍圖 {#blueprints}
 
