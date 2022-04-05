@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
+source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
 workflow-type: tm+mt
-source-wordcount: '5815'
-ht-degree: 96%
+source-wordcount: '5848'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 96%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。 請經常回來查看，持續了解 Experience League 最新消息。
 
-最新更新：**2022 年 4 月 1 日**
+最新更新：**2022 年 4 月 5 日**
 
-* [[!DNL Experience League] 事件](#events) (**4月1日**)
+* [[!DNL Experience League] 事件](#events) (**4月5日** - GemsAEM重新推出)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央介面元件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -54,12 +54,14 @@ ht-degree: 96%
 
 若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！
 
+已更新 **2022年4月5日**
+
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
+| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 網路研討會 | 2022AEM年的Gems更新可用！ Gems是AEM我們在Adobe Experience Manager的網路研討會系列深度技術潛水，由Adobe專家提供。 <br>有關最新的AEMGems，請參閱 [Adobe Experience Manager as a Cloud Service:《2021年回顧及2022年展望》](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 和 [使用無頭和App AEM Builder更快地構建站點](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en)。<br>經常訪問這些發行說明或訂閱 [Adobe優先順序產品更新](https://www.adobe.com/subscription/priority-product-update.html) 繼續參加寶石和AEM其他Experience League活動。 |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 網路研討會 | 我們很高興宣佈， _經驗創造者 — Adobe Workfront的技能交流_。 <br>這次免費的三小時數字學習活動完全集中在Workfront。 你可以向最瞭解工作管理的專家和同行提出問題。 無論您是否為 Workfront 的新手或經驗豐富的專家，我們有為每個人備妥合適的內容。<br>**日期：** 4月13日，星期三，上午9點 — 中午12:00 [詳細資訊和註冊](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建議即使您無法參加，也應進行註冊，以確保您有權訪問按需錄制。 |
 | [Adobe Workfront系統管理軟體包：設計理想的用戶體驗](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 網路研討會 | 與Adobe Workfront公司客戶成功經理Mary Ann Erickson和Liberty Mutual Insurance公司創意運營分析師Steve Enos一起探討如何設計理想的用戶體驗。 <br>**日期：** 4月27日，星期三。 時間：英國早上8:00點/下午4:00點。 <br>[詳細資訊和註冊](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) | 直播和隨選影片 | 由 Experience League 團隊製作的直播串流節目。您可以藉此機會與 Adobe 產品專家交流。了解可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。<br> [詳細資料和過往活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live 網路研討會 | 使用 Adobe [!UICONTROL App Builder] 工作流程和工具快速啟動載入和部署單頁應用程式，無須具備如 Java™ 等傳統的 Experience Manager 技能和所需的 Sling。有了 Experience Manager Headless，行銷人員和開發人員可以掌握自身領域的專業知識 — 開發人員掌控整體應用程式框架、樣式和路由，而行銷人員則會決定內容及其顯示方式。<br>**日期：** 2022 年 3 月 23 日星期三 - [詳情和註冊](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics：使用資料訴說有影響力的故事](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live 網路研討會 | 藝術和科學完美融合之時，即可用資料完美地述說故事。因此，為何要過度設計？Adobe Analytics 達人 Amy Ard 探討旨在指引您用資料述說故事，而又不會減損創意的三大部分：<ul><li>識別商機或問題</li><li>透過資料解說</li><li>提供解決方案</li></ul>**日期：** 2022 年 3 月 31 日星期四 - [詳情和註冊](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hant) | 影片 | [!DNL Developers Live] 會展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、文件服務和客戶體驗管理。查看主題演講，瞭解分析API、客戶端資料層、Adobe開發人員開源項目等。 |
 
@@ -364,7 +366,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | ------| ----- | -----| ------ | --- |
-| 2022 年 3 月 | [整合 Experience Manager — 概覽](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant) | 影片 | 連結 Adobe Campaign 與 Adobe Experience Manager，以便能夠管理 Experience Manager 的電子郵件傳遞範本、資產和表單。 | AEM，Campaign v8 |
+| 2022 年 3 月 | [整合 Experience Manager — 概覽](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en) | 影片 | 連結 Adobe Campaign 與 Adobe Experience Manager，以便能夠管理 Experience Manager 的電子郵件傳遞範本、資產和表單。 | AEM，Campaign v8 |
 | 2022 年 3 月 | [設定 Campaign 來整合 Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/configure-campaign-for-aem-integration.html?lang=zh-Hant) | 影片 | 了解如何設定 Experience Manager 與 Campaign 之間的整合，包括要尋找的重要設定和要避免的潛在「疑問」。 | AEM，Campaign v8 |
 | 2022 年 3 月 | [核准 Experience Manager 頁面並發佈到 Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/approve-and-publish-aem-content-to-campaign.html?lang=zh-Hant) | 影片 | 了解如何建立 Experience Manager 電子報，以及如何核准並發佈到 Campaign。 | AEM，Campaign v8 |
 | 2022 年 3 月 | [同步和傳送 Campaign 中的 Experience Manager 電子郵件傳遞](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.html?lang=zh-Hant) | 影片 | 了解如何使用在 Experience Manager 中建立的電子報測試和傳送 Adobe Campaign 的電子郵件。 | AEM，Campaign v8 |
