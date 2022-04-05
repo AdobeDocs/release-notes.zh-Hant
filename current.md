@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5848'
+source-wordcount: '5828'
 ht-degree: 94%
 
 ---
@@ -180,7 +180,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 * **Experience Manager as a Cloud Service**
 
-   觀看 [2022年3月發佈概述視頻](https://video.tv.adobe.com/v/341465) 以獲取2022.3.0版（2022年3月）中添加的功能的摘要。 從本月的視頻開始，Adobe已啟用法語(FR)、德語(DE)和日語(JP)的本地化封閉字幕。
+   觀看 [2022年3月發佈概述視頻](https://video.tv.adobe.com/v/341465) 以獲取2022.3.0版（2022年3月）中添加的功能的摘要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * [2022 年 1 月版本總覽新功能](https://video.tv.adobe.com/v/340120)影片。
    * [2021 年 12 月版本新功能的總覽影片](https://video.tv.adobe.com/v/339278)。
