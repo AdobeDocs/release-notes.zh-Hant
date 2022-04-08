@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5828'
-ht-degree: 94%
+source-wordcount: '5956'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。 請經常回來查看，持續了解 Experience League 最新消息。
 
-最新更新：**2022 年 4 月 5 日**
+最新更新：**2022 年 4 月 7 日**
 
 * [[!DNL Experience League] 事件](#events) (**4月5日** - GemsAEM重新推出)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-最新更新：**2022 年 3 月 14 日** (3 月 12 日版本)
+上次更新時間： **2022年4月7日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 產品組合] | 混合最佳化預設為可在行銷活動層級。您現在可以選擇在廣告群組層級啟用混合最佳化，藉以讓最佳化功能在廣告目標群組層級設定 [!DNL Google] CPA 或 ROAS 目標，達到更精確的效能控制。<br>使用任何專案組合時，您必須在啟動專案組合前允許一段學習期間，以確保其有足夠的模式涵蓋範圍。同樣地，如果您將混合專案組合從行銷活動層級變更為廣告群組曾集最佳化，則請將專案組合設為約兩週的作用中狀態。這可確保最佳化功能有時間學習包含的廣告群組並產生目標。<br>若要支援廣告群組最佳化，自訂模擬現在可以依廣告群組包含結果。請在使用廣告群組層級最佳化啟動混合專案組合前，使用廣告群組層級結果執行自訂模擬。 |
-| [!UICONTROL 產品組合] <br> [!UICONTROL 行銷活動] | (Beta 版功能，[!DNL Microsoft® Advertising] 行銷活動) - 您現在可以設定搜尋行銷活動，以使用 [!UICONTROL Maximize Conversions] 競標策略，並選擇設定最大的每次點按成本。<br>如果您已參加其他自動競標策略的混合最佳化 Beta 版，您則會自動存取 [!UICONTROL Maximize Conversions] 策略，而且您還可以隨著 [!UICONTROL Maximize Conversions] 策略將行銷活動加入混合專案組合中。若要在混合專案組合中使用此策略，您必須啟用上傳 Advertising Cloud Search 目標至 [!DNL Microsoft® Ads]。如果您尚未參加 Beta 版並想要加入，請聯絡您的 [!DNL Adobe] 客戶經理。 |
-| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | ([!DNL Microsoft® Advertising] 行銷活動) - 您現在可以使用任何 [!DNL Microsoft® Advertising] 對象，但不包括作為行銷活動層級目標或[!UICONTROL 廣告群組]層級目標的市場內對象。您之前僅可作為[!UICONTROL 廣告群組]層級目標使用。 |
-| Campaign [!UICONTROL Audiences] | (Beta 版功能，[!DNL Microsoft® Advertising] 帳戶符合 [!UICONTROL Customer Match] 的資格) 您現在可以上傳包含電子郵件地址的 CSV 檔案，建立和管理客戶相符對象。資料必須使用 SHA-256 演算法進行雜湊處理。 |
+| [!UICONTROL 市場活動]<br><br>[!UICONTROL 廣告見解] | （4月7日） [!DNL Google Ads] 帳戶)Advertising Cloud Search正在轉換舊版API調用 [!DNL Google AdWords API] 至 [!DNL Google Ads API]。 移到新 [!DNL Google Ads API] 將確保現有功能的連續性，並允許訪問 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暫時不可用：<ul><li>位置擴展：<ul>位置擴展在 [!UICONTROL 擴展] 的子菜單。</li><li>無法建立擴展。</li><li>對位置進行篩選不起作用。</li></li></ul><li>[!UICONTROL 廣告見解]:的 [!UICONTROL 《印象》] 和 [!UICONTROL 查詢交叉匹配Beta] 4月11日起，分析將無法提供。</li></ul>我們預計在4月底之前恢復位置擴展功能。 一旦我們確定受影響者 [!UICONTROL 廣告見解] 模組也可以恢復，我們將發送包含估計日期的更新。 |
+| [!UICONTROL 產品組合] | （3月12日發佈）預設情況下，混合優化在市場活動層可用。 您現在可以選擇在廣告群組層級啟用混合最佳化，藉以讓最佳化功能在廣告目標群組層級設定 [!DNL Google] CPA 或 ROAS 目標，達到更精確的效能控制。<br>使用任何專案組合時，您必須在啟動專案組合前允許一段學習期間，以確保其有足夠的模式涵蓋範圍。同樣地，如果您將混合專案組合從行銷活動層級變更為廣告群組曾集最佳化，則請將專案組合設為約兩週的作用中狀態。這可確保最佳化功能有時間學習包含的廣告群組並產生目標。<br>若要支援廣告群組最佳化，自訂模擬現在可以依廣告群組包含結果。請在使用廣告群組層級最佳化啟動混合專案組合前，使用廣告群組層級結果執行自訂模擬。 |
+| [!UICONTROL 產品組合] <br> [!UICONTROL 行銷活動] | (匹配12發行；Beta功能 [!DNL Microsoft® Advertising] 市場活動) — 您現在可以配置搜索市場活動以使用 [!UICONTROL 最大化轉換] 投標策略，並可選地設定每次按一下的最大成本。<br>如果您已參加其他自動競標策略的混合最佳化 Beta 版，您則會自動存取 [!UICONTROL Maximize Conversions] 策略，而且您還可以隨著 [!UICONTROL Maximize Conversions] 策略將行銷活動加入混合專案組合中。若要在混合專案組合中使用此策略，您必須啟用上傳 Advertising Cloud Search 目標至 [!DNL Microsoft® Ads]。如果您尚未參加 Beta 版並想要加入，請聯絡您的 [!DNL Adobe] 客戶經理。 |
+| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | (3月12日釋放； [!DNL Microsoft® Advertising] 市場活動) — 您現在可以使用 [!DNL Microsoft® Advertising] 除市場受眾之外的受眾是競選級別的目標或 [!UICONTROL 組]-level目標。 您之前僅可作為[!UICONTROL 廣告群組]層級目標使用。 |
+| Campaign [!UICONTROL Audiences] | (3月12日釋放；Beta功能 [!DNL Microsoft® Advertising] 符合條件的帳戶 [!UICONTROL 客戶匹配])現在，您可以通過上傳包含電子郵件地址的CSV檔案來建立和管理客戶匹配的受眾。 資料必須使用 SHA-256 演算法進行雜湊處理。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
