@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
+source-git-commit: 29615ef50c01bd12445aaa3d492d4b746b795f0d
 workflow-type: tm+mt
-source-wordcount: '5956'
+source-wordcount: '5952'
 ht-degree: 91%
 
 ---
@@ -483,11 +483,11 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新時間： **2022年4月7日**
+上次更新時間： **2022年4月11日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 市場活動]<br><br>[!UICONTROL 廣告見解] | （4月7日） [!DNL Google Ads] 帳戶)Advertising Cloud Search正在轉換舊版API調用 [!DNL Google AdWords API] 至 [!DNL Google Ads API]。 移到新 [!DNL Google Ads API] 將確保現有功能的連續性，並允許訪問 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暫時不可用：<ul><li>位置擴展：<ul>位置擴展在 [!UICONTROL 擴展] 的子菜單。</li><li>無法建立擴展。</li><li>對位置進行篩選不起作用。</li></li></ul><li>[!UICONTROL 廣告見解]:的 [!UICONTROL 《印象》] 和 [!UICONTROL 查詢交叉匹配Beta] 4月11日起，分析將無法提供。</li></ul>我們預計在4月底之前恢復位置擴展功能。 一旦我們確定受影響者 [!UICONTROL 廣告見解] 模組也可以恢復，我們將發送包含估計日期的更新。 |
+| [!UICONTROL 市場活動]<br><br>[!UICONTROL 廣告見解] | (4月11日； [!DNL Google Ads] 帳戶)Advertising Cloud Search已轉換舊版API調用 [!DNL Google AdWords API] 至 [!DNL Google Ads API]。 移到新 [!DNL Google Ads API] 將確保現有功能的連續性，並允許訪問 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暫時不可用：<ul><li>位置擴展：<ul>位置擴展在 [!UICONTROL 擴展] 的子菜單。</li><li>無法建立擴展。</li><li>對位置進行篩選不起作用。</li></li></ul><li>[!UICONTROL 廣告見解]:的 [!UICONTROL 《印象》] 和 [!UICONTROL 查詢交叉匹配Beta] 分析不可用。</li></ul>我們預計在4月底之前恢復位置擴展功能。 一旦我們確定受影響者 [!UICONTROL 廣告見解] 模組也可以恢復，我們將發送包含估計日期的更新。 |
 | [!UICONTROL 產品組合] | （3月12日發佈）預設情況下，混合優化在市場活動層可用。 您現在可以選擇在廣告群組層級啟用混合最佳化，藉以讓最佳化功能在廣告目標群組層級設定 [!DNL Google] CPA 或 ROAS 目標，達到更精確的效能控制。<br>使用任何專案組合時，您必須在啟動專案組合前允許一段學習期間，以確保其有足夠的模式涵蓋範圍。同樣地，如果您將混合專案組合從行銷活動層級變更為廣告群組曾集最佳化，則請將專案組合設為約兩週的作用中狀態。這可確保最佳化功能有時間學習包含的廣告群組並產生目標。<br>若要支援廣告群組最佳化，自訂模擬現在可以依廣告群組包含結果。請在使用廣告群組層級最佳化啟動混合專案組合前，使用廣告群組層級結果執行自訂模擬。 |
 | [!UICONTROL 產品組合] <br> [!UICONTROL 行銷活動] | (匹配12發行；Beta功能 [!DNL Microsoft® Advertising] 市場活動) — 您現在可以配置搜索市場活動以使用 [!UICONTROL 最大化轉換] 投標策略，並可選地設定每次按一下的最大成本。<br>如果您已參加其他自動競標策略的混合最佳化 Beta 版，您則會自動存取 [!UICONTROL Maximize Conversions] 策略，而且您還可以隨著 [!UICONTROL Maximize Conversions] 策略將行銷活動加入混合專案組合中。若要在混合專案組合中使用此策略，您必須啟用上傳 Advertising Cloud Search 目標至 [!DNL Microsoft® Ads]。如果您尚未參加 Beta 版並想要加入，請聯絡您的 [!DNL Adobe] 客戶經理。 |
 | Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | (3月12日釋放； [!DNL Microsoft® Advertising] 市場活動) — 您現在可以使用 [!DNL Microsoft® Advertising] 除市場受眾之外的受眾是競選級別的目標或 [!UICONTROL 組]-level目標。 您之前僅可作為[!UICONTROL 廣告群組]層級目標使用。 |
