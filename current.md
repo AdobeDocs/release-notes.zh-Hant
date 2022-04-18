@@ -4,11 +4,11 @@ description: 了解  [!DNL Experience Cloud]  產品和服務的最新版本注�
 doc-type: release notes
 last-update: April 2022
 author: mfrei
-mini-toc-levels: 1
+mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3d9450a10069ac060d21d844c6d5cc6e8d7b9bad
+source-git-commit: 559fef013ec51e9c617f8e274089a50ee8498051
 workflow-type: tm+mt
-source-wordcount: '6115'
+source-wordcount: '6118'
 ht-degree: 42%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 42%
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 網路研討會 | 2022AEM年的Gems更新可用！ Gems是Adobe在Adobe Experience Manager的網路研討會，由Adobe專家提供技術深度潛水系列活動。 <br>有關最新的AEMGems，請參閱 [Adobe Experience Manager as a Cloud Service:《2021年回顧及2022年展望》](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 和 [使用無頭和App AEM Builder更快地構建站點](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en)。<br>經常訪問這些發行說明或訂閱 [Adobe優先順序產品更新](https://www.adobe.com/subscription/priority-product-update.html) 繼續參加寶石和AEM其他Experience League活動。 |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 網路研討會 | Adobe很激動地宣佈了 _經驗創造者 — Adobe Workfront的技能交流_。 <br>這次免費的三小時數字學習活動完全集中在Workfront。 你可以向最瞭解工作管理的專家和同行提出問題。 無論您是否為 Workfront 的新手或經驗豐富的專家，我們有為每個人備妥合適的內容。<br>**日期：** 4月13日，星期三，上午9點 — 中午12:00 [詳細資訊和註冊](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建議即使您無法參加，也應進行註冊，以確保您有權訪問按需錄制。 |
 | [Adobe Workfront系統管理軟體包：設計理想的用戶體驗](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 網路研討會 | 與Adobe Workfront公司客戶成功經理Mary Ann Erickson和Liberty Mutual Insurance公司創意運營分析師Steve Enos一起探討如何設計理想的用戶體驗。 <br>**日期：** 4月27日星期三。 時間：英國早上8:00點/下午4:00點。 <br>[詳細資訊和註冊](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hant) | 點播視頻 | [!DNL Developers Live] 會展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、文件服務和客戶體驗管理。查看主題演講，瞭解分析API、客戶端資料層、Adobe Developer開源項目等。 |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hant) | 點播視頻 | [!DNL Developers Live] 會展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、文件服務和客戶體驗管理。查看主題演講，瞭解分析API、客戶端資料層、Adobe開發人員開源項目等。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -350,8 +350,8 @@ Adobe Experience Manager 的 XML 文件是部署至 AEM 的應用程式。這是
 
 請參閱以下 Adobe Commerce 版本注意事項連結：
 
-* [Adobe Commerce 和 Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Adobe Commerce雲基礎架構](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Adobe Commerce和Magento Open Source2.4.x發行說明](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [雲套件發行說明](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### 新的 Adobe Commerce 資源 {#new-commerce}
 
