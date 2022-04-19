@@ -6,7 +6,7 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 559fef013ec51e9c617f8e274089a50ee8498051
+source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
 workflow-type: tm+mt
 source-wordcount: '6118'
 ht-degree: 42%
@@ -63,7 +63,7 @@ ht-degree: 42%
 | [從AEM頭到無頭（以及中間的一切）](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | 觀看主持人Danny Gordon和來賓Amol Anand、Sachin Mali和Sean Steimer在Adobe Experience Manager Sites實施的最常見情況的詳細細節。 <br>**日期：** 2022年4月21日早9點<br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
 | [我如何處理這些觀眾？](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience LeagueLIVE | 通過Audience Manager和即時CDP，讓受眾策略變得神秘。 主持人道格摩爾在這次Experience League現場直播活動中歡迎尼克坎穆索和傑基切瓦利耶。<br>**日期：** 2022年4月28日早9點<br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Campaign Classicv7和營銷v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060) | 問答咖啡 | 與Adobe Campaign社區的Scott Segrin、Eric Knee、David Loyd和Peter Mancuso -Adobe Campaign企業架構團隊一起參加現場問答。<br>**日期：** 2022年4月21日早8時<br>[詳細資訊和註冊](https://adobe.ly/3NB6kuG) |
-| [Adobe Target社區](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 問答咖啡 | Jim McTiernan回答了有關Adobe TargetRecommendations、AB Testing和Adobe Target社區MVT個性化的問題&#x200B;<br>**日期：** 2022年4月21日早8時<br>[詳細資訊和註冊](https://adobe.ly/3joCuvU%C2%A0) |
+| [Adobe Target社區](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 問答咖啡 | Jim McTiernan回答了有關Adobe TargetRecommendations、AB Testing和Adobe Target社區MVT個性化的問題&#x200B;<br>**日期：** 2022年4月27日早8時<br>[詳細資訊和註冊](https://adobe.ly/3joCuvU%C2%A0) |
 | [AEM和CIF框架](https://adobe.ly/3O0uXl5) | AEM Gems | 集AEM成和CIF框架，構建豐富而逼真的電子商務體驗&#x200B;<br>**日期：** 2022年4月27日上午8:00 PDT/下午5:00 CET/8:30 IST<br>[詳細資訊和註冊](https://adobe.ly/3O0uXl5) |
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 網路研討會 | 2022AEM年的Gems更新可用！ Gems是Adobe在Adobe Experience Manager的網路研討會，由Adobe專家提供技術深度潛水系列活動。 <br>有關最新的AEMGems，請參閱 [Adobe Experience Manager as a Cloud Service:《2021年回顧及2022年展望》](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 和 [使用無頭和App AEM Builder更快地構建站點](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en)。<br>經常訪問這些發行說明或訂閱 [Adobe優先順序產品更新](https://www.adobe.com/subscription/priority-product-update.html) 繼續參加寶石和AEM其他Experience League活動。 |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 網路研討會 | Adobe很激動地宣佈了 _經驗創造者 — Adobe Workfront的技能交流_。 <br>這次免費的三小時數字學習活動完全集中在Workfront。 你可以向最瞭解工作管理的專家和同行提出問題。 無論您是否為 Workfront 的新手或經驗豐富的專家，我們有為每個人備妥合適的內容。<br>**日期：** 4月13日，星期三，上午9點 — 中午12:00 [詳細資訊和註冊](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建議即使您無法參加，也應進行註冊，以確保您有權訪問按需錄制。 |
