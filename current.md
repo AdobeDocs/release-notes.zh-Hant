@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6118'
-ht-degree: 42%
+source-wordcount: '6428'
+ht-degree: 40%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 42%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。 請經常回來查看，持續了解 Experience League 最新消息。
 
-最新更新：**2022 年 4 月 18 日**
+最新更新：**2022 年 4 月 22 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -163,7 +163,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 發行日期：**2022 年 4 月 20 日**
 
-* [!DNL Streaming Media Analytics] [發行說明](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**新位置**)
+* [!DNL Streaming Media Analytics] [發行說明](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=zh-Hant)  (**新位置**)
 * [!DNL Streaming Media Analytics] [產品文檔和教程](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ### 新的Customer Journey Analytics教程和課程 {#tutorials-cja}
@@ -319,7 +319,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 * [Experience Manager Assets Dynamic Media 版本注意事項](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=zh-Hant)
 * [Experience Manager Brand Portal 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=zh-Hant)
 * [Experience Manager 桌面應用程式版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=zh-Hant)
-* [Experience Manager Dispatcher 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
+* [Experience Manager Dispatcher 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=zh-Hant)
 * [Adobe Primetime 版本注意事項](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=zh-Hant)
 * [Livefyre 版本注意事項](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=zh-Hant)
 
@@ -372,7 +372,7 @@ Adobe Experience Manager 的 XML 文件是部署至 AEM 的應用程式。這是
 上次更新日期: **2022 年 3 月 21 日**
 
 * 如需發行前版本資訊，請參閱 [Adobe Target 發行說明 (發行前)](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hant)。
-* 如需目前版本資訊，請參閱 [Adobe Target 發行說明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)。
+* 如需目前版本資訊，請參閱 [Adobe Target 發行說明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hant)。
 
 ## ![圖示](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
@@ -398,7 +398,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 * Adobe Campaign v8：[文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hant) - [發行說明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [實作指南](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hant)
 * Adobe Campaign Standard：[Campaign Standard 文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [做法影片](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant) - [發行規劃](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hant)
 * Adobe Campaign Classic：[Campaign Classic v7 文件](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [做法影片](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hant)
-* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)- [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hant) 做法影片
+* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant)- [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hant) 做法影片
 
 ## ![圖示](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新時間： **2022年4月11日**
+上次更新時間： **2022年4月22日** 4月23日的發行
 
 | 功能 | 說明 |
 | ------- | ----------- |
+| [!UICONTROL 受眾] | ([!DNL Microsoft Advertising] 符合客戶匹配條件的帳戶)所有用戶現在都可以通過上傳包含電子郵件地址的CSV檔案來建立和管理客戶匹配受眾。 資料必須使用 SHA-256 演算法進行雜湊處理。 |
+| [!UICONTROL 行銷活動] | 以下測試功能可供選擇的廣告商使用：<ul><li>([!DNL Microsoft Advertising] 帳戶)對現有本地廣告活動的同步、只讀可見性和報告（包括查看資料）支援 [!DNL Microsoft Audience Network]，包括 [!DNL Microsoft Audience Ads]。</li><li>([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 帳戶)能夠導入 [!DNL Google Ads] 市場活動和市場活動結構 [!DNL Microsoft Advertising] 從Advertising Cloud Search。</li></ul>如果您對任何一個測試版計畫感興趣，請與Adobe客戶經理聯繫。 |
+| [!UICONTROL 市場活動]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft Advertising] （市場活動）支援以下投標策略：<ul><li>（一般可用性） [!UICONTROL 最大化轉換]。 [!UICONTROL 目標CPA], [!UICONTROL 廣告支出目標退貨]:這些策略現在可供所有人使用。 您可以將這些競價策略添加到混合（但不是標準）投資組合中。</li><li>（Beta功能） [!UICONTROL 目標印象共用]:如果您正在參與混合優化測試，則可以使用此策略配置市場活動，並根據需要設定目標印象共用、目標廣告位置和每次按一下的最大成本。 注意：混合投資組合中尚不支援此選項，不能添加到標準投資組合中。</li><li>（Beta功能） [!UICONTROL 最大化點擊率]:如果您正在參與混合優化測試，則可以使用此策略配置市場活動，並可以選擇設定每次按一下的目標最大成本。 您可以將此策略的市場活動納入標準或混合投資組合。 要在混合投資組合中使用此策略，投資組合的目標必須僅包括 [!DNL Adobe] 屬性（度量），並且您必須啟用將Advertising Cloud Search目標上載到 [!DNL Microsoft Ads]。</li></ul>如果您尚未參與混合優化測試並想加入，請與 [!DNL Adobe] 客戶經理。 |
+| [!UICONTROL Advertising Insights] | 除非 [!UICONTROL 查詢交叉匹配] 和 [!UICONTROL 混合Portfolio設定就緒性] 現在已經超出貝塔了。 |
 | [!UICONTROL 市場活動]<br><br>[!UICONTROL 廣告見解] | (4月11日； [!DNL Google Ads] 帳戶)Advertising Cloud Search已轉換舊版API調用 [!DNL Google AdWords API] 至 [!DNL Google Ads API]。 移到新 [!DNL Google Ads API] 確保現有功能的連續性並允許訪問 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暫時不可用：<ul><li>位置擴展：<ul>位置擴展在 [!UICONTROL 擴展] 的子菜單。</li><li>無法建立擴展。</li><li>對位置進行篩選不起作用。</li></li></ul><li>[!UICONTROL 廣告見解]:的 [!UICONTROL 《印象》] 和 [!UICONTROL 查詢交叉匹配Beta] 分析不可用。</li></ul>我們預計在4月底之前恢復位置擴展功能。 一旦我們確定受影響者 [!UICONTROL 廣告見解] 模組也可以恢復，我們將發送包含估計日期的更新。 |
-| 與 Adobe Analytics 整合 | （4月7日）在Advertising Cloud發送給 [!DNL Analytics]，資料 [!DNL Google Ads] 和 [!DNL Microsoft® Advertising] 響應性搜索廣告(RSA)現在與 [!UICONTROL 響應廣告類型] &quot;[!UICONTROL 響應性搜索廣告]&quot; 以前，資料包括 [!UICONTROL 響應廣告類型] &quot;[!UICONTROL 響應文本廣告]&quot;<br><br>另外， [!UICONTROL 響應廣告標題] 現在有第一個標題和 [!UICONTROL 響應廣告說明] 填充了第一個說明。 |
+| 與 Adobe Analytics 整合 | （4月7日）在Advertising Cloud發送給 [!DNL Analytics]，資料 [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 響應性搜索廣告(RSA)被重新分類 [!UICONTROL 廣告類型] &quot;[!UICONTROL 響應性搜索廣告]當他們收到新的點擊時。 以前，資料包括 [!UICONTROL 廣告類型] &quot;[!UICONTROL 文本廣告]&quot; 不活動活動中的RSA將不會重新分類。<br><br>對於重新分類的RSA, [!UICONTROL 響應廣告標題] 現在有第一個標題和 [!UICONTROL 響應廣告說明] 填充了第一個說明。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
