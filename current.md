@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
+source-git-commit: cdf35cca137c192dfc32398565b693e4843b6418
 workflow-type: tm+mt
-source-wordcount: '6428'
-ht-degree: 94%
+source-wordcount: '6061'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。 請經常回來查看，持續了解 Experience League 最新消息。
 
-最新更新：**2022 年 4 月 22 日**
+上次更新日期：**2022 年 4 月 22 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -55,20 +55,16 @@ ht-degree: 94%
 
 若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！
 
-****
+**2022 年 5 月 11 日**&#x200B;更新
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
+| 活動 | 類型 | 說明 |
+| — | — | — |
+| [使用Journey Optimizer推送通知 — 如何輕鬆配置移動應用以推送](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | 瞭解與Adobe Journey Optimizer一起使用推送通知的常見使用案例，並深入瞭解如何配置由Adobe Experience Platform支援的推送應用的技術詳細資訊。 <br>**日期：** 2022年5月12日上午9:30<br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
+| [Adobe Target社區](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A Coffee Break | 加入Adobe Target產品團隊的Brent Kostak和Drew Burns ，他們將回答您的Adobe Target問題，包括共用受眾、Real-Time CDP、第一方資料、端到端個性化工作流等。<br>觀看最近 [即時個性化網路研討會](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) 並將後續問題提交專家 [斷咖啡線](https://adobe.ly/3MyiDHa) 在Adobe Target社區！<br>**日期：** 2022年5月25日早8時<br>[詳細資訊和註冊](https://adobe.ly/3MyiDHa) |
+| [Adobe [!DNL Developers Live]:商業](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | 按需視頻 | _Adobe Developers Live:商業2022_ 將擁有不同背景和獨特目的的開發商和經驗建築商聚集在一起，創造出令人難以置信的端到端體驗。 這一為期一天的虛擬會議具有重要的商務和開源開發人員更新、技術會議、社區網路機會等功能。 |
 | [Adobe Summit2022](https://business.adobe.com/summit/adobe-summit.html) | 按需會話 | 向Adobe執行官，瑞恩雷諾茲，羅莎琳德布魯爾，沃爾格林靴子聯盟公司首席執行官，耐克公司首席執行官約翰多納霍和蓋爾J學習。麥戈文，美國紅十字會首席執行官，他們分享客戶體驗是我們數字經濟的貨幣。<br>瀏覽 [按需會話](https://business.adobe.com/summit/2022/sessions.html) 2022年Adobe Summit。 |
-| [從AEM頭到無頭（以及中間的一切）](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | 觀看主持人Danny Gordon和來賓Amol Anand、Sachin Mali和Sean Steimer在Adobe Experience Manager Sites實施的最常見情況的詳細細節。 <br>**日期：** 2022年4月21日早9點<br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
-| [我如何處理這些觀眾？](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience LeagueLIVE | 通過Audience Manager和即時CDP，讓受眾策略變得神秘。 主持人道格摩爾在這次Experience League現場直播活動中歡迎尼克坎穆索和傑基切瓦利耶。<br>**日期：** 2022年4月28日早9點<br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe Campaign Classicv7和營銷v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060) | Q&amp;A Coffee Break | 與Adobe Campaign社區的Scott Segrin、Eric Knee、David Loyd和Peter Mancuso -Adobe Campaign企業架構團隊一起參加現場問答。<br>**日期：** 2022年4月21日早8時<br>[詳細資訊和註冊](https://adobe.ly/3NB6kuG) |
-| [Adobe Target社區](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 問答咖啡 | Jim McTiernan回答了有關Adobe TargetRecommendations、AB Testing和Adobe Target社區MVT個性化的問題&#x200B;<br>**日期：** 2022年4月27日早8時<br>[詳細資訊和註冊](https://adobe.ly/3joCuvU%C2%A0) |
-| [AEM和CIF框架](https://adobe.ly/3O0uXl5) | AEM Gems | 集AEM成和CIF框架，構建豐富而逼真的電子商務體驗&#x200B;<br>**日期：** 2022年4月27日上午8:00 PDT/下午5:00 CET/8:30 IST<br>[詳細資訊和註冊](https://adobe.ly/3O0uXl5) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 網路研討會 | 2022AEM年的Gems更新可用！ Gems是Adobe在Adobe Experience Manager的網路研討會，由Adobe專家提供技術深度潛水系列活動。 <br>有關最新的AEMGems，請參閱 [Adobe Experience Manager as a Cloud Service:《2021年回顧及2022年展望》](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 和 [使用無頭和App AEM Builder更快地構建站點](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en)。<br>經常訪問這些發行說明或訂閱 [Adobe優先順序產品更新](https://www.adobe.com/subscription/priority-product-update.html) 繼續參加寶石和AEM其他Experience League活動。 |
-| [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 網路研討會 | Adobe很激動地宣佈了 _經驗創造者 — Adobe Workfront的技能交流_。 <br>這次免費的三小時數字學習活動完全集中在Workfront。 你可以向最瞭解工作管理的專家和同行提出問題。 無論您是否為 Workfront 的新手或經驗豐富的專家，我們有為每個人備妥合適的內容。<br>**日期：** 4月13日，星期三，上午9點 — 中午12:00 [詳細資訊和註冊](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建議即使您無法參加，也應進行註冊，以確保您有權訪問按需錄制。 |
-| [Adobe Workfront系統管理軟體包：設計理想的用戶體驗](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 網路研討會 | 與Adobe Workfront公司客戶成功經理Mary Ann Erickson和Liberty Mutual Insurance公司創意運營分析師Steve Enos一起探討如何設計理想的用戶體驗。 <br>**日期：** 4月27日星期三。 時間：英國早上8:00點/下午4:00點。 <br>[詳細資訊和註冊](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hant) | 點播視頻 | [!DNL Developers Live] 會展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、文件服務和客戶體驗管理。View the keynote address, learn about Analytics APIs, client data layer, Adobe Developer open-source projects, and much more. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -84,7 +80,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 | 功能 | 說明 |
 | ------- |-------|
-| 自然語言搜索 | 通過統一搜索的單一介面即時獲得所有幫助問題的答案。 此功能始終可在Experience Platform和Journey Optimizer的每一頁上提供。 |
+| 自然語言搜尋 | 通過統一搜索的單一介面即時獲得所有幫助問題的答案。 此功能始終可在Experience Platform和Journey Optimizer的每一頁上提供。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -350,8 +346,8 @@ Adobe Experience Manager 的 XML 文件是部署至 AEM 的應用程式。這是
 
 請參閱以下 Adobe Commerce 版本注意事項連結：
 
-* [Adobe Commerce和Magento Open Source2.4.x發行說明](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [雲套件發行說明](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Adobe Commerce 和 Magento Open Source 2.4.x 發行說明](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite 發行說明](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### 新的 Adobe Commerce 資源 {#new-commerce}
 
@@ -422,7 +418,7 @@ With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-t
 | 2022 年 4 月 | [為行銷人員提供的行動裝置功能](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities.html) | 影片 | 瞭解 Adobe Journey Optimizer 為行銷人員提供的行動裝置功能。 |
 | 2022 年 4 月 | [建立個人化優惠方案](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-personalized-offers.html) | 影片 | 了解如何在 Offer Decisioning 中建立個人化優惠方案。個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。 |
 | 2022 年 4 月 | [建立標籤](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-tags.html?lang=en) | 影片 | 了解如何在 Offer Decisioning 中建立標籤。標籤是優惠方案的選用基礎元件，可用來組織優惠方案，並在動態集合中將優惠方案分組。 |
-| 2022 年 4 月 | [演示決策管理功能](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/demo-of-offer-decisioning.html?lang=en) | 影片 | Learn how brands can use the decision management capabilities to define and manage their offers, apply real-time customer data, and deliver the right experiences their customers expect. |
+| 2022 年 4 月 | [演示決策管理功能](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/demo-of-offer-decisioning.html?lang=en) | 影片 | 了解品牌如何使用決策管理功能來定義和管理他們的產品、套用即時客戶資料並提供客戶期望的正確體驗。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -500,16 +496,16 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新時間： **2022年4月22日** 4月23日的發行
+上次更新日期：**2022 年 4 月 22 日** (4 月 23 日版本)
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 受眾] | ([!DNL Microsoft Advertising] 符合客戶匹配條件的帳戶)所有用戶現在都可以通過上傳包含電子郵件地址的CSV檔案來建立和管理客戶匹配受眾。 資料必須使用 SHA-256 演算法進行雜湊處理。 |
-| [!UICONTROL 行銷活動] | 以下測試功能可供選擇的廣告商使用：<ul><li>([!DNL Microsoft Advertising] 帳戶)對現有本地廣告活動的同步、只讀可見性和報告（包括查看資料）支援 [!DNL Microsoft Audience Network]，包括 [!DNL Microsoft Audience Ads]。</li><li>([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 帳戶)能夠導入 [!DNL Google Ads] 市場活動和市場活動結構 [!DNL Microsoft Advertising] 從Advertising Cloud Search。</li></ul>如果您對任何一個測試版計畫感興趣，請與Adobe客戶經理聯繫。 |
-| [!UICONTROL 市場活動]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft Advertising] （市場活動）支援以下投標策略：<ul><li>（一般可用性） [!UICONTROL 最大化轉換]。 [!UICONTROL 目標CPA], [!UICONTROL 廣告支出目標退貨]:這些策略現在可供所有人使用。 您可以將這些競價策略添加到混合（但不是標準）投資組合中。</li><li>（Beta功能） [!UICONTROL 目標印象共用]:如果您正在參與混合優化測試，則可以使用此策略配置市場活動，並根據需要設定目標印象共用、目標廣告位置和每次按一下的最大成本。 注意：混合投資組合中尚不支援此選項，不能添加到標準投資組合中。</li><li>（Beta功能） [!UICONTROL 最大化點擊率]:如果您正在參與混合優化測試，則可以使用此策略配置市場活動，並可以選擇設定每次按一下的目標最大成本。 您可以將此策略的市場活動納入標準或混合投資組合。 要在混合投資組合中使用此策略，投資組合的目標必須僅包括 [!DNL Adobe] 屬性（度量），並且您必須啟用將Advertising Cloud Search目標上載到 [!DNL Microsoft Ads]。</li></ul>如果您尚未參與混合優化測試並想加入，請與 [!DNL Adobe] 客戶經理。 |
-| [!UICONTROL Advertising Insights] | 除非 [!UICONTROL 查詢交叉匹配] 和 [!UICONTROL 混合Portfolio設定就緒性] 現在已經超出貝塔了。 |
+| [!UICONTROL 受眾] | (符合客戶比對資格的 [!DNL Microsoft Advertising] 資格的帳戶) 所有用戶現在都可以上傳附有電子郵件地址的 CSV 檔案來建立和管理客戶比對受眾。資料必須使用 SHA-256 演算法進行雜湊處理。 |
+| [!UICONTROL 行銷活動] | 以下 Beta 版功能可供選擇加入的廣告商使用：<ul><li>([!DNL Microsoft Advertising] 帳戶) 為您在 [!DNL Microsoft Audience Network] 上的現有原生廣告宣傳動提供同步、唯讀可見度和報告 (包括瀏覽資料) 支援，其中也包括 [!DNL Microsoft Audience Ads]。</li><li>([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 帳戶) 能夠從 Advertising Cloud Search 將您的[!DNL Google Ads] 行銷活動和行銷活動結構匯入 [!DNL Microsoft Advertising]。</li></ul>如果您有意願加入 Beta 版計劃，請連絡您的 Adobe 客戶經理。 |
+| [!UICONTROL 行銷活動]<br><br>[!UICONTROL 組合] | ([!DNL Microsoft Advertising] 行銷活動) 支援適用於以下競標策略：<ul><li>(一般可用性) [!UICONTROL 盡量爭取轉換]、[!UICONTROL 目標 CPA] 和[!UICONTROL 目標廣告支出回報率]：這些策略現在可供所有人使用。您可以將具有這些競標策略的搜尋行銷活動新增到混合 (但不是標準) 組合中。</li><li>(Beta 版功能) [!UICONTROL 目標印象份額]：如果您正在參與混合最佳化 Beta 版，您可以使用此策略設定行銷活動，並可選擇設定目標印象份額、目標廣告位置和最高每次點按成本。警告：混合投資組合尚不支援此選項，因此無法將其新增到標準投資組合中。</li><li>(Beta 版功能) [!UICONTROL 最大化點按次數]：如果您正在參與混合最佳化 Beta 版，您可以使用此策略設定行銷活動，並可選擇設定目標最高每次點按成本。您可以在標準或混合投資組合中加入採用此策略的行銷活動。若要在混合組合中使用此策略，組合的目標必須僅包含 [!DNL Adobe] 屬性 (指標)，並且您必須啟用將 Advertising Cloud Search 目標上傳到 [!DNL Microsoft Ads]。</li></ul>如果您尚未參與混合最佳化 Beta 版並想加入，請連絡您的 [!DNL Adobe] 客戶經理。 |
+| [!UICONTROL 廣告洞見] | 除了[!UICONTROL 查詢交叉比對]和[!UICONTROL 混合投資組合設定準備]之外的所有洞見，現在都已完成測試。 |
 | [!UICONTROL 市場活動]<br><br>[!UICONTROL 廣告見解] | (4月11日； [!DNL Google Ads] 帳戶)Advertising Cloud Search已轉換舊版API調用 [!DNL Google AdWords API] 至 [!DNL Google Ads API]。 移到新 [!DNL Google Ads API] 確保現有功能的連續性並允許訪問 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暫時不可用：<ul><li>位置擴展：<ul>位置擴展在 [!UICONTROL 擴展] 的子菜單。</li><li>無法建立擴展。</li><li>對位置進行篩選不起作用。</li></li></ul><li>[!UICONTROL 廣告見解]:的 [!UICONTROL 《印象》] 和 [!UICONTROL 查詢交叉匹配Beta] 分析不可用。</li></ul>我們預計在4月底之前恢復位置擴展功能。 一旦我們確定受影響者 [!UICONTROL 廣告見解] 模組也可以恢復，我們將發送包含估計日期的更新。 |
-| 與 Adobe Analytics 整合 | （4月7日）在Advertising Cloud發送給 [!DNL Analytics]，資料 [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 響應性搜索廣告(RSA)被重新分類 [!UICONTROL 廣告類型] &quot;[!UICONTROL 響應性搜索廣告]當他們收到新的點擊時。 以前，資料包括 [!UICONTROL 廣告類型] &quot;[!UICONTROL 文本廣告]&quot; 不活動活動中的RSA將不會重新分類。<br><br>對於重新分類的RSA, [!UICONTROL 響應廣告標題] 現在有第一個標題和 [!UICONTROL 響應廣告說明] 填充了第一個說明。 |
+| 與 Adobe Analytics 整合 | (4 月 7 日) 在 Advertising Cloud 傳送到 [!DNL Analytics] 的資料摘要中，[!DNL Google Ads] 和 [!DNL Microsoft Advertising] 回應式搜尋廣告 (RSA) 的資料在收到新點擊時被重新分類為[!UICONTROL 廣告類型]「[!UICONTROL 回應式搜尋廣告]」。以前，資料包含在[!UICONTROL 廣告類型]「[!UICONTROL 文字廣告]」中。非作用中行銷活動中的 RSA 不會被重新分類。<br><br>對於重新分類的 RSA，[!UICONTROL 回應式廣告標題]現在有第一個標題，[!UICONTROL 回應式廣告描述]現在有第一個描述。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
