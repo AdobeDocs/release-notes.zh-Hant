@@ -25,7 +25,7 @@ ht-degree: 96%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。 請經常回來查看，持續了解 Experience League 最新消息。
 
-上次更新日期：**2022 年 4 月 22 日**
+上次更新日期：**2022 年 5 月 11 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
