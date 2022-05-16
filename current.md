@@ -6,10 +6,10 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 15310fdeb95016c4366dfed02076296fcc2a4734
+source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
 workflow-type: tm+mt
-source-wordcount: '4977'
-ht-degree: 52%
+source-wordcount: '4972'
+ht-degree: 51%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 52%
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
+* [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -317,16 +317,16 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 * [Dynamic Media Classic 說明首頁](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hant)
 * [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=zh-Hant#aem-as-a-cloud-service)
 
-## ![圖示](/assets/ec_appicon_24.png) 適用於 Adobe Experience Manager 的 XML 文件 {#xml-doc}
+## ![表徵圖](/assets/ec_appicon_24.png) Adobe Experience Manager嚮導 {#xml-doc}
 
-Adobe Experience Manager 的 XML 文件是部署至 AEM 的應用程式。這是一個功能強大、企業級元件內容管理解決方案 (CCMS)；此解決方案啟用 Adobe Experience Manager 的原生 DITA 支援、使 AEM 能夠處理以 DITA 為主的內容建立和傳遞。
+Experience Manager指南(以前稱為XML DocumentationExperience Manager指南)是部署到的應AEM用程式。 這是一個功能強大、企業級元件內容管理解決方案 (CCMS)；此解決方案啟用 Adobe Experience Manager 的原生 DITA 支援、使 AEM 能夠處理以 DITA 為主的內容建立和傳遞。
 
 了解更多關於 [AEM 的 XML 文件](https://www.adobe.com/tw/products/xml-documentation-for-experience-manager/features.html)。
 
 ### 其他資源
 
-* [適用於 Adobe Experience Manager 的 XML 文件](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=zh-Hant) - Experience League 上的教學課程。
-* [適用於 Adobe Experience Manager 的 XML 文件學習與支援](https://helpx.adobe.com/tw/support/xml-documentation-for-experience-manager.html) - 產品文件
+* [Experience Manager指南](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=zh-Hant) -Experience League教程
+* [Experience Manager指南學習和支援](https://helpx.adobe.com/tw/support/xml-documentation-for-experience-manager.html)  — 產品文檔
 
 ## ![圖示](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
