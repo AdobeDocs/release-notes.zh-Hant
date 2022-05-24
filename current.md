@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '4935'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 99%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。
 
-上次更新：**2022 年 5 月 14 日**
+上次更新：**2022 年 5 月 24 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ ht-degree: 99%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) （已更新） **5月24日**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ ht-degree: 99%
 
 若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！
 
-**2022 年 5 月 13 日**&#x200B;更新
+**2022 年 5 月 24 日**&#x200B;更新
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [Adobe Analytics - Experience Makers - 技能交流](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | 技能交流 | 參加我們這場完全聚焦於 Adobe Analytics 的免費三小時數位活動。即時向最了解工作區的專家和同業提出問題。<br>2022 年 5 月 18 日 1:30pm-4:30pm EST<br> [詳細資訊和報名](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign - 客戶成功網路研討會系列](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer：透過 Adobe Campaign 增強您的客戶歷程。 | 與 Streamotion 旗下 Kayo、Binge 和 Flash 品牌的 Engagement Operations 負責人 Anja Starun 一起參加這場 Peer2Peer 現場討論。直接從她聽取有關團隊使用 Adobe Campaign 建立個人化客戶歷程所實施的成功策略。<br>**日期：** 5 月 26 日下午 3 點 EST<br>[詳細資訊和報名](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [使用 Journey Optimizer 推送通知 - 如何輕鬆設定推送通知的行動應用程式](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | 了解使用 Adobe Journey Optimizer 推送通知的常見使用案例，並深入了解如何設定由 Adobe Experience Platform 支援的推送應用程式的技術詳細資訊。<br>**日期：** 2022 年 5 月 12 日上午 9:30 PDT<br>[時間表和過去的活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
 | [Adobe Target 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 問答休息時間 | 加入 Adobe Target 產品團隊的 Brent Kostak 和 Drew Burns，他們會回答 Adobe Target 相關問題，包括共用受眾、Real-Time CDP、第一方資料、端對端個人化工作流程等。<br>觀看最近的[即時個人化網路研討會](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)，並在 Adobe Target 社群[問答休息時間對話串](https://adobe.ly/3MyiDHa)上向專家提交後續問題！<br>**日期：** 2022 年 5 月 25 日上午 8 點 PDT<br>[詳細資訊和報名](https://adobe.ly/3MyiDHa) |
@@ -348,6 +347,8 @@ Experience Manager Guides (舊稱「適用於 Experience Manager 的 XML Documen
 Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法提供一對一訊息。您現在可以使用客戶習慣和偏好判斷其體驗，預測他們想要的東西。
 
 ### 最新 Campaign 產品版本
+
+**最新版本：** [Campaign Standard22.2版](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) （2022年6月）
 
 在 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant) 發行說明中進一步了解最新功能、改進與修正。
 
