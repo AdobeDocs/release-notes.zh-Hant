@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4935'
+source-wordcount: '4933'
 ht-degree: 99%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 ![橫幅](assets/experience-cloud-banner-3.png)
 
-身為 Experience Maker，您的成功之道始於 [Adobe Experience League](https://experienceleague.adobe.com/?lang=zh-Hant#home)。尋找廣大的操作說明文件庫、自我引導式教學課程、操作說明影片、所有等級和角色適用的課程、線上同業社群，以及需要時的專家支援。
+身為 Experience Maker，您的成功之道始於 [ Experience League](https://experienceleague.adobe.com/?lang=zh-Hant#home)。尋找廣大的操作說明文件庫、自我引導式教學課程、操作說明影片、所有等級和角色適用的課程、線上同業社群，以及需要時的專家支援。
 
 準備好開始使用了嗎？[進行 5 分鐘測驗並獲勝](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)！
 
@@ -49,7 +49,7 @@ ht-degree: 99%
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [數位體驗藍圖 - 教學課程](#blueprints)
 
-需要協助嗎？請造訪 [Adobe Experience League](https://experienceleague.adobe.com/#home)，了解產品和技術文件、Adobe 策畫的課程、教學課程影片、快速解答、社群見解，以及由講師授課的訓練課程。
+需要協助嗎？請造訪 [ Experience League](https://experienceleague.adobe.com/#home)，了解產品和技術文件、Adobe 策畫的課程、教學課程影片、快速解答、社群見解，以及由講師授課的訓練課程。
 
 ## ![圖示](/assets/experience-league.png) [!DNL Experience League] 活動 {#events}
 
