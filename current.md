@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
+source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
 workflow-type: tm+mt
-source-wordcount: '4933'
+source-wordcount: '4966'
 ht-degree: 99%
 
 ---
@@ -55,13 +55,14 @@ ht-degree: 99%
 
 若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！
 
-**2022 年 5 月 24 日**&#x200B;更新
+**2022 年 5 月 26 日**&#x200B;更新
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
+| [問問專家：Web SDK的基礎](https://www.youtube.com/watch?v=g0KajUfq-S4) | 網路研討會 | 瞭解和使用資料收集最佳做法。 <br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
 | [Adobe Campaign - 客戶成功網路研討會系列](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer：透過 Adobe Campaign 增強您的客戶歷程。 | 與 Streamotion 旗下 Kayo、Binge 和 Flash 品牌的 Engagement Operations 負責人 Anja Starun 一起參加這場 Peer2Peer 現場討論。直接從她聽取有關團隊使用 Adobe Campaign 建立個人化客戶歷程所實施的成功策略。<br>**日期：** 5 月 26 日下午 3 點 EST<br>[詳細資訊和報名](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
-| [使用 Journey Optimizer 推送通知 - 如何輕鬆設定推送通知的行動應用程式](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | 了解使用 Adobe Journey Optimizer 推送通知的常見使用案例，並深入了解如何設定由 Adobe Experience Platform 支援的推送應用程式的技術詳細資訊。<br>**日期：** 2022 年 5 月 12 日上午 9:30 PDT<br>[時間表和過去的活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
 | [Adobe Target 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 問答休息時間 | 加入 Adobe Target 產品團隊的 Brent Kostak 和 Drew Burns，他們會回答 Adobe Target 相關問題，包括共用受眾、Real-Time CDP、第一方資料、端對端個人化工作流程等。<br>觀看最近的[即時個人化網路研討會](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)，並在 Adobe Target 社群[問答休息時間對話串](https://adobe.ly/3MyiDHa)上向專家提交後續問題！<br>**日期：** 2022 年 5 月 25 日上午 8 點 PDT<br>[詳細資訊和報名](https://adobe.ly/3MyiDHa) |
+| [使用 Journey Optimizer 推送通知 - 如何輕鬆設定推送通知的行動應用程式](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | 了解使用 Adobe Journey Optimizer 推送通知的常見使用案例，並深入了解如何設定由 Adobe Experience Platform 支援的推送應用程式的技術詳細資訊。<br>**日期：** 2022 年 5 月 12 日上午 9:30 PDT<br>[時間表和過去的活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe [!DNL Developers Live]: Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=tw) | 隨選影片 | _Adobe Developers Live: Commerce 2022_ 匯集多元背景的開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚艷的端對端體驗。此單日虛擬會議提供重要的 Commerce 和 Open Source 開發人員更新、技術研討會、社群交流機會等。 |
 | [Marketo 技能交流](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=tw) | 隨選影片 | 了解 Marketo 藍圖的重要性以及如何避免規劃不周。在 2021 年 8 月 [!DNL Marketo] Marketo 技能交流 (現已上線到 Experience League 平台)，取得有關釋放方案會員自訂欄位潛力的建議、Marketo Engage 提示和技巧，以及更多。 |
 | [2022 年 Adobe Summit](https://business.adobe.com/summit/adobe-summit.html) | 隨選研討會 | 向 Adobe 高階主管 Ryan Reynolds、Walgreens Boots Alliance, Inc. 執行長 Rosalind Brewer、NIKE, Inc. 執行長 John Donahoe 以及美國紅十字會執行長 Gail J. McGovern 學習客戶體驗如何成為數位經濟的貨幣。<br>探索 2022 年 Adobe Summit 的[隨選研討會](https://business.adobe.com/summit/2022/sessions.html)。 |
