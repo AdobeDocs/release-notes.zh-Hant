@@ -6,10 +6,10 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4966'
-ht-degree: 99%
+source-wordcount: '5033'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 99%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。
 
-上次更新：**2022 年 5 月 24 日**
+上次更新：**2022 年 5 月 27 日**
 
-* [[!DNL Experience League] 活動](#events)
+* [[!DNL Experience League] 事件](#events) （已更新） **5月27日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央介面元件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ ht-degree: 99%
 
 若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！
 
-**2022 年 5 月 26 日**&#x200B;更新
+**2022 年 5 月 27 日**&#x200B;更新
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
+| [經驗創造者政府論壇](https://adobegovforum.govexec.com/agenda/) | 隨選影片 | 5月10日的第13屆年度AEMGF大獲成功，參加者包括虛擬和現場人員。 主要講習班和專題分會 _以人為本的數字型驗_。 包括的頂級會話 _獵手：我們是怎麼拿下巴勃羅·埃斯科巴的_。 _CX的未來_, _創造的黃金時代與現代工作場所_。 |
 | [問問專家：Web SDK的基礎](https://www.youtube.com/watch?v=g0KajUfq-S4) | 網路研討會 | 瞭解和使用資料收集最佳做法。 <br>[計畫和過去事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
 | [Adobe Campaign - 客戶成功網路研討會系列](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer：透過 Adobe Campaign 增強您的客戶歷程。 | 與 Streamotion 旗下 Kayo、Binge 和 Flash 品牌的 Engagement Operations 負責人 Anja Starun 一起參加這場 Peer2Peer 現場討論。直接從她聽取有關團隊使用 Adobe Campaign 建立個人化客戶歷程所實施的成功策略。<br>**日期：** 5 月 26 日下午 3 點 EST<br>[詳細資訊和報名](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 問答休息時間 | 加入 Adobe Target 產品團隊的 Brent Kostak 和 Drew Burns，他們會回答 Adobe Target 相關問題，包括共用受眾、Real-Time CDP、第一方資料、端對端個人化工作流程等。<br>觀看最近的[即時個人化網路研討會](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)，並在 Adobe Target 社群[問答休息時間對話串](https://adobe.ly/3MyiDHa)上向專家提交後續問題！<br>**日期：** 2022 年 5 月 25 日上午 8 點 PDT<br>[詳細資訊和報名](https://adobe.ly/3MyiDHa) |
