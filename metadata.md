@@ -3,7 +3,7 @@ cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.zh-Hant
+git-repo: https://github.com/AdobeDocs/release-notes.zh-Hant
 index: true
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
