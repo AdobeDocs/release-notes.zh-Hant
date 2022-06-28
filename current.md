@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4696'
-ht-degree: 98%
+source-wordcount: '4816'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 98%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。
 
-上次更新日期：**2022 年 6 月 12 日**
+上次更新日期：**2022 年 6 月 28 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ ht-degree: 98%
 
 [若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！](https://experienceleague.adobe.com/events/?lang=en)
 
-更新日期：**2022 年 6 月 10 日**
+更新日期：**2022 年 6 月 28 日**
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
+| [利用深度資料智慧提升個性化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客戶成功網路研討會 | 與我們的Adobe專家一起瞭解Adobe Analytics的高級功能如何讓您的組織中的分析師和營銷人員能夠加快深入的資料分析，並及時提供洞見，從而跨渠道、瞬間和購買階段為更個性化的客戶體驗提供動力。<br>**日期：** 7月6日東部標準時間下午3點 —  [詳細資訊和註冊](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target — 成功的技巧](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe體驗製作商 | 瞭解Adobe Target的核心概念和能力，使其test、個性化，並認識到AI的力量，它將您的品牌體驗從通用到天才。<br>**日期：** 6月30日、7月1日 —  [詳細資訊和註冊](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe Campaign、Journey Optimizer - [跨管道挑戰：大規模個人化](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | 虛擬活動 | 聽取 451 Research 研究總監 Sheryl Kingstone 解說如何跟上變化腳步、使用行銷技術做為關鍵賦能者，並變得更加資料驅動。我們還將重溫 Adobe Summit 2022 大會上所分享的重要會議和技巧，讓您了解有關如何跨管道大規模推動個人化的專家意見。<br>**日期：** 6 月 14 日 - [詳細資訊和報名](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [深入了解 - Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems - 虛擬活動 | 探索去年發佈的新功能、幕後開發的最新情況，並展望 2022 年下半年。<br>**日期：** 6 月 15 日 - [詳細資訊和報名](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [如何建立信任並傳播影響以擴展您的數位策略](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | 大師圓桌會議 | 與我們一起進行獨家密切的對話，會議中將討論如何有效地傳達數位策略的影響。<br>**日期：** 6 月 21 日 - [詳細資訊和報名](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
