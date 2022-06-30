@@ -6,7 +6,7 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
+source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
 ht-degree: 95%
@@ -60,9 +60,9 @@ ht-degree: 95%
 | [利用深度資料智慧提升個性化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客戶成功網路研討會 | 與我們的Adobe專家一起瞭解Adobe Analytics的高級功能如何讓您的組織中的分析師和營銷人員能夠加快深入的資料分析，並及時提供洞見，從而跨渠道、瞬間和購買階段為更個性化的客戶體驗提供動力。<br>**日期：** 7月6日東部標準時間下午3點 —  [詳細資訊和註冊](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target — 成功的技巧](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe體驗製作商 | 瞭解Adobe Target的核心概念和能力，使其test、個性化，並認識到AI的力量，它將您的品牌體驗從通用到天才。<br>**日期：** 6月30日、7月1日 —  [詳細資訊和註冊](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League上保持更新。
-
 {style=&quot;table-layout:auto&quot;}
+
+請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League上保持更新。
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
