@@ -60,7 +60,7 @@ ht-degree: 100%
 | [利用深度資料智慧提升個人化程度](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客戶成功網路研討會 | 加入我們的 Adobe 專家，了解 Adobe Analytics 中的進階功能將如何讓您組織中的分析師和行銷人員加速深入資料分析並及時收集見解，從而跨管道、時刻和購買階段提供更個人化的客戶體驗。<br>**日期：** 7 月 6 日下午 3 點 AEST - [詳細資訊和報名](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target - 提升技能邁向成功](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | 了解 Adobe Target 的核心概念和功能，以測試、個人化和認識 AI 的力量，將平凡的品牌體驗轉變為精采時刻。<br>**日期：** 6 月 30 日和 7 月 1 日 - [詳細資訊和報名](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)以了解最新資訊。
 
@@ -80,7 +80,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 | ------- | ------- |
 | 整合首頁 - 快速存取 Widget | **更快速瀏覽：**&#x200B;現在，您可以進一步個人化首頁體驗，並決定哪些應用程式是觸手可及的。使用新的釘選功能來選取哪些應用程式出現在[!UICONTROL 快速存取]工具中。<br>**透過智慧釘選保持資訊靈通：**&#x200B;您的新應用程式現在更容易找到。新指派的應用程式顯示&#x200B;_新_&#x200B;徽章，並自動釘選到[!UICONTROL 快速存取]。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 **更多有關 [!DNL Experience Cloud Central UI Components] 與管理的說明資源**
 
@@ -107,7 +107,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 | 2022 年 6 月 | [管理員適用的 Real-time CDP 快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2022.1.rtcdp) | 課程 | 了解啟動和執行 [!DNL Real-time Customer Data Platform] 所需的管理任務簡介。了解使用者管理以及如何與其他合作夥伴和系統建立連線。 | [!DNL Real-time CDP] |
 | 2022 年 6 月 | [監視區段啟用的成功與否](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/monitoring-the-success-of-segment-activation.html?lang=tw) | 影片 | 了解監視區段流向目標的兩種主要方法。在向啟用合作夥伴傳送區段設定檔時，必須查看有關此資料傳輸成功與否的資訊，特別是為了解決問題。 | [!DNL Real-time CDP] |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ### [!DNL Adobe Mobile] SDK
 
@@ -136,7 +136,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 6 月 | [匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/docs/courses/using/analytics-a-1-2022-1-democratizing.html?lang=tw) | 課程 | 了解 Adobe Analytics 支援實現數位資料民主化的功能。資料民主化是消除瓶頸並使組織中的關鍵人員能夠輕鬆處理資料，以便根據資料做出明智決策的過程。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ## ![圖示](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
@@ -158,7 +158,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 | 2022 年 6 月 | [建立行動計分卡](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html) | 影片 | 了解如何為高階主管使用者設定和顯示儀表板。 |
 | 2022 年 6 月 | [連線的建立和編輯體驗](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-connections-creation-and-edit-experience.html) | 影片 | 了解如何啟用滾動資料保留時間窗口、根據事件時間戳記啟用及請求回填資料，以及根據資料集匯入現有的資料。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ## ![圖示](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
@@ -175,7 +175,7 @@ Audience Manager 中的修正與改善：
 | -----------| ---------- |  
 | 屬於其他公司的目標資料來源的驗證器 | Audience Manager 已發佈[批次資料上線流程](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hant)的改善。為了防止檔案和資料意外上線至其他合作夥伴擁有的目標資料來源，Audience Manager 以在合作夥伴 ID (PID) 與其他合作夥伴擁有的資料來源 (DPID) 之間新增對應需求。 <ul><li>另請參閱[輸入資料檔案的 Amazon S3 名稱和檔案大小需求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=zh-Hant#name-elements)中的 __DPID_TARGET_DATA_OWNER_ 欄位。</li><li>如需新的對應需求改善和如何請求新對應的詳細資訊，Adobe 內部顧問和客戶服務應閱讀[管理第二方資料的上線存取](https://experienceleague.adobe.com/docs/audience-manager-admin/admin-guide/companies/admin-manage-onboarding-access.html?lang=zh-Hant)</li><li>_不_&#x200B;一定要請求現有資料共用關係的對應。將資料上線至屬於您的 PID 的目標資料來源時，也&#x200B;_不_&#x200B;一定需要對應。</li></ul> |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 如需自助資源，請參閱 Experience League 上的 [Audience Manager 文件與教學課程](https://experienceleague.adobe.com/docs/audience-manager.html?lang=zh-Hant)。
 
@@ -262,7 +262,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 | 2022 年 6 月 | [SAML 2.0 驗證](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/authentication/saml-2-0.html) | 影片 | 了解如何使用所選 SAML 2.0 相容的 IDP 來設定並驗證終端使用者 (而非 AEM 作者)。 | AEM CS |
 | 2022 年 6 月 | [上下文感知雲端設定](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/context-aware-fdm.html?lang=tw) | 影片 | 了解如何在 AEM Forms Cloud Service 中定義上下文感知的雲端設定。 | AEM Forms |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ### Experience Manager 版本資訊
 
@@ -320,7 +320,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 | 2022 年 6 月 | [MBI 假日整備](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/holiday-readiness.html?lang=tw) | 影片 | 了解常見的季節性分析使用案例和方法，以使用關鍵 MBI 功能予以處理。 |
 | 2022 年 6 月 | [MBI - 詢問專家](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/ask-expert.html?lang=tw) | 影片 | 在這兩部分網路研討會中，了解客戶對 Business Intelligence 的評價。透過 Business Intelligence 了解業務轉型、使用通用表格運算式進行 SQL 最佳化以及其他更多功能。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ## ![圖示](/assets/target.png) [!DNL Adobe Target] {#target}
 
@@ -335,7 +335,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 6 月 | [連結文字](https://experienceleague.adobe.com/?recommended=Target-D-1-2021.1) | 課程 | 了解如何在網站上實施 Adobe Target。從管理主題開始，包括要求和使用者權限，然後介紹實施方法、考量和最佳實務。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ## ![圖示](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
@@ -361,7 +361,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 | 2022 年 6 月 | [為標準 SMPP 提供者設定 SMS 帳戶](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=tw) | 影片 | 了解如何使用 Adobe Campaign 設定 SMPP 帳戶、如何分析 SMS 傳遞結果，以及根據 SMPP 提供者規格來自訂 SR 處理。 | Campaign v8、Campaign Classic v7 |
 | 2022 年 6 月 | [根據 SMPP 提供者規格調整 SMS 連接器](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html) | 影片 | 了解如何根據 SMPP 提供者規格調整 SMS 連接器。微調 SMS 設定以處理連線限制、設定最大輸送量、傳送窗口期，以及使用 TLS 的加密。 | Campaign v8、Campaign Classic v7、Campaign Standard |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ### Campaign 說明資源
 
@@ -437,7 +437,7 @@ Last updated: **October 27, 2021**
 | ------- | ----------- |
 | 自訂報告 | (Beta 功能) Advertising Cloud DSP 現在可以擷取第一方區段 (由客戶資料平台 (CDP) 內建立的已驗證訊號所組成)。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
@@ -447,7 +447,7 @@ Last updated: **October 27, 2021**
 | ------- | ----------- |
 | [!UICONTROL Insights] | 「錯失的曝光比重」分析現在再次成為 Beta 功能。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 ## ![圖示](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
@@ -459,7 +459,7 @@ Last updated: **October 27, 2021**
 | 2022 年 6 月 | [設定事件通知和警報通知](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-shared-events-and-alert.html?lang=tw) | 影片 | 了解可在 Acrobat Sign 設定的共用事件和警報設定。警報是在特定時間範圍內未發生的動作，事件則是已發生的動作。 |
 | 2022 年 6 月 | [進階帳戶共用](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/advanced-account-sharing.html?lang=tw) | 影片 | 了解如何設定進階帳戶共用 - 允許管理員和使用者委派其傳送、修改和檢視權限。 |
 
-{style=&quot;table-layout:auto&quot;&quot;
+{style="table-layout:auto"}
 
 如需 Document Cloud 說明，請參閱：
 
