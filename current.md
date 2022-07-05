@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -51,18 +51,18 @@ ht-degree: 95%
 
 ## ![圖示](/assets/experience-league.png) [!DNL Experience League] 活動 {#events}
 
-[若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！](https://experienceleague.adobe.com/events/?lang=en)
+若想學習、互動和了解 Adobe 產品專家的答案，[Experience League 活動](https://experienceleague.adobe.com/events/?lang=en)會是個好選擇！
 
 更新日期：**2022 年 6 月 28 日**
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [利用深度資料智慧提升個性化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客戶成功網路研討會 | 與我們的Adobe專家一起瞭解Adobe Analytics的高級功能如何讓您的組織中的分析師和營銷人員能夠加快深入的資料分析，並及時提供洞見，從而跨渠道、瞬間和購買階段為更個性化的客戶體驗提供動力。<br>**日期：** 7月6日東部標準時間下午3點 —  [詳細資訊和註冊](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
-| [Adobe Target — 成功的技巧](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe體驗製作商 | 瞭解Adobe Target的核心概念和能力，使其test、個性化，並認識到AI的力量，它將您的品牌體驗從通用到天才。<br>**日期：** 6月30日、7月1日 —  [詳細資訊和註冊](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
+| [利用深度資料智慧提升個人化程度](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客戶成功網路研討會 | 加入我們的 Adobe 專家，了解 Adobe Analytics 中的進階功能將如何讓您組織中的分析師和行銷人員加速深入資料分析並及時收集見解，從而跨管道、時刻和購買階段提供更個人化的客戶體驗。<br>**日期：** 7 月 6 日下午 3 點 AEST - [詳細資訊和報名](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target - 提升技能邁向成功](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | 了解 Adobe Target 的核心概念和功能，以測試、個人化和認識 AI 的力量，將平凡的品牌體驗轉變為精采時刻。<br>**日期：** 6 月 30 日和 7 月 1 日 - [詳細資訊和報名](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
 {style=&quot;table-layout:auto&quot;}
 
-請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League上保持更新。
+請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)以了解最新資訊。
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -343,10 +343,10 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 ### 最新 Campaign 產品版本
 
-* 新建 [市場活動8.3版](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
-* 新建 [Campaign Standard22.2版](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant)
-* 新建 [控制面板可能會釋放](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
-* 新建 [教程和課程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) Experience League
+* 最新 [Campaign v8.3 版本](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* 最新 [Campaign Standard 22.2 版本](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* 最新 [Control Panel 五月版本](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
+* Experience League 上的最新[教學課程與其他課程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign)
 
 ### 新 [!DNL Campaign] 教學課程和其他課程 {#tutorials-campaign}
 
@@ -368,7 +368,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 * Adobe Campaign v8：[文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [實作指南](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hant)
 * Adobe Campaign Standard：[Campaign Standard 文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant) - [發行規劃](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hant)
 * Adobe Campaign Classic：[Campaign Classic v7 文件](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hant)
-* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)- [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hant) 操作說明影片
+* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant)- [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hant) 操作說明影片
 
 ## ![圖示](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
