@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42023ff20f7b6811a608b640866abb9f6d7ccc18
+source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
 workflow-type: tm+mt
 source-wordcount: '5268'
 ht-degree: 51%
@@ -304,10 +304,10 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 | 2022 年 7 月 | [頁面生成器使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | 產品文件 | 瞭解頁面生成器功能，包括用於構建基本內容元件的三部分步驟。 本指南適用於管理員。 它假定對核心Adobe Commerce配置和功能有基本的瞭解。 |
 | 2022 年 7 月 | [Adobe Commerce指南B2B](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | 管理指南 | 獲取有關安裝和啟用此模組的詳細資訊，包括配置和管理其功能。 |
 | 2022 年 7 月 | [Adobe CommerceB2B — 教程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | 影片 (多個) | 瞭解 [!UICONTROL 公司] Adobe Commerce。 您可以管理公司帳戶，任何待批准的請求都會顯示在清單的頂部。 |
-| 2022 年 7 月 | [使用質量修補工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 類型 | 瞭解 [!UICONTROL 質量修補工具]它是一個命令行工具，可為Adobe Commerce和Magento Open Source提供高質量補丁。 |
+| 2022 年 7 月 | [使用質量修補工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 影片 | 瞭解 [!UICONTROL 質量修補工具]它是一個命令行工具，可為Adobe Commerce和Magento Open Source提供高質量補丁。 |
 | 2022 年 7 月 | [站點範圍分析工具控制板](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | 影片 | 瞭解「站點範圍分析工具」。 此功能是主動的自助工具和中央儲存庫，包括詳細的系統見解和建議，可確保Adobe Commerce安裝的安全性和可操作性。 |
 | 2022 年 7 月 | [使用付款服務](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | 影片 | 瞭解如何使用 [!UICONTROL 付款服務] 減少運營開銷，增加收入。 |
-| 2022 年 7 月 | [管理訂單狀態](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 類型 | 瞭解如何檢查訂單狀態及其詳細資訊，以及如何根據需要更改訂單的狀態。 |
+| 2022 年 7 月 | [管理訂單狀態](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 影片 | 瞭解如何檢查訂單狀態及其詳細資訊，以及如何根據需要更改訂單的狀態。 |
 | 2022 年 7 月 | [營銷工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | 影片 (多個) | 瞭解有關建立目錄價格規則、購物車價格規則、管理相關產品規則、即時搜索等的資訊。 |
 | 2022 年 7 月 | [在內容個性化方面的創新，可提供業務價值](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | 影片 | 查看技能構建器演示文稿，瞭解Adobe內容解決方案中的最新創新，這些創新可幫助您將內容創作民主化、使全渠道交付變得簡單易行，並擴展個性化。 |
 | 2022 年 7 月 | [目錄管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | 影片 | 瞭解Adobe Commerce的目錄管理。 建立類別、管理類別中的產品、管理庫存等。 |
