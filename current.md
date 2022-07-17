@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
+source-git-commit: 609676006717d61512be133a65bfac44a15c8651
 workflow-type: tm+mt
-source-wordcount: '5268'
+source-wordcount: '5262'
 ht-degree: 51%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 51%
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日太平洋標準時間上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[即將到來和過去的事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
+| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日太平洋標準時間上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
-請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)以了解最新資訊。
+請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League繼續更新即將發生的事件和過去的事件。
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -316,7 +316,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 ## ![圖示](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新：**2022 年 6 月 7 日**
+上次更新：**2022 年 6 月 30 日**
 
 * 如需搶鮮版資訊，請參閱 [Adobe Target 搶鮮版](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hant)。
 * 如需目前版本資訊，請參閱 [Adobe Target 版本注意事項](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hant)。
