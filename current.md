@@ -316,7 +316,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 ## ![圖示](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新：**2022 年 6 月 30 日**
+上次更新：**2022 年 6 月 7 日**
 
 * 如需搶鮮版資訊，請參閱 [Adobe Target 搶鮮版](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hant)。
 * 如需目前版本資訊，請參閱 [Adobe Target 版本注意事項](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hant)。
