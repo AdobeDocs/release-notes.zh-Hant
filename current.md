@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
+source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
 workflow-type: tm+mt
 source-wordcount: '5268'
 ht-degree: 51%
@@ -53,11 +53,11 @@ ht-degree: 51%
 
 若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League2022年7月更新。
 
-已更新 **2022年7月14日**
+已更新 **2022年7月17日**
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日太平洋標準時間晚9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[即將到來和過去的事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
+| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日太平洋標準時間上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[即將到來和過去的事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hant) |
 
 {style=&quot;table-layout:auto&quot;}
 
