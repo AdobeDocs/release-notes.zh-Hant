@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
+source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -57,7 +57,7 @@ ht-degree: 51%
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日太平洋標準時間上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
