@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
+source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
 workflow-type: tm+mt
-source-wordcount: '5571'
+source-wordcount: '5574'
 ht-degree: 49%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 49%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。
 
-最近更新日期：**2022 年 7 月 18 日**
+最近更新日期：**2022 年 7 月 19 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,8 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 ### 預配更新
 
+已更新： **2022年7月19日**
+
 >[!IMPORTANT]
 >
 >請查看以下有關Experience Cloud設定的通知。
@@ -115,7 +117,7 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 * [訪客 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [隱私](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant)
 
-發行日期: **2022 年 7 月 11 日**
+功能更新： **2022年7月11日**
 
 | 功能 | 說明 |
 | ------- | ------- |
