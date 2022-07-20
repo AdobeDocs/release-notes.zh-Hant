@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 49%
 
 ---
@@ -75,8 +75,6 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 ### 預配更新
 
-已更新： **2022年7月19日**
-
 >[!IMPORTANT]
 >
 >請查看以下有關Experience Cloud設定的通知。
@@ -85,9 +83,11 @@ Adobe正在更新其資源調配，以便讓所有Experience Cloud客戶都能�
 
 Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://experienceleague.adobe.com/docs/tags.html?lang=en) 簡化的通用標籤管理，並提供可信、強健且完整的流資料基礎架構。 標籤簡化了客戶體驗資料收集並簡化了體驗交付。
 
-使用此更新，管理員可能會看到對Admin Console的更改或添加：
+**Admin Console**
 
-1. Admin Console中的Adobe Experience Platform產品卡包括：
+管理員可以查看對Admin Console的更改或添加，如下所示：
+
+* Admin Console中的Adobe Experience Platform產品卡包括：
 
    * 地方
    * 保證
@@ -102,7 +102,7 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 
    對於當前使用Experience Platform的組織， _位置_ 現在將合併到Experience Platform卡中。
 
-1. Adobe Experience Platform資料收集（以前稱為Launch）和Privacy將繼續顯示為與其他Experience Platform功能分開的產品卡。
+* Adobe Experience Platform資料收集（以前稱為Launch）和Privacy將繼續顯示為與其他Experience Platform功能分開的產品卡。
 
 有關新功能的更多詳細資訊，請訪問他們各自的Experience League:
 
