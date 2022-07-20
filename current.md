@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '5571'
+ht-degree: 49%
 
 ---
 
@@ -72,6 +72,48 @@ ht-degree: 51%
 ## ![圖示](/assets/ec_appicon_24.png) Experience Cloud - 中央介面元件和管理 {#ecloud}
 
 Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=zh-Hant)包含首頁上可用的功能和永續性產品標題。這些功能包含使用者基本資料設定、偏好設定和搜尋。您也可以找到使用者和產品管理、客戶屬性以及 Experience Cloud Audiences 的說明。
+
+### 預配更新
+
+>[!IMPORTANT]
+>
+>請查看以下有關Experience Cloud設定的通知。
+
+Adobe正在更新其資源調配，以便讓所有Experience Cloud客戶都能夠訪問基礎性功能，從而幫助某些Experience Cloud產品之間的互操作性。 用戶將將Adobe Experience Platform作為新權利添加到其Experience Cloud組織， [!UICONTROL 資料收集] 作為附帶服務。
+
+Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://experienceleague.adobe.com/docs/tags.html?lang=en) 簡化的通用標籤管理，並提供可信、強健且完整的流資料基礎架構。 標籤簡化了客戶體驗資料收集並簡化了體驗交付。
+
+使用此更新，管理員可能會看到對Admin Console的更改或添加：
+
+1. Admin Console中的Adobe Experience Platform產品卡包括：
+
+   * 地方
+   * 保證
+   * 身分識別命名空間
+   * 沙箱
+   * 體驗資料模型
+   * 方案
+   * 資料串流
+   * 訪客 ID
+
+   對於當前未使用Experience Platform的組織，您現在將看到 _Adobe Experience Platform_ Admin Console中的產品，包括上面列出的功能。
+
+   對於當前使用Experience Platform的組織， _位置_ 現在將合併到Experience Platform卡中。
+
+1. Adobe Experience Platform資料收集（以前稱為Launch）和Privacy將繼續顯示為與其他Experience Platform功能分開的產品卡。
+
+有關新功能的更多詳細資訊，請訪問他們各自的Experience League:
+
+* [資料收集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [地方](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)
+* [保證](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [身分識別命名空間](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=zh-Hant)
+* [沙盒](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hant)
+* [體驗資料模型](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hant)
+* [方案](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* [資料串流](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [訪客 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [隱私](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant)
 
 發行日期: **2022 年 7 月 11 日**
 
