@@ -6,14 +6,14 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
+source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
 workflow-type: tm+mt
-source-wordcount: '5577'
-ht-degree: 49%
+source-wordcount: '5575'
+ht-degree: 94%
 
 ---
 
-# Adobe Experience Cloud 發行說明 - 2022 年 7 月
+# Adobe Experience Cloud 版本注意事項 - 2022 年 7 月
 
 ![橫幅](assets/experience-cloud-banner-3.png)
 
@@ -51,17 +51,17 @@ ht-degree: 49%
 
 ## ![圖示](/assets/experience-league.png) [!DNL Experience League] 活動 {#events}
 
-若想學習、互動和了解 Adobe 產品專家的答案，Experience League 活動會是個好選擇！請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League2022年7月更新。
+若要向 Adobe 產品專家學習、與之互動或獲得解答，Experience League 活動是您絕佳的選擇！請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)，以掌握 2022 年 7 月活動的最新消息。
 
-已更新 **2022年7月17日**
+更新日期：**2022 年 7 月 17 日**
 
 | 活動 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [問問專家：資料流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於Adobe Experience Cloud資料收集的三期會議的最後一部分，我們的專家將更深入地瞭解Adobe的高級資料收集功能，包括資料收集的資料準備等功能。 在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [詢問專家：資料串流和資料準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在關於 Adobe Experience Cloud 資料彙集的三場會議的最後一場中，我們的專家將深入探討 Adobe 的進階資料彙集功能，包括資料彙集的資料準備等功能。在本次會議結束時，與會者將對從數字型驗中收集資料的最新和最強大的功能充滿信心&#x200B;<br>**日期：** 7月21日上午9點 —  [詳細資訊](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
-請參閱 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League繼續更新即將發生的事件和過去的事件。
+請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)，以掌握即將舉辦的活動和過去集數的最新消息。
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -108,7 +108,7 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 
 * [資料收集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
 * [地方](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)
-* [保證](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [保證](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
 * [身分識別命名空間](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=zh-Hant)
 * [沙盒](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hant)
 * [體驗資料模型](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hant)
@@ -149,11 +149,11 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 7 月 | [監視事件轉發](https://experienceleague.adobe.com/docs/platform-learn/data-collection/event-forwarding/monitor.html) | 影片 | 瞭解如何在資料收集介面中監視事件轉發。 | 資料彙集 |
-| 2022 年 7 月 | [監視資料攝取](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/monitoring-dashboard.html) | 影片 | 瞭解如何使用監控儀表板監視和跟蹤被攝入Adobe Experience Platform的資料。 | 資料彙集 |
-| 2022 年 7 月 | [將示例資料導入Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=zh-Hant) | 文章 | 瞭解如何設定包含示例資料的Experience Platform沙盒環境。 使用Postman集合，可以建立欄位組、架構、資料集，然後將示例資料導入Experience Platform。 | Experience Platform |
-| 2022 年 7 月 | [段匹配接收資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-receiving-data.html) | 影片 | 使用段匹配，您的戰略合作夥伴可以將資料共用給您。 在此視頻中，瞭解如何批准和接收資料，以及在何處可以查看資料並將其添加到您自己的資料段中。 | Experience Platform — 段 |
-| 2022 年 7 月 | [問問專家：Real-Time CDP連接](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-06-23-22.html?lang=en) | Experience LeagueLIVE視頻 | 在有關資料收集的三個即時流會話的第二個會議中，我們最喜愛的專家對AdobeRTCDP進行了全面的介紹 [!UICONTROL 連接]，其中客戶可以使用伺服器端標籤管理系統將事件轉發到非Adobe目標。 | 資料彙集 |
+| 2022 年 7 月 | [監視事件轉送](https://experienceleague.adobe.com/docs/platform-learn/data-collection/event-forwarding/monitor.html) | 影片 | 了解如何在資料彙集介面中監視事件轉送。 | 資料彙集 |
+| 2022 年 7 月 | [監視資料內嵌](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/monitoring-dashboard.html) | 影片 | 了解如何使用監視儀表板來監視和追蹤內嵌到 Adobe Experience Platform 中的資料。 | 資料彙集 |
+| 2022 年 7 月 | [將範例資料匯入 Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | 文章 | 了解如何設定包含範例資料的 Experience Platform 沙箱環境。您可以使用 Postman 集合來建立欄位群組、結構描述、資料集，然後將範例資料匯入 Experience Platform。 | Experience Platform |
+| 2022 年 7 月 | [區段比對接收資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-receiving-data.html) | 影片 | 透過區段比對，您的策略合作夥伴就可以將資料分享給您。在此影片中，了解如何核准及接收資料，以及在何處可查看資料並將其新增到您自己的區段中。 | Experience Platform - 區段 |
+| 2022 年 7 月 | [詢問專家：Real-Time CDP Connections](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-06-23-22.html?lang=en) | Experience League LIVE 影片 | 在關於資料彙集的三場直播會議的第二場中，我們喜愛的專家將全面審視 Adobe RTCDP [!UICONTROL Connections]，客戶可以在其中使用伺服器端標記管理系統將事件轉送到非 Adobe 目的地。 | 資料彙集 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -163,9 +163,9 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 
 ## ![圖示](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-下一版： **2022年7月20日**
+下次發行日期：**2022 年 7 月 20 日**
 
-上次更新： **2022年7月13日**
+上次更新日期：**2022 年 7 月 13 日**
 
 * Adobe Analytics [版本注意事項](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hant)
 * Adobe Analytics [產品文件與教學課程](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
@@ -182,7 +182,7 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 7 月 | [2022 流量改善](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-improvements.html) | 影片 | 瞭解對 [!UICONTROL 流] 可視化。 改善包括可設定您感興趣的開始路徑或結束路徑，可篩選欄以包含或排除特定項目，以及可預先設定的進階設定。 |
+| 2022 年 7 月 | [2022 流量改善](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-improvements.html) | 影片 | 了解[!UICONTROL 流量]視覺效果的一些重要改善。改善包括可設定您感興趣的開始路徑或結束路徑，可篩選欄以包含或排除特定項目，以及可預先設定的進階設定。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -200,8 +200,8 @@ Adobe Experience Platform [!UICONTROL 資料收集] 包括 [標籤](https://expe
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 7 月 | [設定下一個和上一個項目面板](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/configure-next-previous-item-panel.html) | 影片 | 了解如何在 [!DNL Customer Journey Analytics] 設定下一個和上一個項目面板。 此面板會產生表格和視覺化效果以識別特定維度值的下一個或上一個項目。 |
-| 2022 年 7 月 | [建立附註](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/annotations/create-an-annotation.html?lang=en) | 影片 | 學習在中建立注釋 [!DNL Customer Journey Analytics] 當活動啟動、資料問題和假日等事件發生時進行項目。 此功能會通知您的使用者這些日期或日期範圍內的指標差異。 |
-| 2022 年 7 月 | [建立快速篩選](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter.html) | 影片 | 直接在您的 [!DNL Customer Journey Analytics] 專案中建立快速篩選，迴避完整篩選產生器的複雜性。 |
+| 2022 年 7 月 | [建立附註](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/annotations/create-an-annotation.html?lang=en) | 影片 | 了解如何在事件 (行銷活動啟動、資料問題和假期等) 發生時，在您的 [!DNL Customer Journey Analytics] 專案中建立附註。此功能會通知您的使用者這些日期或日期範圍上的量度變動。 |
+| 2022 年 7 月 | [建立快速篩選](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter.html) | 影片 | 直接在您的 [!DNL Customer Journey Analytics] 專案中建立快速篩選，略過完整篩選產生器的複雜性。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -230,13 +230,13 @@ Experience Manager 中的新功能、修正及更新。Adobe 建議使用內部�
 
 Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hant)頁面，以掌握最新的版本資訊。
 
-### 產品更新視頻
+### 產品更新影片
 
-* [2022年6月發佈概述視頻](https://video.tv.adobe.com/v/344308/?quality=12) 2022.6版摘要。
+* [2022 年 6 月版總覽影片](https://video.tv.adobe.com/v/344308/?quality=12)，了解 2022.6 版的摘要。
 
-舊產品更新視頻：
+較舊產品更新影片：
 
-* [2022年5月發佈概述視頻](https://video.tv.adobe.com/v/343321/?quality=12) 2022.5.0（2022年5月）版中添加的功能摘要。
+* [2022 年 5 月版總覽影片](https://video.tv.adobe.com/v/343321/?quality=12)，了解 2022.5.0 (2022 年 5 月) 版中新增功能的摘要。
 * [2022 年 4 月版本總覽影片](https://video.tv.adobe.com/v/342612?quality=12)
 * [2022年3月發佈概述視頻](https://video.tv.adobe.com/v/341465)
 * [2022年1月發佈概述視頻](https://video.tv.adobe.com/v/340120)
@@ -244,41 +244,41 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 * [2021年10月發佈概述視頻](https://video.tv.adobe.com/v/338253)
 * [2021年9月發佈概述視頻](https://video.tv.adobe.com/v/337381)
 
-### Experience Manager [!DNL Sites] 作為 [!DNL Cloud Service]
+### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
-中的新功能 [!DNL Sites]:
+[!DNL Sites] 中的新功能：
 
-* A [新用戶介面](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) 現在，內容管理員和內容作者可以高效地管理（執行諸如發佈、取消發佈、複製和移動等操作）、搜索/篩選，以及為無頭使用案例建立內容片段。
+* 現在，內容管理員和內容作者可以使用[新的使用者介面](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en)來有效地管理 (執行發佈、取消發佈、複製和移動等動作)、搜尋/篩選，以及為無頭式使用案例建立內容片段。
 
-* 新 [目錄元件](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=en) 不僅與 [!UICONTROL 核心元件] 但是，對於所有元件，會自動在內容頁上呈現目錄。 而且，由於它由調度程式呈現並完全快取，因此載入也非常高效。
+* 新的[目錄元件](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=en)不僅適用於[!UICONTROL 核心元件]，也適用於所有元件，可自動在內容頁面上呈現目錄。而且，由於它是在伺服器端呈現並由 Dispatcher 完全快取，因此載入也相當有效率。
 
 ### Experience Manager [!DNL Assets] 作為 [!DNL Cloud Service]
 
-中的新功能 [!DNL Assets]:
+[!DNL Assets] 中的新功能：
 
-* Experience Manager [!DNL Assets] 使用Adobe SenseiAI功能 [區分影像中的顏色，並在攝取時自動將這些顏色作為標籤應用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=tw)。 這些標記基於影像顏色合成，支援增強的搜尋體驗。您可以配置標籤到影像的顏色數量，以便以後可以根據這些顏色搜索影像。
+* Experience Manager [!DNL Assets] 現在會使用 Adobe Sensei AI 功能來[區分影像中的顏色，並在內嵌時自動將這些差異套用為標記](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en)。這些標記會根據影像顏色組合來增強搜尋體驗。您可以設定標記到影像的顏色數量 (範圍在 1 到 40 之間)，以便日後可以根據這些顏色搜尋影像。
 
 ### Experience Manager Forms as a Cloud Service
 
-中的新功能 [!DNL Forms]:
+[!DNL Forms] 中的新功能：
 
-* [整合 [!UICONTROL 自適應Forms] 使用Microsoft®電源自動化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en):您現在可以配置自適應表單，在提交時運行Microsoft® Power自動化雲流。 設定的最適化表單會將擷取的資料、附件和記錄文件傳送到 Power Automate 雲端流程進行處理。它有助於建立自訂資料擷取體驗，同時利用 Microsoft® Power Automate 的強大功能，圍繞擷取的資料建立商業邏輯，並自動化客戶工作流程。
+* [整合[!UICONTROL 最適化表單]與 Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en)：您現在可以設定自適應表單，在提交時執行 Microsoft® Power Automate Cloud Flow。設定的最適化表單會將擷取的資料、附件和記錄文件傳送到 Power Automate Cloud Flow 進行處理。它有助於建立自訂資料擷取體驗，同時利用 Microsoft® Power Automate 的強大功能，圍繞擷取的資料建立商業邏輯，並自動化客戶工作流程。
 
-**建立自適應表單的嚮導：** 您可以使用業務用戶友好嚮導快速編寫 [!UICONTROL 自適應Forms]。 精靈提供快速索引標籤導覽，以輕鬆選取用於建立最適化表單的預先設定的範本、樣式、欄位和提交選項。
+**用於建立最適化表單的精靈**：您可以使用業務使用者友善的精靈來快速編寫[!UICONTROL 最適化表單]。精靈提供快速的標籤導覽，以便輕鬆選取用於建立最適化表單的預先設定範本、樣式、欄位和提交選項。
 
 ### Experience Manager as a Cloud Service 基礎
 
-新增功能:
+新增功能：
 
-如5月(2022.5.0)發行說明中所述，已刪除複製代理管理螢幕「分發」頁籤下的「添加樹」選項。 應改用管理發佈或發佈內容樹狀工作流程，來複寫有樹狀階層內容的套件。
+如 5 月 (2022.5.0) 版本注意事項中所述，複寫代理程式管理畫面的「分配」標籤下的「新增樹狀結構」選項已遭到移除。應改用「管理發佈」或「發佈內容樹狀結構」工作流程，來複寫具有樹狀階層內容的套件。
 
 ### [!DNL Cloud Manager]
 
 新增功能：
 
-* [!DNL Cloud Manager] 用戶現在可以從 [!UICONTROL 歡迎] 登錄頁上的卡。
+* [!DNL Cloud Manager] 使用者現在隨時可以從登陸頁面上的「[!UICONTROL 歡迎]」卡中，存取實用的影片教學課程。
 
-* 上的跨距 [還原內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en) 「環境詳細資訊」頁的頁籤現在顯示一個方便的git命令清單，允許用戶在本地查看更改。
+* 環境詳細資料頁面的「[復原內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en)」標籤上的彈出視窗，現在會顯示一個方便的 git 命令清單，讓使用者可以在本機檢視變更。
 
 ### 最新 Experience Manager 課程與教學課程 {#tutorials-aem}
 
@@ -286,13 +286,13 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 7 月 | [充分利用企業工作流管理](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en) | 影片 | 瞭解使用工作流進行資產管理的好處以及如何快速建立工作流。 | AEM — 體驗工作流管理 |
-| 2022 年 7 月 | [提供無頭體驗與Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en) | 影片 | 使用最新Experience Manager瞭解無頭體驗管理 [!UICONTROL 內容片段] 增強功能和新的GraphQL API，用於無頭內容交付。 | Experience Manager [!DNL Sites] |
-| 2022 年 7 月 | [使元資料在Adobe Experience Manager資產中適合您的業務](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en) | 影片 | 瞭解如何通過減少標籤資產的工作量和使資產更可搜索來充分利用AEM Assets的元資料。 | Experience Manager [!DNL Assets] |
-| 2022 年 7 月 | [iOS應用](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html) | 影片 | 示例應用是探索Adobe Experience Manager無頭功能的絕佳方法。 此iOS應用程式演示了如何使用 [!UICONTROL GraphQL API] 使用永續查詢。 | Experience Manager [!DNL Assets], [!DNL Sites] |
-| 2022 年 7 月 | [Android™應用](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html) | 影片 | 此Android™應用程式演示了如何使用 [!UICONTROL GraphQL API] 中AEM。 | Experience Manager [!DNL Assets]。 [!DNL Sites] |
-| 2022 年 7 月 | [為Adobe Experience Manager as a Cloud Service配置OSGi](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en) | 影片 | 瞭解如何為CS配置OSGIAEM。 例如，瞭解OSGi捆綁包的管理，以及通過代碼項目的一部分配置檔案管理OSGi元件的配AEM置設定。 | AEM as a Cloud Service |
-| 2022 年 7 月 | [覆蓋表單資料模型屬性](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en) | 影片 | 瞭解如何覆蓋表單資料模型屬性，以便更輕鬆地針對不同端點test一個表單資料模型。 | AEM [!DNL Forms] |
+| 2022 年 7 月 | [充分利用企業工作流程管理](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en) | 影片 | 了解使用工作流程進行資產管理的好處，以及如何快速建立它們。 | AEM - 體驗工作流程管理 |
+| 2022 年 7 月 | [使用 Adobe Experience Manager 提供無頭式體驗](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en) | 影片 | 了解使用最新 Experience Manager [!UICONTROL 內容片段]增強功能的無頭式體驗管理，以及用於無頭式內容提供的新 GraphQL API。 | Experience Manager [!DNL Sites] |
+| 2022 年 7 月 | [在 Adobe Experience Manager Assets 中讓中繼資料可供您的企業使用](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en) | 影片 | 了解如何透過減少標記資產的工作量以及使您的資產更易於搜尋，以充分利用 AEM Assets 的中繼資料。 | Experience Manager [!DNL Assets] |
+| 2022 年 7 月 | [iOS 應用程式](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html) | 影片 | 範例應用程式是探索 Adobe Experience Manager 無頭式功能的絕佳方法。此 iOS 應用程式示範了如何使用 AEM 的 [!UICONTROL GraphQL API] 透過持久查詢來查詢內容。 | Experience Manager [!DNL Assets]、[!DNL Sites] |
+| 2022 年 7 月 | [Android™ 應用程式](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html) | 影片 | 此 Android™ 應用程式示範了如何使用 AEM 的 [!UICONTROL GraphQL API] 來查詢內容。 | Experience Manager [!DNL Assets]、[!DNL Sites] |
+| 2022 年 7 月 | [設定 Adobe Experience Manager as a Cloud Service 的 OSGi](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en) | 影片 | 了解如何設定 AEM CS 的 OSGI。例如，了解 OSGi 套件組合的管理，以及透過 AEM 程式碼專案一部分的設定檔案來管理 OSGi 元件的組態設定。 | AEM as a Cloud Service |
+| 2022 年 7 月 | [覆寫表單資料模型屬性](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en) | 影片 | 了解如何覆寫表單資料模型屬性，以便更輕鬆地針對不同端點測試一個表單資料模型。 | AEM [!DNL Forms] |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -300,9 +300,9 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 所有 Experience Manager 的版本注意事項都會保留在以下頁面：
 
-* [Experience Manager as a Cloud Service 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
+* [Experience Manager as a Cloud Service 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Experience Manager Cloud Manager 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=en)
-* [Automated Forms Conversion Service 版本注意事項](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hant)
+* [Automated Forms Conversion Service 版本注意事項](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Service Pack 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant)
 * [Experience Manager 6.4 Cumulative Fix Pack 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hant)
 * [Experience Manager Assets Dynamic Media 版本注意事項](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=zh-Hant)
@@ -326,7 +326,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 ## ![圖示](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
-[!DNL Experience Manager Guides] 是部署到的應AEM用程式 這是一個功能強大、企業級元件內容管理解決方案 (CCMS)；此解決方案啟用 Adobe Experience Manager 的原生 DITA 支援，使 AEM 能夠處理以 DITA 為主的內容建立和傳遞。
+[!DNL Experience Manager Guides] 是部署至 AEM 的應用程式。這是一個功能強大、企業級元件內容管理解決方案 (CCMS)；此解決方案啟用 Adobe Experience Manager 的原生 DITA 支援，使 AEM 能夠處理以 DITA 為主的內容建立和傳遞。
 
 進一步了解 [[!DNL Experience Manager Guides]](https://www.adobe.com/tw/products/xml-documentation-for-experience-manager/features.html)。
 
@@ -346,23 +346,23 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 7 月 | [Adobe Commerce入門指南](https://experienceleague.adobe.com/docs/commerce-admin/start/guide-overview.html) | 產品文件 | 一本指南，面向對Adobe Commerce和Magento Open Source不熟悉的商家和系統管理員。 從平台的角度獲得平台概述，並獲得有關啟用功能儲存的基本功能的一些詳細資訊。 |
-| 2022 年 7 月 | [頁面生成器使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | 產品文件 | 瞭解頁面生成器功能，包括用於構建基本內容元件的三部分步驟。 本指南適用於管理員。 它假定對核心Adobe Commerce配置和功能有基本的瞭解。 |
-| 2022 年 7 月 | [Adobe Commerce指南B2B](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | 管理指南 | 獲取有關安裝和啟用此模組的詳細資訊，包括配置和管理其功能。 |
-| 2022 年 7 月 | [Adobe CommerceB2B — 教程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | 影片 (多個) | 瞭解 [!UICONTROL 公司] Adobe Commerce。 您可以管理公司帳戶，任何待批准的請求都會顯示在清單的頂部。 |
-| 2022 年 7 月 | [使用質量修補工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 影片 | 瞭解 [!UICONTROL 質量修補工具]它是一個命令行工具，可為Adobe Commerce和Magento Open Source提供高質量補丁。 |
-| 2022 年 7 月 | [站點範圍分析工具控制板](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | 影片 | 瞭解「站點範圍分析工具」。 此功能是主動的自助工具和中央儲存庫，包括詳細的系統見解和建議，可確保Adobe Commerce安裝的安全性和可操作性。 |
-| 2022 年 7 月 | [使用付款服務](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | 影片 | 瞭解如何使用 [!UICONTROL 付款服務] 減少運營開銷，增加收入。 |
-| 2022 年 7 月 | [管理訂單狀態](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 影片 | 瞭解如何檢查訂單狀態及其詳細資訊，以及如何根據需要更改訂單的狀態。 |
-| 2022 年 7 月 | [營銷工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | 影片 (多個) | 瞭解有關建立目錄價格規則、購物車價格規則、管理相關產品規則、即時搜索等的資訊。 |
-| 2022 年 7 月 | [在內容個性化方面的創新，可提供業務價值](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | 影片 | 查看技能構建器演示文稿，瞭解Adobe內容解決方案中的最新創新，這些創新可幫助您將內容創作民主化、使全渠道交付變得簡單易行，並擴展個性化。 |
-| 2022 年 7 月 | [目錄管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | 影片 | 瞭解Adobe Commerce的目錄管理。 建立類別、管理類別中的產品、管理庫存等。 |
+| 2022 年 7 月 | [Adobe Commerce 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/guide-overview.html) | 產品文件 | 專為不熟悉 Adobe Commerce 和 Magento Open Source 的商家和系統管理員提供的手冊。從他們的角度了解平台的概況，以及有關啟用機能商店的基本功能的一些詳細資訊。 |
+| 2022 年 7 月 | [頁面產生器使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | 產品文件 | 了解頁面產生器功能，包括用於建立基本內容元件的三部分逐步解說。本手冊適用於管理員。它假定您對核心 Adobe Commerce 設定和功能有基本的了解。 |
+| 2022 年 7 月 | [Adobe Commerce 的 B2B 指南](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | 管理指南 | 取得有關安裝和啟用此模組的詳細資訊，包括其功能的設定和管理。 |
+| 2022 年 7 月 | [Adobe Commerce 的 B2B - 教學課程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | 影片 (多個) | 了解 Adobe Commerce 中的「[!UICONTROL 公司]」頁面。您可以管理您的公司帳戶，任何待核准的請求都會顯示在清單的頂端。 |
+| 2022 年 7 月 | [使用品質修補工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 影片 | 了解[!UICONTROL 品質修補工具]，這是一個命令列工具，可為 Adobe Commerce 和 Magento Open Source 提供高品質的修補程式。 |
+| 2022 年 7 月 | [全網站分析工具儀表板](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | 影片 | 了解全網站分析工具。此功能是主動式自助服務工具和中央存放庫，其中包含詳細的系統分析和建議，以確保您的 Adobe Commerce 安裝的安全性和可操作性。 |
+| 2022 年 7 月 | [使用支付服務](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | 影片 | 了解如何使用[!UICONTROL 支付服務]來減少營運開銷並增加收入。 |
+| 2022 年 7 月 | [管理訂單狀態](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 影片 | 了解如何檢查訂單狀態及其詳細資料，以及如何根據需要變更訂單的狀態。 |
+| 2022 年 7 月 | [行銷工具](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | 影片 (多個) | 了解有關建立目錄價格規則、購物車價格規則、管理相關產品規則、即時搜尋等的資訊。 |
+| 2022 年 7 月 | [提供商業價值的內容個人化創新](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | 影片 | 檢視 Skill Builder 簡報，並了解 Adobe 內容解決方案的最新創新，協助您實現內容製作的大眾化、使全管道交付變得輕而易舉，並擴大個人化規模。 |
+| 2022 年 7 月 | [目錄管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | 影片 | 了解 Adobe Commerce 中的目錄管理。建立類別、管理類別中的產品、管理詳細目錄等。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
 ## ![圖示](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新：**2022 年 6 月 30 日**
+上次更新日期：**2022 年 6 月 30 日**
 
 * 如需搶鮮版資訊，請參閱 [Adobe Target 搶鮮版](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hant)。
 * 如需目前版本資訊，請參閱 [Adobe Target 版本注意事項](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hant)。
@@ -371,8 +371,8 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 7 月 | [建立對象](https://experienceleague.adobe.com/docs/target-learn/tutorials/audiences/create-audiences.html) | 影片 | 學習在中建立和保存自定義受眾 [!DNL Target] 在活動中使用。 |
-| 2022 年 7 月 | [利用Adobe Target實現個性化和自動化](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html?lang=en) | 影片 | 瞭解使用Windows實現Adobe Target功能自動化和優化的核心概念 [!UICONTROL 自動目標] 和 [!UICONTROL 自動個性化]。 |
+| 2022 年 7 月 | [建立對象](https://experienceleague.adobe.com/docs/target-learn/tutorials/audiences/create-audiences.html) | 影片 | 了解在 [!DNL Target] 中建立和儲存自訂對象，以便在您的活動中使用。 |
+| 2022 年 7 月 | [使用 Adobe Target 實現個人化和自動化](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html?lang=en) | 影片 | 了解使用 [!UICONTROL Auto Target] 和 [!UICONTROL Auto Personalization] 自動化和最佳化 Adobe Target 功能的核心概念。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -382,9 +382,9 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 ### 最新 Campaign 產品版本
 
-* [市場活動v7.3版](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* [控制面板6月版](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-* [教程和課程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) Experience League
+* [Campaign v7.3 版](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [控制面板 6 月版](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* Experience League 上的[教學課程與其他課程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign)
 
 ### 新 [!DNL Campaign] 教學課程和其他課程 {#tutorials-campaign}
 
@@ -392,20 +392,20 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 7 月 | [混合託管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html) | 影片 | 瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板並解鎖主要功能。 | 控制面板 |
-| 2022 年 7 月 | [監視吞吐量和延遲](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant) | 影片 | 瞭解如何監控促銷活動實例的傳遞直通資訊和事務性消息延遲。 | 控制面板 |
-| 2022 年 7 月 | [監視工作流以優化資源使用](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hant) | 影片 | 瞭解如何監視工作流的臨時儲存使用情況以及配置工作流設定以避免實例上出現資料庫或工作流問題的位置。 | 控制面板 |
-| 2022 年 7 月 | [在Adobe Campaign Classic開發和定制資料模型](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en) | 視頻（技能生成器事件） | 與我們的「活動」培訓員一起參加此會議，瞭解如何在Campaign Classic內的資料模型內開發資料模式。 | Campaign Classic v7 |
-| 2022 年 7 月 | [提供可帶來結果的最佳做法和策略](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html) | 影片 | 瞭解如何最大限度地減少在規劃和製作您的電子郵件活動中花費的無數時間。 | Campaign ClassicV7 |
-| 2022 年 7 月 | [與Adobe Campaign Classic加強跨渠道營銷](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en) | 影片 | 觀看此深入的網路研討會，重點介紹Adobe Campaign Classic客戶的工作流、自動化、個性化和測量。 | Campaign ClassicV7 |
-| 2022 年 7 月 | [節省專業人員的提示！](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en) | 影片 | 從Adobe Campaign職業棒球員的小竅門開始新年！ 瞭解如何通過建立和啟動活動來提高效率，以及如何提供更有意義和量身定製的跨渠道體驗。 | Campaign ClassicV7 |
-| 2022 年 7 月 | [Adobe Campaign與營銷生態系統的整合](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en) | 影片 | 瞭解Adobe Campaign與營銷生態系統的整合。 像Adobe Campaign這樣的跨渠道營銷解決方案不應孤立於其他技術或團隊。 不要讓不同的系統妨礙對客戶的完全瞭解並干擾跨渠道策略。 | Campaign ClassicV7 |
-| 2022 年 7 月 | [Adobe Campaign Standard客戶聚光燈 — Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en) | 影片 | 聽聽Microsoft®的營銷團隊介紹他們如何使用Adobe Campaign Standard、其體系結構和指導原則以及最佳實踐。 | Campaign Standard |
-| 2022 年 7 月 | [Adobe Campaign客戶聚光燈 — 中心合作夥伴](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en) | 影片 | 傾聽Adobe Campaign客戶分享他們如何克服挑戰、適應新常態、提高營銷活動管理效率以及通過Adobe Campaign推動有意義的價值。 | Campaign ClassicV7 |
-| 2022 年 7 月 | [Adobe Campaign ClassicV7與V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en) | 影片 | 瞭解最新的產品更新，瞭解我們的產品經理對V7和V8的區別。 | Campaign Classicv7，營銷v8 |
-| 2022 年 7 月 | [主題 — 跨B2B和B2C的客戶旅程趨勢和創新](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en) | 影片 | 瞭解跨B2B和B2C的客戶行程管理的最新趨勢。 查看關鍵行程應用程式以及更廣的Adobe Experience Cloud和平台方面的最新創新。 | Marketo,Campaign Classicv7，營銷v8 |
-| 2022 年 7 月 | [Adobe Campaign Standard的頂級技巧和技巧](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=en) | 影片 | 插入您的Adobe Campaign Standard實例，並發現針對性、個性化和市場營銷疲勞方面的最佳實踐，以便更好地使用ACS。 | Campaign Standard |
-| 2022 年 7 月 | [支援跨渠道營銷所需的團隊、技能和組織設計](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/team-skills-org-design.html) | 影片 | 學習如何讓員工能夠隨時隨地地參與進來。 瞭解擁有支援規劃、執行和衡量的營銷組織的重要性。 | Campaign Classicv7，活動v8,Campaign Standard |
+| 2022 年 7 月 | [混合託管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html) | 影片 | 了解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板，並解鎖主要功能。 | 控制面板 |
+| 2022 年 7 月 | [監視輸送量和延遲](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html) | 影片 | 了解如何監視您的行銷活動執行個體的傳遞輸送量和異動訊息延遲。 | 控制面板 |
+| 2022 年 7 月 | [監視工作流程以最佳化資源使用](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html) | 影片 | 了解如何監視工作流程的臨時儲存使用情況，以及設定工作流程設定的位置，以避免執行個體上出現資料庫或工作流程問題。 | 控制面板 |
+| 2022 年 7 月 | [在 Adobe Campaign Classic 中開發和自訂資料模型](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en) | 影片 (Skill Builder 活動) | 與我們的 Campaign 培訓師一起參加此會議，了解如何在 Campaign Classic 中的資料模型內開發資料結構描述。 | Campaign Classic v7 |
+| 2022 年 7 月 | [推動成果的可交付性最佳實務和策略](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html) | 影片 | 了解如何最大限度地減少您的電子郵件行銷活動的規劃和製作所花費的無數時間。 | Campaign ClassicV7 |
+| 2022 年 7 月 | [使用 Adobe Campaign Classic 提升您的跨管道行銷](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en) | 影片 | 觀看這個深入探討 Adobe Campaign Classic 客戶的工作流程、自動化、個人化和衡量的網路研討會。 | Campaign ClassicV7 |
+| 2022 年 7 月 | [專業人士的省時祕訣！](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en) | 影片 | 透過 Adobe Campaign 專業人士的提示和祕訣，開始新的一年！了解如何更高效地建立和啟動行銷活動，以及如何提供更有意義和量身定制的跨管道體驗。 | Campaign ClassicV7 |
+| 2022 年 7 月 | [Adobe Campaign 與行銷生態系統的整合](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en) | 影片 | 了解 Adobe Campaign 與行銷生態系統的整合。Adobe Campaign 等跨管道行銷解決方案不應與其他技術或團隊區隔開來。不要讓不同的系統阻礙對客戶的全面了解，並破壞跨管道策略。 | Campaign ClassicV7 |
+| 2022 年 7 月 | [Adobe Campaign Standard 客戶焦點 - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en) | 影片 | 聽聽 Microsoft® 行銷團隊分享他們如何使用 Adobe Campaign Standard、他們的架構和指導原則，以及最佳實務。 | Campaign Standard |
+| 2022 年 7 月 | [Adobe Campaign 客戶焦點 - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en) | 影片 | 聽聽 Adobe Campaign 客戶分享他們如何克服挑戰、適應新常態、提高行銷活動管理效率，以及透過 Adobe Campaign 推動有意義的價值。 | Campaign ClassicV7 |
+| 2022 年 7 月 | [Adobe Campaign Classic V7 與 V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en) | 影片 | 從我們的產品經理那裡了解最新的產品更新，並了解 V7 和 V8 之間的差異。 | Campaign Classic v7、Campaign v8 |
+| 2022 年 7 月 | [主題演講 - 跨 B2B 和 B2C 的客戶歷程趨勢和創新](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en) | 影片 | 了解跨 B2B 和 B2C 的客戶歷程管理的最新趨勢。查看關鍵歷程應用程式和更廣泛的 Adobe Experience Cloud 和平台的最新創新。 | Marketo、Campaign Classic v7、Campaign v8 |
+| 2022 年 7 月 | [Adobe Campaign Standard 的重要提示和祕訣](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=en) | 影片 | 開始了解您的 Adobe Campaign Standard 執行個體，並探索有關目標定位、個人化和行銷疲勞的最佳實務，以更有效地使用 ACS。 | Campaign Standard |
+| 2022 年 7 月 | [支援跨管道行銷所需的團隊、技能和組織設計](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/team-skills-org-design.html) | 影片 | 了解如何能夠隨時隨地以您想要的方式參與。了解擁有一個支援規劃、執行和衡量的行銷組織的重要性。 | Campaign Classic v7、Campaign v8、Campaign Standard |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -422,17 +422,17 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 ### 最新 Journey Optimizer 產品版本
 
-進一步了解 [Journey Optimizer 版本注意事項](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hant?lang=zh-Hant)中最新功能、改進功能和修正。
+進一步了解 [Journey Optimizer 版本注意事項](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hant?lang=en)中最新功能、改進功能和修正。
 
-### 全新的 Journey Optimizer 教學課程和課程 {#tutorials-ajo}
+### 全新的 Journey Optimizer 教學課程和其他課程 {#tutorials-ajo}
 
-為Adobe Journey Optimizer發佈的新視頻、教程或課程。
+針對 Adobe Journey Optimizer 發佈的新影片、教學課程或其他課程。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 7 月 | [設定訊息頻率規則](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/configure-frequency-rules.html) | 影片 | 瞭解如何建立、啟動、測試並報告頻率規則。 瞭解如何確定訊息繼承的頻率規則。 |
-| 2022 年 7 月 | [設定、編寫及傳遞 SMS 訊息](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/configure-author-and-deliver-sms-messages.html) | 影片 | 瞭解如何設定、編寫並將 SMS 訊息納入您的客戶歷程。 |
-| 2022 年 7 月 | [SMS 傳入關鍵字支援](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html) | 影片 | 瞭解原生 SMS 傳入關鍵字支援 (啟動、停止、取消停止) 的工作原理。 |
+| 2022 年 7 月 | [設定、編寫及傳遞簡訊](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/configure-author-and-deliver-sms-messages.html) | 影片 | 了解如何設定、編寫並將簡訊納入您的客戶歷程中。 |
+| 2022 年 7 月 | [簡訊的傳入關鍵字支援](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html) | 影片 | 了解原生簡訊的傳入關鍵字支援 (啟動、停止、取消停止) 的工作原理。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -463,12 +463,12 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 ### 最新 Marketo 教學課程與課程 {#tutorials-marketo}
 
-為AdobeMarketo發佈的新視頻、教程或課程。
+針對 Adobe Marketo 發佈的新影片、教學課程或其他課程。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 7 月 | [B2B與Marketo Engage和Adobe Experience Cloud的經驗](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=en) | 影片 | 瞭解Marketo Engage與Adobe Experience Cloud應用程式之間的整合，以及將解決哪些棘手問題。 | Marketo Engage |
-| 2022 年 7 月 | [更好地合作 — Adobe Marketo Engage和Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=en) | 影片 | 瞭解如何使用Marketo Engage和RT-CDP（B2B版本）協調B2B活動，瞭解哪些是最高級的使用案例和優勢。 | Marketo,Real-time Customer Data Platform |
+| 2022 年 7 月 | [Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=en) | 影片 | 取得 Marketo Engage 和 Adobe Experience Cloud 應用程式之間整合的逐步解說，以及將解決哪些痛點。 | Marketo Engage |
+| 2022 年 7 月 | [最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=en) | 影片 | 了解如何使用 Marketo Engage 和 RT-CDP (B2B 版本) 來編排 B2B 行消活動，以及解鎖的主要使用案例和優勢有哪些。 | Marketo、Real-time Customer Data Platform |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -500,24 +500,24 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud DSP] 中的新功能 {#adcloud-dsp}
 
-上次更新時間： **2022年7月14日**
+上次更新日期：**2022 年 7 月 14 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| 自訂報告 | (31)5月31日釋放；beta功能)Advertising Cloud DSP公司現在可以接收由在客戶資料平台(CDP)內構建的經過驗證的信號組成的第一方資料段。 |
-| [!UICONTROL 庫存] | （6月29日發佈）新版 [!UICONTROL 庫存] > [!UICONTROL 交易] 視圖包括與 [!UICONTROL 市場活動] 視圖，包括其他篩選器、列自定義以及保存自定義視圖、列排序和資料可視化（圖表）視圖的選項。 通過按一下交易名稱后的省略號(...)，可以在每行中開啟命令菜單。 |
-| [!UICONTROL 清單檢查器] | （6月29日發佈） [!UICONTROL 庫存] 頁籤 [!UICONTROL 督察] 現在包括可定製的資料可視化圖表和擴展的效能度量，如 [!UICONTROL 可查看率]。 [!UICONTROL 按一下], [!UICONTROL 昨天的CPM]。 |
+| 自訂報告 | (5 月 31 日發行；Beta 版功能) Advertising Cloud DSP 現在可以內嵌第一方區段 (由客戶資料平台 (CDP) 內建立的已驗證訊號所組成)。 |
+| [!UICONTROL 詳細目錄] | (6 月 29 日發行) 新的「[!UICONTROL 詳細目錄] > [!UICONTROL 交易]」檢視包含與「[!UICONTROL 行銷活動]」檢視相同的資料自訂功能，包括附加篩選器、欄自訂及儲存自訂檢視的選項、欄排序，以及資料視覺效果 (圖表) 檢視。您可以按一下交易名稱後方的省略號 (...)，開啟每列中的命令選單。 |
+| [!UICONTROL 詳細目錄檢視窗] | (6 月 29 日發行) 位置[!UICONTROL 檢視窗]的「[!UICONTROL 詳細目錄]」標籤現在包含可自訂的資料視覺效果圖表和擴充的績效量度，例如：[!UICONTROL 可見率]、[!UICONTROL 點按次數]和[!UICONTROL 昨天的 CPM]。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新時間： **2022年7月14日**
+上次更新日期：**2022 年 7 月 14 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL Insights] | （6月11日發佈）「印象共用丟失」分析現在再次作為測試版功能提供。 |
-| [!DNL Advanced Campaign Management] | （6月20日）([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 市場活動)您現在可以使用搜索引擎特定的廣告模板建立動態響應的搜索和變體，該模板基於清單的內容，從 [!UICONTROL 市場活動] > [!UICONTROL 高級(ACM)]。 |
+| [!UICONTROL Insights] | (6 月 11 日發行)「錯失的曝光比重」分析現在再次成為 Beta 版功能。 |
+| [!DNL Advanced Campaign Management] | (6 月 20 日) ([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 行銷活動) 您現在可以從「[!UICONTROL 行銷活動] > [!UICONTROL 進階 (ACM)]」中，根據詳細目錄的內容，使用搜尋引擎特定的廣告範本來建立動態回應式搜尋和變體。 |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
@@ -527,15 +527,15 @@ Last updated: **October 27, 2021**
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 7 月 | [使用批准者角色](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/add-an-approver.html?lang=en) | 影片 (已更新) | 瞭解如何通過審批流程發送文檔。 | Adobe Sign |
-| 2022 年 7 月 | [設定Web窗體](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html) | 影片 (已更新) | 瞭解如何建立可直接在您的網站上以電子方式簽名的文檔。 | Adobe Sign |
-| 2022 年 7 月 | [使用委派者角色](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en) | 影片 （已更新） | 說明 | Adobe Sign |
-| 2022 年 7 月 | [以電子方式簽名文檔](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/electronically-sign-a-document.html?lang=en) | 影片 (已更新) | 瞭解與Acrobat Sign簽署發送給您的文檔是多麼容易。 | Adobe Sign |
-| 2022 年 7 月 | [為Acrobat Sign管理員啟動和運行](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/up-and-running-admin.html?lang=en) | 影片 (已更新) | 瞭解管理員應重點關注的七個關鍵領域，以便在Acrobat Sign快速啟動和運行。 | Adobe Sign |
-| 2022 年 7 月 | [Send for SignatureOutlook](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/send-for-signature-with-outlook.html?lang=en#) | 影片 (已更新) | 瞭解如何通過直接在Microsoft® Outlook中發送文檔進行簽名來簡化文檔工作流。 | Adobe Sign |
-| 2022 年 7 月 | [填充和登錄Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/fill-and-sign-doc-microsoft-outlook.html?lang=en) | 影片 (已更新) | 瞭解如何通過直接在MicrosoftOutlook中填寫和簽名表單來簡化文檔工作流。 | Adobe Sign |
-| 2022 年 7 月 | [建立和管理組](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-and-manage-groups.html?lang=en) | 影片 (已更新) | 瞭解如何建立組、向組添加用戶以及編輯組設定。 | Adobe Sign |
-| 2022 年 7 月 | [將簽名委託給其他人](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/delegate-signing.html?lang=en) | 影片 (已更新) | 瞭解如何將文檔簽名委託給其他人。 | Adobe Sign |
+| 2022 年 7 月 | [使用核准者角色](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/add-an-approver.html?lang=en) | 影片 (已更新) | 了解如何透過審核流程傳送文件。 | Adobe Sign |
+| 2022 年 7 月 | [設定網頁表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html) | 影片 (已更新) | 了解如何建立可直接在您的網站上以電子方式簽署的文件。 | Adobe Sign |
+| 2022 年 7 月 | [使用委派者角色](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en) | 影片 (已更新) | 說明 | Adobe Sign |
+| 2022 年 7 月 | [以電子方式簽署文件](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/electronically-sign-a-document.html?lang=en) | 影片 (已更新) | 了解使用 Acrobat Sign 對傳送給您的文件進行簽署有多麼簡單。 | Adobe Sign |
+| 2022 年 7 月 | [協助 Acrobat Sign 管理員快速上手並執行](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/up-and-running-admin.html?lang=en) | 影片 (已更新) | 了解管理員應該關注的七個關鍵領域，以便在 Acrobat Sign 中快速上手並執行。 | Adobe Sign |
+| 2022 年 7 月 | [在 Outlook 中傳送以索取簽名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/send-for-signature-with-outlook.html?lang=en#) | 影片 (已更新) | 了解如何透過直接在 Microsoft® Outlook 中傳送文件以索取簽名，簡化文件工作流程。 | Adobe Sign |
+| 2022 年 7 月 | [在 Outlook 中填寫和簽署](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/fill-and-sign-doc-microsoft-outlook.html?lang=en) | 影片 (已更新) | 了解如何透過直接在 Microsoft Outlook 中填寫和簽署表格，簡化文件工作流程。 | Adobe Sign |
+| 2022 年 7 月 | [建立和管理群組](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-and-manage-groups.html?lang=en) | 影片 (已更新) | 了解如何建立群組、將使用者新增至群組，以及編輯群組設定。 | Adobe Sign |
+| 2022 年 7 月 | [將簽署委派給其他人](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/delegate-signing.html?lang=en) | 影片 (已更新) | 了解如何將文件的簽署委派給其他人。 | Adobe Sign |
 
 {style=&quot;table-layout:auto&quot;&quot;
 
