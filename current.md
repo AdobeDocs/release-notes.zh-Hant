@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
+source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
 workflow-type: tm+mt
-source-wordcount: '5706'
-ht-degree: 95%
+source-wordcount: '5746'
+ht-degree: 94%
 
 ---
 
@@ -40,8 +40,8 @@ ht-degree: 95%
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**更新時間：7月27日**)
+* [[!DNL Adobe Workfront]](#workfront) (**更新時間：7月27日**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -467,6 +467,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022 年 7 月 27 日 | [Marketo Engage教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | 影片 | 訪問 [Marketo Engage教程首頁](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience League。 |
 | 2022 年 7 月 | [Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=zh-Hant) | 影片 | 取得 Marketo Engage 和 Adobe Experience Cloud 應用程式之間整合的逐步解說，以及將解決哪些痛點。 | Marketo Engage |
 | 2022 年 7 月 | [最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=zh-Hant) | 影片 | 了解如何使用 Marketo Engage 和 RT-CDP (B2B 版本) 來編排 B2B 行消活動，以及解鎖的主要使用案例和優勢有哪些。 | Marketo、Real-time Customer Data Platform |
 
