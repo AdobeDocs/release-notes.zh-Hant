@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '5842'
-ht-degree: 92%
+source-wordcount: '6346'
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 92%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。
 
-最近更新日期：**2022 年 7 月 27 日**
+最新更新：**2022 年 8 月 11 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ ht-degree: 92%
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**更新時間：7月27日**)
-* [[!DNL Adobe Workfront]](#workfront) (**更新時間：7月27日**)
+* [[!DNL Adobe Workfront]](#workfront) (**8 月 11 日更新**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -478,9 +478,30 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 Adobe [!DNL Workfront] 是統一的工作管理應用程式，用於共用構想、建立內容、管理複雜的流程並執行其最佳工作。
 
-**Workfront教程家**
+### Adobe Workfront新課程和教程 {#tutorials-workfront}
 
-**2022年7月27日**:訪問Workfront新 [教程首頁Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) 所有培訓和教程視頻和文章。
+Workfront新課程和Experience League教程。
+
+| 已發佈 | 名稱 | 類型 | 說明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2022 年 8 月 | [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | 教學課程首頁 | 訪問WorkfrontExperience League教程的新家。 |
+| 2022 年 8 月 | [系統管理員Workfront入門](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | 課程 | 瞭解如何設定用戶和優化用戶使用系統設定的體驗的第一階段。 |
+| 2022 年 8 月 | [進一步瞭解Workfront管理員的系統設定知識](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | 課程 | 瞭解有關係統設定的更多資訊以增強您的用戶體驗，包括用戶組織、自定義表單、審批流程和里程碑以及佈局模板。 |
+| 2022 年 8 月 | [規劃師Workfront入門](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | 課程 | 通過學習建立和規劃項目來開始Workfront之旅。 Workfront建議你保持簡單。 |
+| 2022 年 8 月 | [管理並關閉項目](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | 課程 | 現在您已經學會建立和規劃項目，我們可以瞭解如何管理和關閉項目。 |
+| 2022 年 8 月 | [進一步瞭解作為計畫員管理工作 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | 課程 | 一旦您瞭解了建立、規劃和管理項目的基本知識，您就應該知道一些更多的知識，以充分利用Workfront。 |
+| 2022 年 8 月 | [為員工開始使用Workfront](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | 課程 | 本課程面向在Adobe Workfront擁有工作許可證的用戶，這些用戶接收工作或請求，並與團隊就項目和文檔進行協作。 |
+| 2022 年 8 月 | [Adobe Workfront為合作者](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | 課程 | 瞭解如何使用「審閱」或「請求」許可證，在新Workfront體驗中輕鬆請求、審閱和協作任務、文檔和證據。 |
+| 2022 年 8 月 | [建立和管理自定義表單](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | 課程 | 通過在系統中建立自定義欄位來捕獲組織的唯一資訊。 學習在Workfront內建立、共用和附加自定義表單。 |
+| 2022 年 8 月 | [Workfront證明 — 管理和設定](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | 課程 | 學習調整校樣設定、自定義操作和報告以及設定校樣工作流。 |
+| 2022 年 8 月 | [Workfront校樣 — 上載校樣](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | 課程 | 學習上載校樣以供審閱和批准。 |
+| 2022 年 8 月 | [Workfront證明 — 審查和批准工作](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | 課程 | 學習將Workfront校樣用作審閱者或批准者。 |
+| 2022 年 8 月 | [基本報告元素](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | 課程 | 報告元素是在Workfront所有清單報告中找到的篩選器、視圖和分組。 瞭解這些資訊有助於您建立自定義報告和日曆。 |
+| 2022 年 8 月 | [建立自定義日曆](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | 課程 | 使用自定義日曆，您可以以日曆格式直接從項目、任務和問題中顯示日期和資訊。 |
+| 2022 年 8 月 | [建立自定義報表和儀表板](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | 課程 | 報告是資料窗口。 瞭解如何在Workfront建立三種不同類型的報告並在儀表板中使用它們。 |
+| 2022 年 8 月 | [建立中間篩選器](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | 課程 | 更好地瞭解通配符、OR篩選器和文本模式。 開啟內置項目、任務和發佈篩選器，並瞭解實際發生的情況的詳細資訊。 |
+
+{style=&quot;table-layout:auto&quot;&quot;
 
 請參閱 [[!DNL Workfront]  發行版本](https://one.workfront.com/s/product-releases)頁面，以取得所有產品的最新資訊匯總。
 
