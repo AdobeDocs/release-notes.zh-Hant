@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+source-git-commit: b463f30f9d36a0047933ce500d81a8f123d48131
 workflow-type: tm+mt
 source-wordcount: '5112'
 ht-degree: 79%
@@ -58,7 +58,7 @@ ht-degree: 79%
 | 產品/事件名稱 | 類型 | 說明 |
 | -----------|---------- | ----|
 | **[!DNL Adobe Analytics]** | 網路研討會 | _體驗製作者 — 技能交流_  — 加入我們以獲得Adobe [!DNL Analytics] 版本，專家會提供Adobe的內幕消息 [!DNL Analytics]. <p>**日期：** 9月8日@ 9:00 pt - [詳細資訊與註冊](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
-| **[!DNL Adobe Workfront]** | 研討會 | 尋找與其他客戶聯繫並討論的機會 [!DNL Workfront] 功能？ 加入我們的CS Connections系列！ 每月與其他客戶交流，討論貴組織的熱門話題的機會。<p>>**日期：** 9月12日早7點手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | 尋找與其他客戶聯繫並討論的機會 [!DNL Workfront] 功能？ 加入我們的CS Connections系列！ 每月與其他客戶交流，討論貴組織的熱門話題的機會。<p>**日期：** 9月12日早7點手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 網路研討會 | _體驗製作者直播_ - Sara Blakely、Peyton Manning和Eli Manning的簡訊免費活動。<p>**日期：** 9 月 13 日 - 14 日 - [詳細資料和報名](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | 研討會 | 圖表工作流程 — 與客戶成功團隊一起，即時討論並逐步介紹圖表工作流程（從進入到完成），並了解如何為有效的工作管理做法奠定堅實的基礎。 <p>**日期：** 9 月 20 日 -  日 - [詳細資料和報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** （傳統版和標準版） | 網路研討會 | 跨頻道行銷人員的假日季是最旺季，也是一年中最忙的時間。 規劃工作應當做好。 此 [!DNL Adobe Campaign] Insider課程涵蓋有助於您進行電子郵件傳遞的主題， [!DNL Adobe Campaign] 效能調整，以及工作流程和傳送最佳實務，以確保您的執行個體處於最高峰活動狀態。<p>**日期：** 9月15日早上8點00分PT [詳細資訊與註冊](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
