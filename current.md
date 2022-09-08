@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
-workflow-type: ht
-source-wordcount: '4152'
-ht-degree: 100%
+source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+workflow-type: tm+mt
+source-wordcount: '5112'
+ht-degree: 79%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 100%
 >
 >若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。
 
-上次更新日期：**2022 年 8 月 23 日**
+最新更新：**2022 年 9 月 7 日**
 
-* [[!DNL Experience League] 活動](#events)
+* [[!DNL Experience League] 事件](#events) （已更新） **9月7日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央介面元件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,16 +53,28 @@ ht-degree: 100%
 
 若要向 Adobe 產品專家學習、與之互動或獲得解答，Experience League 活動是您絕佳的選擇！請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=zh-Hant)，以掌握 2022 年 7 月活動的最新消息。
 
-**2022 年 8 月 10 日**&#x200B;更新
+已更新 **2022年9月7日**
 
-| 活動 | 類型 | 說明 |
+| 產品/事件名稱 | 類型 | 說明 |
 | -----------|---------- | ----|
-| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | 網路研討會 | _加速明日成功：資料品質和採用_ - 在這場直播網路研討會中加入 Adobe Analytics Champions Frederik Werner 和 Sarah Owen 的行列，了解如何將資料品質融入每個分析成面並打造分享文化。<p>**日期：** 8 月 25 日上午 11 點 (太平洋標準時間) - [詳細資料和報名](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
-| [Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html) | 網路研討會 | 免費的 Experience Makers 活動，將由 Sara Blakely、Peyton Manning 和 Eli Manning 進行專題演講。<p>**日期：** 9 月 13 日 - 14 日 - [詳細資料和報名](https://business.adobe.com/events/experience-makers-live.html) |
+| **[!DNL Adobe Analytics]** | 網路研討會 | _體驗製作者 — 技能交流_  — 加入我們以獲得Adobe [!DNL Analytics] 版本，專家會提供Adobe的內幕消息 [!DNL Analytics]. <p>**日期：** 9月8日@ 9:00 pt - [詳細資訊與註冊](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
+| **[!DNL Adobe Workfront]** | 研討會 | 尋找與其他客戶聯繫並討論的機會 [!DNL Workfront] 功能？ 加入我們的CS Connections系列！ 每月與其他客戶交流，討論貴組織的熱門話題的機會。<p>>**日期：** 9月12日早7點手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Experience Cloud]** | 網路研討會 | _體驗製作者直播_ - Sara Blakely、Peyton Manning和Eli Manning的簡訊免費活動。<p>**日期：** 9 月 13 日 - 14 日 - [詳細資料和報名](https://business.adobe.com/events/experience-makers-live.html) |
+| **[!DNL Adobe Workfront]** | 研討會 | 圖表工作流程 — 與客戶成功團隊一起，即時討論並逐步介紹圖表工作流程（從進入到完成），並了解如何為有效的工作管理做法奠定堅實的基礎。 <p>**日期：** 9 月 20 日 -  日 - [詳細資料和報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign]** （傳統版和標準版） | 網路研討會 | 跨頻道行銷人員的假日季是最旺季，也是一年中最忙的時間。 規劃工作應當做好。 此 [!DNL Adobe Campaign] Insider課程涵蓋有助於您進行電子郵件傳遞的主題， [!DNL Adobe Campaign] 效能調整，以及工作流程和傳送最佳實務，以確保您的執行個體處於最高峰活動狀態。<p>**日期：** 9月15日早上8點00分PT [詳細資訊與註冊](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
+| **[!DNL Adobe Workfront]** | 網路研討會 | _系統管理要點：資源管理快速入門_  — 使用Adobe [!DNL Workfront] 要管理您的資源，DREAM是DREAM — 了解需要完成的工作、您可以存取哪些資源，並根據其可用性來分配它們。 加入我們，了解如何操作。<p>**日期：** 9月21日@英國早上8點 [詳細資訊與註冊](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
+| **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：強調專案範本_  — 與我們一起討論 [!UICONTROL 專案範本] 以及它們為組織創造價值和提高效率的不同方式。 我們將集思廣益，探討不同的方法來建構範本，以支援您的專案 — 依行銷活動、依交付內容等。 我們將演示一些收藏夾，並逐步了解最新藍圖。 <p>**日期：** 9月21日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _10個通訊提示，可讓您和您的使用者保持一致_  — 有效溝通是您、您的使用者、最終是公司成功不可或缺的一環。 本研討會提供10個提示，包括內外 [!DNL Workfront]  — 幫助提高效能、提高生產力並降低不必要問題的風險。 <p>**日期：** 9月22日晚上7點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign Classic]** 和 **[!DNL Adobe Campaign Standard]** | 研討會 | _社區問答茶歇_  — 與Tamara Wulf和Earl Ross一起討論您對 [!DNL Adobe Campaign] 線上講座內容 _節假日和旺季的成功清單_. <p>**日期：** 9月22日晚上8點手動 [詳細資訊與註冊](https://adobe.ly/3KHrGpl) |
+| **[!DNL Adobe Workfront]** | 研討會 | _使用控制面板推動採用：規劃者_  — 加入客戶成功團隊，繼續根據 [!DNL Adobe Workfront] 角色。 此會議重點介紹您的規劃人員，他們通常在項目或計畫管理角色中工作。 了解如何建立主動、以團隊為導向的空間，以提高活動意識和問責性。 <p>**日期：** 9月27日上午9點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：規劃您的Workfront歷程_  — 您的Workfront歷程接下來會是什麼？  與我們一起討論如何為貴組織的Adobe Workfront建立專屬藍圖。 我們將分享您最喜愛的里程碑的一些想法，以加入您的藍圖，以及我們以前的系統管理員身分提供的體驗。<p>**日期：** 10月4日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _CS連接：分享策略最佳實務_  — 尋找與其他客戶交流並討論Workfront功能的機會？ 加入我們的CS Connections系列！  每月與其他客戶交流，討論貴組織的熱門話題的機會。 我們將與系統管理員一起集思廣益，以解決難題、分享想法並討論最佳實務。 <p>**日期：** 10月10日早上7點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _透過使用者管理推動採用_  — 您是否開始使用Workfront，並想要更熟悉與使用者相關的設定功能？ 加入客戶成功團隊，一起檢閱報表和控制面板的實作範例，為成功的使用者管理奠定基礎，並建立有用且資訊豐富的使用者體驗。<p>**日期：** 10月18日早上9點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _採用系列：讓Workfront開心（前）!_ 需要採納想法嗎？ 我們抓到了！ 我們的團隊已經經歷了用戶採用的高低，專注於樂趣是成功的關鍵。 我們將討論一些對我們有用的東西，並為與其他客戶分享想法的公開討論提供充足的時間。<p>**日期：** 10月20日中午12點30分MT [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 
 {style=&quot;table-layout:auto&quot;}
 
-請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=zh-Hant)，以掌握即將舉辦的活動和過去集數的最新消息。
+請查看 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)，以掌握即將舉辦的活動和過去集數的最新消息。
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -236,7 +248,7 @@ _新功能_
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- | ------|
 | 2022 年 8 月 | [AEM as a Cloud Service 2022.7.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html) | 影片 | 聆聽 AEM 產品團隊的心得，並了解最新版 Adobe Experience Manager Assets、Assets Essentials、Sites、Commerce Integration Framework、Forms 和 Cloud Manager 的功能和創新。 | AEM as a Cloud Service |
-| 2022 年 8 月 | [AEM Headless 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=zh-Hant) | 更新文章 | AEM 無周邊 SDK 教學課程已更新使用持續查詢和 WKND 2.0。請透過動手操作教學課程，探索如何使用各種選項並選擇合適的選項。 | AEM as a Cloud Service |
+| 2022 年 8 月 | [AEM Headless 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=zh-Hant) | 更新文章 | AEM 無周邊 SDK 教學課程已更新使用持續查詢和 WKND 2.0。請透過動手操作教學課程，探索如何使用各種選項並選擇合適的選項。 | AEMas a Cloud Service |
 | 2022 年 8 月 | [AEM as a Cloud Service 整合 Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html) | 影片 | 了解 AEM as a Cloud Service 已支援整合其他 Adobe Experience Cloud 產品。 | AEM CS, Experience Cloud |
 | 2022 年 8 月 | [Forms CS 和 Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html) | 影片 | 在最適化表格提交時叫用您的電源自動化流程。 | AEM Forms |
 
@@ -266,7 +278,7 @@ _新功能_
 * [Experience Manager 6.4 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hant)
 * [Experience Manager 6.3 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)
 * [Experience Manager 6.2 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
-* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
+* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic 說明首頁](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hant)
 * [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=zh-Hant#aem-as-a-cloud-service)
 
@@ -343,9 +355,9 @@ New videos, tutorials, or courses published for Adobe Campaign.
 ### Campaign 說明資源
 
 * Adobe Campaign v8：[文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=zh-Hant) - [實作指南](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hant)
-* Adobe Campaign Standard：[Campaign Standard 文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant) - [發行規劃](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hant)
+* Adobe Campaign Standard：[Campaign Standard 文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant) - [發行規劃](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hant)
 * Adobe Campaign Classic：[Campaign Classic v7 文件](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hant)
-* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant) - [做法影片](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant)的做法影片
+* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - [做法影片](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant)的做法影片
 
 ## ![圖示](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -370,7 +382,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 ### [!DNL Journey Optimizer] 的更多資源
 
 * [Journey Optimizer 文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hant) - [操作說明影片](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant)
-* [決策管理文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [版本注意事項](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hant) - [操作說明影片](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=zh-Hant)
+* [決策管理文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [版本注意事項](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [操作說明影片](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=zh-Hant)
 
 ## ![圖示](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -382,7 +394,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 
 #### [!DNL Journey Orchestration] 的更多資源
 
-* [Journey Orchestration 文件](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=zh-Hant) - [操作說明影片](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=zh-Hant)
+* [Journey Orchestration 文件](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [操作說明影片](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=zh-Hant)
 
 ## ![圖示](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -398,7 +410,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 8 月 | [Marketo Engage 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant) | 影片 | 如需 Marketo Engage 所有過去和最新的教學課程，請造訪 [Marketo Engage 教學課程首頁](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)。 |
+| 2022 年 8 月 | [Marketo Engage 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant) | 影片 | 如需 Marketo Engage 所有過去和最新的教學課程，請造訪 [Marketo Engage 教學課程首頁](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)。 |
 
 {style=&quot;table-layout:auto&quot;}
 
