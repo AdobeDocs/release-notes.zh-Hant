@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
+source-git-commit: cf7e689976b05fa9ea87eaf54fb5160f8012f2e2
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -58,15 +58,15 @@ ht-degree: 0%
 | 產品/事件名稱 | 類型 | 說明 |
 | -----------|---------- | ----|
 | **[!DNL Adobe Workfront]** | 研討會 | 尋找與其他客戶聯繫並討論的機會 [!DNL Workfront] 功能？ 加入我們的CS Connections系列！ 每月與其他客戶交流，討論貴組織的熱門話題的機會。<p>**日期：** 9月12日早7點手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Experience Cloud]** | 網路研討會 | _體驗製作者直播_ - Sara Blakely、Peyton Manning和Eli Manning的簡訊免費活動。<p>**日期：** 9 月 13 日 - 14 日 - [詳細資料和報名](https://business.adobe.com/events/experience-makers-live.html) |
+| **[!DNL Experience Cloud]** | 網路研討會 | _體驗製作者直播_ - Sara Blakely、Peyton Manning和Eli Manning的免費演講。<p>**日期：** 9 月 13 日 - 14 日 - [詳細資料和報名](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | 研討會 | 圖表工作流程 — 與客戶成功團隊一起，即時討論並逐步介紹圖表工作流程（從進入到完成），並了解如何為有效的工作管理做法奠定堅實的基礎。 <p>**日期：** 9 月 20 日 -  日 - [詳細資料和報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Campaign]** （傳統版和標準版） | 網路研討會 | 跨頻道行銷人員的假日季是最旺季，也是一年中最忙的時間。 規劃工作應當做好。 此 [!DNL Adobe Campaign] Insider課程涵蓋有助於您進行電子郵件傳遞的主題， [!DNL Adobe Campaign] 效能調整，以及工作流程和傳送最佳實務，以確保您的執行個體處於最高峰活動狀態。<p>**日期：** 9月15日早上8點00分PT [詳細資訊與註冊](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
+| **[!DNL Adobe Campaign]** （傳統版和標準版） | 網路研討會 | 跨管道行銷人員的假日季和一年中最繁忙的時間即將推出。 計畫應該正在進行中。 此 [!DNL Adobe Campaign] Insider課程涵蓋有助於您進行電子郵件傳遞的主題， [!DNL Adobe Campaign] 效能調整，以及工作流程和傳送最佳實務，以確保您的執行個體處於最高峰活動狀態。<p>**日期：** 9月15日早上8點00分PT [詳細資訊與註冊](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
 | **[!DNL Adobe Workfront]** | 網路研討會 | _系統管理要點：資源管理快速入門_  — 使用Adobe [!DNL Workfront] 要管理您的資源，DREAM是DREAM — 了解需要完成的工作、您可以存取哪些資源，並根據其可用性來分配它們。 加入我們，了解如何操作。<p>**日期：** 9月21日@英國早上8點 [詳細資訊與註冊](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
-| **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：強調專案範本_  — 與我們一起討論 [!UICONTROL 專案範本] 以及它們為組織創造價值和提高效率的不同方式。 我們將集思廣益，探討不同的方法來建構範本，以支援您的專案 — 依行銷活動、依交付內容等。 我們將演示一些收藏夾，並逐步了解最新藍圖。 <p>**日期：** 9月21日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：強調專案範本_  — 與我們一起討論 [!UICONTROL 專案範本] 以及它們為組織創造價值和提高效率的不同方式。 我們會集思廣益，運用不同的方法來建構範本，以支援您的專案，依行銷活動、交付內容等等。 我們演示了一些收藏夾，並逐步介紹了最新的藍圖。 <p>**日期：** 9月21日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研討會 | _10個通訊提示，可讓您和您的使用者保持一致_  — 有效溝通是您、您的使用者、最終是公司成功不可或缺的一環。 本研討會提供10個提示，包括內外 [!DNL Workfront]  — 幫助提高效能、提高生產力並降低不必要問題的風險。 <p>**日期：** 9月22日晚上7點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign Classic]** 和 **[!DNL Adobe Campaign Standard]** | 研討會 | _社區問答茶歇_  — 與Tamara Wulf和Earl Ross一起討論您對 [!DNL Adobe Campaign] 線上講座內容 _節假日和旺季的成功清單_. <p>**日期：** 9月22日晚上8點手動 [詳細資訊與註冊](https://adobe.ly/3KHrGpl) |
 | **[!DNL Adobe Workfront]** | 研討會 | _使用控制面板推動採用：規劃者_  — 加入客戶成功團隊，繼續根據 [!DNL Adobe Workfront] 角色。 此會議重點介紹您的規劃人員，他們通常在項目或計畫管理角色中工作。 了解如何建立主動、以團隊為導向的空間，以提高活動意識和問責性。 <p>**日期：** 9月27日上午9點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：規劃您的Workfront歷程_  — 您的Workfront歷程接下來會是什麼？  與我們一起討論如何為貴組織的Adobe Workfront建立專屬藍圖。 我們將分享您最喜愛的里程碑的一些想法，以加入您的藍圖，以及我們以前的系統管理員身分提供的體驗。<p>**日期：** 10月4日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：規劃您的Workfront歷程_  — 您的Workfront歷程接下來會是什麼？ 與我們一起討論如何為貴組織的Adobe Workfront建立專屬藍圖。 我們將分享您最喜愛的里程碑的一些想法，以加入您的藍圖，以及我們以前的系統管理員身分提供的體驗。<p>**日期：** 10月4日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研討會 | _CS連接：分享策略最佳實務_  — 尋找與其他客戶交流並討論Workfront功能的機會？ 加入我們的CS Connections系列！  每月與其他客戶交流，討論貴組織的熱門話題的機會。 我們將與系統管理員一起集思廣益，以解決難題、分享想法並討論最佳實務。 <p>**日期：** 10月10日早上7點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研討會 | _透過使用者管理推動採用_  — 您是否開始使用Workfront，並想要更熟悉與使用者相關的設定功能？ 加入客戶成功團隊，一起檢閱報表和控制面板的實作範例，為成功的使用者管理奠定基礎，並建立有用且資訊豐富的使用者體驗。<p>**日期：** 10月18日早上9點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研討會 | _採用系列：讓Workfront開心（前）!_ 需要採納想法嗎？ 我們抓到了！ 我們的團隊已經經歷了用戶採用的高低，專注於樂趣是成功的關鍵。 我們將討論一些對我們有用的東西，並為與其他客戶分享想法的公開討論提供充足的時間。<p>**日期：** 10月20日中午12點30分MT [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
@@ -186,12 +186,12 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) | 影片 | 聆聽 AEM 產品團隊的心得，並了解最新版 Adobe Experience Manager Assets、Assets Essentials、Sites、Commerce Integration Framework、Forms 和 Cloud Manager 的功能和創新。 | AEM |
+| 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) | 影片 | 聽聽AEM產品團隊的意見，了解最新版Adobe Experience Manager的功能與創新 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites]、商務整合架構、 [!DNL Forms]，和 [!DNL Cloud Manager]. | AEM |
 | 2022 年 9 月 | [網頁最佳化影像傳送](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | 影片 | 了解如何使用AEM核心元件，在AEMas a Cloud Service網站上啟用網頁最佳化影像傳送。 | AEM Sites |
-| 2022 年 9 月 | [與Microsoft Power Automate整合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en) | 影片 | 在最適化表格提交時叫用您的電源自動化流程。了解設定及整合Forms CS與Microsoft電源自動化的步驟。 剖析已提交的表單資料，並以電子郵件附件的形式傳送DoR。 | AEM Forms CS |
+| 2022 年 9 月 | [與Microsoft®電源自動化整合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en) | 影片 | 在最適化表格提交時叫用您的電源自動化流程。了解設定及整合Forms CS與Microsoft®電源自動化的步驟。 剖析已提交的表單資料，並以電子郵件附件的形式傳送DoR。 | AEM Forms CS |
 | 2022 年 9 月 | [Adobe內容管理論壇活動系列 — 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en) | 影片 | 觀看Elliot Sedegah提供的歡迎辭並取得AEM概觀。 此外，它還涵蓋釋放內容速度的力量等。 | AEM CS |
 | 2022 年 9 月 | [技能交換 — 開發人員追蹤 — 體驗製作者精選](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=en) | 影片 | 加入我們，聚焦兩位專業AEM使用者。 每個人都分享自己最好的AEM秘訣或技巧。 | AEM CS |
-| 2022 年 9 月 | [技能交流 — 市場營銷人員/網路發佈商](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=en) | 影片 | 了解如何運用體驗片段，促進生態系統的重複使用和效率。 這將影響ROI並促進速度。 | AEM CS |
+| 2022 年 9 月 | [技能交流 — 市場營銷人員/ Web發佈商](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=en) | 影片 | 了解如何運用體驗片段，促進生態系統的重複使用和效率。 這會影響投資報酬率和驅動速度。 | AEM CS |
 | 2022 年 9 月 | [如何使用AEM React Editable Components v2](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/how-to/react-core-components-v2.html?lang=en) | 影片 | 了解如何使用AEM React可編輯的元件。 AEM提供AEM React可編輯元件v2，此SDK是以Node.js為基礎，可建立React元件，支援使用AEM SPA編輯器進行內容內容元件編輯。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
@@ -255,8 +255,6 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 9 月 | [New Relic Masterclass — 控制您的基礎架構](https://experienceleague.adobe.com/docs/commerce-events/events/2022/new-relic.html?lang=en) | 影片 | 加入此網路研討會，了解如何透過 [!UICONTROL 新文物]. |
-| 2022 年 9 月 | [升級至Adobe Commerce 2.4.4的優點](https://experienceleague.adobe.com/docs/commerce-events/events/2022/upgrade.html?lang=en) | 影片 | 加入此網路研討會，了解如何規劃並執行順暢的升級，以充分運用最新的改善功能。 |
 | 2022 年 9 月 | [使用 Adobe Experience Manager 提供無頭式體驗](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=zh-Hant) | 影片 | 了解使用最新 Experience Manager 內容片段增強功能的無頭式體驗管理，以及用於無頭式內容提供的新 GraphQL API。 |
 | 2022 年 9 月 | [Adobe Commerce目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html) | 影片 | 取得內容與設計功能的詳細資訊，包括建立基本內容元件。 |
 | 2022 年 9 月 | [設定多個商務系統](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html) | 影片 | 了解如何使用多個Adobe商務環境設定AEM。 |
@@ -295,7 +293,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 * Adobe Campaign v8：[文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [實作指南](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hant)
 * Adobe Campaign Standard：[Campaign Standard 文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant) - [發行規劃](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hant)
 * Adobe Campaign Classic：[Campaign Classic v7 文件](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [操作說明影片](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant) - [最新文件更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hant)
-* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant) - [做法影片](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant)的做法影片
+* Adobe Campaign 控制面板：[文件](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) - [版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant) - [做法影片](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en)的做法影片
 
 ## ![圖示](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -311,7 +309,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 9 月 | [行銷人員決策管理快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | 影片 | 了解Adobe Journey Optimizer的決策管理功能。 本課程專為行銷人員所設計，可為客戶提供最佳優惠方案，借此提高收入、客戶體驗和忠誠度 |
+| 2022 年 9 月 | [行銷人員決策管理快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | 影片 | 了解Adobe Journey Optimizer的決策管理功能。 本課程專為想要透過向客戶提供最佳優惠方案來提升收入、客戶體驗和忠誠度的行銷人員而設計 |
 | 2022 年 9 月 | [建立行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en) | 影片 | 了解如何透過立即執行動作或依指定排程傳送一次性內容給特定對象。 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -419,17 +417,17 @@ Last updated: **July 27, 2022**
 | 功能 | 說明 |
 | ------- | ----------- |
 | [!UICONTROL 行銷活動] | ([!DNL Google Ads] 賬戶；測試版功能)您現在可以建立和管理 [!DNL Google Ads] 績效最大促銷活動，可使用 [!DNL Google Ads] 智慧競標，使用 [!UICONTROL 促銷活動類型] &quot;[!UICONTROL 效能最大值].&quot; |
-|  | ([!DNL Google Ads] 帳戶)「促銷活動>廣告」檢視現在包含選用 [!UICONTROL 廣告強度] 欄，指出每個回應式搜尋廣告(RSA)遵循的成效 [!DNL Google Ads] 效能最佳實務。<br><br>[!DNL Microsoft Advertising] 尚未透過其API啟用類似支援。 |
-|  | ([!DNL Microsoft Advertising] 帳戶)同步、唯讀和報告（包括閱覽資料）支援現在可用於您現有的原生廣告促銷活動，位於 [!DNL Microsoft Audience Network]，包括 [!DNL Microsoft] 對象廣告。 |
-| [!UICONTROL 行銷活動], [!UICONTROL 報表] | 未來幾週內，將有更多發佈商曝光共用量度可作為行銷活動管理檢視和報表中的欄使用。 |
+|  | ([!DNL Google Ads] 帳戶)「促銷活動>廣告」檢視現在包含選用 [!UICONTROL 廣告強度] 欄，指出每個回應式搜尋廣告(RSA)遵循的成效 [!DNL Google Ads] 效能最佳實務。<br><br>[!DNL Microsoft® Advertising] 尚未透過其API啟用類似支援。 |
+|  | ([!DNL Microsoft® Advertising] 帳戶)同步、唯讀和報告（包括閱覽資料）支援現在可用於您現有的原生廣告促銷活動，位於 [!DNL Microsoft® Audience Network]，包括 [!DNL Microsoft®] 對象廣告。 |
+| [!UICONTROL 行銷活動], [!UICONTROL 報表] | 未來幾週，行銷活動管理檢視和報表中的欄將可使用更多發佈商曝光共用量度。 |
 | [!UICONTROL 轉換值規則] | ([!DNL Google Ads accounts];測試版功能)您現在可以從 [!UICONTROL 最佳化] > [!UICONTROL 轉換值規則]. 廣告商與 [!DNL Google Ads] 個別帳戶層級或以下的轉換追蹤也可以建立和管理規則。<br><br>未來版本將提供轉換值規則的自動最佳化。 |
 | [!UICONTROL 產品組合] | (選擇加入測試版功能； [!DNL Google Ads] 帳戶) [!DNL YouTube] 行銷活動 [!UICONTROL 最大化轉換] 混合組合中的競標策略現在包含在自訂模擬結果中。 混合組合只能包括 [!DNL YouTube] 行銷活動。<br><br>若要參與測試版計畫，請連絡您的客戶團隊。 |
 | [!UICONTROL 廣告深入分析] | 此 [!UICONTROL Advertising Insights] 「視圖」具有新的外觀和工作流，基於可改進效能和可靠性的新基礎架構。 現在，只需按一下分析名稱，選取或輸入設定，然後按一下 [!UICONTROL 產生分析].<br><br>若要暫時返回舊視圖，請啟用 [!UICONTROL 切換至舊UI] 在右上角。 舊版檢視將於9月底移除。 |
 |  | 此 [!UICONTROL 查詢交叉匹配測試版] 現已可使用分析。 |
 | [!UICONTROL 報表] | ([!DNL Google Ads] 僅限帳戶)新專業報告 [!UICONTROL RSA Assets報告] 顯示每個資產的曝光量度([!UICONTROL 創作標題] 或 [!UICONTROL 說明])，適用於一或多個產品組合或一或多個帳戶、行銷活動和廣告群組中的回應式搜尋廣告(RSA)。 依預設，資料包含每個資產的一列，這些資產在指定資料範圍內至少收到一次曝光，即使在報告期間停用（移除）資產亦然。 **注意：** 選取「[!UICONTROL 包含沒有效能資料的行]，」資料仍不會包含從未收到資料之資產的資料。 |
-|  | 如需回應式搜尋廣告(RSA)的其他支援，請參閱 [!UICONTROL 廣告變異報表]:<ul><ul>([!DNL Google Ads] 帳戶) [!UICONTROL 欄] 設定，新的&quot;[!UICONTROL 廣告強度]「 」清單示RSA的執行情況 [!DNL Google Ads] 效能最佳實務。 在 [!UICONTROL 行銷活動] > [!UICONTROL 廣告] 檢視。 [!DNL Microsoft Advertising] 尚未透過其API啟用類似支援。</li><li>在 [!UICONTROL 欄] 設定，您可以依 [!UICONTROL 創意標題] 和 [!UICONTROL 說明].</li><li>在 [!UICONTROL 進階篩選] 設定，您可以依 [!UICONTROL 廣告文字] 欄位，此欄位適用於 [!UICONTROL 創意標題] 和 [!UICONTROL 說明].</li></ul> |
+|  | 如需回應式搜尋廣告(RSA)的其他支援，請參閱 [!UICONTROL 廣告變異報表]:<ul><ul>([!DNL Google Ads] 帳戶) [!UICONTROL 欄] 設定，新的&quot;[!UICONTROL 廣告強度]「 」清單示RSA的執行情況 [!DNL Google Ads] 效能最佳實務。 在 [!UICONTROL 行銷活動] > [!UICONTROL 廣告] 檢視。 [!DNL Microsoft® Advertising] 尚未透過其API啟用類似支援。</li><li>在 [!UICONTROL 欄] 設定，您可以依 [!UICONTROL 創意標題] 和 [!UICONTROL 說明].</li><li>在 [!UICONTROL 進階篩選] 設定，您可以依 [!UICONTROL 廣告文字] 欄位，此欄位適用於 [!UICONTROL 創意標題] 和 [!UICONTROL 說明].</li></ul> |
 | [!UICONTROL 建議] | ([!DNL Google Ads] 賬戶；測試版功能)內 [!UICONTROL 前瞻分析與報表] > [!UICONTROL Recommendations Beta]，您可以：<ul><li>查看所有尚未採取行動的建議 [!DNL Google Ads] 帳戶。</li><li>申請並駁回帳戶建議。</li><li>檢視針對帳戶套用之每個建議的記錄。</li></ul> |
-| [!UICONTROL 匯入促銷活動] | （測試版功能）您可以匯入 [!DNL Google Display Network] 行銷活動，包括廣告影像， [!DNL Microsoft Advertising] 對象促銷活動 [!DNL Microsoft Audience Network] 從 [!UICONTROL 工具] > [!UICONTROL 匯入促銷活動]. 匯入行銷活動後，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄檔，以及編輯、暫停或刪除匯入排程。 |
+| [!UICONTROL 匯入促銷活動] | （測試版功能）您可以匯入 [!DNL Google Display Network] 行銷活動，包括廣告影像， [!DNL Microsoft® Advertising] 對象促銷活動 [!DNL Microsoft® Audience Network] 從 [!UICONTROL 工具] > [!UICONTROL 匯入促銷活動]. 匯入行銷活動後，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄檔，以及編輯、暫停或刪除匯入排程。 |
 
 {style=&quot;table-layout:auto&quot;}
 
