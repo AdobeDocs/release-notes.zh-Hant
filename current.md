@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
+source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
 workflow-type: tm+mt
-source-wordcount: '5353'
-ht-degree: 41%
+source-wordcount: '6445'
+ht-degree: 40%
 
 ---
 
@@ -163,13 +163,13 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 Experience Manager 中的新功能、修正及更新。Adobe 建議使用內部部署的客戶部署最新修補程式，以確保擁有更出色的穩定性、安全性及效能。
 
-請參閱 [Adobe Experience Manager as a Cloud Service最新發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
 
 Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hant)頁面，以掌握最新的版本資訊。
 
 ### 產品更新影片
 
-觀看 [8月發行概述影片](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=tw) 2022.8.0版（2022年8月）中新增功能的摘要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
+觀看 [2022年8月發行概述影片](https://video.tv.adobe.com/v/345409/?quality=12) 2022.8.0版（2022年8月）中新增功能的摘要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [2022年7月發行概述影片](https://video.tv.adobe.com/v/345409/?quality=12)
 * [2022 年 6 月版本概觀影片](https://video.tv.adobe.com/v/344308/?quality=12)
@@ -181,13 +181,86 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 * [2021 年 10 月版總覽影片](https://video.tv.adobe.com/v/338253)
 * [2021 年 9 月版總覽影片](https://video.tv.adobe.com/v/337381)
 
+### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
+
+_新功能_
+
+* 以連結形式共用數位資產時，使用者可以立即將URL複製到剪貼簿。 此增強功能可讓您以更快、更方便的方式共用資產。此功能可讓您更快速且便利地共用資產。
+* 當您上傳 TXT 檔案時，資產微服務會自動產生縮圖。 PNG 縮圖是 TXT 檔案的轉譯，可幫助用戶在一定程度上識別內容或檔案，而不需要開啟檔案。 在預設情況下，此功能不需要任何組態設定就能使用。
+
+_發行前管道中可用的新功能_
+
+* 使用者現在可以在「欄」和「卡片」檢視中，對搜尋結果中顯示的資產進行排序。 排序功能適用於名稱、建立時間、修改時間或無等欄。
+
+### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
+
+_新功能_
+
+* AEMFormsas a Cloud Service的原型專案現在包含 [Microsoft® Dynamics和Salesforce.com的表單資料模型](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* 基於Acroform的記錄文檔：Experience Manager Formsas a Cloud Service支援使用 [Adobe Acrobat表單PDF(AcroformPDF)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) 作為記錄檔的範本，而非以XFA為基礎的表單範本。
+* Microsoft® Azure資料儲存連接器：您現在可以 [將表單資料模型連接到Microsoft® Azure儲存](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). 它可讓您擷取並儲存最適化表單資料至Microsoft® Azure儲存，做為BLOB。
+
+_Beta 版的 Forms 功能_
+
+* **統一儲存連接器**  — 使用Unified Storage Connector將客戶管理的儲存庫中的流程中資料外部化。 例如，您可以
+   * 啟用 Forms Portal 的儲存並繼續功能，並將最適化表單草稿儲存在客戶管理的資料存放庫中。
+   * 儲存在客戶管理的存放庫中包含敏感個人資料(SPD)的處理中Experience Manager工作流程資料(Experience Manager工作流程變數資料)。
+* **Experience Manager Formsas a Cloud Service，通訊** - [通訊API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) 幫助您結合XDP模板和XML資料，以生成各種格式的打印文檔。 此服務可讓您以同步模式產生文件。 這些 API 可讓您建立以下用途的應用程式：
+   * 使用 XML 資料填寫範本檔案來產生文件。
+   * 產生多種格式的輸出表單，包括非互動式 PDF 列印資料流。
+   * 從 XFA 表格 PDF 和 Adobe Acrobat Form 產生列印 PDF 檔案。您可以寫信寄到 [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) 來註冊 beta 版計劃。
+
+_發行前管道中可用的新功能_
+
+* **在適用性表單中使用Adobe Sign角色**  — 適用於業務和企業服務級別的Adobe Sign可以選擇將協定收件者的角色擴展到簽署者之外，以更好地滿足其工作流要求。 您現在可以[啟用每個協議收件者，以便在最適化表單中設定其角色](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform)，並將簽署者設定為預設角色。
+* **適用性Forms**  — 您現在可以透過Adobe Analytics for Adaptive Forms擷取及追蹤一般使用者行為，以收集一般使用者分析。 這有助於根據資料做出明智的決策，以改善一般使用者體驗。
+* **輕鬆連接Experience Manager Forms與Microsoft® Dynamics和Salesforce.com**  — 此服務提供Microsoft® Dynamics的現成可用資料來源設定和資料模型，以及 [Salesforce.com](https://www.salesforce.com/?bc=DF). 這個能力讓 [開發人員可更快更輕鬆地配置Microsoft® Dynamics 365和Salesforce雲端服務，以適應性表單](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+
+### Experience Manager Screens as a Cloud Service
+
+_新功能_
+
+* Screens as a Cloud Service現在支援基本播放監控。 播放器現在會報告各種播放量度，每次偵測（預設為30秒）。 根據這些量度，它可以偵測各種邊緣情況 (停滯體驗、空白螢幕、排程問題等)。 此功能可讓團隊在遠端監控播放器是否有正確地播放內容。 它也會改善對空白螢幕或現場中斷體驗的反應能力，並減少向一般用戶顯示中斷體驗的風險。
+請參閱 [基本播放監控](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring) 以取得更多詳細資訊。
+* Screens as a Cloud Service現在支援的視訊縮圖支援。 內容作者可以定義視訊的縮圖，以便將影像用作預留位置。 他們可以適當地測試內容播放和目標定位，同時由適當的團隊完成實際影片。 如果影片播放失敗，也可以使用該影像。
+請參閱 [影片的縮圖支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html) 以取得更多詳細資訊。
+
+### [!DNL Cloud Manager]
+
+_新功能_
+
+* Cloud Manager使用的AEM原型專案版本現已更新為30版。
+* Cloud Manager登陸頁面上的方案卡片和相關聯的體驗現在會重新整理。
+* 程式碼品質步驟記錄現在包含有關 OakPal 掃描程序的詳細記錄資訊。
+* 「活動」頁面功能表選項現在包含已完成代碼產生器執行的「下載記錄」選項。 選取此選項會下載建置步驟的記錄檔。
+* 直接按一下「方案」卡片，現在會導覽至「Cloud Manager概觀」頁面。
+* Cloud Service客戶現在可以在Cloud Manager中檢視SLA（服務等級協定）報表。 此功能將在未來幾個月逐步推出。
+請參閱 [SLA報告](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/sla-reporting.html) 了解更多。
+* IndexType和IndexDamAssetLucene質量規則的類型和嚴重性已更改。 這兩個都是Bugs of Blocker嚴重性。
+* 我們引進了新的 Oak 索引品質規則來涵蓋非同步和 Tika 組態設定。
+* 將每個程式的 SSL 憑證數上限增加到 50。
+* 自助服務功能，可讓使用者透過Cloud Manager使用者介面建立和管理多個存放庫。
+* SonarQube在不必要地閱讀Git歷史資料。 在大型程式碼基底中，這可能會導致不必要的組建效能損失。
+* 現在有一個 API 可讓每個管道的 Maven 相依性快取失效。
+* Cloud Manager使用的AEM原型專案版本現已更新為29版。
+
+### 社群
+
+* 此 [您可在此處找到Experience League的最新Experience Manager內容](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) 社群是連線、參與及讓使用者為其客戶建立改變遊戲的數位體驗的心率。
+要查看所有社區顧問的清單，請參見此 [Adobe部落格](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
+* 如何提交新功能請求或建議以進行Experience Manager
+   * 提交Experience Manager功能請求的新程式現已上線。 [建立構想](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
+   * 請參閱 [詳情請見](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
+   * [提交新Experience Manager構想的准則](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+
 ### 最新 Experience Manager 課程與教學課程 {#tutorials-aem}
 
 過去一個月內發佈的新影片、教學課程和其他課程。
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) | 影片 | 聽聽AEM產品團隊的意見，了解最新版Adobe Experience Manager的功能與創新 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites]、商務整合架構、 [!DNL Forms]，和 [!DNL Cloud Manager]. | AEM |
+| 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=tw) | 影片 | 聽聽AEM產品團隊的意見，了解最新版Adobe Experience Manager的功能與創新 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites]、商務整合架構、 [!DNL Forms]，和 [!DNL Cloud Manager]. | AEM |
 | 2022 年 9 月 | [網頁最佳化影像傳送](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | 影片 | 了解如何使用AEM核心元件，在AEMas a Cloud Service網站上啟用網頁最佳化影像傳送。 | AEM Sites |
 | 2022 年 9 月 | [與Microsoft®電源自動化整合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en) | 影片 | 在最適化表格提交時叫用您的電源自動化流程。了解設定及整合Forms CS與Microsoft®電源自動化的步驟。 剖析已提交的表單資料，並以電子郵件附件的形式傳送DoR。 | AEM Forms CS |
 | 2022 年 9 月 | [Adobe內容管理論壇活動系列 — 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en) | 影片 | 觀看Elliot Sedegah提供的歡迎辭並取得AEM概觀。 此外，它還涵蓋釋放內容速度的力量等。 | AEM CS |
@@ -201,7 +274,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 
 所有 Experience Manager 的版本注意事項都會保留在以下頁面：
 
-* [Experience Manager as a Cloud Service 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Experience Manager as a Cloud Service 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
 * [Experience Manager Cloud Manager 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hant)
 * [Automated Forms Conversion Service 版本注意事項](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hant)
 * [Experience Manager 6.5 Service Pack 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant)
@@ -220,7 +293,7 @@ Adobe 建議您造訪 [Experience Manager 版本更新與藍圖](https://experie
 * [Experience Manager 6.5 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hant)
 * [Experience Manager 6.4 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hant)
 * [Experience Manager 6.3 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)
-* [Experience Manager 6.2 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)html
+* [Experience Manager 6.2 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
 * [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic 說明首頁](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hant)
 * [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=zh-Hant#aem-as-a-cloud-service)
