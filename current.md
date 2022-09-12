@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
-ht-degree: 40%
+source-wordcount: '6560'
+ht-degree: 39%
 
 ---
 
@@ -454,9 +454,8 @@ Adobe [!DNL Workfront] 是統一的工作管理應用程式，用於共用構想
 [!DNL Adobe Advertising Cloud] 版本注意事項。
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [ [!DNL Advertising Cloud DSP] 中的新功能](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search] 中的新功能](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -472,17 +471,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### [!DNL Advertising Cloud DSP] 中的新功能 {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+上次更新日期：**2022 年 9 月 12 日**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL 封裝和放置步調] | （9月12日發行版本）現在可對飛行步調和當天步調進行單獨的步調控制。 以前，單一策略會同時控制兩者。 現有套件和版位的設定對應如下：<ul><li>舊版 **[!UICONTROL 步調填充策略]**=*[!UICONTROL 平均]*  — 現已設定為 **[!UICONTROL 飛行步調]**=*[!UICONTROL 平均]* 和 **[!UICONTROL 當天步調]**=*[!UICONTROL 平均]*</li><li>舊版 **[!UICONTROL 步調填充策略]**=*[!UICONTROL 稍微向前]*  — 現已設定為 **[!UICONTROL 飛行步調]**=*[!UICONTROL 稍微向前]* 和 **[!UICONTROL 當天步調]**=*[!UICONTROL 平均]*</li><li>舊版 **[!UICONTROL 步調填充策略]**=*[!UICONTROL Frontload]*  — 現已設定為 **[!UICONTROL 飛行步調]**=*[!UICONTROL Frontload]* 和 **[!UICONTROL 當天步調]**=*[!UICONTROL 盡快]*</li><li>舊版 **[!UICONTROL 步調填充策略]**=*[!UICONTROL 積極的Frontload]*  — 現已設定為 **[!UICONTROL 飛行步調]**=*[!UICONTROL 積極的Frontload]* 和 **[!UICONTROL 當天步調]**=*[!UICONTROL 盡快]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
