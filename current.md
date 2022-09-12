@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cf7e689976b05fa9ea87eaf54fb5160f8012f2e2
+source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5353'
+ht-degree: 41%
 
 ---
 
@@ -57,10 +57,11 @@ ht-degree: 0%
 
 | 產品/事件名稱 | 類型 | 說明 |
 | -----------|---------- | ----|
+| **Experience League精彩案例** | 比賽 | 告訴Adobe您如何整合Experience Cloud產品，以建立創新且個人化的客戶體驗。 提交您的故事，讓Adobe認可！ **9月9日至29日接受的條目** - [詳細資料](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email) |
 | **[!DNL Adobe Workfront]** | 研討會 | 尋找與其他客戶聯繫並討論的機會 [!DNL Workfront] 功能？ 加入我們的CS Connections系列！ 每月與其他客戶交流，討論貴組織的熱門話題的機會。<p>**日期：** 9月12日早7點手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 網路研討會 | _體驗製作者直播_ - Sara Blakely、Peyton Manning和Eli Manning的免費演講。<p>**日期：** 9 月 13 日 - 14 日 - [詳細資料和報名](https://business.adobe.com/events/experience-makers-live.html) |
-| **[!DNL Adobe Workfront]** | 研討會 | 圖表工作流程 — 與客戶成功團隊一起，即時討論並逐步介紹圖表工作流程（從進入到完成），並了解如何為有效的工作管理做法奠定堅實的基礎。 <p>**日期：** 9 月 20 日 -  日 - [詳細資料和報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** （傳統版和標準版） | 網路研討會 | 跨管道行銷人員的假日季和一年中最繁忙的時間即將推出。 計畫應該正在進行中。 此 [!DNL Adobe Campaign] Insider課程涵蓋有助於您進行電子郵件傳遞的主題， [!DNL Adobe Campaign] 效能調整，以及工作流程和傳送最佳實務，以確保您的執行個體處於最高峰活動狀態。<p>**日期：** 9月15日早上8點00分PT [詳細資訊與註冊](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
+| **[!DNL Adobe Workfront]** | 研討會 | 圖表工作流程 — 與客戶成功團隊一起，即時討論並逐步介紹圖表工作流程（從進入到完成），並了解如何為有效的工作管理做法奠定堅實的基礎。 <p>**日期：** 9 月 20 日 -  日 - [詳細資料和報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 網路研討會 | _系統管理要點：資源管理快速入門_  — 使用Adobe [!DNL Workfront] 要管理您的資源，DREAM是DREAM — 了解需要完成的工作、您可以存取哪些資源，並根據其可用性來分配它們。 加入我們，了解如何操作。<p>**日期：** 9月21日@英國早上8點 [詳細資訊與註冊](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
 | **[!DNL Adobe Workfront]** | 研討會 | _價值實現系列：強調專案範本_  — 與我們一起討論 [!UICONTROL 專案範本] 以及它們為組織創造價值和提高效率的不同方式。 我們會集思廣益，運用不同的方法來建構範本，以支援您的專案，依行銷活動、交付內容等等。 我們演示了一些收藏夾，並逐步介紹了最新的藍圖。 <p>**日期：** 9月21日中午12點30分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研討會 | _10個通訊提示，可讓您和您的使用者保持一致_  — 有效溝通是您、您的使用者、最終是公司成功不可或缺的一環。 本研討會提供10個提示，包括內外 [!DNL Workfront]  — 幫助提高效能、提高生產力並降低不必要問題的風險。 <p>**日期：** 9月22日晚上7點00分手動 [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
