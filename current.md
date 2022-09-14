@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
+source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
 workflow-type: tm+mt
-source-wordcount: '6560'
+source-wordcount: '6495'
 ht-degree: 39%
 
 ---
@@ -246,13 +246,9 @@ _新功能_
 
 ### 社群
 
-* 此 [您可在此處找到Experience League的最新Experience Manager內容](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) 社群是連線、參與及讓使用者為其客戶建立改變遊戲的數位體驗的心率。
-要查看所有社區顧問的清單，請參見此 [Adobe部落格](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* 如何提交新功能請求或建議以進行Experience Manager
-   * 提交Experience Manager功能請求的新程式現已上線。 [建立構想](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
-   * 請參閱 [詳情請見](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
-   * [提交新Experience Manager構想的准則](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEMas a Cloud Service2022.7.0 - [版本更新](https://adobe.ly/3paYDAo).
+* **Experience League精彩案例**  — 向我們和全世界展示您可以如何使用多個Adobe Experience Cloud產品。 [立即提交您的報導！](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* AEM使用者群組聚會 |AdobePTP，班加羅爾 | 2022年9月30日 | [在這裡註冊](https://adobe.ly/3DlsUos) | [論社區主線](https://adobe.ly/3DhQwub).
 
 ### 最新 Experience Manager 課程與教學課程 {#tutorials-aem}
 
