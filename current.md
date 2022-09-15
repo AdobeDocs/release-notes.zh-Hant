@@ -1,15 +1,15 @@
 ---
 title: 最新版本注意事項
-description: 閱讀最新發行說明以了解Adobe [!DNL Experience Cloud] 產品與服務。 了解近期活動和新的Experience League檔案。 探索 [!DNL Experience Cloud] 應用程式。
+description: 閱讀最新發行說明以了解Adobe [!DNL Experience Cloud] 產品與服務。 了解有關 Experience League 即將舉辦的活動和新文件。探索 [!DNL Experience Cloud] 應用程式。
 doc-type: release notes
 last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6495'
-ht-degree: 39%
+source-wordcount: '6483'
+ht-degree: 40%
 
 ---
 
@@ -487,7 +487,7 @@ Last updated: **August 9, 2022**
 |  | ([!DNL Google Ads] 帳戶)「促銷活動>廣告」檢視現在包含選用 [!UICONTROL 廣告強度] 欄，指出每個回應式搜尋廣告(RSA)遵循的成效 [!DNL Google Ads] 效能最佳實務。<br><br>[!DNL Microsoft® Advertising] 尚未透過其API啟用類似支援。 |
 |  | ([!DNL Microsoft® Advertising] 帳戶)同步、唯讀和報告（包括閱覽資料）支援現在可用於您現有的原生廣告促銷活動，位於 [!DNL Microsoft® Audience Network]，包括 [!DNL Microsoft®] 對象廣告。 |
 | [!UICONTROL 行銷活動], [!UICONTROL 報表] | 未來幾週，行銷活動管理檢視和報表中的欄將可使用更多發佈商曝光共用量度。 |
-| [!UICONTROL 轉換值規則] | ([!DNL Google Ads accounts];測試版功能)您現在可以從 [!UICONTROL 最佳化] > [!UICONTROL 轉換值規則]. 廣告商與 [!DNL Google Ads] 個別帳戶層級或以下的轉換追蹤也可以建立和管理規則。<br><br>未來版本將提供轉換值規則的自動最佳化。 |
+| [!UICONTROL 轉換值規則] | ([!DNL Google Ads accounts];測試版功能)您現在可以從 [!UICONTROL 最佳化] > [!UICONTROL 轉換值規則]. 廣告商與 [!DNL Google Ads] 個別帳戶層級或以下的轉換追蹤也可以建立和管理規則。 |
 | [!UICONTROL 產品組合] | (選擇加入測試版功能； [!DNL Google Ads] 帳戶) [!DNL YouTube] 行銷活動 [!UICONTROL 最大化轉換] 混合組合中的競標策略現在包含在自訂模擬結果中。 混合組合只能包括 [!DNL YouTube] 行銷活動。<br><br>若要參與測試版計畫，請連絡您的客戶團隊。 |
 | [!UICONTROL 廣告深入分析] | 此 [!UICONTROL Advertising Insights] 「視圖」具有新的外觀和工作流，基於可改進效能和可靠性的新基礎架構。 現在，只需按一下分析名稱，選取或輸入設定，然後按一下 [!UICONTROL 產生分析].<br><br>若要暫時返回舊視圖，請啟用 [!UICONTROL 切換至舊UI] 在右上角。 舊版檢視將於9月底移除。 |
 |  | 此 [!UICONTROL 查詢交叉匹配測試版] 現已可使用分析。 |
