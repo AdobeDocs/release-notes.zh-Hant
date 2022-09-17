@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
+source-git-commit: 892aae110e9a8d74f9e151a255110acedf984bcf
 workflow-type: tm+mt
-source-wordcount: '6483'
-ht-degree: 40%
+source-wordcount: '6692'
+ht-degree: 38%
 
 ---
 
@@ -493,7 +493,7 @@ Last updated: **August 9, 2022**
 |  | 此 [!UICONTROL 查詢交叉匹配測試版] 現已可使用分析。 |
 | [!UICONTROL 報表] | ([!DNL Google Ads] 僅限帳戶)新專業報告 [!UICONTROL RSA Assets報告] 顯示每個資產的曝光量度([!UICONTROL 創作標題] 或 [!UICONTROL 說明])，適用於一或多個產品組合或一或多個帳戶、行銷活動和廣告群組中的回應式搜尋廣告(RSA)。 依預設，資料包含每個資產的一列，這些資產在指定資料範圍內至少收到一次曝光，即使在報告期間停用（移除）資產亦然。 **注意：** 選取「[!UICONTROL 包含沒有效能資料的行]，」資料仍不會包含從未收到資料之資產的資料。 |
 |  | 如需回應式搜尋廣告(RSA)的其他支援，請參閱 [!UICONTROL 廣告變異報表]:<ul><ul>([!DNL Google Ads] 帳戶) [!UICONTROL 欄] 設定，新的&quot;[!UICONTROL 廣告強度]「 」清單示RSA的執行情況 [!DNL Google Ads] 效能最佳實務。 在 [!UICONTROL 行銷活動] > [!UICONTROL 廣告] 檢視。 [!DNL Microsoft® Advertising] 尚未透過其API啟用類似支援。</li><li>在 [!UICONTROL 欄] 設定，您可以依 [!UICONTROL 創意標題] 和 [!UICONTROL 說明].</li><li>在 [!UICONTROL 進階篩選] 設定，您可以依 [!UICONTROL 廣告文字] 欄位，此欄位適用於 [!UICONTROL 創意標題] 和 [!UICONTROL 說明].</li></ul> |
-| [!UICONTROL 建議] | ([!DNL Google Ads] 賬戶；測試版功能)內 [!UICONTROL 前瞻分析與報表] > [!UICONTROL Recommendations Beta]，您可以：<ul><li>查看所有尚未採取行動的建議 [!DNL Google Ads] 帳戶。</li><li>申請並駁回帳戶建議。</li><li>檢視針對帳戶套用之每個建議的記錄。</li></ul> |
+| [!UICONTROL 建議] | ([!DNL Google Ads] 賬戶；測試版功能)內 [!UICONTROL 前瞻分析與報表] > [!UICONTROL Recommendations Beta]，您可以：<ul><li>查看所有尚未採取行動的建議 [!DNL Google Ads] 帳戶。</li><li>申請並駁回帳戶建議。</li><li>檢視針對帳戶套用之每個建議的記錄。</li></ul><br>支援的Recommendations:<li><strong>建議類別；建議類型；說明</strong></li><li>廣告與延伸模組；CALL_EXTENSION;將呼叫延伸模組新增至Campaign</li><li>廣告與延伸模組；CALLOUT_EXTENSION;將圖說擴充功能新增至行銷活動</li><li>廣告與延伸模組；OPTIMIZE_AD_ROTATION;使用最佳化的廣告輪轉</li><li>廣告與延伸模組；回應式SEARCH_AD;新增回應式搜尋廣告</li><li>廣告與延伸模組；RESPONSIVE_SEARCH_AD_ASSET;新增回應式搜尋廣告資產至廣告</li><li>廣告與延伸模組；SITELINK_EXTENSION;將網站連結延伸模組新增至行銷活動</li><li>廣告與延伸模組；TEXT_AD;新增廣告建議</li><li>投標和預算；行銷活動預算；修正受預算限制的促銷活動</li><li>投標和預算；ENHANCED_CPC_OPT_IN;使用增強的CPC競標</li><li>投標和預算；FORECASTING_CAMPAIGN預算；修正未來預期會因預算而受限的促銷活動</li><li>投標和預算；邊際ROI_行銷活動預算；調整促銷活動預算以增加ROI</li><li>投標和預算；最大化點按OPT_IN;以最大化點按出價</li><li>投標和預算；最大化轉換選擇加入；以最大化轉換出價</li><li>投標和預算；MOVE_UNUSED_BUDGET;將未使用的預算移至受限預算</li><li>投標和預算；TARGET_CPA_OPT_IN;與Target CPA競標</li><li>投標和預算；TARGET_ROAS_OPT_IN;使用Target ROAS出價</li><li>關鍵字與目標定位；關鍵字；新增關鍵字</li><li>關鍵字與目標定位；SEARCH_PARTNERS_OPT_IN;與Google搜尋合作夥伴擴大觸及範圍</li><li>關鍵字與目標定位；USE_BROAD MATCH關鍵字；使用廣泛比對來轉換型促銷活動，搭配 <strong>完全自動化的轉換競標</strong></li> |
 | [!UICONTROL 匯入促銷活動] | （測試版功能）您可以匯入 [!DNL Google Display Network] 行銷活動，包括廣告影像， [!DNL Microsoft® Advertising] 對象促銷活動 [!DNL Microsoft® Audience Network] 從 [!UICONTROL 工具] > [!UICONTROL 匯入促銷活動]. 匯入行銷活動後，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄檔，以及編輯、暫停或刪除匯入排程。 |
 
 {style=&quot;table-layout:auto&quot;}
