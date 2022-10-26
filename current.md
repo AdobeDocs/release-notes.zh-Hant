@@ -6,7 +6,7 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: de329edd996f1afa4bdd3633817b3cd3cd631a48
+source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
 workflow-type: tm+mt
 source-wordcount: '5293'
 ht-degree: 77%
@@ -92,7 +92,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 [!DNL Experience Platform] 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文件：
 
-最新發行日期：**2022 年 9 月 28 日**
+最新版本： **2022年10月26日**
 
 * [Experience Platform 版本注意事項](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
