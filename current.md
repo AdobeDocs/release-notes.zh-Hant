@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4939'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 最新更新：**2022 年 11 月 17 日**
 
-* [[!DNL Experience League] 活動](#events)
+* [[!DNL Experience League] 事件](#events) （已更新） **11月17日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央介面元件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,14 +57,11 @@ ht-degree: 96%
 
 即將到來的活動：
 
-* **[!DNL Journey Optimizer]：** 10 月 25 日 - _透過決策管理在正確的時間提供正確的優惠_
-* **[!DNL Workfront]：** 10 月 25 日 - _諮詢專家：工作流程和流程設計網路研討會後續追蹤_
-* **[!DNL Analytics]：** 11 月 3 日 - _Adobe Analytics Champions 秘訣與技巧_
-* **[!DNL Workfront]：** 11 月 4 日 - _Adobe Workfront 管理員閒談：行銷與創意_
-* **[!DNL Experience Manager]：** 11 月 9 日 - _Adobe Developers Live：無頭功能_
-* **[!DNL Workfront]：** 11 月 9 日 - _Workfront 星期三 - 社群閒談_
+* [Adobe Target茶歇](https://adobe.ly/3WoLYth) - **11月29日** - _與克里斯蒂內爾·阿納斯塔蘇艾的社區問答茶歇_
+* [客戶研討會](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月1日** - _向專家提問 — 成功的最終用戶採用網路研討會後續活動_
+* [問答聊天](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月5日** - _CS連接 — 共用戰略最佳做法_
 
-若要取得最新消息，請參閱 [Experience League 活動](https://experienceleague.adobe.com/events/?lang=en)以掌握即將舉辦和過去的活動。
+如需完整事件排程，請參閱 [Experience League事件](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
