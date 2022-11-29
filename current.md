@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
+source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
 workflow-type: tm+mt
-source-wordcount: '4997'
-ht-degree: 93%
+source-wordcount: '5136'
+ht-degree: 91%
 
 ---
 
@@ -446,9 +446,8 @@ Experience League 上的新的 [!DNL Workfront] 課程與教學課程系列。
 [!DNL Adobe Advertising Cloud] 版本注意事項。
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [ [!DNL Advertising Cloud DSP] 中的新功能](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search] 中的新功能](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -464,26 +463,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-<!--
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### [!DNL Advertising Cloud DSP] 中的新功能 {#adcloud-dsp}
 
-Last updated: **October 6, 2022**
+上次更新： **2022年11月23日**
 
-| Feature | Description |
+| 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
+| 交易 | 此 [!UICONTROL 庫存] > [!UICONTROL 交易] 檢視現在包含「[!UICONTROL 交易健康]&quot;欄，指示每個私有交易的運行狀況：&quot;[!UICONTROL 成功], &quot;[!UICONTROL 警告], &quot;[!UICONTROL 關鍵]，或&quot;[!UICONTROL 不可用].&quot; 您可以按一下狀態以查看更多詳細資訊，包括交易未如預期般執行或支出的原因，以及疑難排解潛在問題的步驟。 |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新： **2022年11月17日** 11月15日發行
+上次更新： **2022年11月23日** 11月15日發行
 
 | 功能 | 說明 |
 | ------- | ----------- |
 | 行銷活動、Bulksheet、報告 | ([!DNL Microsoft® Advertising] 帳戶)支援 [!DNL Microsoft® Audience Network] 現在已超出測試版。<ul><li>您可以建立、編輯和變更對象促銷活動的狀態(促銷活動類型「[!UICONTROL 對象（影像）]&quot;或&quot;[!UICONTROL 對象（摘要）]&quot;)，廣告群組（廣告群組類型）[!UICONTROL 對象]「)和廣告(創作類型」[!UICONTROL 回應式廣告]&quot;) [!UICONTROL 行銷活動] 檢視和使用大量表單。</li><li>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 Adobe Analytics 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。</li></ul>最佳化支援將在未來版本中提供。 |
 |  | ([!DNL Microsoft® Advertising] 帳戶)多媒體廣告支援現在已過測試期。 您可以透過 [!UICONTROL 行銷活動] 檢視和使用大量表單。 廣告具有創意類型「[!UICONTROL 多媒體廣告]」。<br><br>您可以將含多媒體廣告的行銷活動包含在，含有任何支出策略的標準產品組合或混合產品組合中，[!UICONTROL 目標曝光比重]除外 (混合產品組合尚未支援)。<br><br>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 [!DNL Analytics] 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。 |
 | [!UICONTROL 對象], [!UICONTROL 報表] | (測試版功能，適用於 [!DNL Microsoft® Advertising] 帳戶)您的 [!DNL Microsoft® Advertising] 動態再行銷對象現在會同步，並可在 [!UICONTROL 行銷活動] > [!UICONTROL 對象] 和 [!UICONTROL 對象類型] &quot;[!UICONTROL 動態再行銷] &lt;*VisitorType*>」（例如「過去的動態再行銷購買者」）。 您也可以建立、更新和刪除動態再行銷對象。<br><br>您可以將對象用作促銷活動層級和廣告群組層級的廣告目標和排除。 目標可以包含競標修飾元。 **注意：** 動態再行銷對象目標的競標修飾元在具有「[!UICONTROL 自動最佳化出價調整值]」設定。<br><br>動態再行銷對象的資料可在 [!UICONTROL 對象目標報表]. |
+| [!UICONTROL 匯入行銷活動] | 匯入您的 [!DNL Google Ads] 行銷活動 [!DNL Microsoft Advertising] 現已超出測試版：<ul><li>匯入 [!DNL Google Display Network] 行銷活動 [!DNL Microsoft Advertising] 對象促銷活動 [!DNL Microsoft Audience Network].</li><li>匯入 [!DNL Google Ads] 績效最大促銷活動，包括本機庫存廣告，深入 [!DNL Microsoft Advertising] 智慧型購物行銷活動。</li><li>（已超出測試版）匯入 [!DNL Google Ads] 搜尋和顯示促銷活動 [!DNL Microsoft Advertising] 搜尋及顯示促銷活動。</li></ul>從 [!UICONTROL 搜尋] > [!UICONTROL 工具] > [!UICONTROL 匯入促銷活動]，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄，以及編輯、暫停或刪除匯入排程。 |
 
 {style=&quot;table-layout:auto&quot;}
 
