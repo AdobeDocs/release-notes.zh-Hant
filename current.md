@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5147'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 91%
 
 >[!IMPORTANT]
 >
->若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 最新消息。下一個優先產品更新將部署在 **2023年1月**，在節假日季之後。 請留意！
+>若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。請經常回來查看，持續了解 Experience League 的最新消息。下一次優先產品更新將在假期過後的 **2023 年 1 月** 部署。請密切關注！
 
 此頁面可讓您存取 Experience Cloud 產品的版本注意事項頁面，以及 Experience League 上的最新教學課程、課程和活動。
 
 最新更新：**2022 年 11 月 29 日**
 
-* [[!DNL Experience League] 事件](#events) （已更新） **11月17日**)
+* [[!DNL Experience League] 活動](#events) (更新時間：**11 月 17 日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央介面元件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,11 +57,11 @@ ht-degree: 91%
 
 即將到來的活動：
 
-* [Adobe Target茶歇](https://adobe.ly/3WoLYth) - **11月29日** - _與克里斯蒂內爾·阿納斯塔蘇艾的社區問答茶歇_
-* [客戶研討會](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月1日** - _向專家提問 — 成功的最終用戶採用網路研討會後續活動_
-* [問答聊天](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月5日** - _CS連接 — 共用戰略最佳做法_
+* [Adobe Target 咖啡會](https://adobe.ly/3WoLYth) - **11 月 29 日** - _與 Cristinel Anastasoaie 一同參加社群問答咖啡會_
+* [客戶工作坊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 1 日** - _詢問專家 - 成功的使用者採用後續活動_
+* [問答時間](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 5 日** - _CS Connections - 分享策略最佳實務_
 
-如需完整事件排程，請參閱 [Experience League事件](https://experienceleague.adobe.com/events/?lang=en).
+如需完整的活動時間表，請參閱 [Experience League 上的活動](https://experienceleague.adobe.com/events/?lang=en)。
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -258,8 +258,8 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 
 所有 Experience Manager 的版本注意事項都會保留在以下頁面：
 
-* [Adobe Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [Adobe Experience Manager as a Cloud Service 最新版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=zh-Hant)
+* [Adobe Experience Manager as a Cloud Service 最新版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant)
 * [Experience Manager as a Cloud Service 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
 * [Experience Manager Cloud Manager 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hant)
 * [Automated Forms Conversion Service 版本注意事項](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hant)
@@ -280,7 +280,7 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 * [Experience Manager 6.4 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
 * [Experience Manager 6.2 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
-* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
 * [Dynamic Media Classic 說明首頁](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hant)
 * [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=zh-Hant#aem-as-a-cloud-service)
 
@@ -293,7 +293,7 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 ### 其他資源
 
 * [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=zh-Hant) - Experience League 上的教學課程
-* [[!DNL Experience Manager Guides] 學習與支援](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - 產品文件
+* [[!DNL Experience Manager Guides] 學習與支援](https://helpx.adobe.com/tw/support/xml-documentation-for-experience-manager.html) - 產品文件
 
 ## ![圖示](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
@@ -352,7 +352,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2022 年 10 月 | [開始使用行銷人員適用的決策管理](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=zh-Hant) | 影片 | 了解如何使用列舉的欄位和建議值在區段產生器介面中建立易用的下拉式選單。 | Campaign v8 |
-| 2022 年 10 月 | [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 課程 | 了解如何將您的 Campaign 執行個體連接到您的 SMTP 提供者，以及如何分析和疑難排解配置。 | 促銷活動v8 |
+| 2022 年 10 月 | [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 課程 | 了解如何將您的 Campaign 執行個體連接到您的 SMTP 提供者，以及如何分析和疑難排解配置。 | Campaign v8 |
 | 2022 年 10 月 | [完全子網域委派](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=zh-Hant) | 已更新影片 | 了解如何將子網域完全委派給 Adobe Campaign。 | 控制面板 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -465,24 +465,24 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud DSP] 中的新功能 {#adcloud-dsp}
 
-上次更新： **2022年11月23日**
+上次更新：**2022 年 11 月 23 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| 交易 | 此 [!UICONTROL 庫存] > [!UICONTROL 交易] 檢視現在包含「[!UICONTROL 交易健康]&quot;欄，指示每個私有交易的運行狀況：&quot;[!UICONTROL 成功], &quot;[!UICONTROL 警告], &quot;[!UICONTROL 關鍵]，或&quot;[!UICONTROL 不可用].&quot; 您可以按一下狀態以查看更多詳細資訊，包括交易未如預期般執行或支出的原因，以及疑難排解潛在問題的步驟。 |
+| 交易 | 「[!UICONTROL 詳細目錄] > [!UICONTROL 交易]」檢視現在包含「[!UICONTROL 交易健康情況]」欄，可顯示每個私人交易的健康情況：「[!UICONTROL 成功]」、「[!UICONTROL 警告]」、「[!UICONTROL 嚴重]」或「[!UICONTROL 無法使用]」。您可以按一下狀態來查看更多詳細資料，包括交易未按預期執行或支出的原因以及解決潛在問題的步驟。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新： **2022年11月30日**
+上次更新：**2022 年 11 月 30 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| 行銷活動、Bulksheet、報告 | ([!DNL Microsoft® Advertising] 賬戶；11月15日發行版本)支援 [!DNL Microsoft® Audience Network] 現在已超出測試版。<ul><li>您可以建立、編輯和變更對象促銷活動的狀態(促銷活動類型「[!UICONTROL 對象（影像）]&quot;或&quot;[!UICONTROL 對象（摘要）]&quot;)，廣告群組（廣告群組類型）[!UICONTROL 對象]「)和廣告(創作類型」[!UICONTROL 回應式廣告]&quot;) [!UICONTROL 行銷活動] 檢視和使用大量表單。</li><li>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 Adobe Analytics 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。</li></ul>最佳化支援將在未來版本中提供。 |
-|  | ([!DNL Microsoft® Advertising] 賬戶；11月15日發行版本)多媒體廣告支援現已測試版淘汰。 您可以透過 [!UICONTROL 行銷活動] 檢視和使用大量表單。 廣告具有創意類型「[!UICONTROL 多媒體廣告]」。<br><br>您可以將含多媒體廣告的行銷活動包含在，含有任何支出策略的標準產品組合或混合產品組合中，[!UICONTROL 目標曝光比重]除外 (混合產品組合尚未支援)。<br><br>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 [!DNL Analytics] 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。 |
-| [!UICONTROL 對象], [!UICONTROL 報表] | ([!DNL Microsoft® Advertising] 賬戶；11月29日發行版本)動態再行銷對象支援現已測試版淘汰：<ul><li>您的動態再行銷對象會同步，並可在 [!UICONTROL 行銷活動] > [!UICONTROL 對象] 和 [!UICONTROL 對象類型] &quot;[!UICONTROL 動態再行銷] &lt;*VisitorType*>」（例如「過去的動態再行銷購買者」）。 您也可以建立、更新和刪除動態再行銷對象。</li><li>您可以將對象用作促銷活動層級和廣告群組層級的廣告目標和排除。 目標可以包含競標修飾元。 **注意：** 動態再行銷對象目標的競標修飾元在具有「[!UICONTROL 自動最佳化出價調整值]」設定。</li><li>動態再行銷對象的資料可在 [!UICONTROL 對象目標報表].</li></ul> |
-| [!UICONTROL 匯入行銷活動] | （11月15日發行）匯入 [!DNL Google Ads] 行銷活動 [!DNL Microsoft Advertising] 現已超出測試版：<ul><li>匯入 [!DNL Google Display Network] 行銷活動 [!DNL Microsoft Advertising] 對象促銷活動 [!DNL Microsoft Audience Network].</li><li>匯入 [!DNL Google Ads] 績效最大促銷活動，包括本機庫存廣告，深入 [!DNL Microsoft Advertising] 智慧型購物行銷活動。</li><li>（已超出測試版）匯入 [!DNL Google Ads] 搜尋和顯示促銷活動 [!DNL Microsoft Advertising] 搜尋及顯示促銷活動。</li></ul>從 [!UICONTROL 搜尋] > [!UICONTROL 工具] > [!UICONTROL 匯入促銷活動]，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄，以及編輯、暫停或刪除匯入排程。 |
+| 行銷活動、Bulksheet、報告 | ([!DNL Microsoft® Advertising] 帳戶；11 月 15 日發布) 對 [!DNL Microsoft® Audience Network] 上行銷活動的支援已移出 Beta 版。<ul><li>您可以在「[!UICONTROL 行銷活動]」檢視中使用 Bulksheet 建立、編輯和變更對象行銷活動的狀態 (行銷活動類型「[!UICONTROL 對象 (圖片)]」或「[!UICONTROL 對象 (摘要)]」)、廣告群組 (廣告群組類型「[!UICONTROL 對象]」) 和廣告 (創意類型「[!UICONTROL 回應式廣告]」)。</li><li>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 Adobe Analytics 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。</li></ul>最佳化支援將在未來版本中提供。 |
+|  | ([!DNL Microsoft® Advertising] 帳戶；11 月 15 日發布) 對多媒體廣告的支援已移出 Beta 版。您可以在「[!UICONTROL 行銷活動]」檢視中使用 Bulksheet，在搜尋行銷活動中建立和管理多媒體廣告。廣告具有創意類型「[!UICONTROL 多媒體廣告]」。<br><br>您可以將含多媒體廣告的行銷活動包含在，含有任何支出策略的標準產品組合或混合產品組合中，[!UICONTROL 目標曝光比重]除外 (混合產品組合尚未支援)。<br><br>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 [!DNL Analytics] 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。 |
+| [!UICONTROL 對象]、[!UICONTROL 報表] | ([!DNL Microsoft® Advertising] 帳戶；11 月 29 日發布) 對動態再行銷對象的支援已移出 Beta 版。<ul><li>您的動態再行銷對象已同步並可在「[!UICONTROL 行銷活動] > [!UICONTROL 對象]與 [!UICONTROL 對象類型]」「[!UICONTROL 動態再行銷]&lt;*訪客類型*>」(例如「動態再行銷過往買家」)。您也可以建立、更新及刪除動態再行銷對象。</li><li>您可以使用對象作為行銷活動層級和廣告群組層級的廣告目標及排除對象。目標可包含競標修飾詞。**備註：**&#x200B;動態再行銷對象目標的競標修飾詞並未在具有「[!UICONTROL 自動最佳化競標調整值]」設定的組合中進行最佳化。</li><li>「[!UICONTROL 對象目標報表]」提供動態再行銷對象的相關資料。</li></ul> |
+| [!UICONTROL 匯入行銷活動] | (11 月 15 日發布) 將 [!DNL Google Ads] 行銷活動匯入 [!DNL Microsoft Advertising] 的所有選項已移出 Beta 版：<ul><li>將 [!DNL Google Display Network] 行銷活動匯入 [!DNL Microsoft Audience Network] 上的 [!DNL Microsoft Advertising] 對象行銷活動。</li><li>將 [!DNL Google Ads] 最高成效行銷活動 (包括地區詳細目錄廣告) 匯入 [!DNL Microsoft Advertising] 智慧購物行銷活動。</li><li>(已移出 Beta 版) 將 [!DNL Google Ads] 搜尋和多媒體行銷活動匯入 [!DNL Microsoft Advertising] 搜尋和多媒體行銷活動。</li></ul>從「[!UICONTROL 搜尋] > [!UICONTROL 工具] > [!UICONTROL 匯入行銷活動]」匯入行銷活動後，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄檔，以及編輯、暫停或刪除匯入排程。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -512,7 +512,7 @@ Last updated: **August 9, 2022**
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
-* [Document Cloud 學習與支援](https://helpx.adobe.com/support/document-cloud.html)
+* [Document Cloud 學習與支援](https://helpx.adobe.com/tw/support/document-cloud.html)
 
 ## ![圖示](/assets/creative-cloud-24.png) 適用於企業的 Adobe Creative Cloud {#creative-cloud}
 
