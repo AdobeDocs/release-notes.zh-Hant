@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
+source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
 workflow-type: tm+mt
-source-wordcount: '4897'
-ht-degree: 94%
+source-wordcount: '4737'
+ht-degree: 92%
 
 ---
 
@@ -237,18 +237,14 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022 年 12 月  | [篩選jQuery和Handlebars程式碼範例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 影片 | 探索AEM Headless GraphQL API使用jQuery和Handlebars的JavaScript應用程式來篩選資料的功能。 此應用程式會建立可依活動類型篩選的WKND歷險清單。 | AEM CS（無頭） |
+| 2022 年 12 月  | [URL重新導向](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | 影片 | 了解在AEM中執行URL重新導向的各種選項。 | AEM學習 |
 | 2022 年 11 月 | [在您的 AEM 專案中包含協力廠商套件組合](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | 影片 | 在您的 AEM 專案中包含協力廠商 OSGi 套件組合。 | AEM Forms |
 | 2022 年 11 月 | [使用 ECMA 指令碼產生含片段的 PDF 文件](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | 影片 | 了解如何使用輸出服務產生使用 XDP 片段的 pdf 檔案。 | AEM Forms |
 | 2022 年 11 月 | [產生使用片段的 pdf 文件](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | 影片 | 了解如何使用輸出服務產生使用 SDP 片段的 pdf 檔案。 | AEM Forms |
 | 2022 年 11 月 | [擷取繫結資料並將其儲存在字串變數中](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | 影片 | 了解如何將提交的資料包含在電子郵件內文中。 | AEM Forms |
 | 2022 年 11 月 | [AEM-CIF 核心元件和 Experience Platform 整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | 影片 | 了解如何使用 CIF - Experience Platform Connector，將店面活動資料從 AEM 呈現的產品頁面傳送到 Experience Platform。 | AEM CS |
 | 2022 年 10 月 | [AEM Forms 中的項目載入屬性](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | 影片 | 了解如何使用項目載入路徑屬性來設定及填入下拉式清單。 | AEM Forms CS |
-| 2022 年 10 月 | [為標準 AEM 專案原型啟用前端管道](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | 影片 | 了解如何使用 AEM 專案原型來啟用 AEM WKND 網站專案，以使用前端管道部署前端資源 (例如 CSS、JavaScript、字體和圖示) 來加快開發到部署的週期。 | AEM Sites |
-| 2022 年 10 月 | [Next.js 應用程式](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | 影片 | 了解如何使用 AEM 的 GraphQL API 透過持續性查詢來查詢內容。 適用於 JavaScript 的 AEM Headless Client 是用來執行 GraphQL 持續性查詢以支援此應用程式。 | AEM Sites |
-| 2022 年 10 月 | [從提交的表單資料中擷取表單附件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | 影片 | 了解如何在 Power Automate 工作流程中擷取表單附件並透過電子郵件傳送附件。 | AEM Forms CS |
-| 2022 年 10 月 | [傳送 DoR 作為電子郵件附件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | 影片 | 在 Power Automate 工作流程中擷取 DoR 並當作電子郵件附件來傳送。 | AEM Forms CS |
-| 2022 年 10 月 | [內容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=zh-Hant) | 影片 | 了解 AEM as a Cloud Service 的內容片段撰寫控制台的基本特性和功能。 | AEM CS |
-| 2022 年 10 月 | [AEM as a Cloud Service 內容移轉常見問題集](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | 影片 | 取得有關將內容移轉到 AEM as a Cloud Service 的常見問題解答。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
