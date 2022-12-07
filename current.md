@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
-workflow-type: ht
-source-wordcount: '5147'
-ht-degree: 100%
+source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
+workflow-type: tm+mt
+source-wordcount: '5160'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 100%
 
 此頁面可讓您存取 Experience Cloud 產品的版本注意事項頁面，以及 Experience League 上的最新教學課程、課程和活動。
 
-最新更新：**2022 年 11 月 29 日**
+最新更新：**2022 年 12 月 7 日**
 
-* [[!DNL Experience League] 活動](#events) (更新時間：**11 月 17 日**)
+* [[!DNL Experience League] 事件](#events) （已更新） **12月7日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央介面元件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,9 +57,9 @@ ht-degree: 100%
 
 即將到來的活動：
 
-* [Adobe Target 咖啡會](https://adobe.ly/3WoLYth) - **11 月 29 日** - _與 Cristinel Anastasoaie 一同參加社群問答咖啡會_
-* [客戶工作坊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 1 日** - _詢問專家 - 成功的使用者採用後續活動_
-* [問答時間](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 5 日** - _CS Connections - 分享策略最佳實務_
+* [Adobe Target網路研討會](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **12月8日** - _Automated Personalization如何在每次造訪時提供動態的個人化體驗_
+* [Adobe Workfront問答集](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月12日** - _詢問專家：導覽變更管理網路研討會後續活動_
+* [Adobe Workfront客戶研討會](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月21日** - _加入客戶成功團隊並參與1小時的討論，以檢閱Workfront社群的趨勢主題。_
 
 如需完整的活動時間表，請參閱 [Experience League 上的活動](https://experienceleague.adobe.com/events/?lang=en)。
 
@@ -87,7 +87,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 [!DNL Experience Platform] 和 [!UICONTROL Mobile SDK] 的最新版本資訊和新文件：
 
-最新發行日期：**2022 年 10 月 26 日**
+最新發行日期：**2022 年 11 月 23 日**
 
 * [Experience Platform 版本注意事項](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -107,11 +107,7 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 ## ![圖示](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-11 月版本：**2022 年 10 月 26 日**
-
->[!NOTE]
->
->11 月份版本注意事項將於 **2022 年 10 月 26 日**&#x200B;提供。
+最新更新：**2022 年 11 月 18 日**
 
 * Adobe Analytics [版本注意事項](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hant)
 * Adobe Analytics [產品文件與教學課程](https://experienceleague.adobe.com/docs/analytics.html)
@@ -258,8 +254,8 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 
 所有 Experience Manager 的版本注意事項都會保留在以下頁面：
 
-* [Adobe Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=zh-Hant)
-* [Adobe Experience Manager as a Cloud Service 最新版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant)
+* [Adobe Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service 最新版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Experience Manager as a Cloud Service 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
 * [Experience Manager Cloud Manager 版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hant)
 * [Automated Forms Conversion Service 版本注意事項](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hant)
@@ -280,7 +276,7 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 * [Experience Manager 6.4 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
 * [Experience Manager 6.2 學習與支援首頁](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
-* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant#previous-updates)
+* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic 說明首頁](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hant)
 * [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=zh-Hant#aem-as-a-cloud-service)
 
@@ -352,7 +348,7 @@ Adobe Campaign 可以在線上和離線行銷管道以直觀的自動化方法�
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2022 年 10 月 | [開始使用行銷人員適用的決策管理](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=zh-Hant) | 影片 | 了解如何使用列舉的欄位和建議值在區段產生器介面中建立易用的下拉式選單。 | Campaign v8 |
-| 2022 年 10 月 | [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 課程 | 了解如何將您的 Campaign 執行個體連接到您的 SMTP 提供者，以及如何分析和疑難排解配置。 | Campaign v8 |
+| 2022 年 10 月 | [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 課程 | 了解如何將您的 Campaign 執行個體連接到您的 SMTP 提供者，以及如何分析和疑難排解配置。 | 促銷活動v8 |
 | 2022 年 10 月 | [完全子網域委派](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=zh-Hant) | 已更新影片 | 了解如何將子網域完全委派給 Adobe Campaign。 | 控制面板 |
 
 {style=&quot;table-layout:auto&quot;}
