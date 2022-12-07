@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
+source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
 workflow-type: tm+mt
-source-wordcount: '5160'
-ht-degree: 97%
+source-wordcount: '4897'
+ht-degree: 94%
 
 ---
 
@@ -124,10 +124,12 @@ Experience Cloud [中央介面元件](https://experienceleague.adobe.com/docs/co
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022 年 12 月  | [增強安全性](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | 已更新影片 | 了解「公司設定」中的安全管理員設定，以控制對Adobe Analytics的存取。 這包括增強式密碼、密碼過期和恢復功能，以及電子郵件網域限制。 |
+| 2022 年 12 月  | [將Analysis Workspace專案設為登陸頁面](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | 已更新影片 | 了解如何以有效的方式輕鬆將新手使用者納入工作區分析專案資料。 |
+| 2022 年 12 月  | [自訂「Reports &amp; Analytics」中的功能表](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | 已更新影片 | 了解如何為貴組織的使用者自訂「Reports &amp; Analytics」功能表。 這可協助使用者尋找最常使用的報表。 |
 | 2022 年 11 月 | [什麼是分析？](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=en) | 文章 | 在學習 Adobe Analytics 之前了解分析的基礎知識。 |
 | 2022 年 11 月 | [建立儀表板的自訂詳細資料檢視](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | 影片 | 了解如何自訂詳細資料檢視，包括 Adobe Analytics 儀表板的文字，以調整想要透過行動計分卡專案向利害關係人講述的故事。 |
 | 2022 年 11 月 | [關鍵量度摘要視覺效果](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | 影片 | 了解 Analysis Workspace 中的關鍵量度摘要視覺效果，其可讓您查看重要量度在單一時間範圍內的趨勢分析。也能讓您比較兩個時間範圍內的量度成效。 |
-| 2022 年 10 月 | [Analysis Workspace 中的組合圖表](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | 影片 | 了解 Analysis Workspace 中的組合圖表視覺效果。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -488,19 +490,9 @@ Last updated: **August 9, 2022**
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| 2022 年 12 月  | [設定截止時間和提醒](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | 影片 | 了解如何定期傳送電子郵件提醒和截止日期，以協助您快速簽署檔案。 | Acrobat Sign |
 | 2022 年 11 月 | [使用 D-Trust 註冊和簽名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | 影片 | 解如何使用 D-Trust 註冊您的身份，然後在文件上使用 D-Trust 數位簽名。 | Acrobat Sign |
 | 2022 年 11 月 | [新管理員入門](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | 影片 | 在這個全方位影片指南中，了解讓您的組織正常運行所需的所有工具。 | Acrobat Sign |
-| 2022 年 10 月 | [將任何內容掃描成 PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html) | 影片 | 了解如何使用免費 Adobe Scan 行動應用程式將任何紙本文件轉換為 PDF。 | Acrobat |
-| 2022 年 10 月 | [組織頁面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html) | 已更新影片 | 了解如何依您喜歡的方式重新排列頁面 - 只需幾秒鐘即可完成。 插入、取代、分割、重新排序、旋轉，或甚至擷取不連續的頁面，以打造具有專業外觀的 PDF。 | Acrobat |
-| 2022 年 10 月 | [處理來自 Dropbox 的檔案](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=zh-Hant) | 影片 | 了解如何從 Acrobat 內開啟、建立、編輯、簽署及儲存對 Dropbox 檔案的變更。 | Acrobat |
-| 2022 年 10 月 | [在 SharePoint 內使用 Power Automate 自動封存檔案](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=zh-Hant) | 影片 | 了解如何使用 Power Automate 將簽名文件自動封存到 SharePoint 文件庫。 | Acrobat Sign |
-| 2022 年 10 月 | [在 Salesforce 中設定資料對應](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?) | 影片 | 了解如何在 Salesforce 中為 Acrobat Sign 設定資料對應。 資料對應可讓您在簽署協議後將資料提取回 Salesforce 中。 | Acrobat Sign |
-| 2022 年 10 月 | [設定外部封存](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=zh-Hant) | 影片 | 了解如何為已簽署的協議備份複本建立外部封存。 | Acrobat Sign |
-| 2022 年 10 月 | [管理並追蹤您的協議](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=zh-Hant) | 已更新影片 | 了解如何在 Acrobat Sign 中管理及追蹤為了索取簽名而傳送的文件。 | Acrobat Sign |
-| 2022 年 10 月 | [在 Salesforce 中設定合併對應](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=zh-Hant) | 已更新影片 | 了解如何將 Salesforce 中的資料直接合併到 Acrobat Sign 文件中。 | Acrobat Sign |
-| 2022 年 10 月 | [Document Builder for Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html) | 影片 | 了解如何使用 Document Builder for Salesforce 建立可重複使用的文件範本。 | Acrobat Sign |
-| 2022 年 10 月 | [管理網頁表單資料](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=zh-Hant) | 影片 | 了解如何追蹤、管理及匯出網頁表單中的資料。 | Acrobat Sign |
-| 2022 年 10 月 | [Acrobat Sign 中的 Liquid Mode](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | 影片 | 了解 Liquid Mode 如何改善行動簽名體驗。 嘗試閱讀和簽署文件時不再需要夾捏和縮放。 | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
