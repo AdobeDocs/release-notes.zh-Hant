@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
+source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
 workflow-type: tm+mt
-source-wordcount: '4816'
-ht-degree: 91%
+source-wordcount: '5055'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 此頁面可讓您存取 Experience Cloud 產品的版本注意事項頁面，以及 Experience League 上的最新教學課程、課程和活動。
 
-最新更新：**2022 年 12 月 7 日**
+最新更新：**2022 年 12 月 14 日**
 
 * [[!DNL Experience League] 事件](#events) （已更新） **12月7日**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,9 +57,10 @@ ht-degree: 91%
 
 即將到來的活動：
 
-* [Adobe Target網路研討會](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **12月8日** - _Automated Personalization如何在每次造訪時提供動態的個人化體驗_
-* [Adobe Workfront問答集](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月12日** - _詢問專家：導覽變更管理網路研討會後續活動_
+* [Adobe Workfront客戶研討會 — 年終報告](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月15日** - _加入我們，就如何以最佳方式運用Workfront中的報表，分享您年底的敘述內容，包括實作示範，與您一起參加互動式討論。_
 * [Adobe Workfront客戶研討會](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月21日** - _加入客戶成功團隊並參與1小時的討論，以檢閱Workfront社群的趨勢主題。_
+* [管理聊天：行銷與創意](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6年1月** - _此互動式會議旨在與其他管理員連結，討論最佳作法以及秘訣與技巧，協助您和使用者充份運用Workfront。_
+* [CS連接：分享策略最佳實務](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1月9日** - _在尋找與其他客戶交流並討論Workfront功能的機會？ 加入我們的 CS Connections 系列！每月有機會與其他客戶聯繫，討論您組織的熱門話題。_
 
 如需完整的活動時間表，請參閱 [Experience League 上的活動](https://experienceleague.adobe.com/events/?lang=en)。
 
@@ -237,6 +238,7 @@ Adobe 建議您升級到適用於 Experience Manager 增強型連接器的[最�
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022 年 12 月  | [持續的 GraphQL 查詢](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | 影片 | 了解如何在Adobe Experience Manager as a Cloud Service中保留GraphQL查詢以最佳化效能。 | AEM CS |
 | 2022 年 12 月  | [篩選React應用程式程式碼範例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | 影片 | 顯示使用內容片段模型化WKND歷險的簡單React應用程式。 | AEM無頭開發人員入口網站 |
 | 2022 年 12 月  | [基本React應用程式](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | 影片 | 了解如何使用 AEM 的 GraphQL API 透過持續性查詢來查詢內容。 此應用程式可呈現WKND歷險的可篩選資料，並在選取歷險時，顯示歷險的完整詳細資訊。 | AEM無頭開發人員入口網站 |
 | 2022 年 12 月  | [篩選jQuery和Handlebars程式碼範例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 影片 | 探索AEM Headless GraphQL API使用jQuery和Handlebars的JavaScript應用程式來篩選資料的功能。 此應用程式會建立可依活動類型篩選的WKND歷險清單。 | AEM無頭開發人員入口網站 |
@@ -430,6 +432,7 @@ Experience League 上的新的 [!DNL Workfront] 課程與教學課程系列。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022 年 12 月  | [建立ADDDAYS、ADDWEEKDAY、ADDMONTHS、ADDYEARS運算式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | 已更新影片 | 了解如何在Adobe Workfront的計算欄位中使用和建立ADD運算式。 |
 | 2022 年 10 月 | [在展示板上新增及編輯欄設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=zh-Hant) | 影片 | 了解如何在展示板上新增及編輯欄設定。 |
 | 2022 年 10 月 | [進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-Hant) | 影片 | 了解如何使用 API 總管和文字模式來建立超出報告 UI 功能的進階篩選、檢視和群組。 |
 
