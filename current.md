@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dee94925c7872cf6108ec5c4fa4caaff774cf08b
+source-git-commit: 264148074acc579cb2f38a94a55c42a27730ca17
 workflow-type: tm+mt
-source-wordcount: '4986'
+source-wordcount: '4988'
 ht-degree: 90%
 
 ---
@@ -471,11 +471,11 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud Search] 中的新功能 {#adcloud-search}
 
-上次更新：**2022 年 11 月 30 日**
+上次更新： **2022年1月10日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| 行銷活動、Bulksheet、報告 | ([!DNL Microsoft® Advertising] 帳戶；11 月 15 日發布) 對 [!DNL Microsoft® Audience Network] 上行銷活動的支援已移出 Beta 版。<ul><li>您可以在「[!UICONTROL 行銷活動]」檢視中使用 Bulksheet 建立、編輯和變更對象行銷活動的狀態 (行銷活動類型「[!UICONTROL 對象 (圖片)]」或「[!UICONTROL 對象 (摘要)]」)、廣告群組 (廣告群組類型「[!UICONTROL 對象]」) 和廣告 (創意類型「[!UICONTROL 回應式廣告]」)。</li><li>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 Adobe Analytics 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。</li></ul>最佳化支援將在未來版本中提供。 |
+| 行銷活動、Bulksheet、報告 | ([!DNL Microsoft® Advertising] 帳戶；11 月 15 日發布) 對 [!DNL Microsoft® Audience Network] 上行銷活動的支援已移出 Beta 版。<ul><li>您可以在「[!UICONTROL 行銷活動]」檢視中使用 Bulksheet 建立、編輯和變更對象行銷活動的狀態 (行銷活動類型「[!UICONTROL 對象 (圖片)]」或「[!UICONTROL 對象 (摘要)]」)、廣告群組 (廣告群組類型「[!UICONTROL 對象]」) 和廣告 (創意類型「[!UICONTROL 回應式廣告]」)。</li><li>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 Adobe Analytics 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。</li></ul>您可以在標準或混合產品組合中加入受眾行銷活動。 |
 |  | ([!DNL Microsoft® Advertising] 帳戶；11 月 15 日發布) 對多媒體廣告的支援已移出 Beta 版。您可以在「[!UICONTROL 行銷活動]」檢視中使用 Bulksheet，在搜尋行銷活動中建立和管理多媒體廣告。廣告具有創意類型「[!UICONTROL 多媒體廣告]」。<br><br>您可以將含多媒體廣告的行銷活動包含在，含有任何支出策略的標準產品組合或混合產品組合中，[!UICONTROL 目標曝光比重]除外 (混合產品組合尚未支援)。<br><br>您現在可以在「[!UICONTROL 行銷活動]」檢視中，檢視現有對象行銷活動，以表格和趨勢圖表格式呈現成效資料。廣告層級的成效資料也可在報告和 [!DNL Analytics] 中使用 (適用於與 [!DNL Analytics] 整合的廣告商)。 |
 | [!UICONTROL 對象]、[!UICONTROL 報表] | ([!DNL Microsoft® Advertising] 帳戶；11 月 29 日發布) 對動態再行銷對象的支援已移出 Beta 版。<ul><li>您的動態再行銷對象已同步並可在「[!UICONTROL 行銷活動] > [!UICONTROL 對象]與 [!UICONTROL 對象類型]」「[!UICONTROL 動態再行銷]&lt;*訪客類型*>」(例如「動態再行銷過往買家」)。您也可以建立、更新及刪除動態再行銷對象。</li><li>您可以使用對象作為行銷活動層級和廣告群組層級的廣告目標及排除對象。目標可包含競標修飾詞。**備註：**&#x200B;動態再行銷對象目標的競標修飾詞並未在具有「[!UICONTROL 自動最佳化競標調整值]」設定的組合中進行最佳化。</li><li>「[!UICONTROL 對象目標報表]」提供動態再行銷對象的相關資料。</li></ul> |
 | [!UICONTROL 匯入行銷活動] | (11 月 15 日發布) 將 [!DNL Google Ads] 行銷活動匯入 [!DNL Microsoft Advertising] 的所有選項已移出 Beta 版：<ul><li>將 [!DNL Google Display Network] 行銷活動匯入 [!DNL Microsoft Audience Network] 上的 [!DNL Microsoft Advertising] 對象行銷活動。</li><li>將 [!DNL Google Ads] 最高成效行銷活動 (包括地區詳細目錄廣告) 匯入 [!DNL Microsoft Advertising] 智慧購物行銷活動。</li><li>(已移出 Beta 版) 將 [!DNL Google Ads] 搜尋和多媒體行銷活動匯入 [!DNL Microsoft Advertising] 搜尋和多媒體行銷活動。</li></ul>從「[!UICONTROL 搜尋] > [!UICONTROL 工具] > [!UICONTROL 匯入行銷活動]」匯入行銷活動後，您可以檢查匯入工作的狀態、檢閱任何錯誤記錄檔，以及編輯、暫停或刪除匯入排程。 |
