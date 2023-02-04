@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 此頁面可讓您存取 Experience Cloud 產品的版本注意事項頁面，以及 Experience League 上的最新教學課程、課程和活動。
 
-最新更新：**2023 年 1 月 18 日**
+最近更新：**2023 年 2 月 3 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] 中的新功能 {#advertising-dsp}
 
-上次更新：**2022 年 11 月 23 日**
+上次更新日期：**2023 年 2 月 3 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| 交易 | 「[!UICONTROL 詳細目錄] > [!UICONTROL 交易]」檢視現在包含「[!UICONTROL 交易健康情況]」欄，可顯示每個私人交易的健康情況：「[!UICONTROL 成功]」、「[!UICONTROL 警告]」、「[!UICONTROL 嚴重]」或「[!UICONTROL 無法使用]」。您可以按一下狀態來查看更多詳細資料，包括交易未按預期執行或支出的原因以及解決潛在問題的步驟。 |
+| [!UICONTROL 交易] | （1月25日發行版本）「詳細目錄>交易」中的新「PG曝光步調」支出欄檢視保證交易的報表步調。 |
+| [!UICONTROL 行銷活動] | （1月4日發行）現在，每個促銷活動都可使用變更記錄，其中顯示所選日期範圍內所做的變更。 包和版位已可使用更改日誌。 |
 
 {style=&quot;table-layout:auto&quot;}
 
