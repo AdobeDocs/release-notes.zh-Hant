@@ -6,7 +6,7 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
+source-git-commit: 7f360b3fcd35cc9ab8b52a9cc7e3ffaaff9e2ebc
 workflow-type: tm+mt
 source-wordcount: '5407'
 ht-degree: 98%
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 此頁面可讓您存取 Experience Cloud 產品的版本注意事項頁面，以及 Experience League 上的最新教學課程、課程和活動。
 
-發行月： **2023年1月**
+發行月份: **2023 年 1 月**
 
 最近更新：**2023 年 2 月 5 日**
 
