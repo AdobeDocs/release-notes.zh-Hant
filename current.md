@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
 workflow-type: tm+mt
-source-wordcount: '5497'
-ht-degree: 99%
+source-wordcount: '5407'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 99%
 
 此頁面可讓您存取 Experience Cloud 產品的版本注意事項頁面，以及 Experience League 上的最新教學課程、課程和活動。
 
-最近更新：**2023 年 2 月 3 日**
+發行月： **2023年1月**
+
+最近更新：**2023 年 2 月 5 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -57,10 +59,13 @@ ht-degree: 99%
 
 即將到來的活動：
 
-* [適用於內部部署和 AMS 環境的 AEM 最佳做法分析工具](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **1 月 18 日** - _了解 Adobe Experience Manager 最佳做法分析工具，該工具提供有關 AEM 內部部署和 AMS 執行個體的分析和報告功能。該工具不適用於 AEM as a Cloud Service。_
-* [Adobe Experience League 直播：資料收集重點和藍圖](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **1 月 26 日** - _資料收集對 Adobe 非常重要！您需要能夠信任您所使用的資料。去年我們已經有了許多重大的發佈，而有很多很棒的事情更即將發生。在此直播活動中，請和資料收集專家一起回顧最近的重要更新，並快速看一下即將推出的藍圖項目。_ [詳細資訊和報名](https://engage.adobe.com/ExpLeagueLive-230126.html).
+* [!DNL Workfront] - **2月7日** - _了解10個溝通秘訣，讓您和您的使用者保持一致_
 
-如需完整的活動時間表，請參閱 [Experience League 上的活動](https://experienceleague.adobe.com/events/?lang=en)。
+* [!DNL Campaign Classic] - **2月8日** - _T. Rowe Price如何推動客戶參與_
+
+* [!DNL Campaign Standard] - **2月9日**  — 社區咖啡休息 —  _Adobe [!DNL Campaign] 社群問答茶歇 — APAC_
+
+有關事件註冊和完整計畫，請參閱 [Experience League事件](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![圖示](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
