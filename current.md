@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
-ht-degree: 60%
+source-wordcount: '5006'
+ht-degree: 59%
 
 ---
 
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] 中的新功能 {#advertising-dsp}
 
-上次更新日期：**2023 年 2 月 3 日**
+上次更新日期：**2023 年 2 月 8 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 交易] | （1月25日發行版本）「詳細目錄>交易」中的新「PG曝光步調」支出欄檢視保證交易的報表步調。 |
-| [!UICONTROL 行銷活動] | （1月4日發行）現在，每個促銷活動都可使用變更記錄，其中顯示所選日期範圍內所做的變更。 包和版位已可使用更改日誌。 |
+| [!UICONTROL 行銷活動] | (2月3日發行；測試版功能)您現在可以以圖表形式檢視變更記錄，也可以為任何項目新增附註。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search] 中的新功能 {#advertising-search}
 
-上次更新日期：**2022 年 1 月 18 日**
+上次更新日期：**2023 年 2 月 8 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動], [!UICONTROL 大量表單], [!UICONTROL 進階(ACM)] | (1月5日發行： [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 行銷活動) — 如果您已在廣告網路的編輯器中建立廣告自訂程式，您現在可以在中回應式搜尋廣告的文字欄位中，將它們當成屬性 [!DNL Advertising Search]. 在廣告標題、說明以及顯示網址的第一條和第二條路徑中，使用以下格式來包含廣告自訂工具：<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>廣告標題中的廣告自訂工具範例：「大量雨靴庫存，折扣 `{CUSTOMIZER.Discount:10%}`。」 |
-| [!UICONTROL 匯入行銷活動] | (1月5日發行： [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 行銷活動) — 您可以復寫 [!DNL Google Ads] 廣告自訂 [!DNL Microsoft Advertising] 行銷活動 [!UICONTROL 搜尋] > [!UICONTROL 工具] > [!UICONTROL 匯入促銷活動]. 如果您不自訂匯入工作，則會自動複製這些值。 如果通過指定要導入的內容來自定義導入作業，請確保選擇 [!UICONTROL 動態消息] > [!UICONTROL 廣告自訂者摘要。] |
+| [!UICONTROL 行銷活動] | (2月6日發行；測試版功能)現在支援唯讀同步功能，適用於您的 [!DNL Google Ads] 發現促銷活動。 Discovery促銷活動 [!UICONTROL 促銷活動類型] &quot;[!UICONTROL 探索],&quot; [!UICONTROL 廣告群組類型] &quot;[!UICONTROL 探索], 」和 [!UICONTROL 創作類型] &quot;[!UICONTROL 發現廣告]&quot;（適用於單一影像廣告）或&quot;[!UICONTROL 探索輪播廣告]&quot;（適用於多影像輪播廣告）。 您可以在標準和混合產品組合中包括發現活動。<br><br>您的探索促銷活動的廣告層級資料可在報表中取得。 若是具有Adobe Analytics整合的廣告商，可在 [!DNL Analytics]. 同樣， [!DNL Analytics] 資料可在 [!DNL Search];資料是使用升級的 `s_kwcid` 追蹤參數，無論 `s_kwcid` 格式。 如果您一般使用舊版 `s_kwcid`，則您的點按/成本資料和收入資料會使用不同 `s_kwcids`，但兩組資料會在相同的促銷活動和帳戶下完全分類和匯總。 |
 
 {style=&quot;table-layout:auto&quot;}
 
