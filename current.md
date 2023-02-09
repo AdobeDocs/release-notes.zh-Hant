@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
+source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
 workflow-type: tm+mt
-source-wordcount: '5006'
-ht-degree: 59%
+source-wordcount: '4983'
+ht-degree: 60%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 59%
 
 ## 產品版本更新和事件 — 2023年2月
 
-內容上次更新： **2023年2月8日**
+內容上次更新： **2023年2月9日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -58,8 +58,6 @@ ht-degree: 59%
 若要向 Adobe 產品專家學習、與之互動或獲得解答，Experience League 活動是您絕佳的選擇！
 
 * [!DNL Campaign Standard] - **2月9日 |上午9:30**  — 社區咖啡休息 —  _Adobe [!DNL Campaign] 社群問答茶歇 — APAC_ - [詳細資訊與註冊](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9/td-p/568425)
-
-* [!DNL Campaign Standard] - **2月9日 |上午9:00（太平洋標準時間）**  — 社區咖啡休息 —  _[!DNL Campaign]社區問答茶歇 — 美洲/歐洲、中東和非洲_ - [詳細資訊與註冊](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9am/td-p/568421)
 
 * [!DNL Workfront] - **2月9日 |上午10:00手動** - _客戶面板 — 記錄時間_ - [詳細資訊與註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ApJEa7JdN0is2sG3HRpLDA,9brRsWkVcEahJAdD813wug,Xm1T4YtdIEGZaxxbANkVRg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
