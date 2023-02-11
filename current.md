@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 60%
+source-wordcount: '5082'
+ht-degree: 58%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 60%
 
 ## 產品版本更新和事件 — 2023年2月
 
-內容上次更新： **2023年2月9日**
+內容上次更新： **2023年2月10日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Search] 中的新功能 {#advertising-search}
 
-上次更新日期：**2023 年 2 月 8 日**
+上次更新日期：**2023 年 2 月 10 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
 | [!UICONTROL 行銷活動] | (2月6日發行；測試版功能)現在支援唯讀同步功能，適用於您的 [!DNL Google Ads] 發現促銷活動。 Discovery促銷活動 [!UICONTROL 促銷活動類型] &quot;[!UICONTROL 探索],&quot; [!UICONTROL 廣告群組類型] &quot;[!UICONTROL 探索], 」和 [!UICONTROL 創作類型] &quot;[!UICONTROL 發現廣告]&quot;（適用於單一影像廣告）或&quot;[!UICONTROL 探索輪播廣告]&quot;（適用於多影像輪播廣告）。 您可以在標準和混合產品組合中包括發現活動。<br><br>您的探索促銷活動的廣告層級資料可在報表中取得。 若是具有Adobe Analytics整合的廣告商，可在 [!DNL Analytics]. 同樣， [!DNL Analytics] 資料可在 [!DNL Search];資料是使用升級的 `s_kwcid` 追蹤參數，無論 `s_kwcid` 格式。 如果您一般使用舊版 `s_kwcid`，則您的點按/成本資料和收入資料會使用不同 `s_kwcids`，但兩組資料會在相同的促銷活動和帳戶下完全分類和匯總。 |
+|  | ([!DNL Google Ads] 賬戶；2月11日發行)支援「[!UICONTROL 目標曝光共用]「競標策略現在僅適用於搜尋網路上的促銷活動。 對於這個競標策略， [!DNL Google Ads] （否） [!DNL Search])會最佳化出價，以達到目標曝光比重和廣告位置。 您可以選擇輸入 [!UICONTROL 目標曝光共用] 作為百分比， [!UICONTROL 目標廣告位置]和 [!UICONTROL 最大CPC] （每次點按成本）。 混合產品組合尚未支援此選項。 |
+| [!UICONTROL Bulksheets] | ([!DNL Microsoft] 行銷活動；2月11日發行)大量表單現在包含「[!UICONTROL 行動要求]&quot;和&quot;[!UICONTROL 動作語言呼叫]「多媒體廣告欄（回應式廣告格式），其使用「[!UICONTROL 創意（RSA除外）]」行。 |
 
 {style=&quot;table-layout:auto&quot;}
 
