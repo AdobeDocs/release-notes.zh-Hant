@@ -1,15 +1,15 @@
 ---
 description: 此項資訊可協助您聯絡 Adobe 並瞭解使用本產品與文件的相關法律問題。
 keywords: 動態標籤管理;發行說明
-seo-description: 此項資訊可協助您聯絡 Adobe 並瞭解使用本產品與文件的相關法律問題。
-seo-title: 連絡方式與法律資訊
+seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
+seo-title: Contact and Legal Information
 title: 連絡方式與法律資訊
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '258'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -46,4 +46,4 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.A trademark symbol (®, ™, etc.)denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners.Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/tw/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners.Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_tw](https://www.adobe.com/tw/products/eula/third_party/).
