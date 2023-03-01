@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ ht-degree: 97%
 **需要協助嗎?**
 
 您的成功之道始於 [ Experience League](https://experienceleague.adobe.com/?lang=en#home)。 瀏覽我們龐大的自助[產品文件](https://experienceleague.adobe.com/docs/?lang=zh-Hant)和引導式[教學課程影片](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en)。 尋找各種等級和角色的[課程](https://experienceleague.adobe.com/?lang=en#courses)，向我們同業的線上[社群](https://experienceleaguecommunities.adobe.com/?profile.language=en)提問，並在您需要時獲得專家[支援](https://experienceleague.adobe.com/?support-tab=home#support)。
+
+## 2023 年 Adobe Summit
+
+加入我們，到拉斯維加斯來擴展您的技能，激發靈感，建立聯繫，讓您能夠讓數字經濟成為個人經濟。 對於那些無法參加拉斯維加斯世界級活動的人，可以免費從任何地方加入我們。
+
+[!BADGE 登記參加峰會]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="登記參加峰會"}
 
 ## 產品發行更新和活動 - 2023 年 2 月
 
