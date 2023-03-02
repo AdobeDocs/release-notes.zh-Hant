@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 ## 產品發行更新和活動 - 2023 年 2 月
 
-內容上次更新日期：**2023 年 2 月 10 日**
+內容上次更新： **2023年3月2日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] 中的新功能 {#advertising-dsp}
 
-上次更新日期：**2023 年 2 月 8 日**
+上次更新： **2023年3月2日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動] | (2 月 3 日版本；Beta 版功能) 您現在可以圖表形式檢視變更記錄，並且可以新增註釋到任何項目。 |
+| [!UICONTROL 行銷活動] | （2月15日發行版本）您現在可以以圖表形式檢視變更記錄，也可以為任何項目新增附註。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search] 中的新功能 {#advertising-search}
 
-上次更新日期：**2023 年 2 月 10 日**
+上次更新： **2023年3月2日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動] | (2 月 6 日版本；Beta 版功能) 現在對您的 [!DNL Google Ads]探索行銷活動提供唯讀同步支援。Discovery促銷活動 [!UICONTROL 促銷活動類型] &quot;[!UICONTROL 探索],&quot; [!UICONTROL 廣告群組類型] &quot;[!UICONTROL 探索], 」和 [!UICONTROL 創作類型] &quot;[!UICONTROL 發現廣告]&quot;（適用於單一影像廣告）或&quot;[!UICONTROL 探索輪播廣告]&quot;（適用於多影像輪播廣告）。 您可以在標準和混合專案組合中包含探索行銷活動。<br><br>報告中提供探索行銷活動的廣告層級資料。對於具有 Adobe Analytics 整合的廣告商，廣告層級資料在 [!DNL Analytics] 報告中提供。 同樣地，[!DNL Analytics] 資料在 [!DNL Search] 中可用；該資料是使用升級後的 `s_kwcid` 追蹤參數傳送的，無論您通常為帳戶使用的 `s_kwcid` 格式為何。如果您通常使用舊版本的 `s_kwcid`，那麼您的點擊次數/成本資料和收入資料會使用不同的 `s_kwcids` 進行追蹤，但兩組資料會完全分類並彙總在相同的行銷活動和帳戶下。 |
+| [!UICONTROL 行銷活動] | (Google Ads帳戶；開放測試版功能；2月23日發行)的唯讀同步支援 [!DNL Google Ads] discovery行銷活動處於測試模式，所有廣告商皆適用。  Discovery促銷活動 [!UICONTROL 促銷活動類型] &quot;[!UICONTROL 探索],&quot; [!UICONTROL 廣告群組類型] &quot;[!UICONTROL 探索], 」和 [!UICONTROL 創作類型] &quot;[!UICONTROL 發現廣告]&quot;（適用於單一影像廣告）或&quot;[!UICONTROL 探索輪播廣告]&quot;（適用於多影像輪播廣告）。 您可以在標準和混合專案組合中包含探索行銷活動。<br><br>報告中提供探索行銷活動的廣告層級資料。對於具有 Adobe Analytics 整合的廣告商，廣告層級資料在 [!DNL Analytics] 報告中提供。 同樣地，[!DNL Analytics] 資料在 [!DNL Search] 中可用；該資料是使用升級後的 `s_kwcid` 追蹤參數傳送的，無論您通常為帳戶使用的 `s_kwcid` 格式為何。如果您通常使用舊版本的 `s_kwcid`，那麼您的點擊次數/成本資料和收入資料會使用不同的 `s_kwcids` 進行追蹤，但兩組資料會完全分類並彙總在相同的行銷活動和帳戶下。 |
 |  | ([!DNL Google Ads] 賬戶；2月11日發行)支援「[!UICONTROL 目標曝光共用]「競標策略現在僅適用於搜尋網路上的促銷活動。 對於這個競標策略， [!DNL Google Ads] （否） [!DNL Search])會最佳化出價，以達到目標曝光比重和廣告位置。 您可以選擇輸入 [!UICONTROL 目標曝光共用] 作為百分比， [!UICONTROL 目標廣告位置]和 [!UICONTROL 最大CPC] （每次點按成本）。 混合產品組合尚未支援此選項。 |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] 行銷活動；2月11日發行)大量表單現在包含「[!UICONTROL 行動要求]&quot;和&quot;[!UICONTROL 動作語言呼叫]「多媒體廣告欄（回應式廣告格式），其使用「[!UICONTROL 創意（RSA除外）]」行。 |
+| Google Manager帳戶 | （2月23日發行）新 [!UICONTROL 管理] > [!UICONTROL 管理員帳戶] 功能可讓您為 [!DNL Google Ads] 管理帳戶 [!DNL Search] 會上傳跨帳戶轉換。 如果您想要上傳，請使用此功能 [!DNL Adobe] — 追蹤的跨帳戶轉換量度， [!DNL Google Ads] 管理員帳戶或b)上傳包含跨帳戶轉換的產品組合目標至 [!DNL Google Ads] 混合優化。<br><br>添加管理員帳戶的憑據後，可選的[!UICONTROL 跨帳戶轉換的經理帳戶]」欄 [!UICONTROL 行銷活動] > [!UICONTROL 帳戶] 「視圖」指示每個子帳戶的manager帳戶ID，當manager帳戶未驗證時，該列顯示錯誤。 |
 
 {style=&quot;table-layout:auto&quot;}
 
