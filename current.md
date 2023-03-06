@@ -31,7 +31,7 @@ ht-degree: 93%
 
 加入我們，到拉斯維加斯來擴展您的技能，激發靈感，建立聯繫，讓您能夠讓數字經濟成為個人經濟。 對於那些無法參加拉斯維加斯世界級活動的人，可以免費從任何地方加入我們。
 
-[!BADGE 註冊]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="註冊 [!DNL Adobe Summit]"}
+[!BADGE 註冊]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other" tooltip="註冊 [!DNL Adobe Summit]"}
 
 ## 產品發行更新和活動 - 2023 年 2 月
 
