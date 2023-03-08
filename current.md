@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cc637cf51aac23cf129fae75a7a7f63f9d678eb3
+source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
 workflow-type: tm+mt
-source-wordcount: '4641'
-ht-degree: 46%
+source-wordcount: '4620'
+ht-degree: 45%
 
 ---
 
@@ -94,8 +94,6 @@ ht-degree: 46%
 | Adobe狀態API | <ul><li>Adobe狀態API提供有關Adobe雲產品和服務中斷、中斷和維護事件的詳細資訊和即時更新。</li><li>API需在 [Adobe Developer Console](https://developer.adobe.com/console) 才能使用。 貴組織必須擁有至少一項Adobe產品的權限，才能存取AdobeAPI。 需要具有正確權限的開發人員控制台帳戶。</li><li>請查看文檔 [此處](https://developer.adobe.com/adobe-status/) 並按照指南進行設定。</li><li>完成設定後，您可以使用 [API參考檔案](https://developer.adobe.com/adobe-status/api/) 檢視可用的API和要呼叫的簽名。</li></ul> |
 
 {style="table-layout:auto"}
-
-如需最新版本資訊，請參閱 Adobe 系統狀態[版本注意事項](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=zh-Hant#status)。
 
 +++
 
