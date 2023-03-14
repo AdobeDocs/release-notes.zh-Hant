@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
-workflow-type: ht
-source-wordcount: '4620'
-ht-degree: 100%
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
+workflow-type: tm+mt
+source-wordcount: '4607'
+ht-degree: 99%
 
 ---
 
@@ -115,7 +115,7 @@ _在 3 月未更新。_
 
 +++詳細資訊
 
-* [Experience Platform 發行說明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - 預計發行日期 - **2023 年 3 月 29 日**
+* [Experience Platform發行說明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)  — 計畫發行 —  **2023年3月29日**
 
 ### 新 [!DNL Experience Platform] 教學課程和其他課程
 
@@ -481,7 +481,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 3 月 | [設定訓練用沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | 教學課程 | 了解如何設定用於訓練的沙箱。逐步說明設定結構描述、擷取範例資料和建立事件所需的步驟。 |
-| 2023 年 3 月 | [Journey Optimizer 挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 挑戰 | 挑戰提供了實施您所學知識所需的情境和要求。每個挑戰都說明了您實作的獨特使用案例。 <p>新挑戰：<ul><li>[建立夏季系列發佈](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[ 建立訂單確認](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en) </li><li>[建立產品補貨通知](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| 2023 年 3 月 | [Journey Optimizer 挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 挑戰 | 挑戰提供了實施您所學知識所需的情境和要求。每個挑戰都說明了您實作的獨特使用案例。 <p>新挑戰：<ul><li>[建立夏季系列發佈](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[ 建立訂單確認](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en) </li></ul> |
 
 {style="table-layout:auto"}
 
