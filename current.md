@@ -6,7 +6,7 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
+source-git-commit: 419494f5ae61e2c39d36efa15d00bf878a6a00dc
 workflow-type: tm+mt
 source-wordcount: '4607'
 ht-degree: 99%
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 產品發行更新和活動
 
-上次更新日期：**2023 年 3 月 8 日**
+上次更新日期：**2023 年 3 月 15 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
