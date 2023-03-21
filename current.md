@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4607'
-ht-degree: 99%
+source-wordcount: '4500'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 產品發行更新和活動
 
-上次更新日期：**2023 年 3 月 15 日**
+上次更新日期：**2023 年 3 月 20 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,24 +601,24 @@ Last updated: **August 9, 2022**
 
 了解 Adobe Advertising 的最新功能。
 
-上次更新日期：**2023 年 3 月 2 日**
+<!--
+Last updated: **March 2, 2023**
 
-| 功能 | 說明 |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動] | (2 月 15 日版本) 您現在可以圖表形式檢視變更記錄，並且可以新增註釋到任何項目。 |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### [!DNL Advertising Search] 中的新功能 {#advertising-search}
 
-上次更新日期：**2023 年 3 月 2 日**
+上次更新： **2023年3月2日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動] | (Google Ads 帳戶；公開 Beta 版功能；2 月 23 日發行) [!DNL Google Ads] 探索行銷活動的唯讀同步支援對所有廣告商都處於 Beta 模式。探索行銷活動具有[!UICONTROL 行銷活動類型]「[!UICONTROL 探索]」、「[!UICONTROL 廣告群組類型][!UICONTROL 探索]」和[!UICONTROL 創意類型]「[!UICONTROL 探索廣告]」(對於單圖廣告) 或「[!UICONTROL 探索輪播廣告]」(對於多圖輪播廣告)。您可以在標準和混合專案組合中包含探索行銷活動。<br><br>報告中提供探索行銷活動的廣告層級資料。對於具有 Adobe Analytics 整合的廣告商，廣告層級資料在 [!DNL Analytics] 報告中提供。 同樣地，[!DNL Analytics] 資料在 [!DNL Search] 中可用；該資料是使用升級後的 `s_kwcid` 追蹤參數傳送的，無論您通常為帳戶使用的 `s_kwcid` 格式為何。如果您通常使用舊版本的 `s_kwcid`，那麼您的點擊次數/成本資料和收入資料會使用不同的 `s_kwcids` 進行追蹤，但兩組資料會完全分類並彙總在相同的行銷活動和帳戶下。 |
-|  | ([!DNL Google Ads] 帳戶：2 月 11 日發行)「[!UICONTROL 目標印象份額]」競標策略的支援現在僅適用於搜尋網路上的行銷活動。對於此競標策略，[!DNL Google Ads] (非 [!DNL Search]) 會優化出價以實現目標印象份額和廣告位置。您可以選擇輸入[!UICONTROL 目標印象份額]百分比、[!UICONTROL 目標廣告位置]和[!UICONTROL 最大 CPC] (每次點按成本)。混合專案組合尚不支援此選項。 |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft]行銷活動；2 月 11 日發行) Bulksheets 現在包含「[!UICONTROL 行動號召]」和「[!UICONTROL 行動號召語言]」資料欄多媒體廣告 (採回應式廣告格式)，使用「[!UICONTROL 創作 (RSA 除外)]」資料列。 |
-| Google 管理員帳戶 | (2 月 23 日發行) 新的[!UICONTROL 管理] > [!UICONTROL 管理員帳戶] 功能可讓您提供 [!DNL Google Ads] 管理員帳戶的身份驗證，[!DNL Search] 將上傳跨帳戶轉換。此功能的使用時機：a) 當您想要將 [!DNL Adobe] 追蹤的跨帳戶轉換量度上傳到 [!DNL Google Ads] 管理員帳戶，或 b) 您想要將包含跨帳戶轉換的產品組合目標上傳到 [!DNL Google Ads] 用於最佳化混合。<br><br>當您為管理員帳戶新增憑證後，[!UICONTROL 行銷活動] > [!UICONTROL 帳戶]檢視中的「[!UICONTROL 跨帳戶轉換的管理員帳戶]」資料欄 (選擇性) 將為每個子帳戶指示管理員帳戶 ID，當管理員帳戶未通過驗證時，資料欄會顯示錯誤。 |
+| [!UICONTROL 行銷活動] | ([!DNL Microsoft Advertising] 對象行銷活動；開放測試版功能；3月18日發行版本)觀眾行銷活動現在可以使用增強的CPC(eCPC)競標策略。 您可以在子廣告群組設定中設定競標。<br><br>具有eCPC的受眾行銷活動可納入產品組合，以進行最佳化。 |
+| [!UICONTROL 行銷活動]、[!UICONTROL 報告] | ([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 賬戶；3月18日發行版本)下列新的顯著度量可用於行銷活動管理檢視和報表：<ul><li><p>[!UICONTROL 內容為]:您在顯示/受眾網路上收到的廣告曝光次數除以您有資格收到的顯示廣告曝光次數預估數。</p><p>這個和其他的&quot;[!UICONTROL 內容]*」量度可用於內容廣告相關實體和相關基本報表中的所有促銷活動管理檢視中：  [!UICONTROL 搜尋引擎], [!UICONTROL 搜尋引擎帳戶], [!UICONTROL 行銷活動], [!UICONTROL 廣告群組]，和 [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 內容丟失IS（預算）]:顯示/受眾網路上的廣告未收到的曝光預估百分比，因為您的每日或每月預算太低。<p></li><li><p>[!UICONTROL 內容遺失IS（排名）]:顯示/對象網路上的廣告因廣告排名不佳而未顯示的預估曝光百分比。</p></li><li><p>[!UICONTROL 搜索完全匹配IS]:與關鍵字完全匹配的搜尋所收到的曝光次數除以您有資格收到的完全匹配曝光次數預估數。</p><p>對於與搜尋廣告相關的實體，以及相關的基本報表，此量度可用於所有促銷活動管理檢視中：  [!UICONTROL 搜尋引擎], [!UICONTROL 搜尋引擎帳戶], [!UICONTROL 行銷活動], [!UICONTROL 廣告群組], [!UICONTROL 關鍵字], [!UICONTROL 產品組]，和 [!UICONTROL Portfolio]. 它們也在 [!UICONTROL 限制], [!UICONTROL 標籤分類]，和 [!UICONTROL 標籤值] 報表。</p></li></ul> |
 
 {style="table-layout:auto"}
 
