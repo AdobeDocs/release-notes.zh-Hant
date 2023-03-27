@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 ## 產品發行更新和活動
 
-上次更新日期：**2023 年 3 月 20 日**
+上次更新日期：**2023 年 3 月 27 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### [!DNL Advertising Search] 中的新功能 {#advertising-search}
 
-上次更新： **2023年3月2日**
+上次更新日期：**2023 年 3 月 27 日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
 | [!UICONTROL 行銷活動] | ([!DNL Microsoft Advertising] 對象行銷活動；開放測試版功能；3月18日發行版本)觀眾行銷活動現在可以使用增強的CPC(eCPC)競標策略。 您可以在子廣告群組設定中設定競標。<br><br>具有eCPC的受眾行銷活動可納入產品組合，以進行最佳化。 |
+| [!UICONTROL 行銷活動], [!UICONTROL Portfolio] | ([!DNL Google Ads] 賬戶；開放測試版功能)現在提供最佳化支援， [!DNL Google Ads] 績效最大的促銷活動，而且您可以將它們新增至混合產品組合。 競標策略目標和促銷活動預算是在促銷活動層級設定。 |
 | [!UICONTROL 行銷活動]、[!UICONTROL 報告] | ([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 賬戶；3月18日發行版本)下列新的顯著度量可用於行銷活動管理檢視和報表：<ul><li><p>[!UICONTROL 內容為]:您在顯示/受眾網路上收到的廣告曝光次數除以您有資格收到的顯示廣告曝光次數預估數。</p><p>這個和其他的&quot;[!UICONTROL 內容]*」量度可用於內容廣告相關實體和相關基本報表中的所有促銷活動管理檢視中：  [!UICONTROL 搜尋引擎], [!UICONTROL 搜尋引擎帳戶], [!UICONTROL 行銷活動], [!UICONTROL 廣告群組]，和 [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 內容丟失IS（預算）]:顯示/受眾網路上的廣告未收到的曝光預估百分比，因為您的每日或每月預算太低。<p></li><li><p>[!UICONTROL 內容遺失IS（排名）]:顯示/對象網路上的廣告因廣告排名不佳而未顯示的預估曝光百分比。</p></li><li><p>[!UICONTROL 搜索完全匹配IS]:與關鍵字完全匹配的搜尋所收到的曝光次數除以您有資格收到的完全匹配曝光次數預估數。</p><p>對於與搜尋廣告相關的實體，以及相關的基本報表，此量度可用於所有促銷活動管理檢視中：  [!UICONTROL 搜尋引擎], [!UICONTROL 搜尋引擎帳戶], [!UICONTROL 行銷活動], [!UICONTROL 廣告群組], [!UICONTROL 關鍵字], [!UICONTROL 產品組]，和 [!UICONTROL Portfolio]. 它們也在 [!UICONTROL 限制], [!UICONTROL 標籤分類]，和 [!UICONTROL 標籤值] 報表。</p></li></ul> |
 
 {style="table-layout:auto"}
