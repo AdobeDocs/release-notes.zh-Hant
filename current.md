@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
+source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
 workflow-type: tm+mt
-source-wordcount: '4534'
-ht-degree: 93%
+source-wordcount: '4471'
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 ## 產品發行更新和活動
 
-上次更新日期：**2023 年 3 月 27 日**
+上次更新日期：**2023 年 3 月 29 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -59,17 +59,13 @@ ht-degree: 93%
 
 +++即將到來的活動
 
-* **[!DNL Analytics]** | _使用 Adobe Analytics 快速取得深入見解_ | **3 月 9 日 @ 8:00 AM PT** |  [報名](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Marketo]** | _Adobe Marketo Engage可能很大，了解小團隊如何將他們的例項最大化_ | **3月30日早8點，品脫** |  [註冊](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas：傳遞性 (第 1 部分)_ | **3 月 9 日 @ 1:00 PM ET** | [報名](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Workfront]** | _連接：適用於行銷和創意的管理員聊天_ | **3月31日上午10點** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _連接：策略性管理員聊天_ | **3 月 13 日 @ 7:00 AM MT** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo和Mochas:傳遞能力（第2部分）_ | **4月5日@下午1:00 ET** | [註冊](https://register.gotowebinar.com/register/6818591002040103259)
 
-* **[!DNL Workfront]** | _系統管理要領：使用介面設計提升使用者體驗_ | **3 月 15 日 @ 8:00 AM PT** | [報名](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
-
-* **[!DNL Marketo Engage]** | _Marketo 社群問答咖啡會_ | **3 月 15 日 @ 08:00 AM PT** | [報名](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_ME&amp;utm_content=230315)
-
-* **[!DNL Adobe Summit]**|_終極體驗回來了。加入我們在拉斯維加斯培養技能，向世界頂尖品牌學習並獲得靈感_ | **3 月 19 日 @ 09:00 AM PT** | [報名](https://summit.adobe.com/na/?promoid=2K4PC9V3&amp;mv=other)
+* **[!DNL Adobe Summit]** |_再回到Summit一年！_ | **隨選** | [詳細資料](https://business.adobe.com/summit/adobe-summit.html)
 
 請查看[Experience League 活動](https://experienceleague.adobe.com/events/?lang=en)取得即將到來的活動和隨選即播的過去活動的完整時間表。
 
