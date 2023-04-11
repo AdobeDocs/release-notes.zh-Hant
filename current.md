@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
+source-git-commit: fe9ee338ec6803e4f9fb2dde4748d751c47e0e47
 workflow-type: tm+mt
-source-wordcount: '4580'
-ht-degree: 89%
+source-wordcount: '4634'
+ht-degree: 88%
 
 ---
 
@@ -614,15 +614,13 @@ Last updated: **August 9, 2022**
 
 了解 Adobe Advertising 的最新功能。
 
-<!--
-Last updated: **March 2, 2023**
+上次更新日期：**2023 年 4 月 10 月**
 
-| Feature | Description |
+| 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL 報表] | （3月發行）新 [!UICONTROL 家庭] 報表會根據IP位址，而非裝置/Cookie層級，顯示家庭層級各維度的曝光數、觸及和頻率。 報表包含九個維度： [!UICONTROL 行銷活動], [!UICONTROL 套件], [!UICONTROL 版位], [!UICONTROL 網站/應用程式], [!UICONTROL 媒體類型], [!UICONTROL 裝置], [!UICONTROL 對象], [!UICONTROL 創作長度]，以及使用者建立的 [!UICONTROL 標籤]. |
 
 {style="table-layout:auto"}
--->
 
 ### [!DNL Advertising Search] 中的新功能 {#advertising-search}
 
