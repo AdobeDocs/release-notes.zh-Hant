@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
+source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
 workflow-type: tm+mt
-source-wordcount: '5815'
+source-wordcount: '5816'
 ht-degree: 60%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 60%
 
 [!DNL Adobe System Status] 會提供有關 Adobe 產品及服務中斷、作業中斷和維護事件的詳細資訊、狀態更新和電子郵件通知。請造訪 [status.adobe.com](https://status.adobe.com/) 來查看。
 
-請參閱 [發行說明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=zh-Hant#status) Adobe狀態以檢視最新更新。
+請參閱 [2023年3月發行說明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=zh-Hant#status) Adobe狀態以檢視最新更新。
 
 +++
 
