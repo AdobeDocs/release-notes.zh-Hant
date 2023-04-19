@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
-ht-degree: 96%
+source-wordcount: '5765'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 96%
 
 ## 產品發行更新和活動
 
-上次更新日期：**2023 年 4 月 12 日**
+上次更新日期：**2023 年 4 月 18 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [Adobe 認證](#certification)(**新增！**)
@@ -58,13 +58,23 @@ ht-degree: 96%
 
 了解 Experience League 的最新消息。若要向 Adobe 產品專家學習、與之互動或獲得解答，活動是您絕佳的選擇！
 
+已更新： **2023年4月19日**
+
 +++即將到來的活動
 
-* **[!DNL Workfront]** | _連接：策略性管理員聊天_ | **4 月 10 日 @ 8:00 AM CT** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _詢問專家：透過自動化網路研討會後續活動推進工作流程清理_ | **4月27日上午10點30分（手動）** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _與 Matthew Baillie 和 Georgia Frailey 一同參加 Adobe Target 社群問答咖啡會_ | **4 月 12 日 @ 8:00 AM PT** |  [報名](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _AEM Sites增壓車間_ | **4月25日早8點00分（品脫）** |  [註冊](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _了解：Adobe Workfront 23.2 版概要_ | **4 月 12 日 @ 12:30 PM CT** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _只需按幾下，即可啟動資料收集和事件轉送並執行！_ | **4月25日上午9點** | [註冊](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo冠軍深入探討：電子郵件培養_ | **4月25日上午10點00分PT** | [註冊](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion營業時間 — AEMas a Cloud Service_ | **4月27日早7時30分（太平）** | [註冊](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _建立Adobe Analytics專家團隊_ | **4月27日早8點00分（品脫）** | [註冊](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target — 每次都提供個人化客戶體驗！_ | **4月27日英國夏令時早9點** | [註冊](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]**|_全年重訪 Summit！_ | **隨選即播** | [詳細資訊](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Last updated: **August 9, 2022**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動] | ([!DNL Microsoft® Advertising] 對象行銷活動；4月15日發行版本)觀眾促銷活動現在可以使用「手動CPM」競標策略。 您可以在子廣告群組設定中設定出價。<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL 行銷活動] | ([!DNL Microsoft® Advertising] 對象行銷活動；4月15日發行版本)觀眾促銷活動現在可以使用「手動CPM」競標策略。 您可以在子廣告群組設定中設定出價。<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | 6個新([!DNL Google Ads] 建議可從 [!UICONTROL 前瞻分析與報表] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL 回應式搜尋改善廣告強度]:改善回應式搜尋廣告廣告強度的建議</li><li>[!UICONTROL 將本機促銷活動升級至效能上限]:將舊版本機促銷活動升級至效能上限促銷活動</li><li>[!UICONTROL 將智慧型購物促銷活動升級至效能上限]:將舊版智慧型購物促銷活動升級至效能上限促銷活動</li><li>[!UICONTROL 預測集目標ROAS]:在預測會增加流量的季節性事件之前提高預算，並將競標策略從 [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL 將目標CPA的出價提高到過低]:提高 [!DNL Target CPA] 值過低且轉換次數少或沒有轉換時，建議的量</li><li>[!UICONTROL 顯示展開選擇加入]:更新促銷活動以使用顯示擴展來擴展觸及</li></ul>因為新增和移除資產、變更促銷活動類型以及變更預算和競標策略都可能影響效能，我們建議您與Adobe客戶團隊討論每個建議的優點和缺點，以便您做出明智的決策。 |
 
 {style="table-layout:auto"}
