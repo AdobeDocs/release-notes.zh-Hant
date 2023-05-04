@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
+source-git-commit: f92a2fb6b52631169fcf61eb89789483ff124b49
 workflow-type: tm+mt
-source-wordcount: '5752'
+source-wordcount: '5771'
 ht-degree: 93%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 93%
 * **[!DNL Commerce]** | _Commerce &amp; Coffee:建立客戶忠誠度和保留率的7種方式_ | **5月11日@下午1:00 PT** | [註冊](https://register.gotowebinar.com/#register/4149787110381957724)
 
 * **[!DNL Workfront]** | _連接：策略管理員聊天_ | **5月15日早8點** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+前往 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League，檢視過去事件並查看後續內容。
 
 +++
 
