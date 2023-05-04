@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
+source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
 workflow-type: tm+mt
-source-wordcount: '5765'
-ht-degree: 94%
+source-wordcount: '5752'
+ht-degree: 93%
 
 ---
 
@@ -31,10 +31,10 @@ ht-degree: 94%
 
 ## 產品發行更新和活動
 
-上次更新日期：**2023 年 4 月 18 日**
+最近更新日期：**2023 年 5 月 4 日**
 
-* [[!DNL Experience League] 活動](#events)
-* [Adobe 認證](#certification)(**新增！**)
+* [[!DNL Experience League] 事件](#events) (已更新： **5月4日**)
+* [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 介面與管理](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,27 +58,19 @@ ht-degree: 94%
 
 了解 Experience League 的最新消息。若要向 Adobe 產品專家學習、與之互動或獲得解答，活動是您絕佳的選擇！
 
-已更新： **2023年4月19日**
+已更新： **2023年5月4日**
 
 +++即將到來的活動
 
-* **[!DNL Workfront]** | _詢問專家：透過自動化網路研討會後續活動推進工作流程清理_ | **4月27日上午10點30分（手動）** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _連接：適用於行銷和創意的管理員聊天_ | **5月5日上午10點** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _AEM Sites增壓車間_ | **4月25日早8點00分（品脫）** |  [註冊](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign:每次都正確處理電子郵件行銷！_ | **5月11日英國夏令時早9點** |  [註冊](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _只需按幾下，即可啟動資料收集和事件轉送並執行！_ | **4月25日上午9點** | [註冊](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _學習：Workfront中的計算自訂欄位_ | **5月11日上午10:30手動** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Marketo冠軍深入探討：電子郵件培養_ | **4月25日上午10點00分PT** | [註冊](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _Commerce &amp; Coffee:建立客戶忠誠度和保留率的7種方式_ | **5月11日@下午1:00 PT** | [註冊](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion營業時間 — AEMas a Cloud Service_ | **4月27日早7時30分（太平）** | [註冊](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _建立Adobe Analytics專家團隊_ | **4月27日早8點00分（品脫）** | [註冊](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target — 每次都提供個人化客戶體驗！_ | **4月27日英國夏令時早9點** | [註冊](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]**|_全年重訪 Summit！_ | **隨選即播** | [詳細資訊](https://business.adobe.com/summit/adobe-summit.html)
-
-請查看[Experience League 活動](https://experienceleague.adobe.com/events/?lang=en)取得即將到來的活動和隨選即播的過去活動的完整時間表。
+* **[!DNL Workfront]** | _連接：策略管理員聊天_ | **5月15日早8點** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
