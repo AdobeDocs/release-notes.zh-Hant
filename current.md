@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5744'
+source-wordcount: '5731'
 ht-degree: 49%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 49%
 
 ## 產品發行更新和活動
 
-最近更新日期：**2023 年 5 月 9 日**
+最近更新日期：**2023 年 5 月 10 日**
 
 * [[!DNL Experience League] 活動](#events)
 * [Adobe 的認證](#certification)
@@ -47,8 +47,8 @@ ht-degree: 49%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac) (**5 月 10 日**&#x200B;更新)
+* [[!DNL Journey Optimizer]](#journey-opt) （已更新） **5月10日**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 5 月 | [建立調查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 影片 | 了解如何在Adobe Campaign Classic中建立調查。 | Campaign v8 |
-| 2023 年 5 月 | [建立調查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 影片 | 了解如何在Adobe Campaign Classic中建立調查。 | Campaign Classic |
-| 2023 年 5 月 | [設計電子郵件傳遞內容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 影片 | 了解如何設定、個人化及測試電子郵件傳送內容。 了解如何使用範本、上傳影像、新增表情符號，以及內嵌長條碼和QR碼。 | Campaign Classic |
-| 2023 年 5 月 | [監視傳遞](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 影片 | 了解訊息記錄、工作記錄和傳送記錄。 | Campaign Standard |
+| 2023 年 5 月 | [建立調查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 影片 | 了解如何在 [!DNL Adobe Campaign] v8。 | [!DNL Campaign] v8 |
+| 2023 年 5 月 | [建立調查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 影片 | 了解如何在 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| 2023 年 5 月 | [設計電子郵件傳遞內容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 影片 | 了解如何設定、個人化及測試電子郵件傳送內容。 了解如何使用範本、上傳影像、新增表情符號，以及內嵌長條碼和QR碼。 | [!DNL Campaign Classic] |
+| 2023 年 5 月 | [監視傳遞](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 影片 | 了解訊息記錄、工作記錄和傳送記錄。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 5 月 | [製作網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 影片 | 了解如何使用Journey Optimizer行銷活動中的網頁視覺編輯器製作網頁體驗。 |
+| 2023 年 5 月 | [製作網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 影片 | 了解如何使用 [!DNL Journey Optimizer] 行銷活動。 |
 | 2023 年 5 月 | [建立網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 影片 | 了解網路行銷活動是什麼。 了解如何設定Web行銷活動屬性、檢閱及發佈。 |
-| 2023 年 5 月 | [將資料集匯出至雲端儲存位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 影片 | 了解如何將資料集從Journey Optimizer匯出至Amazon S3目的地。 |
+| 2023 年 5 月 | [將資料集匯出至雲端儲存位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 影片 | 了解如何從匯出資料集 [!DNL Journey Optimizer] 到 [!DNL Amazon] S3目的地。 |
 
 {style="table-layout:auto"}
 
