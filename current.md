@@ -33,7 +33,7 @@ ht-degree: 94%
 
 最近更新日期：**2023 年 5 月 22 日**
 
-* [[!DNL Experience League] 事件和更新](#events) （已更新） **5月22日**)
+* [[!DNL Experience League] 事件和更新](#events) (已更新 **5月22日**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 介面與管理](#ecloud)
@@ -48,7 +48,7 @@ ht-degree: 94%
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
 * [[!DNL Campaign]](#ac) (**5 月 10 日**&#x200B;更新)
-* [[!DNL Journey Optimizer]](#journey-opt) （已更新） **5月10日**)
+* [[!DNL Journey Optimizer]](#journey-opt) (已更新 **5月10日**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -56,13 +56,13 @@ ht-degree: 94%
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![表徵圖](/assets/experience-league.png) [!DNL Experience League] 事件和更新 {#events}
+## ![圖示](/assets/experience-league.png) [!DNL Experience League] 事件和更新 {#events}
 
 了解 Experience League 的最新消息。若要向 Adobe 產品專家學習、與之互動或獲得解答，活動是您絕佳的選擇！
 
 更新日期：**2023 年 5 月 22 日**
 
-**改進了Experience League內容搜索：** 您可以自定義如何篩選您擁有的產品的內容搜索結果。 根據以下各項顯示結果：
+**改善Experience League上的內容搜尋：** 您可以自訂如何篩選您所擁有產品的內容搜尋結果。 顯示結果依據：
 
 * 教學課程
 * 課程
@@ -71,19 +71,19 @@ ht-degree: 94%
 * 活動
 * 認證
 
-轉到 [Experience League](https://experienceleague.adobe.com/?lang=en#home) 看看它！
+前往 [Experience League](https://experienceleague.adobe.com/?lang=en#home) 看看吧！
 
 +++即將到來的活動
 
 * **[!DNL Experience Manager]** | _Developer&#39;s Live：可組合的體驗 - 為期一天的虛擬會議，包含直播研討會和社群交流機會。_ | **5 月 23 日上午 8:00 (山區夏令時間)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
 
-* **[!DNL Workfront]** | _瞭解：史考姆與Adobe Workfront_ | **5月23日下午2:00 CT** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _瞭解：使用Adobe Workfront的Scrum簡介_ | **5月23日下午2:00 CT** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _對組織進行超額收費，以提供資料驅動的個性化_ | **5月24日早8:00 PT** | [註冊](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Target]** | _為您的組織增加額外負荷，以提供資料導向的個人化_ | **太平洋時間5月24日上午8:00** | [註冊](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _問問專家：項目模板基礎網路研討會後續活動_ | **5月24日上午10點** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _詢問專家：專案範本基礎網路研討會後續追蹤_ | **5月24日上午10:00 (CT)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Assets]** | _濃縮咖啡和Experience Manager-AEM Assets移民_ | **5月25日下午1:00 PT** | [註冊](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager Assets]** | _濃縮咖啡與Experience Manager- AEM Assets移轉_ | **太平洋時間5月25日下午1:00** | [註冊](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 及更多內容！前往 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)，以查看過去的活動和排程的活動。
 
@@ -373,7 +373,7 @@ _已知問題_
 | 2023 年 5 月 | [在互動式通訊中自訂文字編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | 影片 | 在互動式通訊中自訂文字編輯器以新增自訂字型和大小。 | AEM Forms |
 | 2023 年 5 月 | [React 應用程式與 AEM Forms 和 Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | 影片 | 使用從原生 React 應用程式提交的資料建立互動式通訊文件，並將其呈現給一般使用者以使用 Acrobat 簽名 Widget 進行簽名 | AEM Forms |
 | 2023 年 5 月 | [將 Forms CS 與 Sharepoint 整合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | 影片 | 了解如何設定和將 AEM Forms CS 與 Microsoft® Sharepoint 整合。 | AEM Forms CS |
-| 2023 年 5 月 | [將表單提交儲存在OneDrive中](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 影片 | 配置自適應表單以在OneDrive中儲存表單資料。 | AEM Forms CS |
+| 2023 年 5 月 | [在OneDrive中儲存表單提交](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 影片 | 設定最適化表單以將表單資料儲存在OneDrive。 | AEM Forms CS |
 | 2023 年 5 月 | [如何使用 AEM Headless 中的最佳化影像](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | 影片 | 如何使用 AEM Headless 中的最佳化影像。 | AEM CS |
 | 2023 年 5 月 | [了解如何在 AEM Headless 中使用大型結果](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=zh-Hant) | 影片 | 了解如何在 AEM Headless 中使用大型結果集。 | AEM CS |
 
@@ -483,10 +483,10 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 5 月 | [建立意見調查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 影片 | 瞭解如何在 [!DNL Adobe Campaign] v8 | [!DNL Campaign] v8 |
-| 2023 年 5 月 | [建立意見調查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 影片 | 瞭解如何在 [!DNL Adobe Campaign Classic]。 | [!DNL Campaign Classic] |
+| 2023 年 5 月 | [建立意見調查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 影片 | 瞭解如何在中建立調查 [!DNL Adobe Campaign] v8。 | [!DNL Campaign] v8 |
+| 2023 年 5 月 | [建立意見調查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 影片 | 瞭解如何在中建立調查 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
 | 2023 年 5 月 | [設計電子郵件傳遞內容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 影片 | 了解如何設定、個人化及測試電子郵件傳遞內容。 了解如何使用範本、上傳影像、新增表情符號，以及內嵌條碼與 QR 碼。 | [!DNL Campaign Classic] |
-| 2023 年 5 月 | [監視傳遞](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 影片 | 瞭解消息日誌、作業日誌和傳遞日誌。 | [!DNL Campaign Standard] |
+| 2023 年 5 月 | [監視傳遞](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 影片 | 瞭解訊息記錄檔、工作記錄檔和傳遞記錄檔。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -527,9 +527,9 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 5 月 | [製作網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 影片 | 瞭解如何使用中的Web可視編輯器建立Web體驗 [!DNL Journey Optimizer] 活動。 |
+| 2023 年 5 月 | [製作網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 影片 | 瞭解如何在中使用網頁視覺化編輯器編寫網頁體驗 [!DNL Journey Optimizer] 行銷活動。 |
 | 2023 年 5 月 | [建立網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 影片 | 了解網路行銷活動是什麼。 了解如何設定網路行銷活動屬性、檢閱及發佈。 |
-| 2023 年 5 月 | [將資料集匯出至雲端儲存空間位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 影片 | 瞭解如何從中導出資料集 [!DNL Journey Optimizer] 到 [!DNL Amazon] S3目標。 |
+| 2023 年 5 月 | [將資料集匯出至雲端儲存空間位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 影片 | 瞭解如何從匯出資料集 [!DNL Journey Optimizer] 至 [!DNL Amazon] S3目的地。 |
 
 {style="table-layout:auto"}
 
@@ -685,7 +685,7 @@ Last updated: **August 9, 2022**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 行銷活動] | ([!DNL Microsoft® Advertising] 對象行銷活動；4 月 15 日發行) 對象行銷活動現在可以使用「手動 CPM」競標策略。您可以在子廣告群組設定中設定出價。<br><br>CPM活動不提供優化支援。 |
+| [!UICONTROL 行銷活動] | ([!DNL Microsoft® Advertising] 對象行銷活動；4 月 15 日發行) 對象行銷活動現在可以使用「手動 CPM」競標策略。您可以在子廣告群組設定中設定出價。<br><br>CPM行銷活動不提供最佳化支援。 |
 | [!UICONTROL Recommendations] | 六個新 ([!DNL Google Ads] 建議可從 [!UICONTROL Insights &amp; Reports] > [!UICONTROL Recommendations] 取得：<ul><li>[!UICONTROL 回應式搜尋提高廣告強度]：關於提高回應式搜尋廣告之廣告強度的建議</li><li>[!UICONTROL 將本地行銷活動升級到最高成效]：將舊版本地行銷活動升級到最高成效行銷活動</li><li>[!UICONTROL 將智慧購物行銷活動升級到最高成效]：將舊版智慧購物行銷活動升級到最高成效行銷活動</li><li>[!UICONTROL 預測設定的 Target ROAS]：在預計會增加流量的季節性活動之前提高預算，並將競標策略從 [!DNL Maximize Conversion Value] 變更到 [!DNL Target ROAS]</li><li>[!UICONTROL 提高太低的 Target CPA 競標]：當 [!DNL Target CPA] 太低且很少或沒有轉換時，按建議量提高。</li><li>[!UICONTROL 顯示擴展選擇加入]：更新行銷活動以使用顯示擴展來擴大觸及率</li></ul>由於新增和刪除資產、變更行銷活動類型以及變更預算和競標策略都會影響成效，因此我們建議您與 Adobe 客戶團隊討論每項建議的利弊，以便您做出明智的決定。 |
 
 {style="table-layout:auto"}
