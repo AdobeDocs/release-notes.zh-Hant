@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
+source-git-commit: be634ab0dcb6a3facb46bb57ee6910b06427a8be
 workflow-type: tm+mt
-source-wordcount: '5725'
-ht-degree: 100%
+source-wordcount: '5698'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## 產品發行更新和活動
 
-最近更新日期：**2023 年 5 月 22 日**
+最近更新日期：**2023 年 5 月 30 日**
 
 * [[!DNL Experience League] 活動與最新訊息](#events) (**5 月 22 日**&#x200B;更新)
 * [Adobe 的認證](#certification)
@@ -52,7 +52,7 @@ ht-degree: 100%
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (**5 月 30 日**&#x200B;更新)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -671,11 +671,11 @@ Last updated: **August 9, 2022**
 
 了解 Adobe Advertising 的最新功能。
 
-上次更新日期：**2023 年 4 月 10 月**
+上次更新日期： **2023年5月30日**
 
 | 功能 | 說明 |
 | ------- | ----------- |
-| [!UICONTROL 報表] | (3 月發行) 新的[!UICONTROL 家庭]報告顯示跨家庭層級之各種維度的曝光數、觸及率和頻率 (根據 IP 位址)，而不是裝置/Cookie 層級。該報告包含九個維度：[!UICONTROL 行銷活動]、[!UICONTROL 套件]、[!UICONTROL 版位]、[!UICONTROL 網站/應用程式]、[!UICONTROL 媒體類型]、[!UICONTROL 裝置]、[!UICONTROL 對象]、[!UICONTROL 創意長度]和使用者建立的[!UICONTROL 標記]。 |
+| [!UICONTROL 行銷活動] | （5月24日發行）您現在可以暫停或啟用行銷活動、套件和廣告。 您已經可以暫停並啟用版位。 |
 
 {style="table-layout:auto"}
 
