@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: be634ab0dcb6a3facb46bb57ee6910b06427a8be
+source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
 workflow-type: tm+mt
-source-wordcount: '5698'
-ht-degree: 99%
+source-wordcount: '5609'
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 99%
 
 了解 Experience League 的最新消息。若要向 Adobe 產品專家學習、與之互動或獲得解答，活動是您絕佳的選擇！
 
-更新日期：**2023 年 5 月 22 日**
+更新日期：**2023 年 5 月 30 日**
 
 **改善 Experience League 的內容搜尋功能：**&#x200B;您可以自訂如何為擁有的產品篩選內容搜尋結果。顯示結果依據：
 
@@ -75,17 +75,13 @@ ht-degree: 99%
 
 +++即將到來的活動
 
-* **[!DNL Experience Manager]** | _Developer&#39;s Live：可組合的體驗 - 為期一天的虛擬會議，包含直播研討會和社群交流機會。_ | **5 月 23 日上午 8:00 (山區夏令時間)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+* **[!DNL Experience Manager - Cloud Manager]** | _DAEM Champion營業時間 — AEM Cloud Manager_ | **太平洋時間5月31日上午7:30** | [註冊](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]** | _學習：使用 Adobe Workfront 的 Scrum 入門介紹_ | **5 月 23 日 @ 2:00 PM CT** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _與Ivan Mironchuk Peter Fransen、Jason Hickey和Sandra Hausmann一起參加Adobe Journey Optimizer社群問答咖啡會_ | **太平洋時間5月31日上午8:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Target]** | _增進組織能力以利提供資料驅動的個人化服務_ | **5 月 24 日 @ 8:00 AM PT** | [註冊](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Audience Manager]** | _使用Adobe Audience Manager實現最大價值：順應產業變化並轉換至RTCDP_ | **太平洋時間6月1日上午10:00** | [註冊](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]** | _詢問專家：專案範本基礎網路研討會的後續努力_ | **5 月 24 日 @ 10:00 AM CT** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Assets]** | _Espressos &amp; Experience Manager - AEM Assets 移轉_ | **5 月 25 日 @ 1:00 PM PT** | [註冊](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/) 
-
-及更多內容！前往 Experience League 上的[活動](https://experienceleague.adobe.com/events/?lang=en)，以查看過去的活動和排程的活動。
+[深入了解...](https://experienceleague.adobe.com/events/?lang=en)
 
 +++
 
