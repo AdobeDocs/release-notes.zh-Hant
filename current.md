@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
 workflow-type: tm+mt
-source-wordcount: '5609'
-ht-degree: 98%
+source-wordcount: '5635'
+ht-degree: 97%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 98%
 * [[!DNL Experience League] 活動與最新訊息](#events) (**5 月 22 日**&#x200B;更新)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] 介面與管理](#ecloud)
+* [[!DNL Experience Cloud] 介面與管理](#ecloud) (已更新 **5月25日**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
@@ -119,7 +119,9 @@ ht-degree: 98%
 
 +++詳細資訊
 
-_在 5 月未更新。_
+發行版本： **2023年5月25日**
+
+* 更新說明功能表，加入Experience League教學課程影片、產品檔案和社群貼文的搜尋結果。 您可以以Experience League檢視結果。
 
 如需說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=zh-Hant) (包括 [!UICONTROL 客戶屬性]和[!UICONTROL 對象])。
 
