@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
+source-git-commit: fef359d7640b8bbe1a35e750e7641e65a071d479
 workflow-type: tm+mt
-source-wordcount: '5517'
-ht-degree: 96%
+source-wordcount: '5647'
+ht-degree: 93%
 
 ---
 
@@ -75,11 +75,15 @@ ht-degree: 96%
 
 +++即將到來的活動
 
-* **[!DNL Experience Manager - Cloud Manager]** | _DAEM Champion營業時間 — AEM Cloud Manager_ | **太平洋時間5月31日上午7:30** | [註冊](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
+* **[!DNL Workfront]** | _Connect：行銷與創意領域的管理員聊天_ | **6月6日下午3:00 （北美山區時區）** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Journey Optimizer]** | _與Ivan Mironchuk Peter Fransen、Jason Hickey和Sandra Hausmann一起參加Adobe Journey Optimizer社群問答咖啡會_ | **太平洋時間5月31日上午8:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
+* **[!DNL Marketo Engage]** | _Marketo與Mochas — 客戶歷程管理：生命週期模式_ | **6月8日下午1:00 （東部時間）** | [註冊](https://register.gotowebinar.com/register/8576570459027384151)
 
-* **[!DNL Audience Manager]** | _使用Adobe Audience Manager實現最大價值：順應產業變化並轉換至RTCDP_ | **太平洋時間6月1日上午10:00** | [註冊](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
+* **[!DNL Workfront]** | _詢問專家：運用免費的Adobe Workfront + Creative Cloud整合_ | **6月8日上午10:30 （北美山區時間）** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _連線： Workfront策略管理員聊天_ | **6月12日上午8:00 (CT)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _詢問專家：Workfront中的資源管理（辦公時間）_ | **6月13日下午2:00 （北美山區時區）** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [深入了解...](https://experienceleague.adobe.com/events/?lang=en)
 
@@ -141,7 +145,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.-->
 
 ### [!DNL Mobile] SDK
 
-已更新：**2022 年 11 月 11 日**- 請查看 [!DNL Adobe Experience Platform][!DNL Mobile SDKs] [發行說明和變更記錄](https://aep-sdks.gitbook.io/docs/release-notes)。
+另請參閱 [發行說明](https://developer.adobe.com/client-sdks/documentation/release-notes/) 的 [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
 
 +++
 
