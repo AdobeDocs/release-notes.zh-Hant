@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
+source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 50%
@@ -620,7 +620,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 6 月 | [預設程式](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | 影片 | 瞭解如何建立和測量您的第一個 [!UICONTROL 預設計畫]. |
 | 2023 年 6 月 | [電子郵件程式](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | 影片 | 觀看此逐步教學課程，瞭解如何使用A/B測試建立電子郵件計畫。 |
-| 2023 年 6 月 | [參與計畫](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | 影片 | 請依照此逐步教學課程，建置您的第一個參與計畫。 |
+| 2023 年 6 月 | [參與計畫](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | 影片 | 請依照此逐步教學課程，建置您的第一個參與計畫。 |
 | 2023 年 6 月 | [活動計畫](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | 影片 | 觀看此影片，以逐步瞭解並建置您的第一個活動計畫。 |
 | 2023 年 6 月 | [建立事件程式](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | 影片 | 瞭解如何根據中預先建立的計畫來建立展銷會活動計畫 [!DNL Marketo]. |
 | 2023 年 6 月 | [報告與分析](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | 影片 | 瞭解如何導覽 [!DNL Analytics] 和 [!UICONTROL 資料庫] 區段以提取不同的現成報告 [!DNL Marketo Engage]. |
@@ -738,7 +738,7 @@ Last updated: **August 9, 2022**
 | 2023 年 6 月 | [將PDF轉換為PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | 影片 | 在這段60秒鐘的教學影片中，瞭解如何將PDF檔案轉換為完全可編輯的Microsoft PowerPoint檔案。 | Acrobat |
 | 2023 年 6 月 | [即時共同作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=zh-Hant) | 影片 | 隨著遠端工作隨處可見，緊密的協同合作對於快速且大規模地提供內容至關重要。 隨時隨地即時收集註釋、共同處理回應及追蹤文件的進度，推展您的專案。 | Acrobat Sign |
 | 2023 年 6 月 | [管理表單資料](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | 影片 | 瞭解如何從檔案中合併表單資料，以便您可以在報表或Excel試算表中檢視和管理資料。 | Acrobat Sign |
-| 2023 年 6 月 | [Acrobat Sign中的驗證方法](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | 影片 | 瞭解Acrobat Sign中可用於驗證簽署檔案之人員身分的一系列方法。 身分驗證有助於減少詐騙，並為簽署的檔案新增一層額外的安全性。 |  |
+| 2023 年 6 月 | [Acrobat Sign中的驗證方法](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | 影片 | 瞭解Acrobat Sign中可用於驗證簽署檔案之人員身分的一系列方法。 身分驗證有助於減少詐騙，並為簽署的檔案新增一層額外的安全性。 | |
 | 2023 年 6 月 | [新增使用者](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | 影片 | 瞭解如何新增和管理Acrobat Sign的使用者。 使用者管理會在Admin Console內進行。 | Acrobat Sign |
 | 2023 年 6 月 | [使用者的報表選項](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | 影片 | 身為Acrobat Sign管理員，瞭解如何設定使用者的報表選項。 | Acrobat Sign |
 
