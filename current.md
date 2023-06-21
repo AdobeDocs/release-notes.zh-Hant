@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
+source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
 workflow-type: tm+mt
-source-wordcount: '6179'
-ht-degree: 94%
+source-wordcount: '6079'
+ht-degree: 92%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 ## 產品發行更新和活動
 
-最近更新日期：**2023 年 6 月 7 日**
+最近更新日期：**2023 年 6 月 21 日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -64,15 +64,13 @@ ht-degree: 94%
 
 +++即將到來的活動
 
-* **[!DNL Workfront]**|_連接：行銷和創意方面的管理員閒談_|**6 月 6 日下午 3:00 (美國山區時間)** |[登記](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _商務與咖啡：強化B2B成功_ | **6月22日下午1:00 （東部時間）** | [註冊](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]**|_Marketo &amp; Mochas - 客戶歷程管理：生命週期模型_|**6 月 8 日下午 1:00 (美國東部時間)** |[登記](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _掌握Experience Manager認證的藝術 — 做好準備、做好準備、獲得認證！_ | **太平洋時間6月28日上午8:00** | [註冊](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]**|_諮詢專家：運用免費的 Adobe Workfront + Creative Cloud 整合服務_|**6 月 8 日上午 10:30 (美國山區時間)** |[登記](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _使用Marketo Engage追蹤、分析和最佳化您的行銷活動_ | **太平洋時間6月28日上午8:00** | [註冊](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _連接：Workfront 策略性管理員閒談_ | **6 月 12 日 @ 8:00 AM (美國中部時間)** | [登記](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]**|_諮詢專家：Workfront 服務時間內的資源管理_|**6 月 13 日下午 2:00 (美國山區時間)** |[登記](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _詢問專家：建立卓越中心網路研討會後續追蹤_ | **6月28日上午10:00 (CT)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [深入了解...](https://experienceleague.adobe.com/events/)
 
@@ -299,7 +297,7 @@ _新功能_
    * 自適應串流 (DASH/HLS) 可確保更好的一般使用者觀看影片體驗.<!-- OLD. UPDATE FOR JUNE 7 -->
    * DASH 是自適應影片串流的國際標準通訊協定，在業界被廣泛採用。<!-- OLD. UPDATE FOR JUNE 7 -->
    * 在亞太和北美地區有提供；[由支援票證啟用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html#enable-dash)。歐洲、中東和非洲地區即將提供。<!-- OLD. UPDATE FOR JUNE 7 -->
-* 已新增對 WebP 影像的支援以自動擷取中繼資料、產生縮圖和自訂轉譯。這些檔案現在也支援智慧標記和智慧型裁切功能。<!-- OLD. UPDATE FOR JUNE 7 -->
+* 已新增對 WebP 影像的支援以自動擷取中繼資料、產生縮圖和自訂轉譯。這些檔案現在也支援智慧型標記和智慧型裁切功能。<!-- OLD. UPDATE FOR JUNE 7 -->
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
