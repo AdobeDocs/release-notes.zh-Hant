@@ -469,7 +469,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 | 已發佈 | 名稱 | 類型 | 說明 |
 |---------|--------|---------|---------|
 | 2023 年 5 月 | [品質修補工具 (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | 新文章 | 關於如何套用 QPT 1.1.29、QPT 1.1.30 和 QPT 1.1.31 中可用的修補程式的新文章已發佈，並且可以在其各自區段中找到。 |
-| 2023 年 5 月 | [無法將用戶新增至 Adobe Commerce 雲端專案](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html) | 新文章 | 找出您嘗試將使用者新增至雲端專案但因後述錯誤而失敗的問題解決方案：_使用者 XXX 不存在_. |
+| 2023 年 5 月 | [無法將用戶新增至 Adobe Commerce 雲端專案](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html) | 新文章 | 找出您嘗試將使用者新增至雲端專案但因後述錯誤而失敗的問題解決方案：_使用者 XXX 不存在_。 |
 
 {style="table-layout:auto"}
 
@@ -524,11 +524,11 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 |---------|----|----|-----------|
-| 2023 年 5 月 | [如何防止 Deco-mail 收件人所造成的電子郵件發送緩慢](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html)？ | 新文章 | 了如何防止 [!UICONTROL Deco-mail] 收件人所造成的電子郵件發送緩慢。 |
-| 2023 年 5 月 | [交付會花多久時間收集追蹤資料？](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | 新文章 | 了解追蹤資料儲存在伺服器上的塒時間長度。 |
+| 2023 年 5 月 | [如何防止 Deco-mail 收件人所造成的電子郵件發送緩慢？](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html) | 新文章 | 了如何防止 [!UICONTROL Deco-mail] 收件人所造成的電子郵件發送緩慢。 |
+| 2023 年 5 月 | [交付會花多久時間收集追蹤資料？](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | 新文章 | 了解追蹤資料儲存在伺服器上的時間長度。。 |
 | 2023 年 5 月 | [Adobe Campaign Classic 與 SOCKS5 代理之間的相容性](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22075.html) | 新文章 | 查看是否有可能在 [!DNL Campaign Classic] 中使用 SOCKS5 代理轉移文件。 |
 | 2023 年 5 月 | [未找到架構定義 - 無法從方案錯誤產生](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html) | 新文章 | 了解無法重新起草和發布自訂資源時的解決方案。 |
-| 2023 年 5 月 | [交付會花多久時間收集追蹤資料？](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | 新文章 | 了解追蹤資料儲存在伺服器上的塒時間長度。 |
+| 2023 年 5 月 | [交付會花多久時間收集追蹤資料？](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | 新文章 | 了解追蹤資料儲存在伺服器上的時間長度。。 |
 | 2023 年 5 月 | [交付失敗且有&#x200B;_訊息佇列 (達到連接配額)_&#x200B;錯誤](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22154.html) | 新文章 | 找出交付因&#x200B;_「郵件已加入佇列」(達到連線配額)_ 錯誤而失敗的解決方案。 |
 | 2023 年 5 月 | [有許多伺服器時如何為內部部署執行個體進行升級後續作業](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22055.html) | 新文章 | 了解有許多伺服器時如何為內部部署執行個體進行升級後續作業。 |
 
@@ -624,8 +624,8 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 6 月 | [預設計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | 影片 | 了解如何建立和測量您的第一項[!UICONTROL 預設計劃]. |
-| 2023 年 6 月 | [電子郵件計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | 影片 | 觀看此步驟式教學課桘，了解如何使用 A/B 測試來建立電子郵件計劃。 |
-| 2023 年 6 月 | [參與度計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | 影片 | 按照此步為營式教學課程建置您的第一項參與度計劃。 |
+| 2023 年 6 月 | [電子郵件計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | 影片 | 觀看此步驟式教學課程，了解如何使用 A/B 測試來建立電子郵件計劃。 |
+| 2023 年 6 月 | [參與度計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | 影片 | 按照此逐步教學課程建置您的第一項參與度計劃。 |
 | 2023 年 6 月 | [活動計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | 影片 | 觀看此影片進行基本了解，並建立您的第一項活動計劃。 |
 | 2023 年 6 月 | [建立活動計劃](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html) | 影片 | 了解如何建立商展活動計劃，主要是根據 [!DNL Marketo] 中預先建立的計劃來進行。 |
 | 2023 年 6 月 | [報告與分析](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html) | 影片 | 了解如何導覽 [!DNL Analytics] 和 [!UICONTROL 資料庫]部分，提取 [!DNL Marketo Engage] 中不同的現成可用報表。 |
