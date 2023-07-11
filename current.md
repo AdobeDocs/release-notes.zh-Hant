@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: bf84dd7489440a296b62838a2b93d8d47fb61962
+source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
 workflow-type: tm+mt
-source-wordcount: '4318'
+source-wordcount: '4317'
 ht-degree: 52%
 
 ---
@@ -279,7 +279,7 @@ Adobe 建議您瀏覽以下資源以隨時掌握發行版本資訊：
 
 ### 最新版本概觀影片
 
-觀看 [2023 年 2 月版本總覽影片](https://video.tv.adobe.com/v/3416885)，了解 2023.02.0 (2023 年 2 月) 版本新增功能摘要。
+觀看 [2023年6月版本總覽影片](https://video.tv.adobe.com/v/3420971/) 2023.06.0版新增功能摘要。
 
 <!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
