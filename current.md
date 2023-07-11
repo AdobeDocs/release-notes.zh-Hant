@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3cea608378d8d87e1bfd08d3ef2ce7c6a4e87010
+source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
 workflow-type: tm+mt
-source-wordcount: '5828'
+source-wordcount: '5838'
 ht-degree: 45%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 45%
 
 * **[!DNL AEM as a Cloud Service]** | _Cloud Service中的有效安全性策略_ | **太平洋時間7月18日上午8:00** | [註冊](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
 
-* **[!DNL Analytics]** | _透過標準控制項，從任何來源將可操作的對象集中於一處_ | **太平洋時間7月20日上午9:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-230720.html)
+* **[!DNL Analytics]** | EXL Live： _透過標準控制項，從任何來源將可操作的對象集中於一處_ | **太平洋時間7月20日上午9:00** ([事件連結](https://www.youtube.com/watch?v=QaJy9Tp-vTE)) | [註冊](https://engage.adobe.com/ExpLeagueLive-230720.html)
 
 * **[!DNL Workfront]** | _瞭解： Adobe Workfront 23.3版本綜述_ | **7月20日上午11:00 (CT)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
