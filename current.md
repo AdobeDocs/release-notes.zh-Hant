@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
+source-wordcount: '5836'
 ht-degree: 45%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 45%
 
 ## 產品發行更新和活動
 
-最近更新日期：**2023 年 7 月 11 日**
+最近更新日期：**2023 年 7 月 12 日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -424,19 +424,19 @@ AEMas a Cloud Service [2023.6.0 — 版本更新](https://adobe.ly/444zA4U)
 
 已發佈的 Experience Manager 新影片、教學課程或其他課程。
 
-| 已發佈 | 名稱 | 類型 | 說明 | 應用程式 |
+| 已發佈 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2023 年 7 月 | [快速存取](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | 影片 | 瞭解如何 [!UICONTROL 快速存取] 可以做為您的個人鏡頭，提升生產力並簡化工作流程 [!DNL AEM Assets]. 此功能可讓您輕鬆取得指派任務所需的所有資產。 | [!DNL AEM Assets] |
-| 2023 年 7 月 | [顯示 _感謝您_ 在Headless表單提交上的訊息](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 文章 | 顯示 _感謝您_ 成功提交Headless表單時的訊息。 | [!DNL AEM Forms] |
-| 2023 年 7 月 | [預覽書籤 — 程式碼範例](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 文章 | 瞭解如何建立JavaScript書籤小程式預覽[!UICONTROL  App Builder內容片段] AEM內容中的擴充功能 [!UICONTROL 內容片段] 頁面。 | [!UICONTROL 內容片段] |
-| 2023 年 7 月 | [將內容片段匯出至XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 文章 | 自訂按鈕可新增至 [!UICONTROL 內容片段編輯器] 頁首功能表使用 `headerMenu` 延伸點。 此範例說明如何將按鈕新增至標頭功能表，以及如何處理點選事件以匯出作用中 [!UICONTROL 內容片段] 為XML或CSV。 | [!UICONTROL 內容片段] |
-| 2023 年 7 月 | [在卡片上顯示表單點按](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 文章 | 從卡片檢視深入檢視表單。 | [!DNL AEM Forms] |
-| 2023 年 7 月 | [將Widget新增至RTF編輯器(RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | 影片 | 瞭解如何在AEM中將Widget新增至RTF編輯器(RTE) [!UICONTROL 內容片段編輯器]. | [!UICONTROL 內容片段] |
-| 2023 年 7 月 | [新增徽章至RTF編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | 影片 | 瞭解如何在AEM中新增徽章至RTF編輯器(RTE) [!UICONTROL 內容片段編輯器]. | [!UICONTROL 內容片段] |
-| 2023 年 7 月 | [自訂格線欄](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | 影片 | 瞭解如何將自訂格線欄新增至 [!UICONTROL 內容片段主控台]. | [!UICONTROL 內容片段] |
-| 2023 年 7 月 | [3D資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | 影片 | 瞭解中的3D資產支援 [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| 2023 年 7 月 | [參考資料](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 影片 | 瞭解AEM內容片段控制檯和編輯器如何讓您輕鬆瞭解和管理參考的內容。 | [!DNL AEM Sites] |
-| 2023 年 7 月 | [根據提交的資料自訂回應](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | 影片 | 建立自訂提交服務來處理Headless最適化表單提交。 | [!DNL AEM Forms] |
+| 2023 年 7 月 | [!DNL AEM Assets] | [快速存取](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | 影片 | 瞭解如何 [!UICONTROL 快速存取] 可以做為您的個人鏡頭，提升生產力並簡化工作流程 [!DNL AEM Assets]. 此功能可讓您輕鬆取得指派任務所需的所有資產。 |
+| 2023 年 7 月 | [!DNL AEM Assets] | [3D資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | 影片 | 瞭解中的3D資產支援 [!DNL AEM Assets as a Cloud Service]. |
+| 2023 年 7 月 | [!DNL AEM Forms] | [顯示 _感謝您_ 在Headless表單提交上的訊息](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 文章 | 顯示 _感謝您_ 成功提交Headless表單時的訊息。 |
+| 2023 年 7 月 | [!DNL AEM Forms] | [在卡片上顯示表單點按](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 文章 | 從卡片檢視深入檢視表單。 |
+| 2023 年 7 月 | [!DNL AEM Forms] | [根據提交的資料自訂回應](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | 影片 | 建立自訂提交服務來處理Headless最適化表單提交。 |
+| 2023 年 7 月 | [!UICONTROL 內容片段] | [預覽小書籤](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 文章 | 瞭解如何建立JavaScript書籤小程式預覽[!UICONTROL  App Builder內容片段] AEM內容中的擴充功能 [!UICONTROL 內容片段] 頁面。 |
+| 2023 年 7 月 | [!UICONTROL 內容片段] | [將內容片段匯出至XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 文章 | 自訂按鈕可新增至 [!UICONTROL 內容片段編輯器] 頁首功能表使用 `headerMenu` 延伸點。 此範例說明如何將按鈕新增至標頭功能表，以及如何處理點選事件以匯出作用中 [!UICONTROL 內容片段] 為XML或CSV。 |
+| 2023 年 7 月 | [!UICONTROL 內容片段] | [將Widget新增至RTF編輯器(RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | 影片 | 瞭解如何在AEM中將Widget新增至RTF編輯器(RTE) [!UICONTROL 內容片段編輯器]. |
+| 2023 年 7 月 | [!UICONTROL 內容片段] | [新增徽章至RTF編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | 影片 | 瞭解如何在AEM中新增徽章至RTF編輯器(RTE) [!UICONTROL 內容片段編輯器]. |
+| 2023 年 7 月 | [!UICONTROL 內容片段] | [自訂格線欄](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | 影片 | 瞭解如何將自訂格線欄新增至 [!UICONTROL 內容片段主控台]. |
+| 2023 年 7 月 | [!DNL AEM Sites] | [參考資料](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 影片 | 瞭解AEM內容片段控制檯和編輯器如何讓您輕鬆瞭解和管理參考的內容。 |
 
 {style="table-layout:auto"}
 
