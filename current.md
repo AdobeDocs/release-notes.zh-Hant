@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 94e567e767551992e794b8c8476307d441d77953
 workflow-type: tm+mt
 source-wordcount: '5503'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 99%
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL WORKFRONT]** |客戶工作坊 | _連線 — Workfront策略管理員閒談_ |**8月14日上午7:00 CT** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _連接 - Workfront 策略性管理員聊天_ |**8 月 14 日上午 7:00 (美國中部時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER]** | Experience Makers |_Adobe Experience Manager 技能交流_ | **8 月 17 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -83,9 +83,9 @@ ht-degree: 99%
 
 * **[!DNL WORKFRONT]** | 客戶工作坊 | _了解如何運用 Workfront - 請求佇列_ | **8 月 22 日上午 9:00 (北美山區時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE CLOUD]** |網路研討會 | _完美結合：Adobe Analytics + Adobe Commerce_ | **8月22日上午11:00 （北美山區時區）** | [註冊](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | 網路研討會 | _完美搭配： Adobe Analytics + Adobe Commerce_ | **8 月 22 日上午 11:00 (北美山區時間)** | [報名](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
-* **[!DNL EXPERIENCE CLOUD]** |網路研討會 | _完美結合：Marketo + Workfront_ | **8月31日上午11:00 （北美山區時區）** | [註冊](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | 網路研討會 | _完美搭配： Marketo + Workfront_ | **8 月 31 日上午 11:00 (北美山區時間)** | [報名](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
 查看全部[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。您可以使用左側導覽並按系列類型和應用來查詢活動錄影內容。
 
@@ -145,7 +145,7 @@ ht-degree: 99%
 
 +++詳細資訊
 
-* [[!DNL Experience Platform] 版本注意事項](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [[!DNL Experience Platform] 發行說明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
 * [[!DNL Experience Platform] Mobile SDK 發行說明](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -200,7 +200,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 發行版本：**2.24.0**
 
-* [JavaScript 適用的 AppMeasurement 版本注意事項](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
+* [JavaScript 適用的 AppMeasurement 發行說明](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
 <!-- ### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
@@ -303,7 +303,7 @@ Adobe 建議您瀏覽以下資源以隨時掌握發行版本資訊：
 
 * [Experience Manager 版本更新和藍圖](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - 了解 Experience Manager 版本藍圖、之前的版本更新及文件更新。
 * [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - 觀看目前和過去版本的 [!DNL Experience Manager as a Cloud Service] 專題影片概述。
-* [Adobe Experience Manager (AEM) as a Cloud Service 目前版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant) - 請閱讀 [!DNL Experience Manager as a Cloud Service] 最新版本注意事項。
+* [Adobe Experience Manager (AEM) as a Cloud Service 目前發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant) - 請閱讀 [!DNL Experience Manager as a Cloud Service] 最新發行說明。
 
 ### 最新版本概觀影片
 
@@ -410,7 +410,7 @@ _已知問題_
 
 * [Experience Manager as a Cloud Service 發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
 * [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en)
-* [Experience Manager as a Cloud Service 最新版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant)
+* [Experience Manager as a Cloud Service 最新發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant)
 * [Experience Manager as a Cloud Service 發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
 * [Experience Manager Cloud Manager 發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hant)
 * [Automated Forms Conversion Service 發行說明](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hant)
@@ -480,7 +480,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 
 +++詳細資訊
 
-* 請參閱 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 版本注意事項](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)以取得最新資訊。
+* 請參閱 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)以取得最新資訊。
 * 請參閱[產品可用性](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html)以存取個別的產品發行說明並確認可用性。
 
 >[!NOTE]
@@ -534,13 +534,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ### 最新 Campaign 產品版本
 
-* 新增! Campaign v8.5.2：[版本注意事項](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=zh-Hant)
+* 新增! Campaign v8.5.2：[發行說明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=zh-Hant)
 
-* Campaign Standard：[版本注意事項](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant)
+* Campaign Standard：[發行說明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant)
 
-* Campaign Classic v7：[版本注意事項](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)
+* Campaign Classic v7：[發行說明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)
 
-* 新增! 控制面板：[版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant)
+* 新增! 控制面板：[發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant)
 
 在 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 發行說明中進一步了解最新功能、改進與修正。
 
@@ -636,8 +636,8 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 ### Marketo Engage 核心更新
 
-* 如需最新資訊，請參閱 [2023 年 9 月 - 最新版本注意事項](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html)
-* 如需最新發行排程資訊和版本注意事項，請參閱 [!DNL Marketo Engage] [發行排程](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html)。
+* 如需最新資訊，請參閱 [2023 年 9 月 - 最新發行說明](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html)
+* 如需最新發行排程資訊和發行說明，請參閱 [!DNL Marketo Engage] [發行排程](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html)。
 
 ### 新的 Marketo Engage 教學與課程 {#tutorials-marketo}
 
