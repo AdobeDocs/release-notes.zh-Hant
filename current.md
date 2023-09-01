@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 97%
 
 **需要協助嗎?**
 
-登入 [Experience League](https://experienceleague.adobe.com/#home)，在 Adobe 自助資源庫中自訂您的搜尋體驗。 瀏覽所有級別和角色的[產品文件](https://experienceleague.adobe.com/docs/)、[教學課程影片](https://experienceleague.adobe.com/docs/home-tutorials.html)、[課程](https://experienceleague.adobe.com/#courses)和[活動](https://experienceleague.adobe.com/events/)。向您的同業[社群](https://experienceleaguecommunities.adobe.com/?profile.language=en)提問，，並在您最需要時獲得專家[支援](https://experienceleague.adobe.com/?support-tab=home#support)。
+登入 [Experience League](https://experienceleague.adobe.com/#home)，在 Adobe 自助資源庫中自訂您的搜尋體驗。 瀏覽所有級別和角色的[產品文件](https://experienceleague.adobe.com/docs/)、[教學課程影片](https://experienceleague.adobe.com/docs/home-tutorials.html)、[課程](https://experienceleague.adobe.com/#courses)和[活動](https://experienceleague.adobe.com/events/)。向您的同業[社群](https://experienceleaguecommunities.adobe.com/?profile.language=en)提問，並在您最需要時獲得專家[支援](https://experienceleague.adobe.com/?support-tab=home#support)。
 
 ## 產品發行更新和活動
 
 上次更新日期：**2023 年 8 月 29 日**
 
-* [[!DNL Experience League] 活動和更新](#events) (已更新 **8月29日**)
+* [[!DNL Experience League] 活動與最新訊息](#events) (**8 月 29 日**&#x200B;更新)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 介面與管理](#ecloud)
@@ -72,17 +72,17 @@ ht-degree: 97%
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL JOURNEY OPTIMIZER]** |網路研討會 |與Adobe Journey Optimizer專家Siddharth Jain、Chetan Prasad和Nikhil Sharma一同參加社群問答咖啡會_ | **8月30日上午8:00 （太平洋時間）** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
+* **[!DNL JOURNEY OPTIMIZER]** | 網絡研討會 | 與 Adobe Journey Optimizer 專家 Siddharth Jain、Chetan Prasad 和 Nikhil Sharma 進行社群問答咖啡會_ |**太平洋時間 8 月 30 日上午 8:00** |[報名](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE CLOUD]** |網路研討會 | _完美結合：Marketo + Workfront_ | **8月31日下午1:00 （東部時間）** | [註冊](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | 網路研討會 | _完美搭配： Marketo + Workfront_ | **8 月 31 日下午 1:00 (北美東部時區)** | [報名](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** |社群活動 | _Adobe Workfront Connect：行銷與創意領域的管理員聊天_ | **9月1日上午10:00 （北美山區時區）** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 |_Adobe Workfront Connect：行銷和創意管理員聊天_ | **9 月 1 日上午 10:00 (北美山區時區)** |[報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO ENGAGE]** |社群活動 | _透過提升電子郵件傳遞能力[!DNL Marketo Engage]_ | **太平洋時間9月7日上午8:00** | [註冊](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL MARKETO ENGAGE]** | 社群活動 | _提高電子郵件送達率，利用[!DNL Marketo Engage]_ | **9 月 7 日上午 8:00 (太平洋標準時間)** |[報名](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **一般** |直播串流 | _App Builder Live — 移轉至OAuth_ | **太平洋時間9月7日上午9:00** | [註冊](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
+* **一般** | 直播 | _應用程式建立工具直播 - 遷移到 OAuth_ | **9 月 7 日上午 9:00 (太平洋標準時間)** |[報名](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL WORKFRONT]** |客戶工作坊 | _瞭解：為全職系統管理員提供理由_ | **9月7日下午12:00 CT** | [註冊](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | 客戶研討會 | _學習：為全職系統管理員舉證_ | **9 月 7 日中午 12:00 (北美中部時區)** |[報名](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 查看全部[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。您可以使用左側導覽並按系列類型和應用來查詢活動錄影內容。
 
