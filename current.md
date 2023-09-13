@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 18f0dfbf87fbd168537caa313c03b27e94c8203e
+source-git-commit: 3543720e4e115c18473596f4953f3a2cad88f997
 workflow-type: tm+mt
-source-wordcount: '7884'
+source-wordcount: '7881'
 ht-degree: 48%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 48%
 
 | 已發佈 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | Experience Cloud | 客戶成功網路研討會 | [設定有效的Audience Activation策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | 此課程涵蓋資料管理策略的重要性、Adobe Audience Manager概覽和功能、Adobe Audience Manager使用案例、設定資料管理策略的行動計畫 |
+| 2023 年 9 月 | Experience Cloud | [設定有效的Audience Activation策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | 客戶成功網路研討會 | 瞭解資料管理策略的重要性、Adobe Audience Manager概覽和功能、Adobe Audience Manager使用案例、設定資料管理策略的行動計畫 |
 | 2023年夏天 | Experience Cloud | [Experience Cloud應用程式的整合教學課程首頁](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 影片 | 瞭解最常見的Experience Cloud應用程式整合。 您可依照[解決方案](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en)或[應用程式](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en)瀏覽整合教學課程。此內容會經常更新，所以請經常回來檢視。 |
 
 {style="table-layout:auto"}
@@ -655,9 +655,9 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * Campaign Standard：[發行說明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant)
 
-* Campaign Classic v7：[發行說明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)
+* Campaign Classic v7.3.4：[發行說明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)
 
-* 新增! 控制面板：[發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant)
+* 控制面板：[發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant)
 
 在 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 發行說明中進一步了解最新功能、改進與修正。
 
