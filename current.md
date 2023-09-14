@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3543720e4e115c18473596f4953f3a2cad88f997
+source-git-commit: 90be4cc050b3e0219f86648a99427a883d5ec185
 workflow-type: tm+mt
-source-wordcount: '7881'
-ht-degree: 48%
+source-wordcount: '7103'
+ht-degree: 47%
 
 ---
 
@@ -188,69 +188,17 @@ ht-degree: 48%
 
 +++詳細資訊
 
-**上次更新日期**: 2023 年 9 月 13 日
+[!DNL Analytics] 發行日期： **2023年9月13日**
 
-9月發行說明涵蓋2023年9月13日至2023年10月3日的發行期間。 Adobe Analytics發行版本會在 [持續傳遞模式](https://experienceleague.adobe.com/docs/analytics/release-notes/releases.html?lang=en)，可讓您以更可縮放、分階段的方法進行功能部署。 因此，這些發行說明每月會更新好幾次。請定期進行檢查。
+* [!DNL Analytics] [發行說明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html)
 
-## 新功能或增強功能 {#features}
-
-| 功能 | 說明 | [開始推出](https://experienceleague.adobe.com/docs/analytics/release-notes/releases.html) | [正式推出](https://experienceleague.adobe.com/docs/analytics/release-notes/releases.html) |
-| ----------- | ---------- | ------- | ---- |
-| **API 2.0中的分類** | 提供用來儲存、刪除、擷取、匯入和匯出分類集資料的 Adob&#x200B;&#x200B;e Analytics API 2.0 方法。[了解更多](https://developer.adobe.com/analytics-apis/docs/2.0/guides/endpoints/classifications/) | 不適用 | 2023 年 9 月 13 日 |
-| **支援新功能 `correlationID` A4T分類的欄位** | `_experience.decisioning.propositions.scopeDetails.correlationID` 欄位現在適用於 Adob&#x200B;&#x200B;e Analytics 來源連接器的結構描述中。我們將新增此ID，以輕鬆聯結Adobe Target活動和體驗事件的分類資料。 | 不適用 | 2023 年 9 月 13 日 |
-| **Data Warehouse 的改良功能** | 建立Data Warehouse請求時，您現在可以設定雲端帳戶，以用作報表目的地。 下列雲端帳戶型別可用於傳送資料：<ul><li>Amazon S3</li><li>Google Cloud Platform</li><li>Azure SAS</li><li>Azure RBAC</li><li>電子郵件（此選項先前已可用）</li></ul>FTP、SFTP、Azure Blob和S3仍可作為報表目標使用，但不再建議使用。<p>建立和管理Data Warehouse請求時的使用者體驗也得到改善。 如需詳細資訊，請參閱 [建立Data Warehouse請求](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/create-request/t-dw-create-request.html) 和 [管理Data Warehouse請求](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse-requests-manage.html?lang=zh-Hant). | 2023 年 9 月 13 日 | 2023 年 10 月 4 日 |
-
-{style="table-layout:auto"}
-
-## Adobe Analytics 中的修正
-
-* 修正工作區無法顯示分類資料的問題。 (AN-326827)
-
-## 其他修正
-
-AN-314882、AN-315591、AN-318165、AN-318559、AN-319031、AN-319244、AN-321657、AN-321759、AN-323099、AN-323596、AN-323640、AN-324442、AN-324921、AN-324953、AN-324977、AN-324979、AN-325124、AN-325395、AN-325433、AN-325535、AN-325693、AN-325720、AN-325835、AN-325880、AN-325957、AN-325984 AN-326054； AN-326065； AN-326136； AN-326155； AN-326162； AN-326235； AN-326317； AN-326344； AN-326357； AN-326359； AN-326433； AN-326438； AN-326440； AN-326461； AN-326464； AN-326523； AN-326553； AN-326606； AN-326635； AN-326642； AN-326652； AN-326678； AN-326769； AN-326777； AN-326830； AN-326938； AN-326949 AN-327081；AN-327082；AN-327085；AN-327103；AN-327198；AN-327225；AN-327275；AN-327358；AN-327423；AN-327561；AN-327755；AN-327896；AN-327922；AN-328128；AN-328300；AN-328428；AN-328518；AN-328554；AN-；AN-；AN-；AN-；AN-；AN-；AN-
-
-## 給 Adobe Analytics 管理員的重要通知 {#admin}
-
-| 注意 | 新增或更新日期 | 說明 |
-| ----------- | ---------- | ---------- |
-| 不適用 | 不適用 | 不適用 |
-
-{style="table-layout:auto"}
-
-## 生命週期結束 (EOL) 重要通知 {#eol}
-
-| EOL 產品或功能 | 新增或更新日期 | 說明 |
-| --- | --- | --- |
-| **移轉到 Adobe I/O OAuth Server-to-Server 認證** | 2023 年 5 月 11 日 | 使用 Adobe I/O JWT 認證的 Adobe Analytics API 和 Livestream 客戶必須在 **2025 年 1 月 1 日**&#x200B;之前移轉到 Adobe I/O OAuth Server-to-Server 認證從 2024 年 5 月 1 日開始，Adobe I/O 將不允許建立新的 JWT 認證。使用 JWT 的客戶必須建立新的 OAuth Server-to-Server 認證，或將他們現有的 JWT 認證移轉到 OAuth Server-to-Server 認證。客戶還必須更新他們的用戶端應用程式，才能使用新的 OAuth Server-to-Server 認證。 <ul><li>[從 Service Account (JWT) 認證移轉](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/migration/)</li><li>[OAuth 新舊應用程式的實施指南](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)<li>[使用新的 OAuth Server-to-Server 認證](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)</li><li>[常見問題集](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/faqs/)</li></ul> |
-| **[!DNL Reports & Analytics]** EOL | 2023 年 3 月 7 日 | 自 **2023 年 12 月 31 日**&#x200B;起生效，Adobe 計畫停止支援 [!DNL Reports & Analytics] 及其隨附的報告和功能。支援 [!DNL Reports & Analytics] 的報表、視覺效果和基礎技術不再符合 Adobe 的技術標準。大部分的 [!DNL Reports & Analytics] 功能在 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) 中都有提供。自 Analysis Workspace 在 2015 年發佈以來，[!DNL Reports & Analytics] 功能已移至 Analysis Workspace 並已達到工作流程同位臨界值。[本通知](https://spark.adobe.com/page/6WnF8JK6IRDhf/)說明生命週期結束程序。<p>在 2023 年 12 月 31 日，我們將終止許多關聯的 Reports and Analytics 功能，包括但不限於：排程報表、資料擷取和 DL 報表。2023 年 12 月 31 日之後，將不再傳送任何排程報表。在 **2023年4月**，任何排程在2023年12月31日之後到期的報告都會自動更新，並恢復在2023年12月31日到期。 此外，您不能再排程 2023 年 12 月 31 日之後的未來報表。 |
-| **結束[!UICONTROL 發佈清單] 功能生命週期** | 2022 年 9 月 29 日 | 作為 Reports &amp; Analytics EOL 的一部分，[!UICONTROL 發佈清單]預定在 **2023 年 12 月**&#x200B;結束生命週期。您將無法建立新的發佈清單或存取現有[!UICONTROL 發佈清單]，來傳送或排程 [!UICONTROL Analysis Workspace] 專案。 |
-| **Data Workbench 的 EOL** | 2022 年 9 月 14 日 | Adobe 打算自 **2023 年 12 月 31 日** 起終止 Data Workbench 的服務。請參閱 [Data Workbench 生命週期結束通知](https://experienceleague.adobe.com/docs/data-workbench/using/eol.html?lang=zh-Hant)以取得詳細資料。若有任何問題，請聯絡貴組織的 Adobe 客戶經理。 |
-
-{style="table-layout:auto"}
-
-## AppMeasurement
-
-如需 AppMeasurement 版本 (版本 2.24.0) 最新的更新，請參閱 [AppMeasurement for JavaScript 版本注意事項](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)。
-
-## 相關資源
-
-* [2022 年舊版發行說明](https://experienceleague.adobe.com/docs/analytics/release-notes/previous/2022.html?lang=en)
-* [Customer Journey Analytics 發行說明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
-* [Media Analytics 發行說明](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=zh-Hant)
-* [Adobe Experience Cloud 產品](https://business.adobe.com/products/adobe-experience-cloud-products.html)的最新版更新。
-
-<!-- [!DNL Analytics] release date: **September 13, 2023**
-
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
-
-* [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
+* [!DNL Analytics] [產品文件與教學課程](https://experienceleague.adobe.com/docs/analytics.html)
 
 ### AppMeasurement {#appm}
 
-Release version: **2.24.0**
+發行版本：**2.24.0**
 
-* [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) -->
+* [JavaScript 適用的 AppMeasurement 發行說明](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
 ### 新 [!DNL Analytics] 教學課程和其他課程 {#tutorials-analytics}
 
