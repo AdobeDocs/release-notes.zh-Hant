@@ -60,7 +60,7 @@ ht-degree: 98%
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [客戶資料管理 - 對話](#voices)
 * [Digital Experience 藍圖](#blueprints)
-* [Adobe 產品安全性漏洞](https://helpx.adobe.com/security.html)
+* [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
 
 ## ![圖示](/assets/experience-league.png)[!DNL Experience League]活動與最新訊息 {#events}
 
@@ -68,8 +68,8 @@ ht-degree: 98%
 
 | 已發佈 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | Experience Cloud | [擬定有效的 Audience Activation 策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | 客戶成功網路研討會 | 瞭解資料管理策略的重要性、Adobe Audience Manager概覽和功能、Adobe Audience Manager使用案例、設定資料管理策略的行動計畫 |
-| 2023 年夏季 | Experience Cloud | [Experience Cloud 應用程式的整合教學課程首頁](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 影片 | 瞭解最常見的 Experience Cloud 應用程式整合。您可依照[解決方案](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en)或[應用程式](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en)瀏覽整合教學課程。此內容會經常更新，因此請經常回來查看。 |
+| 2023 年 9 月 | Experience Cloud | [擬定有效的 Audience Activation 策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=zh-Hant) | 客戶成功網路研討會 | 瞭解資料管理策略的重要性、Adobe Audience Manager概覽和功能、Adobe Audience Manager使用案例、設定資料管理策略的行動計畫 |
+| 2023 年夏季 | Experience Cloud | [Experience Cloud 應用程式的整合教學課程首頁](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 影片 | 瞭解最常見的 Experience Cloud 應用程式整合。您可依照[解決方案](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=zh-Hant)或[應用程式](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=zh-Hant)瀏覽整合教學課程。此內容會經常更新，因此請經常回來查看。 |
 
 {style="table-layout:auto"}
 
@@ -155,7 +155,7 @@ ht-degree: 98%
 
 | 已發佈 | 應用程式 | 名稱 | 類型 | 說明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | Privacy Service | [Privacy Service 簡介](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=en) | 多部影片 | 了解隱私權法規及其對資料操作的影響。同時也了解 [!UICONTROL Privacy Service] 如何因應這些挑戰。檢視 [!DNL Experience Platform] 教學課程中「隱私權與安全性」部分的最新影片。 |
+| 2023 年 9 月 | Privacy Service | [Privacy Service 簡介](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=zh-Hant) | 多部影片 | 了解隱私權法規及其對資料操作的影響。同時也了解 [!UICONTROL Privacy Service] 如何因應這些挑戰。檢視 [!DNL Experience Platform] 教學課程中「隱私權與安全性」部分的最新影片。 |
 | 2023 年 9 月 | 管理 | [設定以屬性為基礎的存取控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html) | 影片 | 了解如何配置以屬性為基礎的存取控制，以限制對特定 [!DNL Experience Platform] 資源的存取。 |
 
 {style="table-layout:auto"}
@@ -205,7 +205,7 @@ ht-degree: 98%
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 9 月 | [使用長條圖解鎖深入分析：運用 Analytics 超越平均水平](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/unlocking-insights-with-histograms.html?lang=en) | 影片 | 探索長條圖在分析中的影響，以取得超過平均水準的深入分析。長條圖會顯示客戶行為、訪客參與度、技術效能和表單錯誤等的資料模式，促使在 Adobe Workspace 中實現更深入的分析和明智的決策。 |
+| 2023 年 9 月 | [使用長條圖解鎖深入分析：運用 Analytics 超越平均水平](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/unlocking-insights-with-histograms.html?lang=zh-Hant) | 影片 | 探索長條圖在分析中的影響，以取得超過平均水準的深入分析。長條圖會顯示客戶行為、訪客參與度、技術效能和表單錯誤等的資料模式，促使在 Adobe Workspace 中實現更深入的分析和明智的決策。 |
 | 2023 年 9 月 | [專案內部或外部的連結](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.html) | 影片 | 了解如何在您的 [!UICONTROL Analysis Workspace] 專案中建立內部或外部連結。 |
 | 2023 年 9 月 | [在計算量度中使用維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/using-dimensions-in-calculated-metrics.html) | 更新的影片 | 了解如何在[!UICONTROL 計算量度]產生器中使用維度。您可將它們新增到任何[!UICONTROL 計算量度]公式，將新量度限制為維度或維度值。 |
 
@@ -293,7 +293,7 @@ Experience Manager 中的新功能、修正及更新。Adobe 建議使用內部�
 Adobe 建議您瀏覽以下資源，以隨時掌握發布內容資訊：
 
 * [Experience Manager 版本更新和藍圖](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - 了解 Experience Manager 版本藍圖、之前的版本更新及文件更新。
-* [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - 觀看目前和過去版本的 [!DNL Experience Manager as a Cloud Service] 專題影片概述。
+* [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant) - 觀看目前和過去版本的 [!DNL Experience Manager as a Cloud Service] 專題影片概述。
 * [Adobe Experience Manager (AEM) as a Cloud Service 目前發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant) - 請閱讀 [!DNL Experience Manager as a Cloud Service] 最新發行說明。
 
 ### 最新版本概觀影片
@@ -304,7 +304,7 @@ Adobe 建議您瀏覽以下資源，以隨時掌握發布內容資訊：
 
 _新功能_
 
-* [內容片段主控台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/managing.html?lang=en)現在可讓使用者檢視標記，並依據作為中繼資料套用於內容片段的標記進行搜尋。使用者無須再為了此功能切換到 Assets 使用者介面，藉此減少內容切換並提升效率。
+* [內容片段主控台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/managing.html?lang=zh-Hant)現在可讓使用者檢視標記，並依據作為中繼資料套用於內容片段的標記進行搜尋。使用者無須再為了此功能切換到 Assets 使用者介面，藉此減少內容切換並提升效率。
 
 * 新的內容片段編輯器現已提供於 AEM as a Cloud Service。此編輯器可簡化內容作者的編寫工作，並減少他們編輯內容時在不同應用程式之間切換的需要，進而提升生產力。
 
@@ -325,44 +325,44 @@ _新功能_
 
 _Assets 視圖中的新功能_
 
-* **從資料來源大量匯入資產** – 管理員現在可以將資料來源的[多個資產匯入](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/bulk-import-assets-view.html?lang=en) AEM Assets。管理員不再需要將個別資產或資料夾上傳到 AEM Assets。 支援大量匯入的資料來源包括 Azure、AWS、Google 雲端和 Dropbox。
-* **由 Adobe Express 提供技術支援的影像編輯工具** – 簡單直觀的[影像編輯工具是由 Adobe Express 提供技術支援，](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/edit-images-assets-view.html?lang=en)可直接在 AEM Assets 中使用，以增加內容重複使用性並加快內容流通速度。
-* **為「我的工作區」的「快速存取」釘選項目時的靈活性** – 能夠為您的組織或群組清單選擇和釘選項目，以便它們顯示在[「我的工作區」的「快速存取」部分](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html?lang=en)。
+* **從資料來源大量匯入資產** – 管理員現在可以將資料來源的[多個資產匯入](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/bulk-import-assets-view.html?lang=zh-Hant) AEM Assets。管理員不再需要將個別資產或資料夾上傳到 AEM Assets。 支援大量匯入的資料來源包括 Azure、AWS、Google 雲端和 Dropbox。
+* **由 Adobe Express 提供技術支援的影像編輯工具** – 簡單直觀的[影像編輯工具是由 Adobe Express 提供技術支援，](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/edit-images-assets-view.html?lang=zh-Hant)可直接在 AEM Assets 中使用，以增加內容重複使用性並加快內容流通速度。
+* **為「我的工作區」的「快速存取」釘選項目時的靈活性** – 能夠為您的組織或群組清單選擇和釘選項目，以便它們顯示在[「我的工作區」的「快速存取」部分](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html?lang=zh-Hant)。
 
 _管理員視圖中的新功能_
 
-* 現在起，管理員可以[設定您執行搜尋時顯示之資產的批次大小](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=en#configure-asset-batch-size)。您進一步向下捲動載入結果時，資產搜尋結果將以設定的批次大小數字的倍數顯示。系統有 200、500 和 1000 個資產的批次大小供您選擇。設定較低的批次大小數字時，搜尋回應時間會更快。
-* Experience Manager Assets 現在包含 `damAssetLucene` 索引的全新版本 9。`damAssetLucene-9` 將 Oak Query 面向計數的行為變更為[不再對基本搜尋索引傳回的面向計數評估存取控制](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=en)，因此搜尋回應時間會更快。
+* 現在起，管理員可以[設定您執行搜尋時顯示之資產的批次大小](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=zh-Hant#configure-asset-batch-size)。您進一步向下捲動載入結果時，資產搜尋結果將以設定的批次大小數字的倍數顯示。系統有 200、500 和 1000 個資產的批次大小供您選擇。設定較低的批次大小數字時，搜尋回應時間會更快。
+* Experience Manager Assets 現在包含 `damAssetLucene` 索引的全新版本 9。`damAssetLucene-9` 將 Oak Query 面向計數的行為變更為[不再對基本搜尋索引傳回的面向計數評估存取控制](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=zh-Hant)，因此搜尋回應時間會更快。
 
 _搶鮮版管道的新功能_
 
-* **Dynamic Media** – [支援影片中的多重字幕和多重音軌](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#about-msma)。在 [!DNL Dynamic Media]，您現在可以輕鬆地將多重字幕和多重音軌新增到主要影片。此功能表示全球對象都可以存取您的影片。您可以將單一已發佈的主要影片自訂為適用於多種語言的全球對象，並遵守不同地理區域的協助工具準則。作者也可以從使用者介面的單一標籤管理字幕和音軌。
-* **Assets** – 能夠選取在 Experience Manager 中管理的 ZIP 封存，並[將檔案直接擷取至 Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#extract-zip-archives)，無需下載。
+* **Dynamic Media** – [支援影片中的多重字幕和多重音軌](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=zh-Hant#about-msma)。在 [!DNL Dynamic Media]，您現在可以輕鬆地將多重字幕和多重音軌新增到主要影片。此功能表示全球對象都可以存取您的影片。您可以將單一已發佈的主要影片自訂為適用於多種語言的全球對象，並遵守不同地理區域的協助工具準則。作者也可以從使用者介面的單一標籤管理字幕和音軌。
+* **Assets** – 能夠選取在 Experience Manager 中管理的 ZIP 封存，並[將檔案直接擷取至 Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=zh-Hant#extract-zip-archives)，無需下載。
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
 _新功能_
 
-* **[Google reCAPTCHA 企業支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en)** – 以最適化表單使用 Google reCAPTCHA 企業版，為防止詐欺活動和垃圾郵件提供增強的保護，進而提供更安全的用戶體驗。透過進階的風險分析和緊密整合，真實的使用者可輕鬆地提交表單，同時有效地封鎖機器人。
+* **[Google reCAPTCHA 企業支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=zh-Hant)** – 以最適化表單使用 Google reCAPTCHA 企業版，為防止詐欺活動和垃圾郵件提供增強的保護，進而提供更安全的用戶體驗。透過進階的風險分析和緊密整合，真實的使用者可輕鬆地提交表單，同時有效地封鎖機器人。
 
 _搶鮮版管道的新功能_
 
 * **Adobe Analytics 與適用於表單的 Experience Cloud Setup Automation** – 現在起，輕按幾個按鈕即可啟用 Adobe Analytics 和 Experience Cloud Setup Automation。這可讓您能夠連結 [!DNL AEM Forms as a Cloud Service] 與 Experience Platform 標籤和 Adobe Analytics，以擷取和追蹤已發佈表單的效能指標。
 * **適用於最適化表單的 Adobe Analytics 報告範本** – [!DNL Forms as a Cloud Service] 現在提供現成可用的 Adobe Analytics 報告。這有助於輕鬆了解表單的效能。表單層級的指標可讓您深入了解表單在多個關鍵績效指標 (KPI) 上的表現，例如轉譯、訪客、提交和平均填寫時間。透過追蹤使用者行為和意見回饋，您可以識別表單中造成混亂的部分，並引導表單在設計和功能方面的改善。
-* [[!UICONTROL 最適化表單]中以核心元件為主的表單片段](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=en) – 告別重複資料、最佳化您的數位目錄，並隨著使用[!UICONTROL 表單片段]提升表單建立體驗來提升共同作業。這些可重複使用的元件會無縫整合到多個表單中，讓您更輕鬆建立一致且具有專業外觀的表單。[!UICONTROL 表單片段]透過&#x200B;_一次變更，處處反映_&#x200B;功能可確保再使用性、標準化和品牌一致性。在一處進行的更新會自動傳播到使用這些片段的所有表單，因此可體驗更高的可維護性和效率。
-* [增強 Acrobat Sign Workflow 步驟](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en#sign-document-step-sign-document-step) – [!DNL Acrobat Sign] Workflow 步驟已強化，以納入以下內容：
+* [[!UICONTROL 最適化表單]中以核心元件為主的表單片段](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=zh-Hant) – 告別重複資料、最佳化您的數位目錄，並隨著使用[!UICONTROL 表單片段]提升表單建立體驗來提升共同作業。這些可重複使用的元件會無縫整合到多個表單中，讓您更輕鬆建立一致且具有專業外觀的表單。[!UICONTROL 表單片段]透過&#x200B;_一次變更，處處反映_&#x200B;功能可確保再使用性、標準化和品牌一致性。在一處進行的更新會自動傳播到使用這些片段的所有表單，因此可體驗更高的可維護性和效率。
+* [增強 Acrobat Sign Workflow 步驟](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=zh-Hant#sign-document-step-sign-document-step) – [!DNL Acrobat Sign] Workflow 步驟已強化，以納入以下內容：
 
    * **Acrobat Sign 以政府機關身分證件為主的驗證** – Acrobat Sign 以政府機關身分證件為主的驗證，讓使用者能夠使用政府機關核發的身分證件 (駕照、國民身分證、護照) 驗證其身分，提供多一層的驗證功能。此增強功能利用受信任的身分識別文件為簽名過程額外增加一層可信度，使其成為需要增強安全性、合規性和使用者驗證等情境的理想選擇。
    * **Acrobat Sign 文件的稽核軌跡** – 使用稽核軌跡功能可深入了解 Acrobat Sign 文件的生命週期。有了稽核軌跡，您現在就可以保留與文件相關之所有動作和互動的全面記錄了。此記錄包括曾檢視、編輯或簽署文件之人員的詳細資料，以及每個事件的時間戳記。此記錄增強功能對於維持合規性、解決爭議和確保數位協議的完整性至關重要。
    * **超越簽署者的協議收件者新角色** – Adobe Acrobat Sign 現在可以選擇將協議收件者的角色延伸到簽署者之外，以符合其工作流程要求。啟用後，協議中的每位收件者都會有其可個別設定的角色，預設為簽署者。
 
-* [使用文件保證 API (通訊 API 的一部分) 保護您的文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=en#document-assurance-doc-assurance) – 文件保證 API 可讓您透過在文件上簽名和加密來保護敏感資訊。透過加密，文件內容會轉換為無法讀取的格式，確保只有授權的使用者才能存取。這個強化的保護層不僅可以防止未經授權的人士檢視珍貴資料，也可讓您感到安心。簽名 API 可讓您的組織保護所分發和接收之 Adobe PDF 文件的安全性和隱私權。此服務會使用數位簽名和認證，以確保只有預期的收件者才能修改文件。
+* [使用文件保證 API (通訊 API 的一部分) 保護您的文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=zh-Hant#document-assurance-doc-assurance) – 文件保證 API 可讓您透過在文件上簽名和加密來保護敏感資訊。透過加密，文件內容會轉換為無法讀取的格式，確保只有授權的使用者才能存取。這個強化的保護層不僅可以防止未經授權的人士檢視珍貴資料，也可讓您感到安心。簽名 API 可讓您的組織保護所分發和接收之 Adobe PDF 文件的安全性和隱私權。此服務會使用數位簽名和認證，以確保只有預期的收件者才能修改文件。
 * **通訊 API 中的頁數支援** – 現在，除了透過通訊 API 擷取文件之外，您也可以接收有關文件內所含頁數的重要資訊。
-* [在規則編輯器中使用自訂錯誤處理常式進行錯誤處理](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/add-custom-error-handler-adaptive-forms-core-components.html?lang=en) – 您現在可以叫用自訂函數來回應外部服務傳回的錯誤，並為一般使用者提供量身打造的回應。例如，您可以針對特定錯誤程式碼在後端叫用自訂工作流程，或通知客戶服務已關閉。
+* [在規則編輯器中使用自訂錯誤處理常式進行錯誤處理](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/add-custom-error-handler-adaptive-forms-core-components.html?lang=zh-Hant) – 您現在可以叫用自訂函數來回應外部服務傳回的錯誤，並為一般使用者提供量身打造的回應。例如，您可以針對特定錯誤程式碼在後端叫用自訂工作流程，或通知客戶服務已關閉。
 
 ### Headless 最適化表單早期採用者計劃
 
-使用 [Headless 最適化表單](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html?lang=en)可讓開發人員建立、發佈和管理可透過 API 存取和互動的互動式表單，而不是透過傳統的圖形使用者介面。Headless 最適化表單可協助您：
+使用 [Headless 最適化表單](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html?lang=zh-Hant)可讓開發人員建立、發佈和管理可透過 API 存取和互動的互動式表單，而不是透過傳統的圖形使用者介面。Headless 最適化表單可協助您：
 
 * 使用您選擇的程式語言建置高品質的多管道表單
 * 以原生方式將表單整合到您的桌面和行動應用程式、網站和聊天應用程式
@@ -381,20 +381,20 @@ _搶鮮版管道的新功能_
 
   有興趣嘗試該功能並分享回饋意見嗎？若要深入了解早期採用者計劃，請從您的官方電子郵件 ID 寄送電子郵件到 [aemcs-waf-adopter@adobe.com](mailto:aemcs-waf-adopter@adobe.com)。名額有限。
 
-  若要深入了解該功能，請點選[這裡](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/cdn-and-waf-rules.html?lang=en)參閱文章。
+  若要深入了解該功能，請點選[這裡](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/cdn-and-waf-rules.html?lang=zh-Hant)參閱文章。
 
 ### [!DNL Cloud Manager]
 
 _新功能_
 
-* 將內容設定為[複製內容時，使用者介面中的內容集現在可允許內容感知設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/configurations.html?lang=en)。
+* 將內容設定為[複製內容時，使用者介面中的內容集現在可允許內容感知設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/configurations.html?lang=zh-Hant)。
 * 已進行增強，以提升 Cloud Manager 使用者介面中錯誤訊息的可理解性和顯示效果。
 
 _早期採用計劃_
 
 參加 Adobe 的早期採用計劃，就有機會測試一些即將推出的功能。
 
-* **自助服務內容還原** – [新的自助服務內容還原功能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/restore.html?lang=en)現在會提供最多七天的備份還原，而且可供早期採用者用於評估目的，且具備以下特色：
+* **自助服務內容還原** – [新的自助服務內容還原功能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/restore.html?lang=zh-Hant)現在會提供最多七天的備份還原，而且可供早期採用者用於評估目的，且具備以下特色：
 
    * 前 24 小時的時間點備份還原。
    * 最多七天的固定時間還原。
@@ -413,14 +413,14 @@ _早期採用計劃_
 
 **錯誤修正**
 
-* 現在起，觸發[複製內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en)強制回應之後就會關閉「環境」選單。
-* 如果前一個執行在建置階段狀態上未設定 commitId，就不會再允許[管道重新執行](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/deploy-code.html?lang=en#reexecute-deployment)。
+* 現在起，觸發[複製內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=zh-Hant)強制回應之後就會關閉「環境」選單。
+* 如果前一個執行在建置階段狀態上未設定 commitId，就不會再允許[管道重新執行](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/deploy-code.html?lang=zh-Hant#reexecute-deployment)。
 * 使用者在「活動」或「管道」畫面選取管道時，如果出現不常見的錯誤，現在會顯示更容易理解的訊息。
-* 紀錄中不再缺少 `contentSetName` 值，現在在啟動[內容複製](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en)作業時即會在輸入中提供。
+* 紀錄中不再缺少 `contentSetName` 值，現在在啟動[內容複製](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=zh-Hant)作業時即會在輸入中提供。
 * 在特定的少數情況下，從同一個管道啟動兩次執行，以致於造成「停滯」狀態的情況不再可能發生。
 * 憑證到期時，與該憑證相關聯的網域名稱和 IP 允許清單不會再從 CDN 中移除。
    * 在這種情況下，網站仍接受訪客造訪。
-   * [Cloud Manager 使用者介面](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=en)提供更明顯的警告來表示 SSL 憑證即將到期。
+   * [Cloud Manager 使用者介面](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=zh-Hant)提供更明顯的警告來表示 SSL 憑證即將到期。
 * 將 Sites 作為解決方案新增到僅限 Assets 的計劃時，AEM 無法存取發佈端點的問題已修正。
 
 ### [!DNL Workfront for Experience Manager] 增強型連接器
@@ -436,11 +436,11 @@ _版本重點_
 
 >[!NOTE]
 >
->AEM 6.4 現在已終止延伸支援。如需更多詳細資料，請參閱 Adobe 的[技術支援期間](https://helpx.adobe.com/support/programs/eol-matrix.html)。請到[這裡](https://experienceleague.adobe.com/docs/?lang=en)尋找支援的版本。
+>AEM 6.4 現在已終止延伸支援。如需更多詳細資料，請參閱 Adobe 的[技術支援期間](https://helpx.adobe.com/tw/support/programs/eol-matrix.html)。請到[這裡](https://experienceleague.adobe.com/docs/?lang=en)尋找支援的版本。
 
 >[!IMPORTANT]
 >
->Adobe 建議您升級到 Workfront for Experience Manager 增強型連接器的[最新 1.9.12 版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en)。
+>Adobe 建議您升級到 Workfront for Experience Manager 增強型連接器的[最新 1.9.12 版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=zh-Hant)。
 
 _已知問題_
 
@@ -459,7 +459,7 @@ _已知問題_
 所有 [!DNL Experience Manager] 的發行說明都會保留在以下頁面：
 
 * [Experience Manager as a Cloud Service 發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
-* [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en)
+* [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant)
 * [Experience Manager as a Cloud Service 最新發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant)
 * [Experience Manager as a Cloud Service 發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant)
 * [Experience Manager Cloud Manager 發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hant)
@@ -482,7 +482,7 @@ _已知問題_
 | 2023 年 9 月 | AEM Foundation | [使用 ModSecurity 保護您的 AEM 網站免受 DoS 攻擊](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/modsecurity-crs-dos-attack-protection.html) | 影片 | 了解如何使用 Adobe Experience Manager (AEM) Publish Dispatcher 上的 OWASP ModSecurity 核心規則集 (CRS) 啟用 ModSecurity，以保護您的網站免受阻斷服務 (DoS) 攻擊。 |
 | 2023 年 9 月 | AEM Foundation | [在 AEM 中使用 SSL 精靈](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/use-the-ssl-wizard.html) | 影片 | 了解如何使用內建的 SSL 精靈在 Adobe Experience Manager 中設定 SSL，使其在 HTTPS 上執行。 |
 | 2023 年 9 月 | AEM Forms | [在 AEM Workflow 中記錄變數值](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/variables-aem-workflow/part6.html%3Flang%3Dit) | 文章 | 記錄 AEM 工作流程變數的值。此功能可協助開發人員追蹤和了解 AEM 工作流程的執行情況、診斷問題，以及監控 AEM 工作流程中的資料流量。 |
-| 2023 年 9 月 | AEM Forms | [將表單提交內容儲存在 Azure 儲存體中](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/store-form-data-in-azure-storage.html?lang=en) | 影片 | 了解如何進行 REST 呼叫，以便將提交的 AEM Forms 資料儲存到 Azure 儲存體中。 |
+| 2023 年 9 月 | AEM Forms | [將表單提交內容儲存在 Azure 儲存體中](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/store-form-data-in-azure-storage.html?lang=zh-Hant) | 影片 | 了解如何進行 REST 呼叫，以便將提交的 AEM Forms 資料儲存到 Azure 儲存體中。 |
 | 2023 年 9 月 | AEM CS | [Asset-share-commons-3.4.0](https://github.com/adobe/asset-share-commons/releases/tag/asset-share-commons-3.4.0) | 程式碼範例 | Asset Share Commons v3.4.0 的發佈內容參考 Asset Share 實作，包含錯誤修復和漏洞更新。 |
 | 2023 年 9 月 | AEM Foundation | [使用私人憑證呼叫內部 API](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | 文章 | 了解如何使用私人或自我簽署憑證，從 AEM 進行對 Web API 的 HTTPS 呼叫。 |
 | 2023 年 9 月 | AEM Sites | [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html) | 更新的影片 | 「[!UICONTROL 啟動]」(在 [!DNL AEM Sites] 中) 提供建立、編寫和檢閱未來發布內容的方式。 |
@@ -548,7 +548,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 9 月 | [B2B 銷售報價條列項目折扣](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/b2b-quote/quote-line-item-notes.html?lang=en) | 影片 | 了解如何使用 Adobe Commerce B2B 報價的條列項目備註。 |
+| 2023 年 9 月 | [B2B 銷售報價條列項目折扣](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/b2b-quote/quote-line-item-notes.html?lang=zh-Hant) | 影片 | 了解如何使用 Adobe Commerce B2B 報價的條列項目備註。 |
 | 2023 年 9 月 | [「即時搜尋」推薦內容](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html) | 影片 | 了解如何將產品推薦的「即時搜尋」新增到您的商店，並提供極為引人入勝、相關且個人化的購物體驗。 |
 | 2023 年 9 月 | [適用於 Adobe Commerce 的擴增實境檢視器](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/augmented-reality.html) | 影片 | 了解 Commerce Marketplace 上提供的擴增實境檢視模組。 |
 | 2023 年 9 月 | [用於匯入目錄的選項](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-import.html) | 影片 | 了解如何使用一些原生選項，將目錄匯入 Adobe Commerce 商店。 |
@@ -723,7 +723,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 9 月 | [Workfront 教學課程的新內容](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F) | 多部影片 | 檢視上一個月推出的最新教學課程。 |
+| 2023 年 9 月 | [Workfront 教學課程的新內容](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=zh-Hant#what%E2%80%99s-new%3F) | 多部影片 | 檢視上一個月推出的最新教學課程。 |
 
 {style="table-layout:auto"}
 
@@ -792,9 +792,9 @@ Last updated: **August 9, 2022**
 
 | 已發佈 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | Acrobat Sign | [隨時隨地簽署文件](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile.html?lang=en) | 影片 | 了解如何使用適用於 iOS 或 Android™ 的 Acrobat Sign 行動應用程式簽署文件。 |
+| 2023 年 9 月 | Acrobat Sign | [隨時隨地簽署文件](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile.html?lang=zh-Hant) | 影片 | 了解如何使用適用於 iOS 或 Android™ 的 Acrobat Sign 行動應用程式簽署文件。 |
 | 2023 年 9 月 | Acrobat Sign | [Microsoft® Dynamics 365 for Sales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-sales.html) | 影片 | 了解如何使用 Acrobat Sign 和 Microsoft® Dynamics 365 for Sales 自動執行銷售報價簽署流程。在此範例中，Microsoft® Dynamics 365 for Sales 協助 [!DNL Contoso] 的銷售團隊透過單一客戶檢視與整合的簽署流程，更快速地在完成交易並善加利用商機。 |
-| 2023 年 9 月 | Acrobat Sign | [Microsoft® Dynamics 365 for Field Service](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-field-service.html?lang=en) | 影片 | 了解現場服務調度人員和技術人員如何使用 [!DNL Acrobat Sign]、[!DNL Power Automate] 和 [!DNL Dynamics 365] 簡化現場服務的互動。 |
+| 2023 年 9 月 | Acrobat Sign | [Microsoft® Dynamics 365 for Field Service](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-field-service.html?lang=zh-Hant) | 影片 | 了解現場服務調度人員和技術人員如何使用 [!DNL Acrobat Sign]、[!DNL Power Automate] 和 [!DNL Dynamics 365] 簡化現場服務的互動。 |
 
 {style="table-layout:auto"}
 
