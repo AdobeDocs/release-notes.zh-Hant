@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
 workflow-type: tm+mt
 source-wordcount: '7132'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 98%
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Pass]](#pass) (先前稱為 [!DNL Adobe Primetime])
+* [[!DNL Adobe Pass]](#pass) (原稱為 [!DNL Adobe Primetime])
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [客戶資料管理 - 對話](#voices)
@@ -68,7 +68,7 @@ ht-degree: 98%
 
 | 已發佈 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | Experience Cloud | [擬定有效的 Audience Activation 策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=zh-Hant) | 客戶成功網路研討會 | 瞭解資料管理策略的重要性、Adobe Audience Manager概覽和功能、Adobe Audience Manager使用案例、設定資料管理策略的行動計畫 |
+| 2023 年 9 月 | Experience Cloud | [設定有效的 Audience Activation 策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=zh-Hant) | 客戶成功網路研討會 | 了解資料管理策略的重要性、Adobe Audience Manager 概觀和功能、Adobe Audience Manager 使用案例、制定資料管理策略的行動計劃 |
 | 2023 年夏季 | Experience Cloud | [Experience Cloud 應用程式的整合教學課程首頁](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 影片 | 瞭解最常見的 Experience Cloud 應用程式整合。您可依照[解決方案](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=zh-Hant)或[應用程式](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=zh-Hant)瀏覽整合教學課程。此內容會經常更新，因此請經常回來查看。 |
 
 {style="table-layout:auto"}
@@ -602,7 +602,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * Campaign Standard：[發行說明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hant)
 
-* Campaign Classic v7.3.4：[發行說明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)
+* Campaign Classic v7.3.4：[版本注意事項](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hant)
 
 * 控制面板：[發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hant)
 
@@ -772,13 +772,13 @@ Last updated: **August 9, 2022**
 
 ## ![圖示](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
-[!DNL Adobe Pass] 是多熒幕電視平台，可協助電視公司、有線電視網路和服務供應商，創造吸引人且個人化的觀看體驗，並從中獲利。
+[!DNL Adobe Pass] 是多螢幕電視平台，可協助電視台、有線電視網路和服務提供者，讓他們打造具吸引力的個人化觀看體驗並藉此創造營收。
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_現在稱為_[!DNL Adobe Pass]_。在不久的將來，您可能需要在檔案中看到兩個品牌名稱，直到品牌重設工作完成。
+>_[!DNL Adobe Primetime]_現在稱為_[!DNL Adobe Pass]_。在品牌重塑工作完成之前，您近期可能會在文件中看到這兩個品牌名稱。
 
-另請參閱 [Adobe Pass發行說明](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) 以尋找版本特定的資訊、系統需求、限制、已修正問題和已知問題。
+請參閱 [Adobe Pass 版本注意事項](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)以找到特定版本的資訊、系統需求、限制、已修正的問題和已知問題。
 
 ## ![圖示](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
