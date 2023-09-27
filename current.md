@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
 workflow-type: tm+mt
 source-wordcount: '7132'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -91,7 +91,7 @@ ht-degree: 99%
 
 * **[!DNL WORKFRONT]** | 客戶研討會 | _管理員基本知識：讓您的使用者使用 Workfront_ | **北美山區時間 10 月 17 日上午 9:00** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** 和 **[!DNL COMMERCE]** |開發人員直播 | _內容與商務：深入探討 [!UICONTROL Edge遞送服務]、 Headless功能、擴充性、可組合性和生產力工具_ | **11月6日上午9:00 （北美山區時區）** | [註冊](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** 和 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce：深入探討 [!UICONTROL Edge Delivery Services]、Headless 功能、擴充性、可組合性和生產力工具_ | **11 月 6 日上午 9:00 (北美山區時區)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 查看全部[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。您可以使用左側導覽並按系列類型和應用來查詢活動錄影內容。
 
@@ -325,7 +325,7 @@ _新功能_
 
 _Assets 視圖中的新功能_
 
-* **從資料來源大量匯入資產** – 管理員現在可以將資料來源的[多個資產匯入](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/bulk-import-assets-view.html?lang=zh-Hant) AEM Assets。管理員不再需要將個別資產或資料夾上傳到 AEM Assets。 支援大量匯入的資料來源包括 Azure、AWS、Google 雲端和 Dropbox。
+* **從資料來源大量匯入資產** – 管理員現在可以將資料來源的[多個資產匯入](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/bulk-import-assets-view.html?lang=zh-Hant) AEM Assets。管理員不再需要將個別資產或資料夾上傳到 AEM Assets。支援大量匯入的資料來源包括 Azure、AWS、Google 雲端和 Dropbox。
 * **由 Adobe Express 提供技術支援的影像編輯工具** – 簡單直觀的[影像編輯工具是由 Adobe Express 提供技術支援，](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/edit-images-assets-view.html?lang=zh-Hant)可直接在 AEM Assets 中使用，以增加內容重複使用性並加快內容流通速度。
 * **為「我的工作區」的「快速存取」釘選項目時的靈活性** – 能夠為您的組織或群組清單選擇和釘選項目，以便它們顯示在[「我的工作區」的「快速存取」部分](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html?lang=zh-Hant)。
 
@@ -416,7 +416,7 @@ _早期採用計劃_
 * 現在起，觸發[複製內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=zh-Hant)強制回應之後就會關閉「環境」選單。
 * 如果前一個執行在建置階段狀態上未設定 commitId，就不會再允許[管道重新執行](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/deploy-code.html?lang=zh-Hant#reexecute-deployment)。
 * 使用者在「活動」或「管道」畫面選取管道時，如果出現不常見的錯誤，現在會顯示更容易理解的訊息。
-* 紀錄中不再缺少 `contentSetName` 值，現在在啟動[內容複製](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=zh-Hant)作業時即會在輸入中提供。
+* 記錄中不再缺少 `contentSetName` 值，現在在啟動[內容複製](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=zh-Hant)作業時即會在輸入中提供。
 * 在特定的少數情況下，從同一個管道啟動兩次執行，以致於造成「停滯」狀態的情況不再可能發生。
 * 憑證到期時，與該憑證相關聯的網域名稱和 IP 允許清單不會再從 CDN 中移除。
    * 在這種情況下，網站仍接受訪客造訪。
