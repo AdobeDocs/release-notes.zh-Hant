@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7065'
-ht-degree: 98%
+source-wordcount: '7204'
+ht-degree: 97%
 
 ---
 
@@ -647,6 +647,11 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 已發佈 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2023 年 9 月 | [管理、編寫和使用片段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | 影片 | 瞭解如何在 Adobe Journey Optimizer 中管理、編寫和使用片段。 |
+| 2023 年 9 月 | [網頁編輯器中的單頁應用程式(SPA)支援](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 影片 | 瞭解如何在Journey Optimizer網頁編輯器中編寫單頁應用程式(SPA)。 |
+| 2023 年 9 月 | [頻道層級報表](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | 影片 | 瞭解如何在頻道層級存取、導覽和匯出報告。 |
+| 2023 年 9 月 | [以CSV格式匯出報表](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | 影片 | 瞭解如何下載適用於單一報表和單一Widget的CSV報表。 |
+| 2023 年 9 月 | [網頁編輯器中的單頁應用程式(SPA)支援](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 影片 | 瞭解如何在Journey Optimizer網頁編輯器中編寫單頁應用程式(SPA)。 |
 | 2023 年 9 月 | [在歷程中建立應用程式內訊息](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html) | 影片 | 了解何謂應用程式內訊息，以及在歷程中套用的方式。 了解如何在歷程中建立應用程式內訊息，以及測試和發佈歷程的方式。 |
 
 {style="table-layout:auto"}
