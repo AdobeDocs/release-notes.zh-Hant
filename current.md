@@ -6,10 +6,10 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3357c889fb9ab09031776b8f1293db451e090cc9
+source-git-commit: ed821b19b77e3aa2d99e5e15445929996db7381d
 workflow-type: tm+mt
-source-wordcount: '7491'
-ht-degree: 99%
+source-wordcount: '7449'
+ht-degree: 97%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 99%
 
 若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-**2023 年 10 月 9 日**
+**2023年10月20日**
 
-* [[!DNL Experience League] 活動和更新](#events)
+* [[!DNL Experience League] 活動和更新](#events) (已更新 **10月20日**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
@@ -68,17 +68,17 @@ ht-degree: 99%
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL ANALYTICS]** | 網路研討會 | _使用 Adob&#x200B;&#x200B;e Analytics 探索並提供可操作分析_ | **10 月 5 日上午 9:00 (英國夏令時間)** | [報名](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager as a Cloud Service]** |直播串流 | _適用於Adobe Experience Manager的雲端原生事件_ | **太平洋時間10月24日上午8:00** | [註冊](https://www.eventbrite.com/e/app-builder-live-cloud-native-events-for-adobe-experience-manager-tickets-694888017767?aff=exlg)
 
-* **[!DNL WORKFRONT]** | 網路研討會 | _Adobe Workfront 23.10 有哪些新增功能？_ | **10 月 5 日上午 10:00 (美國東部時間)** | [報名](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** |客戶工作坊 | _詢問專家：使用Workfront Fusion連線系統和應用程式_ | **太平洋時間10月24日上午10:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,FBqPQ3xqdE2fRH684eBr1w,mDVfeVEOMU-j3LBMxIsx1A,0KtOWSQCkUunbvAhiNDxzA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER]** | 網路研討會 | _Espressos 與 Experience Manager：升級至 Dynamic Media_ | **10 月 5 日下午 1:00 (美國山區夏令時間)** | [報名](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL WORKFRONT]** |茶歇 | _Workfront咖啡會：採用的溝通方法_ | **10月26日上午8:30 PTT** | [註冊](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
 
-* **[!DNL WORKFRONT]** | 客戶研討會 | _諮詢專家：透過 Workfront Fusion 實現工作流程自動化_ | **10 月 5 日上午 11:00 (美國山區時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |Experience League直播 | _Workfront版本深入探討 — 全新Workfront首頁_ | **太平洋時間10月26日上午9:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
-* **[!DNL WORKFRONT]** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | **北美山區時間 10 月 6 日上午 10:00** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |客戶工作坊 | _瞭解： Adobe Workfront 2023年第4季版本綜述_ | **太平洋時間10月31日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 客戶研討會 | _管理員基本知識：讓您的使用者使用 Workfront_ | **北美山區時間 10 月 17 日上午 9:00** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** |網路研討會 | _克服零售業中的全通路挑戰_ | **太平洋時間11月1日上午9:00** | [註冊](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM]** 和 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce：深入探討 [!UICONTROL Edge Delivery Services]、Headless 功能、擴充性、可組合性和生產力工具_ | **11 月 6 日上午 8:00 (北美山區時區)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
