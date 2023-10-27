@@ -1,15 +1,15 @@
 ---
 title: 最新發行說明
-description: 閱讀 Adobe  [!DNL Experience Cloud]  產品和服務的最新發行說明。了解有關 Experience League 即將舉辦的活動和新文件。探索  [!DNL Experience Cloud]  應用程式的最新教學課程和其他課程。
+description: 尋找Adobe的最新發行說明 [!DNL Experience Cloud] 產品和服務。 了解有關 Experience League 即將舉辦的活動和新文件。探索  [!DNL Experience Cloud]  應用程式的最新教學課程和其他課程。
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
+source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
 workflow-type: tm+mt
-source-wordcount: '6774'
-ht-degree: 69%
+source-wordcount: '6940'
+ht-degree: 66%
 
 ---
 
@@ -17,28 +17,35 @@ ht-degree: 69%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-
 <!-- ![Banner](assets/release-notes-header.png) -->
 
+此頁面可協助您尋找Experience Cloud和Adobe企業應用程式的發行說明。 為獲得最佳的自助體驗，請登入 [Experience League](https://experienceleague.adobe.com/#home) 並在Adobe的免費自助資源庫中自訂您的搜尋體驗，包括：
 
-登入 [Experience League](https://experienceleague.adobe.com/#home)，在 Adobe 自助資源庫中自訂您的搜尋體驗。 瀏覽所有級別和角色的[產品文件](https://experienceleague.adobe.com/docs/)、[教學課程影片](https://experienceleague.adobe.com/docs/home-tutorials.html)、[課程](https://experienceleague.adobe.com/#courses)和[活動](https://experienceleague.adobe.com/events/)。向您的同業[社群](https://experienceleaguecommunities.adobe.com/?profile.language=en)提問，並在您最需要時獲得專家[支援](https://experienceleague.adobe.com/?support-tab=home#support)。
+* [產品文件](https://experienceleague.adobe.com/docs/)
+* [教學課程影片](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [課程](https://experienceleague.adobe.com/#courses)
+* [Experience League 活動](https://experienceleague.adobe.com/events/)
+* [依產品的社群](https://experienceleaguecommunities.adobe.com/?profile.language=en)
+* [應用程式支援](https://experienceleague.adobe.com/?support-tab=home#support)
 
 若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-**2023 年 11 月**
+<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
-最近更新日期：**2023 年 10 月 25 日**
+## 2023 年 11 月
 
-* [[!DNL Experience League] 活動和更新](#events)
+最近更新日期：**2023 年 10 月 27 日**
+
+* [[!DNL Experience League] 活動和更新](#events) (已更新 **10月27日**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Experience Platform]](#platform) (已發行 **10月25日**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Analytics]](#analytics) (已發行 **10月25日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (已發行 **10月25日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (已發行 **10月26日**)
 * [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -64,15 +71,23 @@ ht-degree: 69%
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL WORKFRONT]** |茶歇 | _Workfront咖啡會：採用的溝通方法_ | **10月26日上午8:30 PTT** | [註冊](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
-
-* **[!DNL WORKFRONT]** |Experience League直播 | _Workfront版本深入探討 — 全新Workfront首頁_ | **太平洋時間10月26日上午9:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-231026.html)
-
 * **[!DNL WORKFRONT]** |客戶工作坊 | _瞭解： Adobe Workfront 2023年第4季版本綜述_ | **太平洋時間10月31日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE PLATFORM]** |網路研討會 | _克服零售業中的全通路挑戰_ | **太平洋時間11月1日上午9:00** | [註冊](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
+* **[!DNL CAMPAIGN]** |網路研討會 | _Adobe Campaign：流暢地協調、啟動和衡量跨頻道行銷活動_ | **11月2日上午9:00 （英國夏令時間）** | [註冊](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+
+* **[!DNL MARKETO]** 和 **[!DNL MARKETO ENGAGE]** |向同儕學習 | _使用Marketo Engage和Dynamic Chat處理孤立的管道和資料_ | **11月2日上午8:00 （太平洋時間）** | [註冊](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+
+* **[!DNL ANALYTICS]** |向同儕學習 | _Adobe Analytics中有影響力的資料視覺效果的藝術與科學_ | **11月2日上午11:00 （東部時間）** | [註冊](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+
+* **[!DNL WORKFRONT]** |向同儕學習 | _詢問客戶面板 — 群組管理員快速入門_ | **太平洋時間11月2日上午10:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** |客戶工作坊 | _Connect：行銷與創意的管理員聊天_ | **太平洋時間11月3日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL AEM]** 和 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce：深入探討 [!UICONTROL Edge Delivery Services]、Headless 功能、擴充性、可組合性和生產力工具_ | **11 月 6 日上午 8:00 (北美山區時區)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+
+* **[!DNL EXPERIENCE MANAGER SITES]** |網路研討會 | _釋放內容建立和管理效率_ | **太平洋時間11月7日上午8:00** | [註冊](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
 檢視更多 [即將到來的活動](https://experienceleague.adobe.com/events/) 或瀏覽 [活動錄製](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) 在Experience League上。
 
@@ -141,7 +156,7 @@ ht-degree: 69%
 
 +++詳細資訊
 
-* [[!DNL Experience Platform] 發行說明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [[!DNL Experience Platform] 發行說明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (**10月25日**)
 
 * [[!DNL Experience Platform] Mobile SDK 發行說明](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
