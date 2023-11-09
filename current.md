@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6959'
+source-wordcount: '6920'
 ht-degree: 96%
 
 ---
@@ -514,7 +514,6 @@ Adobe Developers Live：內容與商業，2023 年 11 月 | AEM 工作階段完�
 | 2023 年 10 月 | AEM CS | [[!DNL AEM as a Cloud Service] 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | 更新的影片 | 觀看最新的概觀影片，其中包括 Adobe Experience Manager as a Cloud Service 中的 Edge Delivery Services。 |
 | 2023 年 10 月 | AEM CS | [使用私人憑證呼叫內部 API](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | 影片 | 了解如何使用私人或自我簽署憑證，從 AEM 對 Web API 進行 HTTPS 呼叫。 |
 | 2023 年 10 月 | AEM CS | [什麼是 AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html) | 更新的影片 | 探索什麼是 Experience Manager as a Cloud Service，以及其與 Adobe Experience Manager 其他版本的差異。 |
-| 2023 年 10 月 | AEM CS | [AEM 的發展進程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | 更新的影片 | 了解 AEM 的發展進程及其提供的價值，從 AEM 6.5 到 AEM as a Cloud Service，及最後成為 Edge Delivery Services。 |
 | 2023 年 10 月 | 內容片段 | [內容片段主控台影片](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | 更新的影片 | 說明 |
 | 2023 年 10 月 | 安全性 | [來自 AEM 的相互傳輸層安全性 (mTLS) 驗證](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | 影片 | 了解如何從 AEM 對需要相互傳輸層安全性 (mTLS) 驗證的 Web API 進行 HTTPS 呼叫。 |
 
