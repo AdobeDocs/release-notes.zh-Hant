@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
+source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
 workflow-type: tm+mt
-source-wordcount: '6902'
+source-wordcount: '6888'
 ht-degree: 95%
 
 ---
@@ -19,18 +19,9 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-此頁面可協助您尋找Experience Cloud和Adobe企業應用程式的發行說明。 為獲得最佳的自助體驗，請登入 [Experience League](https://experienceleague.adobe.com/#home) 並在Adobe的免費自助資源庫中自訂您的搜尋體驗，包括：
-
-* [產品文件](https://experienceleague.adobe.com/docs/)
-* [教學課程影片](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [課程](https://experienceleague.adobe.com/#courses)
-* [Experience League 活動](https://experienceleague.adobe.com/events/)
-* [依產品的社群](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [應用程式支援](https://experienceleague.adobe.com/?support-tab=home#support)
+此頁面可協助您尋找Experience Cloud和Adobe企業應用程式的發行說明。 為獲得最佳的自助體驗，請登入 [Experience League](https://experienceleague.adobe.com/#home) 並在Adobe的免費資料庫中自訂您的搜尋體驗 [檔案](https://experienceleague.adobe.com/docs/)， [課程](https://experienceleague.adobe.com/#courses)， [事件](https://experienceleague.adobe.com/events/)， [社群論壇](https://experienceleaguecommunities.adobe.com/?profile.language=en)、和 [支援](https://experienceleague.adobe.com/?support-tab=home#support).
 
 若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
-
-<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
 ## 2023 年 11 月
 
