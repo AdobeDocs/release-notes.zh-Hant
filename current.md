@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
+source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
 workflow-type: tm+mt
-source-wordcount: '5582'
-ht-degree: 97%
+source-wordcount: '5877'
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 97%
 
 若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-## 2023 年 11 月
+## 2023 年 11 月/12 月
 
-最新更新： **2023年11月16日**
+最新更新： **2024年1月5日**
 
-* [[!DNL Experience League] 活動和更新](#events) (已更新 **11月16日**)
+* [[!DNL Experience League] 活動和更新](#events) (已更新 **1月5日**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
@@ -59,13 +59,27 @@ ht-degree: 97%
 
 ### Experience League 活動
 
+已更新 **2024年1月5日**
+
 +++即將推出的 Experience League 活動
 
-* **[!DNL WORKFRONT]** |社群活動 | _連線： Workfront策略管理員閒談_ | **太平洋時間12月11日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他管理員討論最佳實務以及秘訣和技巧。 | **太平洋時間1月5日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |客戶工作坊 | _Admin 101 — 提出Workfront問題！_ | **太平洋時間12月12日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間1月8日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |客戶工作坊 | _瞭解：年終報告_ | **太平洋時間12月19日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 網路研討會 | _Workfront 24.1的新增功能_ | Workfront 24.1面對客戶的發行網路研討會 | **1月11日上午8:00 （北美山區時區）** | [註冊](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _Admin 101 - Workfront快速入門_ | 不熟悉Workfront？ 此活動為新系統管理員提供資源、系統導覽的簡介以及初始設定的最佳實務。 | **太平洋時間1月17日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | 向同儕學習 | _使用Marketo Engage掌握個人評分：全球架構中的本地化細微差別_ | 參加2024年1月18日的網路研討會，Marketo Engage冠軍分享如何讓本地影響您的評分模型，同時在全球範圍工作而不會失去組織間的一致性。 | **太平洋時間1月18日上午8:00** | [註冊](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _瞭解： Adobe Workfront 24.1版本綜述_ | 加入其他Workfront客戶，我們將討論推出計畫和管理變更的最新版本功能、好處和想法。 | **太平洋時間1月24日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他管理員討論最佳實務以及秘訣和技巧。 | **太平洋時間2月2日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _Admin 101：讓您的使用者使用Workfront_ | 不熟悉Workfront？ 加入我們每月的新管理員聚會！ 本月，我們將討論使用者採用的最佳實務。 | **太平洋時間2月14日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _Connect：產業圈 — 高等教育_ | 這是在2024年推出的全新產品，第一個產業圈是非正式的圓桌討論會，旨在將高等教育機構的Workfront管理員聚在一起，交流網路、分享經驗、學習和最佳作法。 | **太平洋時間2月8日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 檢視更多[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽 Experience League 上的[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
@@ -308,7 +322,7 @@ Edge Delivery 是一組可組合的新服務，著重在最大限度地發揮內
 
 _資產檢視中的新功能_
 
-* **將中繼資料表單指派至檔案夾** – 您現在可以將中繼資料表單指派至您部署中的特定檔案夾。然後，資料夾中的所有資產 (包括子資料夾中的資產) 將顯示被指派中繼資料表單中定義的屬性。
+* **將中繼資料表單指派至資料夾** – 您現在可以將中繼資料表單指派至您部署中的特定資料夾。然後，資料夾中的所有資產 (包括子資料夾中的資產) 將顯示被指派中繼資料表單中定義的屬性。
 
 _管理員檢視中的新功能_
 
