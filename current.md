@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
+source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
 workflow-type: tm+mt
 source-wordcount: '5877'
 ht-degree: 92%
@@ -713,7 +713,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 ### Marketo Engage 核心更新
 
-* 如需最新資訊，請參閱 [2023 年 10 月 - 最新版本注意事項](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html)
+* 如需最新資訊，請參閱 [2024 年 1 月 - 最新發行說明](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html)
 * 如需最新發行排程資訊和發行說明，請參閱 [!DNL Marketo Engage] [發行排程](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html)。
 
 ### 新的 Marketo Engage 教學與課程 {#tutorials-marketo}
@@ -746,7 +746,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 10 月 | [Workfront 教學課程的新內容](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=zh-Hant#what%E2%80%99s-new%3F) | 多部影片 | 檢視上一個月推出的最新教學課程。 |
+| 2024 年 1 月 | [Workfront 教學課程的新內容](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=zh-Hant#what%E2%80%99s-new%3F) | 多部影片 | 檢視上一個月推出的最新教學課程。 |
 
 {style="table-layout:auto"}
 
