@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 93%
+source-wordcount: '6123'
+ht-degree: 89%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 93%
 最新更新： **2024年1月12日**
 
 * [[!DNL Experience League] 活動和更新](#events) (已更新 **1月12**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **最新！**
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
@@ -80,6 +81,23 @@ ht-degree: 93%
 檢視更多[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽 Experience League 上的[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
 +++
+
+## ![圖示](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) 是端對端解決方案，可透過創作AI和智慧型自動化加速及簡化您的內容供應鏈。
+
++++詳細資訊
+
+| 發佈日期 | 名稱 | 類型 | 說明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2024 年 1 月 | [GenStudioTutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | 影片 | 觀看有關新的Experience League教學課程 [!DNL Adobe GenStudio]. GenStudio是端對端解決方案，可透過創作AI和智慧型自動化加速並簡化您的內容供應鏈。 |
+| 2024 年 1 月 | [工作流程與規劃：簡化並加速工作](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | 影片 | 對於在內容製作與完成的規劃流程中，努力連線並追蹤其內容需求的公司。 由於缺乏有效的流程、計畫、核准及跨專案的資料一致性，因此該公司內容供應鏈的生產力和效率都遭到搶劫。 |
+| 2024 年 1 月 | [創意生產力：強化創意團隊](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | 影片 | 適合擁有搖滾明星創意人員但需要展示其內容建立的公司。 GenStudio提供充滿GenAI的工具，可協助該團隊提升內容製作、交付和發現能力。 |
+| 2024 年 1 月 | [行銷靈敏度：讓非創意人員具備擴展能力](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | 影片 | 透過Adobe GenStudio，有時內容請求無需完整的創意團隊/工作室處理即可解決。 Adobe可讓行銷人員和其他潛在內容製作者取得工具。 這些工具可讓您快速開啟建立內容變體的功能。 更新可以由連線到內容供應鏈的更廣泛、擴展的個人群組執行，大幅增加內容吞吐量和上市時間。 |
+| 2024 年 1 月 | [傳遞與啟用：卓越的體驗與效能](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | 影片 | 適合需要支援的公司，在正確的頻道中，將正確的內容呈現給正確的個人。 GenStudio提供比其他解決方案更好的連線，同時提供分析功能以確保整體內容效能。 |
+
+{style="table-layout:auto"}
+
 
 ## ![圖示](/assets/certification-badge.png)認證{#certification}
 
