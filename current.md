@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
+source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
 workflow-type: tm+mt
-source-wordcount: '5877'
-ht-degree: 92%
+source-wordcount: '5841'
+ht-degree: 93%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 ## 2023 年 11 月/12 月
 
-最新更新： **2024年1月5日**
+最新更新： **2024年1月12日**
 
-* [[!DNL Experience League] 活動和更新](#events) (已更新 **1月5日**)
+* [[!DNL Experience League] 活動和更新](#events) (已更新 **1月12**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
@@ -59,17 +59,13 @@ ht-degree: 92%
 
 ### Experience League 活動
 
-已更新 **2024年1月5日**
+已更新 **2024年1月12日**
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL WORKFRONT]** | 社群活動 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他管理員討論最佳實務以及秘訣和技巧。 | **太平洋時間1月5日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS and CJA]** | Experience League即時 | _將您的Adobe Analytics資料和分析帶入Customer Journey Analytics_ | 瞭解如何使用自動化程式將資料和分析從Adobe Analytics移動到Customer Journey Analytics，以及過程中要考慮的任何問題。 | **太平洋時間1月17日上午10:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
-* **[!DNL WORKFRONT]** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間1月8日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | 網路研討會 | _Workfront 24.1的新增功能_ | Workfront 24.1面對客戶的發行網路研討會 | **1月11日上午8:00 （北美山區時區）** | [註冊](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
-
-* **[!DNL WORKFRONT]** | 客戶工作坊 | _Admin 101 - Workfront快速入門_ | 不熟悉Workfront？ 此活動為新系統管理員提供資源、系統導覽的簡介以及初始設定的最佳實務。 | **太平洋時間1月17日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _Admin 101 - Workfront快速入門_ | 不熟悉Workfront？ 此活動向新系統管理員提供資源、系統導覽簡介和初始設定的最佳實務的簡介。 | **太平洋時間1月17日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO ENGAGE]** | 向同儕學習 | _使用Marketo Engage掌握個人評分：全球架構中的本地化細微差別_ | 參加2024年1月18日的網路研討會，Marketo Engage冠軍分享如何讓本地影響您的評分模型，同時在全球範圍工作而不會失去組織間的一致性。 | **太平洋時間1月18日上午8:00** | [註冊](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
 
@@ -77,7 +73,7 @@ ht-degree: 92%
 
 * **[!DNL WORKFRONT]** | 客戶工作坊 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他管理員討論最佳實務以及秘訣和技巧。 | **太平洋時間2月2日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 客戶工作坊 | _Connect：產業圈 — 高等教育_ | 這是在2024年推出的全新產品，第一個產業圈是非正式的圓桌討論會，旨在將高等教育機構的Workfront管理員聚在一起，交流網路、分享經驗、學習和最佳作法。 | **太平洋時間2月8日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _Connect：產業圈 — 高等教育_ | 這是在2024年推出的全新產品，第一個產業圈是非正式的圓桌討論會，旨在將高等教育機構中的Workfront管理員聚在一起，交流網路、分享經驗、學習和最佳作法。 | **太平洋時間2月8日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 客戶工作坊 | _Admin 101：讓您的使用者使用Workfront_ | 不熟悉Workfront？ 加入我們每月的新管理員聚會！ 本月，我們將討論使用者採用的最佳實務。 | **太平洋時間2月14日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
