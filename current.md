@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6123'
-ht-degree: 89%
+source-wordcount: '6168'
+ht-degree: 88%
 
 ---
 
@@ -64,7 +64,9 @@ ht-degree: 89%
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL ANALYTICS and CJA]** | Experience League即時 | _將您的Adobe Analytics資料和分析帶入Customer Journey Analytics_ | 瞭解如何使用自動化程式將資料和分析從Adobe Analytics移動到Customer Journey Analytics，以及過程中要考慮的任何問題。 | **太平洋時間1月17日上午10:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | 網路研討會 | _Adobe Target個人化成熟度系列_ | 品牌正在尋找智慧型最佳化藍圖，以推動業務影響並成熟其個人化策略。 加入我們，我們將透過三部分網路研討會系列探索AI和自動化！ | **太平洋時間1月16日上午8:00** | [註冊](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]和CJA** | Experience League即時 | _將您的Adobe Analytics資料和分析帶入Customer Journey Analytics_ | 瞭解如何使用自動化程式將資料和分析從Adobe Analytics移動到Customer Journey Analytics，以及過程中要考慮的任何問題。 | **太平洋時間1月17日上午10:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | 客戶工作坊 | _Admin 101 - Workfront快速入門_ | 不熟悉Workfront？ 此活動向新系統管理員提供資源、系統導覽簡介和初始設定的最佳實務的簡介。 | **太平洋時間1月17日上午8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
