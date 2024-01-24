@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6259'
-ht-degree: 40%
+source-wordcount: '6300'
+ht-degree: 39%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 40%
 
 最新更新： **2024年1月24日**
 
-* [[!DNL Experience League] 活動和更新](#events)
+* [[!DNL Experience League] 活動和更新](#events) (已更新 **1月24日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **最新！**
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ ht-degree: 40%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (已更新 **1月24日**)
 * [客戶資料管理 - 對話](#voices)
 * [Digital Experience 藍圖](#blueprints)
 * [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
@@ -826,7 +826,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 針對 [!DNL Adobe Creative Cloud for enterprise] 中應用程式發佈的新影片、教學課程或課程。
 
-+++詳細資料
+已更新 **2024年1月24日**
+
++++詳細資訊
+
+| 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 2024 年 1 月 | [!DNL Adobe Express] | [Adobe Express的Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 影片 | 開始建立令人驚歎的工作，其中最突出的是由提供支援的創作AI [!DNL Adobe Firefly]. 設計傳單、TikToks、履歷和卷軸，使用 [!DNL Adobe Express]. |
 
 如需了解最新教學課程，請參閱[適用於企業的 Creative Cloud 教學課程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)。
 
