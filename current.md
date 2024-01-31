@@ -106,11 +106,11 @@ ht-degree: 94%
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 1 月 | [GenStudio 教學課程](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | 影片 | 查看有關新 [!DNL Adobe GenStudio] 的 Experience League 教學課程。[!DNL GenStudio]Adobe 是一種端對端解決方案，可透過生成式 AI 和智慧自動化來加速和簡化您的內容供應鏈。 |
-| 2024 年 1 月 | [工作流程與規劃：簡化與加速工作](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | 影片 | 本內容適用於那些努力連接和追蹤從規劃、生產到完成之內容需求的公司。專案之間缺乏有效的流程、規劃、核准和資料一致性的問題正在剝奪公司內容供應鏈的生產力和效率。 |
-| 2024 年 1 月 | [創意生產力：為創意團隊提供強大的助力](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | 影片 | 適用於擁有優秀創意人員但需要提升內容創作能力的公司。[!DNL GenStudio] 可提供由 [!DNL GenAI] 強化的工具，協助團隊提高內容製作、交付和可發現性。 |
-| 2024 年 1 月 | [行銷靈敏度：幫助非創意人員擴大規模](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | 影片 | 使用 Adobe [!DNL GenStudio]，有時無需創意團隊/工作室的處理即可解決內容要求。Adobe 將工具交給行銷人員和其他潛在內容創作者。這些工具可以快速建立內容變體。可由連接到內容供應鏈的更多、更廣泛的個人群體來執行更新，從而顯著提高內容輸送量和上市時間。 |
-| 2024 年 1 月 | [交付和啟用：強大的體驗和效能](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | 影片 | 適用於在以透過正確管道向正確個人提供正確內容方面需要支援的公司。相較於其他解決方案，[!DNL GenStudio] 可讓這種連接流程更順暢，同時還提供分析以確保整體內容效能。 |
+| 2024 年 1 月 | [GenStudio 教學課程](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=zh-Hant) | 影片 | 查看有關新 [!DNL Adobe GenStudio] 的 Experience League 教學課程。[!DNL GenStudio]Adobe 是一種端對端解決方案，可透過生成式 AI 和智慧自動化來加速和簡化您的內容供應鏈。 |
+| 2024 年 1 月 | [工作流程與規劃：簡化與加速工作](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=zh-Hant) | 影片 | 本內容適用於那些努力連接和追蹤從規劃、生產到完成之內容需求的公司。專案之間缺乏有效的流程、規劃、核准和資料一致性的問題正在剝奪公司內容供應鏈的生產力和效率。 |
+| 2024 年 1 月 | [創意生產力：為創意團隊提供強大的助力](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=zh-Hant) | 影片 | 適用於擁有優秀創意人員但需要提升內容創作能力的公司。[!DNL GenStudio] 可提供由 [!DNL GenAI] 強化的工具，協助團隊提高內容製作、交付和可發現性。 |
+| 2024 年 1 月 | [行銷靈敏度：幫助非創意人員擴大規模](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=zh-Hant) | 影片 | 使用 Adobe [!DNL GenStudio]，有時無需創意團隊/工作室的處理即可解決內容要求。Adobe 將工具交給行銷人員和其他潛在內容創作者。這些工具可以快速建立內容變體。可由連接到內容供應鏈的更多、更廣泛的個人群體來執行更新，從而顯著提高內容輸送量和上市時間。 |
+| 2024 年 1 月 | [交付和啟用：強大的體驗和效能](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=zh-Hant) | 影片 | 適用於在以透過正確管道向正確個人提供正確內容方面需要支援的公司。相較於其他解決方案，[!DNL GenStudio] 可讓這種連接流程更順暢，同時還提供分析以確保整體內容效能。 |
 
 {style="table-layout:auto"}
 
@@ -362,7 +362,7 @@ Adobe 建議您瀏覽以下資源，以隨時掌握發布內容資訊：
 
 _早期採用者計劃_
 
-您可以使用[真實使用者監控 (RUM) 資料服務](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests.html?lang=en#real-user-monitoring-for-aem-as-a-cloud-service)為 AEM as a Cloud Service 啟用用戶端彙集。
+您可以使用[真實使用者監控 (RUM) 資料服務](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests.html?lang=zh-Hant#real-user-monitoring-for-aem-as-a-cloud-service)為 AEM as a Cloud Service 啟用用戶端彙集。
 
 真實使用者監控 (RUM) 資料服務可以更準確地反映使用者互動，確保可靠地測量網站參與度。這是深入了解頁面效能的絕佳機會。這對於使用 Adobe 管理 CDN 或非 Adobe 管理 CDN 的客戶很有幫助。此外，對於使用非 Adobe 管理 CDN 的客戶，現在可以啟用自動流量報告，而無需與 Adobe 共享任何流量報告。
 
@@ -379,13 +379,13 @@ _資產檢視中的新功能_
 
 _新功能_
 
-* **[將調適型表單與 Microsoft® SharePoint 清單連接](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=en)** - AEM Forms 提供開箱即用整合，可將表單資料直接提交到 SharePoint 清單，讓您使用 SharePoint 清單功能。您可以將 Microsoft® SharePoint 清單設定為表單資料模型的資料來源，並透過&#x200B;**使用表單資料模型提交**&#x200B;這個提交動作，將調適型表單與 SharePoint 清單連接。
+* **[將調適型表單與 Microsoft® SharePoint 清單連接](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=zh-Hant)** - AEM Forms 提供開箱即用整合，可將表單資料直接提交到 SharePoint 清單，讓您使用 SharePoint 清單功能。您可以將 Microsoft® SharePoint 清單設定為表單資料模型的資料來源，並透過&#x200B;**使用表單資料模型提交**&#x200B;這個提交動作，將調適型表單與 SharePoint 清單連接。
 
 _早期採用者計劃_
 
-* **[將[!UICONTROL 調適型表單]提交到 Adobe  [!DNL Workfront]  Fusion 情境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=en)**：Forms as a Cloud Service 提供開箱即用的選項，可輕鬆將[!UICONTROL 調適型表單]與 Adobe [!DNL Workfront] 連接。此連線簡化了將[!UICONTROL 調適型表單]提交到 Adobe [!DNL Workfront] 情境的程序，讓您在提交[!UICONTROL 調適型表單]時觸發 [!DNL Workfront] Fusion 情境。
+* **[將[!UICONTROL 調適型表單]提交到 Adobe  [!DNL Workfront]  Fusion 情境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=zh-Hant)**：Forms as a Cloud Service 提供開箱即用的選項，可輕鬆將[!UICONTROL 調適型表單]與 Adobe [!DNL Workfront] 連接。此連線簡化了將[!UICONTROL 調適型表單]提交到 Adobe [!DNL Workfront] 情境的程序，讓您在提交[!UICONTROL 調適型表單]時觸發 [!DNL Workfront] Fusion 情境。
 
-* **[從右至左語言支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components.html?lang=en)** - 以核心元件為主的[!UICONTROL 調適型表單]現在可以呈現從右至左 (RTL) 語言 (如阿拉伯文、波斯文和烏都文)。全球有超過 20 億人使用 RTL 語言。使用 RTL 語言的表單可讓您擴展調適型表單的範圍，以滿足這些不同的受眾並選擇進入 RTL 市場。在某些地區，法律也強制要求以當地語言提供表單。透過適應當地語言，您可以向更廣泛的對象敞開大門，並確保遵守相關法律和法規。
+* **[從右至左語言支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components.html?lang=zh-Hant)** - 以核心元件為主的[!UICONTROL 調適型表單]現在可以呈現從右至左 (RTL) 語言 (如阿拉伯文、波斯文和烏都文)。全球有超過 20 億人使用 RTL 語言。使用 RTL 語言的表單可讓您擴展調適型表單的範圍，以滿足這些不同的受眾並選擇進入 RTL 市場。在某些地區，法律也強制要求以當地語言提供表單。透過適應當地語言，您可以向更廣泛的對象敞開大門，並確保遵守相關法律和法規。
 
 * **[使用 DocAssurance API (通訊 API 的一部分) 保護您的文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=zh-Hant#document-assurance-doc-assurance)** - [!DNL DocAssurance] API 可讓您透過在文件上簽名和加密來保護敏感資訊。透過加密，文件內容會轉換為無法讀取的格式，確保只有授權的使用者才能存取。這個強化的保護層不僅可以防止未經授權的人士檢視珍貴資料，也可讓您感到安心。簽名 API 可讓您的組織保護所分發和接收之 Adobe PDF 文件的安全性和隱私權。此服務會使用數位簽名和認證，以確保只有預期的收件者才能修改文件。
 
@@ -395,7 +395,7 @@ _早期採用者計劃_
 
 _CDN 設定早期採用者計劃_
 
-除了最近發佈的[流量篩選規則](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf.html?lang=en) (其中包含可以選擇授權的 Web 應用程式防火牆 (WAF) 規則)，也可以使用[!UICONTROL 設定管道]來聲明及部署其他類型的 CDN 設定。Adobe 希望了解您的使用案例，包括以下內容：
+除了最近發佈的[流量篩選規則](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf.html?lang=zh-Hant) (其中包含可以選擇授權的 Web 應用程式防火牆 (WAF) 規則)，也可以使用[!UICONTROL 設定管道]來聲明及部署其他類型的 CDN 設定。Adobe 希望了解您的使用案例，包括以下內容：
 
 * 301/302 用戶端重新導向
 * 位於任意來源邊緣的 Proxy 要求
@@ -411,20 +411,20 @@ _CDN 設定早期採用者計劃_
 
 _新功能_
 
-* [Cloud Manager 自訂權限](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-permissions.html?lang=en)可讓您以可設定的權限建立自訂權限設定檔，以限制 [!DNL Cloud Manager] 使用者對方案、管道和環境的存取。
+* [Cloud Manager 自訂權限](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-permissions.html?lang=zh-Hant)可讓您以可設定的權限建立自訂權限設定檔，以限制 [!DNL Cloud Manager] 使用者對方案、管道和環境的存取。
    * 此功能將分階段推出，預計在 2024 年 2 月 Cloud Manager 版本發布時完成。
    * 如果您想盡快啟用，請使用與您 Adobe ID 相關聯的電子郵件傳送一封電子郵件至 [Grp-CloudManager-custom-permissions@adobe.com](mailto:Grp-CloudManager-custom-permissions@adobe.com)。
-* 建置容器現在支援[前端管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/developing-with-front-end-pipelines.html?lang=en)的 Node.js 版本 18。
-* 對於新建立的 Cloud Manager 計劃，[相關聯的 New Relic 子帳戶](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/user-access-new-relic.html?lang=en)預設不會啟動。
+* 建置容器現在支援[前端管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/developing-with-front-end-pipelines.html?lang=zh-Hant)的 Node.js 版本 18。
+* 對於新建立的 Cloud Manager 計劃，[相關聯的 New Relic 子帳戶](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/user-access-new-relic.html?lang=zh-Hant)預設不會啟動。
    * 如果現有計劃中有 New Relic 子帳戶超過 90 天未存取，子帳戶將會停用。
    * 如果您想使用 New Relic 子帳戶，可以透過 Cloud Manager 選擇加入。
-* [已公告並於 2023 年 10 月版 Cloud Manager 開始](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/cloud-manager/2023/2023-10-0.html?lang=en)的[組建環境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/build-environment-details.html?lang=en)更新已完成推出。
+* [已公告並於 2023 年 10 月版 Cloud Manager 開始](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/cloud-manager/2023/2023-10-0.html?lang=zh-Hant)的[組建環境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/build-environment-details.html?lang=zh-Hant)更新已完成推出。
    * [前端和全端管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=zh-Hant)已新增對 Node 18 的支援。
    * Java™ 8 次要版本已更新為 `jdk1.8.0_371`。
    * Java™ 11 次要版本已更新為 `jdk-11.0.20`。
    * Maven 已更新為版本 3.8.8。
       * Maven 現在預設為停用所有不安全的 `http://*` 鏡像。
-      * [Adobe 建議](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/build-environment-details.html?lang=en)使用者更新其 Maven 存放庫以使用 HTTPS 而非 HTTP。
+      * [Adobe 建議](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/build-environment-details.html?lang=zh-Hant)使用者更新其 Maven 存放庫以使用 HTTPS 而非 HTTP。
    * 建置容器基準影像已更新為 Ubuntu 22.04。
 
 ### [!DNL Workfront for Experience Manager] 增強型連接器
@@ -479,16 +479,16 @@ _已知問題_
 | 2024 年 1 月 | [!DNL AEM Sites] | [參考資料](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 影片 | 了解[!UICONTROL 內容片段]控制台和編輯器如何讓您輕鬆理解和管理引用的內容。 |
 | 2024 年 1 月 | [!DNL AEM Assets] | [切換檢視](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | 影片 | 了解如何在 [!DNL AEM Assets as a Cloud Service] 中有效率地切換檢視，確保無縫資產管理。 |
 | 2024 年 1 月 | [!DNL AEM Assets] | [尋找類似影像](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | 影片 | 了解 [!DNL AEM Assets] 中的「[!UICONTROL 尋找相似影像]」如何讓您輕鬆找到最符合您需求的影像。 |
-| 2024 年 1 月 | [!DNL AEM Assets] | [擷取封存](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/extract-archive.html?lang=en) | 影片 | 透過我們內容豐富的影片，了解如何在 [!DNL AEM Assets] 中掌握高效的數位資產管理，展示 [!UICONTROL Extract ZIP] 功能，輕鬆組織資產層次結構並將其直接上傳到 DAM。 |
-| 2024 年 1 月 | [!DNL AEM CS] | [在 AEM 中索引最佳實務](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices.html?lang=en) | 文章 | 了解 Experience Manager 中的索引最佳實務。 |
-| 2023 年 12 月  | [!DNL AEM Sites] | [文件創作影片](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/overview.html?lang=en) | 影片 | 了解如何設定文件創作，允許 AEM 作者使用 Microsoft Word 或 Google Docs 編輯和發佈文件。 |
-| 2023 年 12 月  | [!DNL AEM Sites] | [Edge Delivery Services 影片](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/overview.html?lang=en) | 文章 | 了解如何使用 Edge Delivery 快速建立網站。 |
+| 2024 年 1 月 | [!DNL AEM Assets] | [擷取封存](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/extract-archive.html?lang=zh-Hant) | 影片 | 透過我們內容豐富的影片，了解如何在 [!DNL AEM Assets] 中掌握高效的數位資產管理，展示 [!UICONTROL Extract ZIP] 功能，輕鬆組織資產層次結構並將其直接上傳到 DAM。 |
+| 2024 年 1 月 | [!DNL AEM CS] | [在 AEM 中索引最佳實務](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices.html?lang=zh-Hant) | 文章 | 了解 Experience Manager 中的索引最佳實務。 |
+| 2023 年 12 月  | [!DNL AEM Sites] | [文件創作影片](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/overview.html?lang=zh-Hant) | 影片 | 了解如何設定文件創作，允許 AEM 作者使用 Microsoft Word 或 Google Docs 編輯和發佈文件。 |
+| 2023 年 12 月  | [!DNL AEM Sites] | [Edge Delivery Services 影片](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/overview.html?lang=zh-Hant) | 文章 | 了解如何使用 Edge Delivery 快速建立網站。 |
 | 2023 年 12 月  | [!DNL AEM CS] | [如何啟用 CDN 快取](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/how-to/enable-caching.html) | 影片 | 了解如何在 AEM as a Cloud Service 的 CDN 中啟用 HTTP 回應快取。 |
-| 2023 年 12 月  | [!DNL AEM Forms] | [預先填入核心元件式調適型表單](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-core-component-based-form/introduction.html?lang=en) | 文章 | 了解預先填入核心元件式調適型表單的使用案例。 |
+| 2023 年 12 月  | [!DNL AEM Forms] | [預先填入核心元件式調適型表單](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-core-component-based-form/introduction.html?lang=zh-Hant) | 文章 | 了解預先填入核心元件式調適型表單的使用案例。 |
 | 2023 年 12 月  | [!DNL AEM Forms] | [在 Azure 中儲存表單提交快速入門](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/store-submiited-data-with-metadata-tags/introduction.html) | 文章 | 了解使用 Blob 索引標記將表單提交儲存在 Azure 儲存體中的簡單使用案例。 |
 | 2023 年 12 月  | [!DNL Cloud Manager] | [Cloud Manager 自訂權限](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/cloud-permissions.html) | 影片 | 了解如何使用 AEM 中的 Cloud Manager 自訂權限來策略性地管理不同團隊的存取權，確保高效、安全的專案管理和部署。 |
-| 2023 年 12 月  | [!DNL AEM Sites] | [區塊和自動區塊](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/blocks-and-autoblocks.html?lang=en) | 影片 | 探索如何在文件創作中使用區塊和自動區塊，以及它們如何改善網站和創作體驗。 |
-| 2023 年 12 月  | [!DNL AEM Forms] | [使用資源類型註冊 servlet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/registering-servlet-using-resourcetype.html?lang=en) | 影片 | 了解如何將調適型表單提交到自訂提交處理常式。您可以按資源類型而不是路徑綁定 servlet。 |
+| 2023 年 12 月  | [!DNL AEM Sites] | [區塊和自動區塊](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/blocks-and-autoblocks.html?lang=zh-Hant) | 影片 | 探索如何在文件創作中使用區塊和自動區塊，以及它們如何改善網站和創作體驗。 |
+| 2023 年 12 月  | [!DNL AEM Forms] | [使用資源類型註冊 servlet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/registering-servlet-using-resourcetype.html?lang=zh-Hant) | 影片 | 了解如何將調適型表單提交到自訂提交處理常式。您可以按資源類型而不是路徑綁定 servlet。 |
 | 2023 年 12 月  | [!DNL AEM Sites] | [刪除頁面](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/delete-page.html) | 影片 | 了解如何刪除 Edge Delivery Services 中的頁面。 |
 | 2023 年 12 月  | [!DNL AEM Sites] | [社交媒體分享](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/social-media-sharing.html) | 影片 | 了解如何使用 Edge Delivery Services 最佳化社群媒體分享內容。 |
 | 2023 年 12 月  | [!DNL AEM Assets] | [AEM Assets 和 Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html) | 影片 | 了解如何使用 [!DNL Experience Manager Assets] 在 Adobe [!DNL Adobe Express] 中輕鬆建立和編輯內容。 |
@@ -562,7 +562,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 12 月  | [Adobe Commerce 的 IO 事件快速入門](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html) | 影片 | 了解 Adobe I/O 事件。在此示範中，會使用 [!DNL Adobe Developer App Builder] 將來自 Adobe Commerce 的事件和來自 Adobe Commerce 的事件傳送至 Slack 通道。 |
 | 2023 年 12 月  | [建立分組產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-grouped-product.html) | 影片 | 了解如何使用 REST API 和 Adobe Commerce Admin 建立分組產品。 |
-| 2023 年 12 月  | [建立可設定產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-configurable-product.html?lang=en) | 影片 | 了解如何使用 REST API 和 Adobe Commerce Admin 建立可設定產品。 |
+| 2023 年 12 月  | [建立可設定產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-configurable-product.html?lang=zh-Hant) | 影片 | 了解如何使用 REST API 和 Adobe Commerce Admin 建立可設定產品。 |
 | 2023 年 12 月  | [建立可下載產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product.html) | 影片 | 了解如何使用 REST API 和 Adobe Commerce Admin 建立可下載產品。 |
 | 2023 年 12 月  | [修改或覆寫核心和協力廠商 PHP 程式碼的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-code.html) | 影片 | 當需要修改非您創作或不直接控制的任何程式碼的功能、結果或輸入時，了解最佳實務。換句話說，核心程式碼和協力廠商程式碼。 |
 
@@ -827,7 +827,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
-* [Adobe Acrobat Services API 教學課程](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=en)
+* [Adobe Acrobat Services API 教學課程](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=zh-Hant)
 * [Document Cloud 學習與支援](https://helpx.adobe.com/tw/support/document-cloud.html)
 
 +++
