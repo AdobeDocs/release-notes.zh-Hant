@@ -8,8 +8,8 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '235'
+workflow-type: ht
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## 說明和技術支援 {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Adobe Marketing Cloud 客戶服務團隊在此協助您，並提供可以與其聯絡的許多種途徑:
+Adobe Marketing Cloud 客戶服務團隊在此協助您，並提供可以與其連絡的多種途徑：
 
 請參閱[聯絡 Adobe 企業支援](https://helpx.adobe.com/tw/contact/enterprise-support.ec.html)
 
