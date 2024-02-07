@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
-ht-degree: 96%
+source-wordcount: '6393'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 96%
 * 發行說明和產品文件
 * 支援知識庫文章
 * 即將推出的 Experience League 活動
-* 最新教學影片
+* 最新影片教學課程
 
 為了獲得最佳的自助體驗，請登入 [Experience League](https://experienceleague.adobe.com/#home) 並在 Adobe 免費的[文件](https://experienceleague.adobe.com/docs/)庫、[課程](https://experienceleague.adobe.com/#courses)、[活動](https://experienceleague.adobe.com/events/)、[社群論壇](https://experienceleaguecommunities.adobe.com/?profile.language=en)和[支援](https://experienceleague.adobe.com/?support-tab=home#support)中自訂您的搜尋體驗。
 
@@ -32,9 +32,9 @@ ht-degree: 96%
 
 ## 2024 年 1 月
 
-最新更新： **2024年2月1日**
+最新更新： **2024年2月7**
 
-* [[!DNL Experience League] 活動和更新](#events) (已更新 **2月1日**)
+* [[!DNL Experience League] 活動與最新訊息](#events) (**2 月 7 日**&#x200B;更新)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新增！**
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ ht-degree: 96%
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) (已更新 **1月29日**)
+* [[!DNL Adobe Experience Manager]](#aem) (**1 月 29 日**&#x200B;更新)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -57,7 +57,7 @@ ht-degree: 96%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (已更新 **1月24日**)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (**1 月 24 日**&#x200B;更新)
 * [客戶資料管理 - 對話](#voices)
 * [Digital Experience 藍圖](#blueprints)
 * [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
@@ -68,27 +68,27 @@ ht-degree: 96%
 
 ### Experience League 活動
 
-已更新 **2024年2月1日**
+已更新 **2024年2月7**
 
 +++即將推出的 Experience League 活動
 
-* **[!DNL WORKFRONT]** | 客戶研討會 | _Connect：面向行銷和創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您聯繫其他管理員，討論最佳實務以及提示和技巧。| **太平洋時間 2 月 2 日上午 9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Experience League即時 | _使用案例教戰手冊：自助範本，按幾下即可部署使用案例_ | 瞭解使用案例教戰手冊如何按幾下就能將行銷目標轉換為實施物件！ | **太平洋時間 2 月 8 日上午 9:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | 客戶研討會 | _Connect：產業圈 - 高等教育_ | 第一個產業圈將於 2024 年推出，這是一個非正式的圓桌討論會，旨在將高等教育中的 [!DNL Workfront] 管理員聚集在一起，建立聯繫，分享經驗、學習和最佳實務。| **太平洋時間 2 月 8 日上午 9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | 網路研討會 | _資料串流：行銷管道和歸因模型_ | 您知道客戶互動對轉換的影響嗎？ 加入我們的Adobe專家，向我們展示如何設定行銷管道，以及利用Adobe Analytics中的AI來建立自訂歸因模型。 | **2月8日下午1:00 （東部時間）** | [註冊](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+* **[!DNL ANALYTICS]** | 網路研討會 | _資料滴灌：行銷管道與歸因模式_ | 您知道客戶互動對轉換的影響嗎？來看我們的 Adob&#x200B;&#x200B;e 專家展示如何設定行銷管道，以及如何利用 Adob&#x200B;&#x200B;e Analytics 的 AI 來建立自訂歸因模型。| **2 月 8 日下午 01:00 (東部標準時間)** | [註冊](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | 社群活動 | _Workfront Collective_ | 與其他Workfront客戶一起參加我們每月集體解決問題的會議和成功分享會議！ | **太平洋時間 2 月 12 日上午 06:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 | _Workfront Collective_ | 與其他 Workfront 客戶一起參加我們每月的合力問題解決時間和成功分享會議！| **2 月 12 日上午 06:00 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL DATA COLLECTION]** | 網路研討會 | _資料流優先順序_ | 瞭解如何管理行銷活動協調的資料流優先順序，以強化貴組織執行資料導向個人化的能力。 | **太平洋時間 2 月 13 日上午 09:30** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL DATA COLLECTION]** | 網路研討會 | _資料流優先順序_ | 了解如何管理活動協調流程的資料流優先順序，以增強您的組織執行由資料驅動個人化的能力。| **2 月 13 日上午 09:30 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 客戶研討會 | _Admin 101: 讓您的使用者使用[!DNL Workfront]_ | 剛開始使用 [!DNL Workfront] 嗎？參加我們的新管理員每月聚會！本月，我們將討論使用者採用的最佳實務。| **太平洋時間 2 月 14 日上午 8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | 網路研討會 | _釋放策略領導力：執行贊助的力量_ | 掌握策略以透過策略影響有效達成組織目標。 本課程旨在協助高階主管提升其高階主管的贊助。 | **太平洋時間 2 月 15 日上午 10:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | 網路研討會 | _展現策略領導力：高階主管支持人的力量_ | 掌握透過策略影響力有效實現組織目標的策略。本次會議旨在幫助高階主管尋求提升高階主管的支持力量。| **2 月 15 日上午 10:00 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | 網路研討會 | _精益團隊優勢：解鎖功能以簡化成功_ | 瞭解產品整合如何簡化數位工作流程、提升團隊效率並擴展業務流程。 瞭解在精益團隊內改善共同作業的技術，以發揮最大生產力。 | **太平洋時間 2 月 20 日上午 10:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | 網路研討會 | _精益團隊的優勢：展現簡化成功的能力_ | 了解產品整合如何簡化數位工作流程、提高團隊效率並擴展業務流程。了解改善精益團隊內部協作的技術，讓全體實現最大生產力。| **2 月 20 日上午 10:00 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 問答交談 | _詢問客戶支援 — 疑難排解常見配置範本和檢視問題_ | 加入Workfront客戶支援團隊，進行「向專家提問」型別的會議，以瞭解有關版面配置範本和檢視的最佳實務和疑難排解提示。 | **太平洋時間 2 月 22 日上午 09:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 問答時間 | _詢問客戶支援 - 常見版面配置範本和視圖問題的疑難排解_ | 加入 Workfront 客戶支援團隊的「詢問專家」類型會議，以了解關於版面配置範本和視圖的最佳實務和疑難排解技巧。| **2 月 22 日上午 09:00 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 檢視更多[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽 Experience League 上的[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
@@ -832,13 +832,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 針對 [!DNL Adobe Creative Cloud for enterprise] 中應用程式發佈的新影片、教學課程或課程。
 
-已更新 **2024年1月24日**
+更新時間：**2024 年 1 月 24 日**
 
 +++詳細資訊
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 1 月 | [!DNL Adobe Express] | [Adobe Express的Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 影片 | 開始建立令人驚歎的工作，其中最突出的是由提供支援的創作AI [!DNL Adobe Firefly]. 設計傳單、TikToks、履歷和卷軸，使用 [!DNL Adobe Express]. |
+| 2024 年 1 月 | [!DNL Adobe Express] | [Adobe Express 教學課程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=zh-Hant) | 影片 | 開始進行令人讚賞的精彩創作，讓 [!DNL Adobe Firefly] 支援的生成式 AI 助您脫穎而出。使用 [!DNL Adobe Express] 設計傳單、TikTok、履歷和 Reel 短片。 |
 
 如需了解最新教學課程，請參閱[適用於企業的 Creative Cloud 教學課程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)。
 
