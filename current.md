@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
+source-wordcount: '6207'
 ht-degree: 99%
 
 ---
@@ -70,17 +70,7 @@ ht-degree: 99%
 
 已更新 **2024年2月7**
 
-+++即將推出的 Experience League 活動
-
-* **[!DNL EXPERIENCE PLATFORM]** | Experience League即時 | _使用案例教戰手冊：自助範本，按幾下即可部署使用案例_ | 瞭解使用案例教戰手冊如何按幾下就能將行銷目標轉換為實施物件！ | **太平洋時間 2 月 8 日上午 9:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | 客戶研討會 | _Connect：產業圈 - 高等教育_ | 第一個產業圈將於 2024 年推出，這是一個非正式的圓桌討論會，旨在將高等教育中的 [!DNL Workfront] 管理員聚集在一起，建立聯繫，分享經驗、學習和最佳實務。| **太平洋時間 2 月 8 日上午 9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | 網路研討會 | _資料滴灌：行銷管道與歸因模式_ | 您知道客戶互動對轉換的影響嗎？來看我們的 Adob&#x200B;&#x200B;e 專家展示如何設定行銷管道，以及如何利用 Adob&#x200B;&#x200B;e Analytics 的 AI 來建立自訂歸因模型。| **2 月 8 日下午 01:00 (東部標準時間)** | [註冊](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | 社群活動 | _Workfront Collective_ | 與其他 Workfront 客戶一起參加我們每月的合力問題解決時間和成功分享會議！| **2 月 12 日上午 06:00 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | 網路研討會 | _資料流優先順序_ | 了解如何管理活動協調流程的資料流優先順序，以增強您的組織執行由資料驅動個人化的能力。| **2 月 13 日上午 09:30 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++詳細資料
 
 * **[!DNL WORKFRONT]** | 客戶研討會 | _Admin 101: 讓您的使用者使用[!DNL Workfront]_ | 剛開始使用 [!DNL Workfront] 嗎？參加我們的新管理員每月聚會！本月，我們將討論使用者採用的最佳實務。| **太平洋時間 2 月 14 日上午 8:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
