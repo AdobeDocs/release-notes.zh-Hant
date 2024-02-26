@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5447'
-ht-degree: 100%
+source-wordcount: '5457'
+ht-degree: 98%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 100%
 
 ## 2024 年 2 月
 
-最近更新：**2024 年 2 月 14 日**
+最新更新： **2024年2月26日**
 
-* [[!DNL Experience League]  活動和更新](#events)
+* [[!DNL Experience League] 活動和更新](#events)  (已更新 **2月26日**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ ht-degree: 100%
 
 ### Experience League 活動
 
-更新日期：**2024 年 2 月 14 日**
+已更新 **2024年2月26日**
 
 +++詳細資訊
 
-* **[!DNL WORKFRONT]** | 問答時間 | _詢問客戶支援 - 常見版面配置範本和視圖問題的疑難排解_ | 加入 Workfront 客戶支援團隊的「詢問專家」類型會議，以了解關於版面配置範本和視圖的最佳實務和疑難排解技巧。| **2 月 22 日上午 09:00 (太平洋標準時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 問答聊天 | _詢問客戶面板：透過Workfront提升您的職業生涯_ | 2024年第一個面板將以三位鼓舞人心的Workfront客戶開始，他們已使用其Workfront專業知識建立了成功的職業生涯。 加入我們，進行1小時的討論，以瞭解成功所需的技能。 | **太平洋時間 2 月 27 日上午 08:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | 數位體驗會議 | _拓展您的技能、認識最新趨勢，並探索體驗導向型增長的未來_ | 向領先品牌學習、發現生成式 AI 的未來，並為體驗導向型的成長做好準備。| **3 月 25 日至 28 日，於拉斯維加斯與線上舉辦** | [報名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
