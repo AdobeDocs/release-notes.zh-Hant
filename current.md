@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
+source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
 workflow-type: tm+mt
-source-wordcount: '5457'
-ht-degree: 98%
+source-wordcount: '5779'
+ht-degree: 93%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 98%
 
 ## 2024 年 2 月
 
-最新更新： **2024年2月26日**
+最新更新： **2024年2月28日**
 
-* [[!DNL Experience League] 活動和更新](#events)  (已更新 **2月26日**)
+* [[!DNL Experience League] 活動和更新](#events)  (已更新 **2月28日**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,27 @@ ht-degree: 98%
 
 ### Experience League 活動
 
-已更新 **2024年2月26日**
+已更新 **2024年2月28日**
 
 +++詳細資訊
 
-* **Workfront** | 問答聊天 | _詢問客戶面板：透過Workfront提升您的職業生涯_ | 2024年第一個面板將以三位鼓舞人心的Workfront客戶開始，他們已使用其Workfront專業知識建立了成功的職業生涯。 加入我們，進行1小時的討論，以瞭解成功所需的技能。 | **太平洋時間 2 月 27 日上午 08:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Experience Manager** | 網路研討會 | _EMEA AEM社群活動_ | 我們將會舉辦有關內容供應鏈的精彩互動式座談會，討論您的目標、目前的成就、您面臨的挑戰以及如何解決這些挑戰。 | **2月29日下午3:00 GMT** | [註冊](https://registration.adobe.com/AdobeAEM24/)
+
+* **管理員與行銷活動** | Experience League即時 | _全新Adobe Campaign Web使用者介面，助您一臂之力_ | 在2月29日加入我們，瞭解如何使用新的Adobe Campaign Web使用者介面來規劃、啟動和衡量跨管道策略，並預覽新的Generative AI功能。 | **太平洋時間 2 月 29 日上午 08:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **Experience Manager** | 直播串流 | _App Builder變成10.0倍_ | 加入App Builder工程團隊，瞭解其最新CLI版本的新增功能，以及即將推出的新功能，包括一些讓偵錯更容易、效果更佳的新方法！ | **太平洋時間 2 月 29 日上午 9:00** | [註冊](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **Workfront** | 客戶工作坊 | _瞭解：適用於法律與法規遵循的Workfront_ | 加入我們的研討會，瞭解如何與法律與合規團隊合作，簡化流程、將Workfront平台擴充至組織中的更多受眾，並提升採用率。 | **太平洋時間 2 月 29 日上午 09:30** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 社群活動 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他管理員討論最佳實務以及秘訣和技巧。 | **太平洋時間3月1日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 網路研討會 | _使用Workfront喚醒：資源管理_ | 探索Workfront最具影響力的使用案例之一：資源管理，Adobe的Workfront業務顧問會逐步說明如何使用Blueprint，輕鬆建立因應您的需求而發展的工作管理系統。 | **3月7日下午1:00 （東部時間）** | [註冊](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間3月11日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間3月11日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Experience Manager** | 網路研討會 | _濃縮咖啡與Experience Manager：為何AEM在雲端上更強大_ | 加入Adobe專家的行列，討論如何使用Best Practice Analyzer和Cloud Acceleration Manager等工具，透過內容評估和移轉規劃，確保順利轉換至Cloud。 | **3月14日下午1:00 （東部時間）** | [註冊](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | 數位體驗會議 | _拓展您的技能、認識最新趨勢，並探索體驗導向型增長的未來_ | 向領先品牌學習、發現生成式 AI 的未來，並為體驗導向型的成長做好準備。| **3 月 25 日至 28 日，於拉斯維加斯與線上舉辦** | [報名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
