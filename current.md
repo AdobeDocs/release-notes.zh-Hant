@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
+source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
 workflow-type: tm+mt
-source-wordcount: '5779'
+source-wordcount: '5771'
 ht-degree: 93%
 
 ---
@@ -75,19 +75,19 @@ ht-degree: 93%
 
 * **管理員與行銷活動** | Experience League即時 | _全新Adobe Campaign Web使用者介面，助您一臂之力_ | 在2月29日加入我們，瞭解如何使用新的Adobe Campaign Web使用者介面來規劃、啟動和衡量跨管道策略，並預覽新的Generative AI功能。 | **太平洋時間 2 月 29 日上午 08:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
-* **Experience Manager** | 直播串流 | _App Builder變成10.0倍_ | 加入App Builder工程團隊，瞭解其最新CLI版本的新增功能，以及即將推出的新功能，包括一些讓偵錯更容易、效果更佳的新方法！ | **太平洋時間 2 月 29 日上午 9:00** | [註冊](https://streamyard.com/watch/i7TEbhnR73h9)
+* **Experience Manager** | 直播串流 | _App Builder變成10.0倍_ | 加入App Builder工程團隊，瞭解其最新CLI版本的新增功能，以及即將推出的新功能，包括一些讓偵錯更輕鬆更多的新方法！ | **太平洋時間 2 月 29 日上午 9:00** | [註冊](https://streamyard.com/watch/i7TEbhnR73h9)
 
 * **Workfront** | 客戶工作坊 | _瞭解：適用於法律與法規遵循的Workfront_ | 加入我們的研討會，瞭解如何與法律與合規團隊合作，簡化流程、將Workfront平台擴充至組織中的更多受眾，並提升採用率。 | **太平洋時間 2 月 29 日上午 09:30** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | 社群活動 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他管理員討論最佳實務以及秘訣和技巧。 | **太平洋時間3月1日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 社群活動 | _Connect：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議可讓您連結其他管理員，討論最佳作法及秘訣與技巧。 | **太平洋時間3月1日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | 網路研討會 | _使用Workfront喚醒：資源管理_ | 探索Workfront最具影響力的使用案例之一：資源管理，Adobe的Workfront業務顧問會逐步說明如何使用Blueprint，輕鬆建立因應您的需求而發展的工作管理系統。 | **3月7日下午1:00 （東部時間）** | [註冊](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
-
-* **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間3月11日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 網路研討會 | _使用Workfront喚醒：資源管理_ | 探索Workfront最具影響力的使用案例之一：資源管理，Adobe的Workfront業務顧問會逐步說明如何使用Blueprint，輕鬆建立因應您的需求而發展的工作管理系統。 | **3月7日下午1:00 （東部時間）** | [註冊](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間3月11日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Experience Manager** | 網路研討會 | _濃縮咖啡與Experience Manager：為何AEM在雲端上更強大_ | 加入Adobe專家的行列，討論如何使用Best Practice Analyzer和Cloud Acceleration Manager等工具，透過內容評估和移轉規劃，確保順利轉換至Cloud。 | **3月14日下午1:00 （東部時間）** | [註冊](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與其他Workfront客戶一起參加集體問題解決和成功分享座談會！ | **太平洋時間3月11日上午6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Experience Manager** | 網路研討會 | _濃縮咖啡與Experience Manager：為何AEM在雲端上更強大_ | 加入Adobe專家的行列，討論如何使用Best Practice Analyzer和Cloud Acceleration Manager等工具，透過內容評估和移轉規劃，確保順利轉換至Cloud。 | **3月14日下午1:00 （東部時間）** | [註冊](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **ADOBE SUMMIT** | 數位體驗會議 | _拓展您的技能、認識最新趨勢，並探索體驗導向型增長的未來_ | 向領先品牌學習、發現生成式 AI 的未來，並為體驗導向型的成長做好準備。| **3 月 25 日至 28 日，於拉斯維加斯與線上舉辦** | [報名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
@@ -658,7 +658,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 | 2024 年 2 月 | [預覽、校樣和發佈](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html) | 影片 | 瞭解如何使用 Litmus 測試各收件匣間的電子郵件呈現、如何根據測試設定檔預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。 |
 | 2024 年 2 月 | [發佈歷程和歷程狀態](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/publish-a-journey.html) | 影片 | 瞭解歷程的不同狀態，以及發佈的影響。 |
 | 2024 年 2 月 | [為行銷人員提供的行動裝置功能](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/mobile-capabilities.html) | 影片 | 了解 Adobe Journey Optimizer 為行銷人員提供的行動裝置功能。 |
-| 2024 年 2 月 | [Sinch 和 Infobip 的雙重選擇加入](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | 影片 | 了解如何為 SMS 設定雙重選擇加入。 |
+| 2024 年 2 月 | [雙重選擇加入 [!DNL Sinch] 和 [!DNL Infobip]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | 影片 | 了解如何為 SMS 設定雙重選擇加入。 |
 | 2024 年 2 月 | [重要功能和使用者介面](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface.html) | 影片 | 瞭解 Journey Optimizer 的重要功能和角色。 瞭解如何使用使用者介面。 |
 | 2024 年 2 月 | [建立歷程簡介](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=zh-Hant) | 影片 | 瞭解在歷程畫布中建立歷程的基本概念。 |
 
