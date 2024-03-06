@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5771'
-ht-degree: 98%
+source-wordcount: '5582'
+ht-degree: 99%
 
 ---
 
@@ -71,17 +71,9 @@ ht-degree: 98%
 
 +++詳細資訊
 
-* **EXPERIENCE MANAGER** | 網路研討會 | _EMEA AEM 社群活動_ | 我們將舉辦一場關於內容供應鏈的精彩互動式會議，會中要討論您的目標、目前為止的成就、面臨的挑戰以及如何解決這些挑戰。| **格林威治標準時間 2 月 29 日下午 3:00** | [註冊](https://registration.adobe.com/AdobeAEM24/)
+* **CAMPAIGN (V7、V8)** | 咖啡會 | _Adobe Campaign社群問答咖啡會_ | 加入我們，與我們的Adobe Campaign產品團隊一起進行一小時有關Adobe Campaign網頁使用者介面的聊天室。 | **太平洋時間 3 月 7 日上午 08:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **管理員與行銷活動** | Experience League即時 | _全新Adobe Campaign Web使用者介面，助您一臂之力_ | 在2月29日加入我們，瞭解如何使用新的Adobe Campaign Web使用者介面來規劃、啟動和衡量跨管道策略，並預覽新的Generative AI功能。 | **太平洋時間 2 月 29 日上午 08:00** | [註冊](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **Experience Manager** | 直播串流 | _App Builder變成10.0倍_ | 加入App Builder工程團隊，瞭解其最新CLI版本的新增功能，以及即將推出的新功能，包括一些讓偵錯更輕鬆更多的新方法！ | **太平洋時間 2 月 29 日上午 9:00** | [註冊](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **WORKFRONT** | 客戶研討會 | _學習：法律與合規性 Workfront_ | 參加我們的研討會，了解如何與您的法律和合規性團隊合作如何協助您簡化流程、向組織中更多對象對廣您的 Workfront 平台並提高您的採用率。| **太平洋時間 2 月 29 日上午 09:30** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？此客戶導向會議可讓您連結其他管理員，討論最佳作法及秘訣與技巧。 | **太平洋時間 3 月 1 日上午 9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 網路研討會 | _Workfront 讓您意識覺醒：資源管理_ | 探索 Workfront 最具影響力的使用案例之一：資源管理，跟著 Adobe 的 Workfront 企業顧問使用藍圖輕鬆建立可根據您的需求而發展的工作管理系統，一步步探索資源管理這個 Workfront 最具影響力的使用案例之一。| **東部標準時間 3 月 7 日下午 1:00** | [註冊](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | 網路研討會 | _Workfront 讓您意識覺醒：資源管理_ | 探索 Workfront 最具影響力的使用案例之一：資源管理，跟著 Adobe 的 Workfront 企業顧問使用藍圖輕鬆建立可根據您的需求而發展的工作管理系統，一步步探索資源管理這個 Workfront 最具影響力的使用案例之一。| **東部標準時間 3 月 7 日下午 1:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | 社群活動 | _交流：Workfront Collective_ | 與其他 Workfront 客戶一起參加我們每月的合力問題解決時間和成功分享會議！| **太平洋時間 3 月 11 日上午 6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
