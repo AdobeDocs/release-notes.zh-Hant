@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5499'
-ht-degree: 99%
+source-wordcount: '5572'
+ht-degree: 98%
 
 ---
 
@@ -73,9 +73,11 @@ ht-degree: 99%
 
 * **WORKFRONT** | 社群活動 | _交流：Workfront Collective_ | 與其他 Workfront 客戶一起參加我們每月的合力問題解決時間和成功分享會議！| **太平洋時間 3 月 11 日上午 6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | 社群活動 | _交流：Workfront Collective_ | 與其他 Workfront 客戶一起參加我們每月的合力問題解決時間和成功分享會議！| **太平洋時間 3 月 11 日上午 6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 客戶工作坊 | _Admin 101：取得Workfront資料_ | 不熟悉Workfront？ 加入我們的「新管理員」每月聚會，提出問題、取得資源與建議、與其他新管理員會面，對於此會議，瞭解Workfront中所有專案報告的最佳實務。 | **太平洋時間 3 月 13 日上午 08:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | 網路研討會 | _Espressos &amp; Experience Manager：AEM 在雲端更強大的原因_ | 與 Adob&#x200B;&#x200B;e 專家一起討論如何使用 Best Practice Analyzer 和 Cloud Acceleration Manager 等工具進行內容評估和遷移計劃，確保能順利轉移到雲端。| **東部標準時間 3 月 14 日下午 1:00** | [註冊](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **Experience Manager** | AEM GEMS | _AEM製作和Edge Delivery Services快速入門_ | 加入AEM GEM網路研討會，開始使用Edge Delivery Services進行AEM創作。 瞭解如何使用AEM雲端服務建立啟用AEM的專案開發以及WYSIWYG製作。 | **太平洋時間 3 月 13 日上午 09:00** | [註冊](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **EXPERIENCE MANAGER** | 網路研討會 | _Espressos &amp; Experience Manager：AEM 在雲端更強大的原因_ | 與 Adob&#x200B;&#x200B;e 專家一起討論如何使用 Best Practice Analyzer 和 Cloud Acceleration Manager 等工具進行內容評估和遷移計劃，確保能順利轉移到雲端。| **東部標準時間 3 月 14 日下午 1:00** | [註冊](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | 數位體驗會議 | _拓展您的技能、認識最新趨勢，並探索體驗導向型增長的未來_ | 向領先品牌學習、發現生成式 AI 的未來，並為體驗導向型的成長做好準備。| **3 月 25 日至 28 日，於拉斯維加斯與線上舉辦** | [報名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
