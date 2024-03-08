@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ ht-degree: 99%
 更新日期：**2024 年 2 月 28 日**
 
 +++詳細資訊
-
-* **CAMPAIGN (V7、V8)** | 咖啡會 | _Adobe Campaign社群問答咖啡會_ | 加入我們，與我們的Adobe Campaign產品團隊一起進行一小時有關Adobe Campaign網頁使用者介面的聊天室。 | **太平洋時間 3 月 7 日上午 08:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | 網路研討會 | _Workfront 讓您意識覺醒：資源管理_ | 探索 Workfront 最具影響力的使用案例之一：資源管理，跟著 Adobe 的 Workfront 企業顧問使用藍圖輕鬆建立可根據您的需求而發展的工作管理系統，一步步探索資源管理這個 Workfront 最具影響力的使用案例之一。| **東部標準時間 3 月 7 日下午 1:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | 社群活動 | _交流：Workfront Collective_ | 與其他 Workfront 客戶一起參加我們每月的合力問題解決時間和成功分享會議！| **太平洋時間 3 月 11 日上午 6:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
