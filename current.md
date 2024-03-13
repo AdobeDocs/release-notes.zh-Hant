@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 65%
 
 ---
@@ -605,7 +605,6 @@ Adobe Commerce 的新文章和現有文章的更新。
 | 2024 年 2 月 | Campaign Web 使用者介面 | [管理和建立對象](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | 影片 | 瞭解如何建立和管理對象、如何選取傳送對象以及定義控制群組。 |
 | 2024 年 2 月 | Campaign Web 使用者介面 | [建立目標定位工作流程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | 影片 | 瞭解工作流程的工作方式以及如何建立目標工作流程。 |
 | 2024 年 2 月 | Campaign Web 使用者介面 | [建立電子郵件傳遞](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | 影片 | 瞭解如何從草稿開始建立電子郵件傳遞、定義對象、設計內容、模擬預覽，以及傳送校訂。 |
-| 2024 年 2 月 | Campaign Web 使用者介面 | [從草稿開始設計電子郵件內容](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | 影片 | 瞭解如何導覽電子郵件設計工具。瞭解如何從草稿開始架構及設計電子郵件、如何個人化，以及如何測試電子郵件。 |
 | 2024 年 2 月 | Campaign網頁使用者介面，Experience Platform | [使用Experience Platform建立對象](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | 影片 | 瞭解如何在Adobe Campaign中建立使用Experience Platform對象的目的地。 |
 | 2024 年 2 月 | Campaign Web 使用者介面 | [透過上傳HTML建立電子郵件](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | 影片 | 瞭解如何透過上傳 HTML 建立電子郵件、如何使其與電子郵件設計工具相容、以及如何將其轉換為範本。 |
 | 2024 年 2 月 | Campaign Web 使用者介面 | [取消訂閱待辦事項和不待辦事項](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | 文章 | 使用管理取消訂閱時應做的和要避免的事項清單。 |
