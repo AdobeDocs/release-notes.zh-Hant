@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
+source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
 workflow-type: tm+mt
-source-wordcount: '6023'
+source-wordcount: '5974'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024 年 3 月
 
-最新更新： **2024年3月15日**
+最新更新： **2024年3月22日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -70,8 +70,6 @@ ht-degree: 99%
 已更新 **2024年3月15日**
 
 +++詳細資訊
-
-* **Workfront** | 客戶工作坊 | _Admin 101 — 提出Workfront問題_ | 您是否錯過了先前的Admin 101課程，或您仍有疑問？ 加入我們，進行一小時的系列後續活動，我們將在此概述會議內容，並開放問答集！ | **太平洋時間 3 月 20 日上午 08:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | 數位體驗會議 | _拓展您的技能、認識最新趨勢，並探索體驗導向型增長的未來_ | 向領先品牌學習、發現生成式 AI 的未來，並為體驗導向型的成長做好準備。| **3 月 25 日至 28 日，於拉斯維加斯與線上舉辦** | [報名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
