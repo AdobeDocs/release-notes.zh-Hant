@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '6002'
-ht-degree: 99%
+source-wordcount: '6053'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 99%
 
 ## 2024 年 3 月
 
-最新更新： **2024年3月22日**
+最新更新： **2024年3月29日**
 
-* [[!DNL Experience League] 活動和更新](#events)
+* [[!DNL Experience League] 活動和更新](#events) (已更新 **3月29日**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
@@ -67,23 +67,25 @@ ht-degree: 99%
 
 ### Experience League 活動
 
-已更新 **2024年3月15日**
+已更新 **2024年3月29日**
 
 +++詳細資訊
 
-* **ADOBE SUMMIT** | 數位體驗會議 | _拓展您的技能、認識最新趨勢，並探索體驗導向型增長的未來_ | 向領先品牌學習、發現生成式 AI 的未來，並為體驗導向型的成長做好準備。| **3 月 25 日至 28 日，於拉斯維加斯與線上舉辦** | [報名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICS** | 體驗製作者：技能交流 | _Adobe Summit 上的 Adobe Analytics 技能交流_ | 2024 年 3 月 28 日，我們將在拉斯維加斯 Summit 高峰會中舉辦 Adobe Analytics 技能交流！立即預先註冊，了解 Analytics 客戶和達人分享的秘訣、技巧和最佳做法。| **太平洋時間 3 月 28 日上午 09:00** | [註冊](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | 體驗製作者：技能交流 | _Adobe Summit 上的 AEM 技能交流_ | 2024 年 3 月 28 日，我們將在拉斯維加斯 Summit 高峰會中舉辦 AEM 技能交流！立即預先註冊，了解 AEM 客戶和達人分享的秘訣、技巧和最佳做法。| **太平洋時間 3 月 28 日上午 09:00** | [註冊](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | 體驗製作者：技能交流 | _Adobe Summit 上的 Marketo Engage 技能交流_ | 2024 年 3 月 28 日，我們將在拉斯維加斯 Summit 高峰會中舉辦 Marketo Engage 技能交流！立即預先註冊，了解 Marketo Engage 客戶和達人分享的秘訣、技巧和最佳做法。| **太平洋時間 3 月 28 日上午 09:00** | [註冊](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | 驗製作者：技能交流 | _Adobe Summit 上的 Workfront 技能交流_ | 2024 年 3 月 28 日，我們將在拉斯維加斯 Summit 高峰會中舉辦 Adobe Workfront 技能交流！立即預先註冊，了解 Workfront 客戶和專業人士分享的秘訣、技巧和最佳做法。| **太平洋時間 3 月 28 日上午 09:00** | [註冊](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **4 月 5 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **Workfront** | 客戶工作坊 | _Admin 101： Workfront快速入門_ | 不熟悉Workfront？ 加入我們的Admin 101每月聚會，提出問題、取得資源、學習最佳實務，並與其他新管理員見面。 本課程著重於初始設定。 | **4 月 10 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 客戶工作坊 | _瞭解： Adobe Workfront 2024年第二季發佈綜述_ | 加入其他Workfront系統管理員，檢閱2024年第二季版本包含的最新增強功能。 我們將討論優點、推出計畫和管理變更。 | **4 月 16 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Marketo Engage** | 向同儕學習 | _釋放強大的工作流程自動化：Marketo EngageREST API的實際應用_ | 加入我們，從實際使用案例中獲得靈感，瞭解如何使用REST API來簡化工作流程，例如大量合併潛在客戶、建立UTM追蹤計畫並利用ChatGPT最佳化傳送時間。 | **4 月 17 日上午 08:00 (太平洋時間)** | [報名](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **Workfront** | 客戶工作坊 | _瞭解：Adobe Workfront中的10個文字模式秘訣_ | 想要以文字模式擴展您的報告知識嗎？ 不要再往前看！ 此研討會將提供文字模式基本原理和API Explorer的簡介，之後將提供Adobe Workfront中的10個文字模式提示。 | **4 月 18 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 檢視更多[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽 Experience League 上的[活動錄影](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=zh-Hant)。
+
+* **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與您的Workfront系統管理員同仁一起參加這個每月一次的集體腦力激盪和分享座談會，我們將討論最新更新和最佳實務。 | **4 月 22 日上午 06:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 問答聊天 | _詢問：移轉至Adobe Business Platform_ | 加入我們的技術支援工程師，一同參加問答會，瞭解期望完成的任務，以及如何為Adobe業務平台遷移做好最充分的準備。 | **4 月 23 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
