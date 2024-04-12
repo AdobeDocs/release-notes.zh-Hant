@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6053'
-ht-degree: 94%
+source-wordcount: '5962'
+ht-degree: 95%
 
 ---
 
@@ -71,10 +71,6 @@ ht-degree: 94%
 
 +++詳細資訊
 
-* **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **4 月 5 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Workfront** | 客戶工作坊 | _Admin 101： Workfront快速入門_ | 不熟悉Workfront？ 加入我們的Admin 101每月聚會，提出問題、取得資源、學習最佳實務，並與其他新管理員見面。 本課程著重於初始設定。 | **4 月 10 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **Workfront** | 客戶工作坊 | _瞭解： Adobe Workfront 2024年第二季發佈綜述_ | 加入其他Workfront系統管理員，檢閱2024年第二季版本包含的最新增強功能。 我們將討論優點、推出計畫和管理變更。 | **4 月 16 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Marketo Engage** | 向同儕學習 | _釋放強大的工作流程自動化：Marketo EngageREST API的實際應用_ | 加入我們，從實際使用案例中獲得靈感，瞭解如何使用REST API來簡化工作流程，例如大量合併潛在客戶、建立UTM追蹤計畫並利用ChatGPT最佳化傳送時間。 | **4 月 17 日上午 08:00 (太平洋時間)** | [報名](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
@@ -91,7 +87,7 @@ ht-degree: 94%
 
 ## ![圖示](/assets/experience-league.png) Adobe 內容供應鏈 {#content-supply-chain}
 
-Learn about [內容供應鏈](https://business.adobe.com/solutions/adobe-genstudio.html)是 Adobe 一種端對端解決方案，可透過生成式 AI 和智慧自動化來加速和簡化您的內容。
+瞭解 [內容供應鏈](https://business.adobe.com/solutions/adobe-genstudio.html)，Adobe的端對端解決方案，可透過創作AI和智慧型自動化加速及簡化您的內容。
 
 +++詳細資訊
 
