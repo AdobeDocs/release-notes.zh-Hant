@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5962'
-ht-degree: 95%
+source-wordcount: '5857'
+ht-degree: 96%
 
 ---
 
@@ -70,10 +70,6 @@ ht-degree: 95%
 已更新 **2024年3月31日**
 
 +++詳細資訊
-
-* **Workfront** | 客戶工作坊 | _瞭解： Adobe Workfront 2024年第二季發佈綜述_ | 加入其他Workfront系統管理員，檢閱2024年第二季版本包含的最新增強功能。 我們將討論優點、推出計畫和管理變更。 | **4 月 16 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Marketo Engage** | 向同儕學習 | _釋放強大的工作流程自動化：Marketo EngageREST API的實際應用_ | 加入我們，從實際使用案例中獲得靈感，瞭解如何使用REST API來簡化工作流程，例如大量合併潛在客戶、建立UTM追蹤計畫並利用ChatGPT最佳化傳送時間。 | **4 月 17 日上午 08:00 (太平洋時間)** | [報名](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **Workfront** | 客戶工作坊 | _瞭解：Adobe Workfront中的10個文字模式秘訣_ | 想要以文字模式擴展您的報告知識嗎？ 不要再往前看！ 此研討會將提供文字模式基本原理和API Explorer的簡介，之後將提供Adobe Workfront中的10個文字模式提示。 | **4 月 18 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
