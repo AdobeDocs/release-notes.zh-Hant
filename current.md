@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7832bcbd5c8454d0553578b76b7fec79fd1bd453
+source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
 workflow-type: tm+mt
-source-wordcount: '6293'
+source-wordcount: '6240'
 ht-degree: 51%
 
 ---
@@ -67,11 +67,9 @@ ht-degree: 51%
 
 ### Experience League 活動
 
-已更新 **2024年4月12日**
+已更新 **2024年4月19日**
 
 +++詳細資訊
-
-* **Workfront** | 客戶工作坊 | _瞭解：Adobe Workfront中的10個文字模式秘訣_ | 想要以文字模式擴展您的報告知識嗎？ 不要再往前看！ 此研討會將提供文字模式基本原理和API Explorer的簡介，之後將提供Adobe Workfront中的10個文字模式提示。 | **4 月 18 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Workfront** | 社群活動 | _Connect： Workfront Collective_ | 與您的Workfront系統管理員同仁一起參加這個每月一次的集體腦力激盪和分享座談會，我們將討論最新更新和最佳實務。 | **4 月 22 日上午 06:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -435,7 +433,7 @@ _已知問題_
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 4 月 | AEM Sites | [產生變數](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/generative-ai/generate-variations) | 影片 | 在Adobe Experience Manager中產生變體是一種動態工具，可針對任何體驗最佳化文字和影像，將創意與效率無縫整合。 |
+| 2024 年 4 月 | AEM Sites | [產生變化版本](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/generative-ai/generate-variations) | 影片 | 在Adobe Experience Manager中產生變體是一種動態工具，可針對任何體驗最佳化文字和影像，將創意與效率無縫整合。 |
 | 2024 年 4 月 | AEM CS | [停用Apache Tika以最佳化索引](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices#index-optimization-by-disabling-apache-tika) | 影片 | AEM使用Apache Tika從PDF、Word、Excel等檔案型別擷取中繼資料和文字內容。 擷取的內容會儲存在存放庫中，並由Oak Lucene索引編制索引。 |
 | 2024 年 4 月 | AEM Forms | [使用叫用FDM工作流程步驟將資料插入SharePoint清單](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/one-drive/submit-data-sharepoint-list-workflow) | 影片 | 本文說明使用將資料插入SharePoint清單所需的步驟。 _叫用_ AEM工作流程中的FDM步驟。 |
 | 2024 年 4 月 | AEM CS | [瞭解AEM中的DoS/DDoS預防](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/security/understanding-dos-and-prevention-approaches) | 影片 | 瞭解可用於預防和緩解您的AEM環境上的DoS和DDoS攻擊的選項。 |
@@ -497,7 +495,7 @@ _已知問題_
 * [Cloud Manager 使用手冊](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/introduction)
 * [Experience Manager 6.5 學習與支援首頁](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
 * [Experience Manager 6.4 學習與支援首頁](https://experienceleague.adobe.com/en/docs/experience-manager-64)
-* [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
+* [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
 * [舊版 Experience Manager 文件](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
 +++
