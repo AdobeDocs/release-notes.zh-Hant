@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
+source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
 workflow-type: tm+mt
-source-wordcount: '6240'
+source-wordcount: '6106'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024 年 4 月
 
-上次更新日期：**2024 年 4 月 17 日**
+最新更新： **2024年4月24日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -70,13 +70,6 @@ ht-degree: 99%
 已更新 **2024年4月19日**
 
 +++詳細資訊
-
-* **WORKFRONT** | 社區活動 | _交流：Workfront Collective_ | 與您的 Workfront 系統管理員同事一起參加每月一次的集體腦力激盪和分享會議，我們將在會議上討論最新的更新和最佳實務。| **4 月 22 日上午 06:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 問答聊天 | _詢問：移轉至 Adob&#x200B;&#x200B;e Business Platform_ | 參加由我們技術支援工程師進行的問答時間，了解會發生什麼以及如何為 Adob&#x200B;&#x200B;e Business Platform 移轉做好最佳準備。| **4 月 23 日上午 08:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-
-* **WORKFRONT** | 向同行學習 | _為系統管理實務配備人員_ | 您需要多少位管理者來支援 Workfront？視情況而定！請於 4 月 25 日加入我們，聆聽 Dell 和 Adob&#x200B;&#x200B;e 同行的意見，了解今天僱用合適的管理員如何幫助您避免未來犯下代價高昂的錯誤。| **4 月 23 日上午 08:00 (太平洋時間)** | [報名](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
 
 * **WORKFRONT** | 詢問專家：Fusion 運作 | _為系統管理實務配備人員_ | 與專家 Andy Hess 一起了解更多有關 Adob&#x200B;&#x200B;e Workfront Fusion 運作，包括如何量化以及在您的情境下最佳化此功能使用的提示和技巧。| **4 月 30 日上午 10:30 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
