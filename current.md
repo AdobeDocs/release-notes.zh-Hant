@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
+source-git-commit: 6859f12eeda24987eba695b25bac8b1b98f7b96d
 workflow-type: tm+mt
-source-wordcount: '6189'
+source-wordcount: '6236'
 ht-degree: 98%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 98%
 
 ### Experience League 活動
 
-已更新 **2024年4月19日**
+已更新 **2024年4月26日**
 
 +++詳細資訊
 
@@ -77,7 +77,9 @@ ht-degree: 98%
 
 * **Commerce** | 網路研討會 | _Commerce與咖啡：精通Ecommerce Essentials_ | 加入資深Commerce策略顧問Corey Gelato的行列，分享成功的電子商務要領，包括個人化的客戶促銷活動、忠誠度計畫，以及最佳化的付款和運送程式。 | **5 月 2 日上午 10:00 (太平洋時間)** | [註冊](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **Commerce** | 客戶工作坊 | _Admin 101：讓使用者使用Workfront_ | 新增Workfront？ 加入我們的Admin 101每月聚會，提出問題、取得資源、學習最佳實務，並與其他新管理員見面。 本月，我們將討論使用者採用！ | **5 月 8 日上午 8:00 (太平洋時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 客戶工作坊 | _Admin 101：讓使用者使用Workfront_ | 不熟悉Workfront？ 加入我們的Admin 101每月聚會，提出問題、取得資源、學習最佳實務，並與其他新管理員見面。 本月，我們將討論使用者採用！ | **5 月 8 日上午 8:00 (太平洋時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 社群活動 | _Workfront產業圈：高等教育_ | 如果您是高等教育的Workfront客戶，且想要共同解決問題並和其他管理員分享學識，請加入我們，與WGU合作進行1小時的公開討論。 | **5 月 9 日上午 8:00 (太平洋時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 了解[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽 Experience League 上的[活動錄影](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)。
 
