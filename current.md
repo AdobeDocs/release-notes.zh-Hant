@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6106'
-ht-degree: 99%
+source-wordcount: '6189'
+ht-degree: 98%
 
 ---
 
@@ -74,6 +74,10 @@ ht-degree: 99%
 * **WORKFRONT** | 詢問專家：Fusion 運作 | _為系統管理實務配備人員_ | 與專家 Andy Hess 一起了解更多有關 Adob&#x200B;&#x200B;e Workfront Fusion 運作，包括如何量化以及在您的情境下最佳化此功能使用的提示和技巧。| **4 月 30 日上午 10:30 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | 咖啡會 | _Adobe Journey Optimizer 社區問答咖啡會_ | 來和 Adob&#x200B;&#x200B;e Journey Optimizer 專家一起並提出問題，以及聊聊關於 Journey Optimizer 中以新程式碼為主的體驗頻道。| **5 月 8 日上午 8:00 (太平洋時間)** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
+* **Commerce** | 網路研討會 | _Commerce與咖啡：精通Ecommerce Essentials_ | 加入資深Commerce策略顧問Corey Gelato的行列，分享成功的電子商務要領，包括個人化的客戶促銷活動、忠誠度計畫，以及最佳化的付款和運送程式。 | **5 月 2 日上午 10:00 (太平洋時間)** | [註冊](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **Commerce** | 客戶工作坊 | _Admin 101：讓使用者使用Workfront_ | 新增Workfront？ 加入我們的Admin 101每月聚會，提出問題、取得資源、學習最佳實務，並與其他新管理員見面。 本月，我們將討論使用者採用！ | **5 月 8 日上午 8:00 (太平洋時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 了解[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽 Experience League 上的[活動錄影](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)。
 
