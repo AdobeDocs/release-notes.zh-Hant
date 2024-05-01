@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6236'
+source-wordcount: '6188'
 ht-degree: 98%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 98%
 
 ## 2024 年 4 月
 
-最新更新： **2024年4月24日**
+最新更新： **2024年5月1日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -67,11 +67,9 @@ ht-degree: 98%
 
 ### Experience League 活動
 
-已更新 **2024年4月30日**
+已更新 **2024年5月1日**
 
 +++詳細資訊
-
-* **WORKFRONT** | 詢問專家：Fusion 運作 | _為系統管理實務配備人員_ | 與專家 Andy Hess 一起了解更多有關 Adob&#x200B;&#x200B;e Workfront Fusion 運作，包括如何量化以及在您的情境下最佳化此功能使用的提示和技巧。| **4 月 30 日上午 10:30 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | 咖啡會 | _Adobe Journey Optimizer 社區問答咖啡會_ | 來和 Adob&#x200B;&#x200B;e Journey Optimizer 專家一起並提出問題，以及聊聊關於 Journey Optimizer 中以新程式碼為主的體驗頻道。| **5 月 8 日上午 8:00 (太平洋時間)** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
