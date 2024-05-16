@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
+source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
 workflow-type: tm+mt
-source-wordcount: '6445'
+source-wordcount: '6449'
 ht-degree: 53%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 53%
 
 ## 2024 年 5 月
 
-最新更新： **2024年5月15日**
+最新更新： **2024年5月16日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -228,7 +228,7 @@ ht-degree: 53%
 
 [!DNL Analytics] 發行日期： **2024年5月15日**
 
-* [!DNL Analytics] [發行說明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hant)
+* [!DNL Analytics] [發行說明](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [產品文件與教學課程](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -466,10 +466,10 @@ _已知問題_
 | 2024 年 5 月 | [!DNL AEM Sites] | [產生變數 — 在Edge Delivery Services中提示範本](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | 影片 | 探索如何在 Edge Delivery Services 文件製作中使用生成式 AI 提示範本來產生內容變化版本。 |
 | 2024 年 5 月 | [!DNL AEM Sites] | [產生變化 — 在Edge Delivery Services中自訂提示範本](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | 影片 | 探索如何在Edge Delivery Services檔案製作中建立產生變異的自訂提示範本。 |
 | 2024 年 5 月 | [!DNL AEM Sites] | [產生變數 — 在Edge Delivery Services中儲存自訂提示範本](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | 影片 | 探索如何在 Edge Delivery Services 文件製作中儲存生成式 AI 自訂提示範本來產生內容變化版本。 |
-| 2024 年 5 月 | [!DNL AEM Sites] | [在 Edge Delivery Services 中，設定產生變化版本的 Sidekick](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | 影片 | 探索如何在 Edge Delivery Services 文件製作中設定產生變化版本的 Sidekick。 |
+| 2024 年 5 月 | [!DNL AEM Sites] | [在 Edge Delivery Services 中，設定產生變化版本的 Sidekick](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/configure-sidekick) | 影片 | 探索如何在 Edge Delivery Services 文件製作中設定產生變化版本的 Sidekick。 |
 | 2024 年 5 月 | [!DNL AEM Assets] | [匯出資產](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | 文章 | 瞭解如何使用可自訂的專案將資產匯出至本機電腦 `Node.js` 指令碼。 此匯出指令碼提供如何使用以程式設計方式從AEM下載資產的範例。 [!DNL AEM Assets] HTTP API，尤其著重於原始轉譯，以確保最高品質。 |
 | 2024 年 5 月 | [!DNL AEM Forms] | [使用GuideBridge APIPOST表單資料](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | 文章 | 使用 [!UICONTROL 儲存並繼續] ，以儲存填寫表單的進度，並稍後繼續。 |
-| 2024 年 5 月 | [!DNL AEM Sites] | [中的Generative AI [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | 影片 | 探索中可用的新產生AI功能 [!DNL AEM Sites] 檔案製作。 |
+| 2024 年 5 月 | [!DNL AEM Sites] | [中的Generative AI [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites) | 影片 | 探索中可用的新產生AI功能 [!DNL AEM Sites] 檔案製作。 |
 | 2024 年 5 月 | [!DNL AEM Forms] | [使用ChatBot填寫PDF表單](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | 影片 | 瞭解如何使用聊天機器人填寫PDF表單。 |
 | 2024 年 5 月 | AEM Headless | [保護 AEM Headless 中的內容](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | 文章 | 瞭解如何保護AEM Headless中的內容。 |
 | 2024 年 5 月 | AEM CS | [進階網絡](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | 文章 | 瞭解AEMas a Cloud Service的進階網路選項。 |
@@ -497,13 +497,13 @@ _已知問題_
 | 2024 年 4 月 | [[!DNL Marcom]  — 修訂清除未顯示在每日維護下 —  [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24037) | 新文章 | 瞭解的可見性 [!UICONTROL 修訂清除] 中的任務 [!DNL Adobe Experience Manager (AEM)] UI在 [!UICONTROL 日常維護]，尤其是在升級至 [!DNL SP17]，並提供管理方面的深入分析  [!UICONTROL 修訂垃圾收藏集] 使用時 [!DNL MongoDB] 作為資料存放區。 |
 | 2024 年 4 月 | [停用全文檢索搜尋依據 [!DNL mime] 使用自訂文字 [!DNL Tika] 中的設定 [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24046) | 新文章 | 瞭解如何自訂 [!DNL Tika] 根據檔案停用全文檢索搜尋的設定 [!DNL mime] 型別。 |
 | 2024 年 4 月 | [[!DNL Scene7]：選取海報影格或視訊縮圖](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24053) | 新文章 | 瞭解如何在中指定特定的視訊縮圖或海報影像 [!DNL Adobe Experience Manager (AEM)] 在內容中 [!DNL Scene7]，現在稱為 **[!DNL Dynamic Media]**. |
-| 2024 年 4 月 | [如何新增 `stricthostcheck` 在 [!DNL AEMaaCS] dispatcher設定](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | 新文章 | 瞭解如何新增 `stricthostcheck` 在 [!DNL AEMaaCS] dispatcher設定。 |
+| 2024 年 4 月 | [如何新增 `stricthostcheck` 在 [!DNL AEMaaCS] Dispatcher設定](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | 新文章 | 瞭解如何新增 `stricthostcheck` 在 [!DNL AEMaaCS] Dispatcher設定。 |
 | 2024 年 4 月 | [[!DNL Adobe Experience Manager]：無法檢視 [!DNL Java] 來源 [!DNL JSP/HTL] 在 `/libs`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24079) | 新文章 | 瞭解如何檢視 [!DNL Java] 來源 [!DNL JSP/HTL] 在 `/libs` 透過停用 [!DNL Adobe Experience Manager as a Cloud Service's aem-precompiled-scripts] 套件組合。 |
 | 2024 年 4 月 | [[!DNL Adobe Experience Manager]：的第一個調查步驟 `No renderer for extension html`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24080) | 新文章 | 瞭解錯誤訊息的原因： `No renderer for extension html`，嘗試在中開啟網頁時遭遇 [!DNL Adobe Experience Manager]. |
 | 2024 年 4 月 | [清除 [!DNL Fastly CDN] 使用時快取 [!DNL WAF] 或 [!DNL BYOCDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24097) | 新文章 | 瞭解如何設定快取清除 [!DNL AEM as a Cloud Service] 使用 [!DNL Web Application Firewall (WAF)] 或自訂 [!DNL CDN] 解決方案([!DNL BYOCDN])。 瞭解如何瀏覽這些複雜的設定，對於維持有效的內容傳遞至關重要。 |
 | 2024 年 4 月 | [瞭解 [!UICONTROL 累計查詢執行時間] 在 [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24128) | 新文章 | 瞭解如何在中疑難排解查詢效能 [!DNL AEM]. |
 | 2024 年 4 月 | [頁面在預覽時未正確顯示](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24147) | 新文章 | 瞭解在雲端上預覽頁面時的解決方案([!DNL AEMaaCS])預覽環境，頁面可能無法載入 [!DNL CSS]、格式或頁面範本中包含的體驗片段。 |
-| 2024 年 4 月 | [操作說明 [!DNL flush] 如果有具有單獨快取資料夾的陣列，則為Dispatcher快取](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | 新文章 | 瞭解如何 [!DNL flush] 如果有具有單獨快取資料夾的陣列，則為Dispatcher快取。 |
+| 2024 年 4 月 | [操作說明 [!DNL flush] 如果有具有單獨快取資料夾的陣列時，則為Dispatcher快取](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | 新文章 | 瞭解如何 [!DNL flush] 如果有具有單獨快取資料夾的陣列，則為Dispatcher快取。 |
 
 {style="table-layout:auto"}
 
@@ -605,7 +605,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
    * 使用者端主控台： [發行說明](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [產品檔案](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-   * [!DNL Web User Interface]： [發行說明](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
+   * [!DNL Web User Interface]： [發行說明](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7： [發行說明](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [產品檔案](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
@@ -635,7 +635,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 ### [!DNL Campaign] 說明資源
 
-* [!DNL Campaign] Web 介面：[新增內容](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new) - [產品文件](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] Web 介面：[新增內容](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new) - [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/campaign-web-home)
 * [!DNL Campaign] v8：[文件](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home) - [發行說明](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/whats-new) - [實作指南](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement)
 * [!DNL Campaign] Standard：[Campaign Standard 文件](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home) - [發行說明](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) - [操作說明影片](https://experienceleague.adobe.com/en/docs/campaign-standard-learn/tutorials/overview) - [發行規劃](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-planning) - [最新文件更新](https://experienceleague.adobe.com/en/docs/campaign-standard/using/documentation-updates)
 * [!DNL Campaign] Classic：[Campaign Classic v7 文件](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home) - [發行說明](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) - [操作說明影片](https://experienceleague.adobe.com/en/docs/campaign-classic-learn/tutorials/overview) - [最新文件更新](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/documentation-updates)
@@ -659,7 +659,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 5 月 | [建立動作](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html) | 影片 | 瞭解什麼是動作，如何使用中的編輯設定檔和跳轉動作 [!DNL Journey Optimizer]以及如何設定自訂動作。 |
+| 2024 年 5 月 | [建立動作](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions) | 影片 | 瞭解什麼是動作，如何使用中的編輯設定檔和跳轉動作 [!DNL Journey Optimizer]以及如何設定自訂動作。 |
 | 2024 年 5 月 | [使用訊息編輯器匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content) | 影片 | 瞭解如何匯入現有的 HTML 內容、調整設計、新增鏡像頁面和取消訂閱連結，以及如何編寫內容的程式碼。 |
 | 2024 年 5 月 | [設定MMS API認證和管道表面](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces) | 影片 | 瞭解如何連結 [!DNL Journey Optimizer] 和MMS服務供應商如何建立MMS管道表面。 |
 | 2024 年 5 月 | [建立程式碼型體驗行銷活動](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign) | 影片 | 瞭解如何建立程式碼型體驗行銷活動，透過支援伺服器端、API型或SDK型實作方法擴展個人化，以便順暢地與開發環境整合。 |
@@ -668,7 +668,7 @@ New or updated videos tutorials published for Adobe Campaign.
 ### [!DNL Journey Optimizer] 的更多資源
 
 * [[!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [版本注意事項](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [操作說明影片](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
-* [決策管理文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [發行說明](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [操作說明影片](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) - [最新文件更新](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [決策管理文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [發行說明](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [操作說明影片](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) - [最新文件更新](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
