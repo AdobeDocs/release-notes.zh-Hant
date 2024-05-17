@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6457'
+source-wordcount: '6546'
 ht-degree: 53%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 53%
 
 ### Experience League 活動
 
-已更新 **2024年5月15日**
+已更新 **2024年5月17日**
 
 +++詳細資訊
 
@@ -76,6 +76,10 @@ ht-degree: 53%
 * **Workfront** | 社群活動 | _Adobe Workfront產業圈：零售_ | 如果您是零售業的Workfront客戶，並且想要集體解決問題並和其他管理員分享學到的知識，請加入我們，在DSW和Nordstrom的管理員領導下，進行1小時的開放討論。 | **5 月 23 日上午 11:00 (太平洋時間)** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Workfront** | 咖啡會 | _Adobe Workfront社群問答咖啡會：Adobe業務平台移轉_ | 在社群上加入Workfront專家，提出有關Adobe業務平台、貴組織移轉至Adobe Admin Console等的任何問題！ | **5 月 29 日上午 8:00 (太平洋時間)** | [註冊](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **Workfront** | 網路研討會 | _使用Workfront醒醒：最佳化及維護您的環境_ | 加入Adobe的業務顧問，他們將分享見解，透過清理和訓練策略、實施計畫和持續改善做法，最佳化您在Adobe Workfront的工作管理環境。 | **6月6日下午1:00 （東部時間）** | [註冊](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **太平洋時間6月7日上午9:00** | [註冊](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 檢視更多 [即將到來的活動](https://experienceleague.adobe.com/events/) 或瀏覽 [過去的活動錄製](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) 在Experience League上。
 
