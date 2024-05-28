@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '4957'
+ht-degree: 98%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024 年 5 月
 
-上次更新日期：**2024 年 5 月 16 日**
+最新更新： **2024年5月28日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [Adobe 的認證](#certification)
@@ -40,8 +40,8 @@ ht-degree: 99%
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (發佈日期：**5 月 15 日**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (發佈日期：**5 月 15 日**)
+* [[!DNL Adobe Analytics]](#analytics) (已發行 **5月15日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (已發行 **5月15日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ ht-degree: 99%
 
 ### Experience League 活動
 
-已更新 **2024年5月24日**
+已更新 **2024年5月28日**
 
 +++詳細資訊
 
+* **您的體驗** | 影片 | _您的體驗_ 提供由日常使用者所製作的內容，這些使用者在自己的AdobeDX解決方案中已經擁有專業知識與影響力。 尋找提升產品專業知識所需的靈感。 | [隨選可用](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | 咖啡會 | _Adobe Workfront 社區問答咖啡會：Adobe Business Platform 移轉_ | 加入社群中的 Workfront 專家，並詢問有關 Adob&#x200B;&#x200B;e Business Platform、您的組織移轉至 Adob&#x200B;&#x200B;e Admin Console 等方面的任何問題！| **5 月 29 日上午 8:00 (太平洋時間)** | [報名](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | 網路研討會 | _Workfront 讓您意識覺醒：優化與維護您的環境_ | 加入 Adobe 企業顧問，他們會分享深入見解，說明如何透過清理和培訓策略、實施計劃和持續改進作法來優化 Adobe Workfront 中的工作管理環境。| **6 月 6 日下午 1:00 (北美東部時區)** | [報名](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
