@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
+source-git-commit: 44a28ba76ef778ff8b609b836f7cde6a8ad265e7
 workflow-type: tm+mt
-source-wordcount: '6446'
+source-wordcount: '4917'
 ht-degree: 99%
 
 ---
@@ -311,149 +311,19 @@ Experience Manager 中的新功能、修正及更新。Adobe 建議使用內部�
 
 +++詳細資訊
 
-### [!DNL Experience Manager] 藍圖和發行版本影片
-
-Adobe 建議您瀏覽以下資源，以隨時掌握發佈內容資訊：
-
-* [Experience Manager 版本更新和藍圖](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/home) - 了解 Experience Manager 版本藍圖、之前的版本更新及文件更新。
-* [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/zh-hant/docs/events/aemcs-release-update-recordings/overview) - 觀看目前和過去版本的 [!DNL Experience Manager as a Cloud Service] 專題影片概述。
-* [Adobe Experience Manager (AEM) as a Cloud Service 目前發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - 請閱讀 [!DNL Experience Manager as a Cloud Service] 最新發行說明。
-
-<!-- ### Latest Release Overview video
-
-Watch the [November 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-11-0.html?lang=en) for a summary of the features added in the 2023.11.0 (November 2023) release. -->
-
-### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
-
-_[!DNL AEM Sites]_ 中的 Extension Manager
-
-探索 AEM Sites 中的全新 [Extension Manager [!DNL AEM Sites]](https://developer.adobe.com/uix/docs/extension-manager/)，以便透過設定 UI 擴充功能為您的 AEM 設定進行個人化。
-
-[!DNL AEM Sites] 中的 Extension Manager 可讓開發人員和從業人員存取、管理和自訂 [UI 擴充功能](https://developer.adobe.com/uix/docs/)；此功能是透過 [Adobe 應用程式](https://developer.adobe.com/app-builder/)建立工具所建立，可增強 [!DNL AEM Sites] 的功能。
-
-使用 Extension Manager，您可以執行以下作業：
-
-* 根據每個實例啟用或停用擴充功能；
-* 設定擴充功能參數；
-* 預覽擴充功能並產生可分享的預覽連結；
-* 透過互動式示範，探索 UI 可擴充性功能；
-* 透過第一方擴充功能來存取 Adobe 的實驗性功能。
-
-Adobe 正在積極尋求對於 UI 擴充功能的意見回饋和新使用案例。如果您想聯繫我們，請發送電子郵件至 [uix@adobe.com](mailto:uix@adobe.com)。
-
-### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
-
-_管理員檢視的發行前功能_
-
-* **預覽所有支援影片類型的轉譯版** – Experience Manager Assets 現在會依預設產生所有支援影片類型的預覽轉譯，而無需處理設定檔的設定。
-
-_資產檢視_
-
-* **[!UICONTROL 智慧標記]封鎖清單** – Assets Essentials 現在允許您定義封鎖清單，其中包含上傳到存放庫時，不應當成[!UICONTROL 智慧標記]新增到資產的單詞。此功能可協助您維持品牌合規性，並減少審核智慧標記的工作量。
-
-### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
-
-_早期採用者計劃_
-
-* **[將最適化表單提交到 Adobe Workfront Fusion 情境](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion)** – Forms as a Cloud Service 提供開箱即用的選項，可輕鬆將最適化表單與 Adobe Workfront 連接。這簡化了將最適化表單提交到 Adobe Workfront 情境的程序，讓您在提交最適化表單時觸發 Workfront Fusion 情境。
-
-* **[從右至左語言支援](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components)** – 以核心元件為主的最適化表單現在可以呈現從右至左 (RTL) 語言 (如阿拉伯文、波斯文和烏都文)。全球有超過 20 億人使用 RTL 語言。使用 RTL 語言的表單可讓您擴展最適化表單的範圍，以滿足這些不同的受眾並選擇進入 RTL 市場。在某些地區，法律也強制要求以當地語言提供表單。透過適應當地語言，您不僅可以向更廣泛的受眾敞開大門，還可以確保遵守相關法律和法規。
-
-* **[使用 DocAssurance API (通訊 API 的一部分) 保護您的文件](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction)** – DocAssurance API 可讓您透過在文件上簽名和加密來保護敏感資訊。透過加密，文件內容會轉換為無法讀取的格式，確保只有授權的使用者才能存取。這個強化的保護層不僅可以防止未經授權的人士檢視珍貴資料，也可讓您感到安心。簽名 API 可讓您的組織保護所分發和接收之 Adobe PDF 文件的安全性和隱私權。此服務會使用數位簽名和認證，以確保只有預期的收件者才能修改文件。
-
-您可以透過您的官方電子郵件 ID 寫信給「[aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-early-adopter-program@adobe.com)」，加入早期採用者計畫並要求存取該功能。
-
-### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
-
-* **Dynatrace 客戶可以監控他們的 AEM 使用情況** – [了解如何](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/dynatrace)請求與您的 Dynatrace 環境連接以進行應用程式效能監控。如果啟用 Dynatrace，可供所有客戶使用的 New Relic APM 會停止收集資料。
-
-* **使用網站主題和網站範本對前端程式碼的 RDE 支援** – [快速開發環境 (RDE)](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments) 現在支援[網站主題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes)和[網站範本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates)的前端程式碼 (適用於早期採用者)。對於 RDE，這是使用命令列指令完成，而不是使用[前端管道](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline)來完成。如果您想試用並提意見反應，請發送電子郵件至 [aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com)。
-
-### [!DNL Cloud Manager]
-
-_新功能_
-
-* Cloud Manager 現在不僅會驗證主[憑證](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction)的到期日期，還會驗證中間憑證的到期日期。
-* CDN [記錄](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-logs) 現在會以壓縮格式傳回。
-
-_早期採用者計劃_
-
-若想要有機會測試一些即將推出的功能，請參加 Adobe 的早期採用者計劃。
-
-* **透過真實使用者監控 (RUM) 進行用戶端彙集** – 您可以使用[真實使用者監控 (RUM) 資料服務](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests)為 AEM as a Cloud Service 啟用用戶端彙集。
-
-  真實使用者監控 (RUM) 資料服務可以更準確地反映使用者互動，確保可靠地測量網站參與度。這是深入了解頁面效能的絕佳機會。這對於使用 Adobe 管理 CDN 或非 Adobe 管理 CDN 的客戶很有幫助。對於使用非 Adobe 管理 CDN 的客戶，現在可以啟用自動流量報告，而無需與 Adobe 共享任何流量報告。
-
-  如果您有興趣測試這個新功能並分享意見回饋，請使用與您的 Adobe ID 相關聯的電子郵件寄送電子郵件至 [aemcs-rum-adopter@adobe.com](mailto:aemcs-rum-adopter@adobe.com)。請在電子郵件中附上生產、階段和開發環境的網域名稱。此功能可使用的早期採用者計劃很有限。
-
-* **帶著您自己的 GitHub** – 如果您使用 GitHub 來管理您的存放庫，[現在您可以透過 Cloud Manager 直接在 GitHub 存放庫中驗證程式碼](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/managing-code/byo-github)。這種整合消除了始終將程式碼與 Adobe 存放庫保持同步的需要，並允許您先確認提取要求再將其合併到主要分支。
-
-  如果您有興趣測試這個新功能並分享意見回饋，請使用與您的 Adobe ID 相關聯的電子郵件寄送電子郵件至 [Grp-CloudManager_BYOG@adobe.com](mailto:Grp-CloudManager_BYOG@adobe.com)。
-
-* **自助服務內容還原** – [新的自助服務內容還原功能](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/operations/restore)現在會提供最多七天的備份還原，而且可供早期採用者用於評估目的，且具備以下特色：
-
-   * 前 24 小時的時間點備份還原
-   * 固定時間還原最長可達 7 天
-
-  如果您有興趣測試這個新功能並分享意見回饋，請使用與您的 Adobe ID 相關聯的電子郵件寄送電子郵件至 [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com)。
-
-   * 早期採用者計劃僅適用於開發環境。
-   * 此功能可使用的早期採用者計劃很有限。
-   * 此功能用於恢復意外刪除的內容，不適用於災難復原。
-
-* **體驗稽核儀表板** – [Cloud Manager 體驗稽核儀表板](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard)包括頁面效能分數的趨勢檢視，以及可協助您提高效能分數的深入解析和建議。體驗稽核會隨附為 Cloud Manager 生產管道中的一個步驟。
-
-  該儀表板使用 Google Lighthouse，這是一種開放原始碼自動化工具，可提升網頁應用程式的品質。您可以用於在任何網頁 (公用網頁或需要身份驗證的網頁) 上執行。可用於對效能、協助工具、漸進式網頁應用程式、SEO 等進行稽核。
-
-  有興趣測試新儀表板嗎？若要開始測試，請從與您 Adobe ID 相關聯的電子郵件寄送電子郵件至 [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com)，Adobe 即可讓您開始使用。
-
-_錯誤修正_
-
-* 如果設定檔的位置設定不正確，設定管道將在建置步驟失敗並顯示不明確的錯誤訊息，這一錯誤已修正。錯誤訊息現在已清楚顯示，並指示使用者應檢查設定檔的位置是否正確。
-* 當建置步驟由於 `BUILD_MAVEN_TRANSFER_ARTIFACT_ERROR` 而以 `FAILED` 狀態完成時，現在可以正確地將其描述為由於與目標分支的合併衝突而導致的錯誤。
-
-### [!DNL Workfront for Experience Manager] 增強型連接器
-
-最新版 1.9.18 的 Workfront for Experience Manager 增強型連接器的發行日期為 2024 年 3 月 8 日。
-
-_版本重點_
-
-最新版本的 Workfront for Experience Manager 增強型連接器包括以下錯誤修正：
-
-* 處理從 Workfront 上傳的多資產時遇到問題。
-* 使用 Workfront 在 Experience Manager 搜尋資料夾時，不加入結束引號將會導致 `SERVER_ERROR`。
-
->[!NOTE]
->
->AEM 6.4 現在已終止延伸支援。如需更多資訊，請參閱 Adobe 的[技術支援期間](https://helpx.adobe.com/tw/support/programs/eol-matrix.html)。請在[這裡尋找支援的版本](https://experienceleague.adobe.com/zh-hant/docs)。
-
->[!IMPORTANT]
->
->Adobe 建議將 Workfront for Experience Manager 增強型連接器[升級至最新的 1.9.18 版本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install)。
-
-_已知問題_
-
-* 使用 AEM 6.4 設定專案連結的資料夾時，[!DNL Experience Manager] 未儲存「**子資料夾**」和「**在產品組合的專案中建立連結的資料夾**」欄位的值。「**子資料夾**」欄位的值更新為&#x200B;**未定義**。儲存設定後，「**在產品組合的專案中建立連結的資料夾**」欄位的值會自動更新為&#x200B;**預設產品組合**。
-* 當您使用傳統 Workfront 體驗時，「**更多**」下拉式清單中的「**傳送至**」選項不允許您選取 Experience Manager 中的目標目的地。 使用「**文件動作**」下拉式清單時，「**傳送至**」選項正常運作。在使用新的 Workfront 體驗時，「**更多**」下拉式清單和「**文件動作**」下拉式清單的「**傳送至**」選項正常運作。
-
-### Experience Manager 發行資訊
+### Experience Manager發行資訊
 
 所有 [!DNL Experience Manager] 的發行說明都會保留在以下頁面：
 
-* [Experience Manager as a Cloud Service 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/home)
-* [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/zh-hant/docs/events/aemcs-release-update-recordings/overview)
+* [Experience Manager 版本更新和藍圖](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/home) - 了解 Experience Manager 版本藍圖、之前的版本更新及文件更新。
 * [Experience Manager as a Cloud Service 最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Experience Manager as a Cloud Service 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/home)
+* [Experience Manager 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)
 * [Experience Manager Cloud Manager 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Automated Forms Conversion Service 發行說明](https://experienceleague.adobe.com/zh-hant/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Experience Manager 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)
-* [Experience Manager 6.4 Cumulative Fix Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-64/release-notes/cfp-release-notes)
 * [Experience Manager Assets Dynamic Media 發行說明](https://experienceleague.adobe.com/zh-hant/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [Experience Manager Brand Portal 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Experience Manager 桌面應用程式發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-desktop-app/using/release-notes)
+* [Experience Manager案頭應用程式發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-desktop-app/using/release-notes)
 * [Experience Manager Dispatcher 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-dispatcher/using/getting-started/release-notes)
-* [Adobe Primetime 發行說明](https://experienceleague.adobe.com/zh-hant/docs/pass)
-* [Livefyre 發行說明](https://experienceleague.adobe.com/zh-hant/docs/discontinued/using/livefyre)
 
 ### 全新 [!DNL Experience Manager] 教學課程和其他課程 {#tutorials-aem}
 
@@ -507,28 +377,7 @@ _已知問題_
 
 {style="table-layout:auto"}
 
-### [!DNL Experience Manager] 的其他說明資源
-
-* [Dynamic Media Classic 說明首頁](https://experienceleague.adobe.com/zh-hant/docs/dynamic-media-classic/using/home)
-* [Experience Manager as a Cloud Service 指南](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/overview/introduction)
-* [Cloud Manager 使用手冊](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-manager/content/introduction)
-* [Experience Manager 6.5 學習與支援首頁](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
-* [Experience Manager 6.4 學習與支援首頁](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-64)
-* [Experience Manager 文件：最近更新](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
-* [舊版 Experience Manager 文件](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
-
 +++
-
-<!-- ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
-
-[!DNL Experience Manager Guides] is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
-
-Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/products/experience-manager/guides/features.html).
-
-### Additional resources
-
-* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html) - tutorials on Experience League
-* [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation -->
 
 ## ![圖示](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
