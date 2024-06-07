@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
+source-git-commit: 108f6e465fc220340aaa4bf233093bf182d58702
 workflow-type: tm+mt
-source-wordcount: '5007'
-ht-degree: 97%
+source-wordcount: '5114'
+ht-degree: 94%
 
 ---
 
@@ -73,13 +73,17 @@ ht-degree: 97%
 
 * **您的體驗** | 影片 | _您的體驗_ 提供由日常使用者所製作的內容，這些使用者在自己的AdobeDX解決方案中已經擁有專業知識與影響力。 尋找提升產品專業知識所需的靈感。 | [隨選可用](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 
-* **WORKFRONT** | 網路研討會 | _Workfront 讓您意識覺醒：優化與維護您的環境_ | 加入 Adobe 企業顧問，他們會分享深入見解，說明如何透過清理和培訓策略、實施計劃和持續改進作法來優化 Adobe Workfront 中的工作管理環境。| **6 月 6 日下午 1:00 (北美東部時區)** | [報名](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
-
 * **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **6 月 7 日上午 9:00 (太平洋時間)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Commerce** | 網路研討會 | _釀造事件背後：Adobe Commerce Intelligence (fka MBI)_ | 加入我們，深入瞭解Adobe Commerce Intelligence (先前稱為Magento Business Intelligence)，這是一個功能強大的工具，可透過自訂儀表板和報表，將您的電子商務資料轉換為可操作的深入分析。 | **11 月 6 日下午 1:00 (北美東部時區)** | [報名](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
 
 * **Marketo Engage** | 咖啡會 | _用於Adobe Dynamic Chat的創作AI功能_ | 不要錯過這個機會，向我們的專家詢問有關Adobe Dynamic Chat新增功能的所有資訊，這些功能可在您的聊天機器人中實現自由格式、雙向對話等等！ | **6 月 12 日上午 08:00 (太平洋時間)** | [報名](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
+
+* **Creative Cloud、EXPERIENCE MANAGER和WORKFRONT** | 問答集 | _詢問：使用Workfront、Creative Cloud和AEM建立內容供應鏈_ | 加入Adobe客戶成功團隊和City National Bank，進行1小時的訪談式討論，探討Workfront、Creative Cloud和AEM整合的最佳實務、優勢和推動價值。 | **6 月 18 日上午 10:30 (太平洋時間)** | [報名](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Marketo Measure** | 網路研討會 | _Marketo Measure與Mochas：活動與自訂模型_ | 加入AdobeMarketo Measure專家，他們將分享如何使用自訂歸因模型和活動歸因，以使用直接來自您CRM活動記錄的接觸點，對齊您的銷售和行銷資料。 | **20 月 6 日下午 1:00 (北美東部時區)** | [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
+
+* **Workfront** | 客戶工作坊 | _瞭解：在Workfront中排定工作優先順序並進行策略性規劃_ | 加入Workfront客戶成功團隊，瞭解年度規劃的最佳實務、如何建立正式的優先順序流程，以及建議呈現專案資料的檢視，以確保整體一致性。 | **6 月 25 日上午 09:30 (太平洋時間)** | [報名](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 了解更多[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
