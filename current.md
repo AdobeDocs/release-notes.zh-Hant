@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
+source-git-commit: a534185e2781addbf6004cef41a613a6e368c417
 workflow-type: tm+mt
-source-wordcount: '4031'
-ht-degree: 95%
+source-wordcount: '3853'
+ht-degree: 98%
 
 ---
 
@@ -32,16 +32,16 @@ ht-degree: 95%
 
 ## 2024 年 6 月
 
-最新更新： **2024年6月25日**
+上次更新： **2024 年 6 月 25 日**
 
-* [[!DNL Experience League] 活動和更新](#events) (**6月25日**)
+* [[!DNL Experience League] 事件和更新](#events) （**6 月 25** 日）
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (已發行 **6月12日**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (已發行 **6月12日**)
+* [[!DNL Adobe Analytics]](#analytics) （已發佈 **6月12**&#x200B;日）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （已發佈 **6月12**&#x200B;日）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,19 +67,11 @@ ht-degree: 95%
 
 ### Experience League 活動
 
-已更新 **2024年6月25日**
+更新日期： **2024 年 6 月 25 日**
 
 +++詳細資訊
 
-* **WORKFRONT** | 客戶研討會 | _學習：Workfront 中工作的優先順序和策略規劃_ |加入 Workfront 客戶成功團隊，了解年度規劃的最佳做法、如何建立確定優先順序的正式流程，以及顯示專案資料的建議視圖以確保整體一致性。| **6 月 25 日上午 09:30 (太平洋時間)** | [報名](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Workfront** | 客戶工作坊 | _Admin 101：提出Workfront問題_ | 您是否錯過任何Admin 101工作階段？ 加入我們長達一小時的問答會，我們將在此總結先前的事件，然後將其開放以供一般討論和提問。 | **6 月 26 日上午 09:00 (北美山區時區)** | [報名](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Workfront** | 網路研討會 | _24.7的新增功能_ | 於6月26日上午10:00 EST加入Adobe Workfront產品團隊，瞭解即將發行的24.7版本中的功能與增強功能。 | **6 月 27 日上午 08:00 (北美山區時區)** | [報名](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
-
-* **Journey Optimizer** | 問答聊天 | _Career Discovery網路研討會 — Adobe Journey Optimizer_ | 在這場網路研討會中，您將瞭解嘉賓小組成員在Adobe Journey Optimizer中的工作和專業知識，並探索如何開始尋找新的職業機會。 | **6 月 28 日上午 08:00 (北美山區時區)** | [報名](https://event.adobe.com/careerdiscovery)
-
-* **Workfront** | 客戶工作坊 | _Admin 101 - Workfront快速入門_ | 不熟悉Workfront？ 加入我們的「新管理員」每月聚會，提出問題、取得資源與建議、會見其他新管理員，並針對此會議，瞭解設定Workfront環境的最佳實務。 | **7月9日上午9:00 （北美山區時區）** | [註冊]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **工作檯面** |客戶研討會 | _管理員 101 - 使用工作快速入門_ |新加入 Workfront？ 加入我們的「新管理員」月度聚會，提出問題、獲取資源和建議、結識其他新管理員，並在此會話中了解設置 Workfront 環境 的最佳實踐。 | **七月** 9 @ 9：00 上午 MT | [註冊] https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1）
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 +++
