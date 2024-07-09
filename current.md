@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a534185e2781addbf6004cef41a613a6e368c417
+source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
 workflow-type: tm+mt
 source-wordcount: '3853'
 ht-degree: 98%
@@ -32,16 +32,16 @@ ht-degree: 98%
 
 ## 2024 年 6 月
 
-上次更新： **2024 年 6 月 25 日**
+最新更新： **2024年6月25日**
 
-* [[!DNL Experience League] 事件和更新](#events) （**6 月 25** 日）
+* [[!DNL Experience League] 活動和更新](#events) (**6月25日**)
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （已發佈 **6月12**&#x200B;日）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （已發佈 **6月12**&#x200B;日）
+* [[!DNL Adobe Analytics]](#analytics) (已發行 **6月12日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (已發行 **6月12日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,11 +67,11 @@ ht-degree: 98%
 
 ### Experience League 活動
 
-更新日期： **2024 年 6 月 25 日**
+已更新 **2024年6月25日**
 
 +++詳細資訊
 
-* **工作檯面** |客戶研討會 | _管理員 101 - 使用工作快速入門_ |新加入 Workfront？ 加入我們的「新管理員」月度聚會，提出問題、獲取資源和建議、結識其他新管理員，並在此會話中了解設置 Workfront 環境 的最佳實踐。 | **七月** 9 @ 9：00 上午 MT | [註冊] https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1）
+* **Workfront** | 客戶工作坊 | _Admin 101 - Workfront快速入門_ | 不熟悉Workfront？ 加入我們的「新管理員」每月聚會，提出問題、取得資源與建議、會見其他新管理員，並針對此會議，瞭解設定Workfront環境的最佳實務。 | **7月9日上午9:00 （北美山區時區）** | [註冊](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 +++
