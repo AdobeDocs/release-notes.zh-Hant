@@ -32,16 +32,16 @@ ht-degree: 95%
 
 ## 2024 年 6 月
 
-最新更新： **2024年6月25日**
+最近更新： **2024年6月25日**
 
-* [[!DNL Experience League] 活動和更新](#events) (**6月25日**)
+* [[!DNL Experience League] 個事件和更新](#events) （**6月25日**）
 * [Adobe 的認證](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (已發行 **6月12日**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (已發行 **6月12日**)
+* [[!DNL Adobe Analytics]](#analytics) （發行日期： **6月12日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （發行日期： **6月12日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,17 @@ ht-degree: 95%
 
 ### Experience League 活動
 
-已更新 **2024年6月25日**
+更新日期： **2024年6月25日**
 
 +++詳細資訊
 
-* **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **7月12日上午10:00 （北美山區時區）** | [註冊](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **7月12日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | 咖啡會 | _咖啡會抽獎：創意簡報輸入與最佳實務_ | 加入我們的行列，參加我們的第二次創意簡報最佳實務咖啡會抽獎！ 探索新策略並分享您的見解。 提交問題、評論或提示，以獲得Workfront獎賞。 不要錯過！ | **7月16日上午11:00 （北美山區時區）** | [註冊](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+* **WORKFRONT** | 咖啡會 | _咖啡會抽獎活動：創意簡報輸入與最佳實務_ | 加入我們的行列，參加我們的第二次創意簡報最佳實務咖啡會抽獎！ 探索新策略並分享您的見解。 提交問題、評論或提示，以獲得Workfront獎賞。 不要錯過！ | **7月16日上午11:00 MT** | [註冊](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
 
-* **Workfront** | 客戶工作坊 | _瞭解： Adobe Workfront 2024年第三季發佈綜述+環境宣傳_ | 加入我們，參加我們的季度發行稽核會議，我們在這次會議上討論最新發行功能及其優勢。 在這場會議中，我們還將討論備受期待的「環境升級」功能。 | **7月18日上午9:00 （北美山區時區）** | [註冊](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | 客戶工作坊 | _瞭解： Adobe Workfront 2024年第3季發佈綜述+環境促銷活動_ | 加入我們，參加我們的季度發行稽核會議，我們在這次會議上討論最新發行功能及其優勢。 在這場會議中，我們還將討論備受期待的「環境升級」功能。 | **7月18日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Experience Manager、EXPERIENCE MANAGER ASSETS和EXPERIENCE MANAGER SITES** | 網路研討會 | _濃縮咖啡與Experience Manager：透過AEM實現數位靈活性_ | 瞭解AEM Sites和Assets的最新創新，這些創新讓AEM成為您解決CMS空間中最常見挑戰的解決方案。 我們將探索通用編輯器、Headless和檔案型撰寫以及Assets UI。 | **7月18日上午11:00 （北美山區時區）** | [註冊](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+* **EXPERIENCE MANAGER、EXPERIENCE MANAGER ASSETS和EXPERIENCE MANAGER SITES** | 網路研討會 | _Espressos與Experience Manager：數位靈活性，搭配AEM_ | 瞭解AEM Sites和Assets的最新創新，這些創新讓AEM成為您解決CMS空間中最常見挑戰的解決方案。 我們將探索通用編輯器、Headless和檔案型撰寫以及Assets UI。 | **7月18日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
 
 及更多內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 +++
