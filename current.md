@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
+source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 43%
+source-wordcount: '3536'
+ht-degree: 44%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 43%
 
 ## 2024 年 7 月
 
-最近更新： **2024年7月17日**
+最近更新： **2024年7月23日**
 
 * [[!DNL Experience League] 活動和更新](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -71,17 +71,15 @@ ht-degree: 43%
 
 +++詳細資訊
 
-* **[!DNL WORKFRONT]** | 客戶工作坊 | _瞭解：Adobe[!DNL Workfront] 2024年第三季發佈總結+環境促銷活動_ | 加入我們，參加我們的季度發行稽核會議，我們在這次會議上討論最新發行功能及其優勢。 在這場會議中，我們還將討論備受期待的「環境升級」功能。 | **7月18日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE MANAGER]、[!DNL EXPERIENCE MANAGER ASSETS]和[!DNL EXPERIENCE MANAGER SITES]** | 網路研討會 | _Espressos &amp; [!DNL Experience Manager:]：使用AEM的數位靈活性_ | 瞭解AEM Sites和Assets的最新創新，這些創新讓AEM成為您解決CMS空間中最常見挑戰的解決方案。 我們將探索通用編輯器、Headless和檔案型撰寫以及Assets UI。 | **7月18日上午11:00 MT** | [註冊](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL WORKFRONT]** | 社群活動 | _連線： [!DNL Workfront]集合_ | 參加我們每個月的星期一[!DNL Workfront]集體聚會，此聚會旨在與其他客戶交流、討論[!DNL Workfront]功能、分享想法，並一起集思廣益，以解決常見的挑戰。 | **7月22日上午7:00 MT** | [註冊](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | 客戶工作坊 | _向客戶學習：使用[!DNL Workfront]進行重組_ | 加入我們，觀看客戶和先前客戶的1小時簡報，瞭解他們如何分享其經驗和建議，如何使用[!DNL Workfront]來協助組織重組的結構化和處理變更。 | **7月23日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | 網路研討會 | _Marketo &amp; Mochas：奠定基礎 — 成熟度部分1_ | 加入Adobe的商業顧問，瞭解如何最妥善地開發您組織的Marketo使用。 我們將檢閱從執行個體治理到方案庫的所有內容，該方案庫託管多個方案以開始您的方案構建。 | **7月25日上午11:00 MT** | [註冊](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | 網路研討會 | _詢問[!DNL Workfront]客戶支援 — 疑難排解計算運算式_ | 加入[!DNL Workfront]客戶支援團隊，就計算運算式進行1小時的學習。 在常見範例、疑難排解提示、重要學習與即時示範之間，此工作階段絕非易失！ | **7月31日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | 網路研討會 | _Commerce與咖啡： B2B電子商務成功的策略_ | 加入Commerce資深策略顧問Corey Gelato，他將重點說明一些最具影響力的B2B電子商務趨勢，並審視客戶可在Adobe Commerce中善用的策略。 | **8月1日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | 社群活動 | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **8月2日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 及更多內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
