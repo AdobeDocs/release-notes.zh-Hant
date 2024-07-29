@@ -34,7 +34,7 @@ ht-degree: 93%
 
 最近更新： **2024年7月23日**
 
-* [[!DNL Experience League] 活動和更新](#events)
+* [[!DNL Experience League] 活動與最新訊息](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -301,7 +301,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2024 年 6 月 | [ [!DNL Experience Fragments]  允許範本的繼承問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-21002) | 新文章 | [!DNL Adobe Experience Manager] 中的 [!DNL Experience Fragments] 允許範本繼承方面出現問題。 |
 | 2024 年 6 月 | [[!DNL Copy Content Activity]  失敗並出現 *[!DNL javax.jcr.AccessDeniedException]* 錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24424) | 新文章 | 了解在 [!DNL Adobe Experience Manager] 命名空間註冊期間，內容回流作業失敗並出現 *[!DNL javax.jcr.AccessDeniedException]* 錯誤的原因。 |
 | 2024 年 6 月 | [[!DNL Dynamic Media URL] 回應 [!DNL byte-size]](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24461) | 新文章 | 了解如何從 [!DNL Dynamic Media Classic] 中的 [!DNL URL] 顯示原始轉譯時取得 DM 資產二進位大小。 |
-| 2024 年 6 月 | [[!DNL AEMaaCS]：如何使用管理員權限存取預覽層級的存放庫瀏覽器](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24457) | 新文章 | 了解如何使用自訂工作流程顯示所有節點，因為依預設，預覽層級的存放庫瀏覽器不會顯示 (例如，`/conf`、`/home` 和 `/var` 下的節點未顯示。所有節點。 |
+| 2024 年 6 月 | [[!DNL AEMaaCS]：如何使用管理員權限存取預覽層級的存放庫瀏覽器](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24457) | 新文章 | 了解如何使用自訂工作流程顯示所有節點，因為依預設，預覽層級的存放庫瀏覽器不會顯示 (例如 `/conf`、`/home` 和 `/var` 下的節點未顯示。所有節點。 |
 | 2024 年 6 月 | [[!DNL SDI] 內容遺失、 [!DNL Apache] 錯誤、*[!DNL INCLUDES filter removed]*](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24222) | 新文章 | 了解如何解決 [!DNL Sling Dynamic Includes (SDI)] 內容遺失且 [!DNL Apache] `error.log` 表示 *[!DNL INCLUDES filter removed]* 的問題。 |
 | 2024 年 6 月 | [啟用  [!DNL Geo-blocking]  和  [!DNL Dynamic Media CDN]](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24475) | 新文章 | 了解如何在 [!DNL Dynamic Media CDN] 啟用 [!DNL Geo-blocking]，讓 [!DNL URLs] 僅在特定國家/地區提供。 |
 | 2024 年 6 月 | [[!DNL Adobe Experience Manager]：如何解鎖被其他使用者鎖定的頁面](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-24486) | 新文章 | 了解當鎖定頁面的使用者和管理員都無法解鎖頁面時如何解鎖頁面。 |
