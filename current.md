@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3052'
-ht-degree: 52%
+source-wordcount: '3097'
+ht-degree: 51%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 52%
 
 最新更新： **2024年8月14日**
 
-* [[!DNL Experience League] 活動與最新訊息](#events)
+* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **8月16日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ ht-degree: 52%
 
 了解 Experience League 上的精彩活動。 若要向 Adobe 產品專家學習、與之互動或獲得解答，這是您絕佳的選擇！
 
+### Experience League播放清單（最新！）
+
+更新： **2024年8月16日**
+
+影片[播放清單](https://experienceleague.adobe.com/en/playlists)是Experience League的新內容。 播放清單是經過組織的影片集合，旨在快速協助您取得想要的技能和知識。
+
+若要瀏覽播放清單，請瀏覽至&#x200B;**[!UICONTROL 學習]** > **[!UICONTROL 播放清單]**。
+
+>[!NOTE]
+>
+>**個課程**&#x200B;正在從Experience League中淘汰。 如果您有課程的書籤，系統會將您重新導向至對應的播放清單。
+
+如果您想要提交意見反應給Experience League有關播放清單或任何說明問題，請使用每頁底部的意見反應快顯功能表。
+
 ### Experience League 活動
 
-更新日期：**2024年8月14日**
-
 +++詳細資訊
-
-* **[!DNL EXPERIENCE MANAGER]** | 體驗製作者 | _Adobe Experience Manager技能交流_ | 8月14日加入我們的免費數位客戶學習活動。 您將會聽到專家和同行的意見，瞭解他們如何以最佳方式使用AEM。 有時間回答您的問題。 | **8月14日上午10:00 MT** | [註冊](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | 體驗製作者 | _Adobe Workfront技能交流_ | 8月15日加入我們的免費數位客戶學習活動，活動內容全部聚焦於Workfront。 您將會聽到專家和同行的意見，瞭解他們如何在日常業務中使用Workfront。 | **8月15日上午10:00 MT** | [註冊](https://adobe.ly/4c7TAqZ)
 
