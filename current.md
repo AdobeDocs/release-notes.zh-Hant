@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '3099'
 ht-degree: 51%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 51%
 
 ## 2024 年 8 月
 
-最新更新： **2024年8月14日**
+最新更新： **2024年8月16日**
 
 * [[!DNL Experience League] 個活動和更新](#events) （更新日期： **8月16日**）
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ ht-degree: 51%
 
 影片[播放清單](https://experienceleague.adobe.com/en/playlists)是Experience League的新內容。 播放清單是經過組織的影片集合，旨在快速協助您取得想要的技能和知識。
 
-若要瀏覽播放清單，請瀏覽至&#x200B;**[!UICONTROL 學習]** > **[!UICONTROL 播放清單]**。
+若要瀏覽播放清單，請瀏覽至&#x200B;**[!UICONTROL 學習]** > **[!UICONTROL 瀏覽所有播放清單]**。
 
 >[!NOTE]
 >
