@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3155'
-ht-degree: 91%
+source-wordcount: '3186'
+ht-degree: 90%
 
 ---
 
@@ -28,13 +28,19 @@ ht-degree: 91%
 
 為了獲得最佳的自助體驗，請登入 [Experience League](https://experienceleague.adobe.com/#home) 並在 Adobe 免費的[文件](https://experienceleague.adobe.com/zh-hant/docs)庫、[課程](https://experienceleague.adobe.com/#courses)、[活動](https://experienceleague.adobe.com/events/)、[社群論壇](https://experienceleaguecommunities.adobe.com/?profile.language=en)和[支援](https://experienceleague.adobe.com/?support-tab=home#support)中自訂您的搜尋體驗。
 
+**提供意見回饋**
+
+尋找&#x200B;**_此內容是否有幫助？每頁底部有_**&#x200B;個快顯視窗。 您的意見反應已經過組織並傳送給內容作者。
+
+**取得通知**
+
 若要收到關於本頁更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
 ## 2024 年 8 月
 
-最新更新： **2024年8月22日**
+最新更新： **2024年8月28日**
 
-* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **8月22日**）
+* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **8月28日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Experience League中有新影片[播放清單](https://experienceleague.adobe.co
 
 * **[!DNL EXPERIENCE CLOUD]** | 社群活動 | _2025年Adobe體驗締造獎_ | 2025年Adobe體驗締造獎的提交內容現已開放。 非凡才剛剛開始。 大膽的遠見卓識。 卓越的客戶體驗。 | **N/A** | [立即申請](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | 客戶工作坊 | _學習：說明Workfront Fusion_ | 加入客戶成功團隊，與Deloitte和Adobe Workfront Integrations Consulting進行1小時的互動式研討會，瞭解如何量化節省時間並為Workfront Fusion建立強大的業務案例。 | **8 月 27 日上午 10:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | 咖啡會 | _Adobe Journey Optimizer社群問答咖啡會_ | 與Journey Optimizer專家圍繞3個人必須嘗試Journey Optimizer實驗、頻率上限和多語言訊息的功能，這是一個小時長的AMA式聊天會。 | **9月4日上午9:00 MT** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEM快速開發環境新增了哪些功能？_ | 加入我們，瞭解如何使用RDE縮短開發週期，並取得幾乎即時的程式碼變更意見反應。 我們將介紹最新功能，例如改進的記錄、前端支援等。 | **9月4日上午9:00 MT** | [註冊](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | 社群活動 | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **9月6日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -128,7 +134,7 @@ Experience League中有新影片[播放清單](https://experienceleague.adobe.co
 
 未更新。
 
-有關 Experience Cloud 統一介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包含[!UICONTROL 客戶屬性]、[!DNL Experience Cloud Assets]和[!UICONTROL 對象])。
+有關 Experience Cloud 統一介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包含[!UICONTROL 客戶屬性]、[!DNL Experience Cloud Assets]和[!UICONTROL 客群])。
 
 +++
 
