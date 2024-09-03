@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ ht-degree: 90%
 
 ## 2024 年 8 月
 
-最新更新： **2024年8月28日**
+最新更新： **2024年9月3日**
 
-* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **8月28日**）
+* [[!DNL Experience League]  活動與最新訊息](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  — 中央介面和管理](#ecloud) （更新日期： **9月3日**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (發行日期：**8 月 14 日**)
@@ -132,7 +132,11 @@ Experience League中有新影片[播放清單](https://experienceleague.adobe.co
 
 +++詳細資訊
 
-未更新。
+發行日期： **2024年9月2日**
+
+| 功能 | 說明 |
+| -----------| ---------- |
+| Slack通知 | 您可以設定帳戶偏好設定，以傳送Experience Cloud通知給Slack。 請參閱[帳戶偏好設定和通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences)說明中的&#x200B;_Slack通知_&#x200B;以取得詳細資料。 |
 
 有關 Experience Cloud 統一介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包含[!UICONTROL 客戶屬性]、[!DNL Experience Cloud Assets]和[!UICONTROL 客群])。
 
