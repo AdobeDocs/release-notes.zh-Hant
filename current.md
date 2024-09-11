@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
+source-git-commit: de974e36ac2eb38f78a065a000913e6dc13e6420
 workflow-type: tm+mt
-source-wordcount: '3186'
-ht-degree: 89%
+source-wordcount: '3442'
+ht-degree: 82%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 89%
 
 ## 2024 年 8 月
 
-最新更新： **2024年9月3日**
+最新更新： **2024年9月10日**
 
-* [[!DNL Experience League]  活動與最新訊息](#events)
+* [[!DNL Experience League] 活動與最新訊息](#events) (更新：**9 月 10 日**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]  — 中央介面和管理](#ecloud) （更新日期： **9月3日**）
+* [[!DNL Adobe Experience Cloud]  — 中央介面和管理](#ecloud) （更新日期： **9月10日**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (發行日期：**8 月 14 日**)
@@ -95,13 +95,21 @@ Experience League中有新影片[播放清單](https://experienceleague.adobe.co
 
 +++詳細資訊
 
-* **[!DNL EXPERIENCE CLOUD]** | 社群活動 | _2025年Adobe體驗締造獎_ | 2025年Adobe體驗締造獎的提交內容現已開放。 非凡才剛剛開始。 大膽的遠見卓識。 卓越的客戶體驗。 | **N/A** | [立即申請](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
+* **[!DNL MARKETO ENGAGE]** | 社群活動 | _Marketo與Mochas：最佳化Marketo使用量（成熟度Pt 2）_ | 在Marketo成熟度系列的第2部分瞭解如何最佳化Marketo使用量。 此會議著重於資料管理、整合和方案最佳化的最佳實務，以提升個人化程度。 | **9月12日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
 
-* **[!DNL JOURNEY OPTIMIZER]** | 咖啡會 | _Adobe Journey Optimizer社群問答咖啡會_ | 與Journey Optimizer專家圍繞3個人必須嘗試Journey Optimizer實驗、頻率上限和多語言訊息的功能，這是一個小時長的AMA式聊天會。 | **9月4日上午9:00 MT** | [註冊](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _學習：使用Adobe產品返回Workfront展示板_ | 正在尋找使用Workfront展示板的全新創意方法嗎？ 加入我們的產品經理，瞭解主機板的最佳實務，以及如何使用功能來提高採用率。 | **9月12日下午12:00 MT** | [註冊](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEM快速開發環境新增了哪些功能？_ | 加入我們，瞭解如何使用RDE縮短開發週期，並取得幾乎即時的程式碼變更意見反應。 我們將介紹最新功能，例如改進的記錄、前端支援等。 | **9月4日上午9:00 MT** | [註冊](https://adobe.ly/4cwc5W4)
+* **[!DNL WORKFRONT]** | 社群活動 | _連線： Workfront Collective_ | 參加我們週一的Workfront集體活動，與其他客戶交流、討論Workfront功能，並一起集思廣益，以解決常見的挑戰。 | **9月16日上午7:00 MT** | [註冊](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 社群活動 | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 這個客戶導向會議可讓您與其他管理員相互交流，討論最佳實務及提示和技巧。| **9月6日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _管理員101：提出您的Workfront問題_ | 不熟悉Workfront？ 您是否錯過先前的任何Admin 101工作階段？ 加入我們的摘要課程，提出問題、取得資源與建議，並與其他新管理員會面。 | **9月17日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | 網路研討會 | _使用多串流參與計畫掌握複雜的客戶歷程_ | 加入Adobe Marketo Engage Champion Max Garrett，探索如何在歷程的每個步驟透過多重觸控和多資料流參與計畫，系統化地參與及培養客戶關係。 | **9月17日上午9:00 MT** | [註冊](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _學習：實現價值 — 充分利用Workfront_ | 正在尋找如何從您的Workfront工作中實現最大價值的指引？ 加入資深客戶成功經理Kait Winchell的行列，分享業界最佳實務，發揮Workfront的最大效益。 | **9月19日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | 網路研討會 | _Commerce &amp; Coffee：旺季準備_ | 加入Corey Gelato的行列，概略瞭解如何在一年中的任何時間為網站做好旺季準備。 瞭解如何最佳化網站效能、管理庫存、履行訂單，以及主動提升支援。 | **9月19日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
+
+* **[!DNL DYNAMIC MEDIA CLASSIC]，[!DNL EXPERIENCE MANAGER ASSETS]** | 網路研討會 | _Dynamic Media體驗：隆重推出最新創新_ | AEM Dynamic Media中的新創新功能現已推出，可提升您的客戶體驗！ 加入我們，透過最新技術打造具吸引力的使用者體驗，進行以價值為中心的簡報。 | **9月25日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 及更多內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
@@ -114,6 +122,17 @@ Experience League中有新影片[播放清單](https://experienceleague.adobe.co
 +++詳細資訊
 
 [!DNL Adobe System Status] 會提供有關 Adobe 產品的詳細資訊、狀態更新和電子郵件通知。獲得有關服務中斷、作業中斷和維護事件的通知。請造訪 [status.adobe.com](https://status.adobe.com/) 來查看。
+
+發行日期： **2024年8月19日**
+
+**新增功能**
+
+* 產品型維護通知、錯誤修正和改良
+
+| 功能 | 說明 |
+| ------- | ------- |
+| 以產品為基礎的維護 | <ul><li>增強UI和每個產品的通知，而非每次維護。</li><li>每次更新的影響屬性都會提供產品特定的影響詳細資訊。</li></ul> |
+| 錯誤修正和改良 | <ul><li>_如何訂閱_&#x200B;說明頁面本地化。</li><li>已在Slack設定指示頁面上新增支援聯絡資訊。</li><li>修正未使用狀態API依事件狀態正確篩選之未預期事件的錯誤。</li></ul> |
 
 如需最新的發行說明，請參閱：
 
@@ -132,11 +151,11 @@ Experience League中有新影片[播放清單](https://experienceleague.adobe.co
 
 +++詳細資訊
 
-發行日期： **2024年9月2日**
+發行日期： **2024年9月10日**
 
 | 功能 | 說明 |
 | -----------| ---------- |
-| Slack通知 | 您可以設定帳戶偏好設定，以傳送Experience Cloud通知給Slack。 請參閱[帳戶偏好設定和通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences)說明中的&#x200B;_Slack通知_&#x200B;以取得詳細資料。 |
+| Slack通知 | 您可以設定帳戶偏好設定，以傳送Experience Cloud通知給Slack。 如需詳細資訊，請參閱[訂閱Slack通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences)。 |
 
 有關 Experience Cloud 統一介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包含[!UICONTROL 客戶屬性]、[!DNL Experience Cloud Assets]和[!UICONTROL 客群])。
 
