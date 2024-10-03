@@ -2,18 +2,18 @@
 title: 最新發行說明
 description: 尋找 Adobe  [!DNL Experience Cloud]  產品和服務的最新發行說明和知識庫問題。了解有關 Experience League 即將舉辦的活動和新文件。探索  [!DNL Experience Cloud]  應用程式的最新教學課程和其他課程。
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
-workflow-type: ht
+source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+workflow-type: tm+mt
 source-wordcount: '4127'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# Experience Cloud 發行說明 - 2024 年 9 月
+# Experience Cloud 發行說明 - 2024 年 10 月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,9 +36,9 @@ ht-degree: 100%
 
 若要收到關於此頁面更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-## 2024 年 9 月
+## 2024 年 10 月
 
-上次更新日期：**2024 年 9 月 11 日**
+最近更新： **2024年10月2日**
 
 * [[!DNL Experience League] 活動與最新訊息](#events) (更新時間：**9 月 10 日**)
 * [[!DNL Adobe System Status]](#status)
@@ -145,7 +145,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 ## ![圖示](/assets/ec_appicon_24.png) [!DNL Experience Cloud] - 統一介面與管理 {#ecloud}
 
-了解關於 [!DNL Experience Cloud] 統一介面元件和管理。管理產品和使用者、配置設定檔的設定和偏好設定、搜尋 Experience Cloud 物件以及管理 Cookie。
+了解關於 [!DNL Experience Cloud] 統一介面元件和管理。管理產品和使用者、配置輪廓的設定和偏好設定、搜尋 Experience Cloud 物件以及管理 Cookie。
 
 +++詳細資訊
 
@@ -208,7 +208,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Analytics] 發行日期：**2024 年 9 月 11 日**
+[!DNL Analytics]發行日期： **2024年10月2日**
 
 * [!DNL Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest)<!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
@@ -247,9 +247,9 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Customer Journey Analytics]發行日期：**2024 年 9 月 11 日**
+[!DNL Customer Journey Analytics] 發行日期：**2024 年 9 月 11 日**
 
-* [!DNL Customer Journey Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
+* [!DNL Customer Journey Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest#releases)<!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
 * [!DNL Customer Journey Analytics] [產品文件與教學課程](https://experienceleague.adobe.com/zh-hant/docs/customer-journey-analytics)
 
