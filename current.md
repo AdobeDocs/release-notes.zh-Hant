@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3845'
-ht-degree: 97%
+source-wordcount: '3847'
+ht-degree: 96%
 
 ---
 
-# Experience Cloud 發行說明 - 2024 年 10 月
+# Experience Cloud版本注意事項 — 2024年9月/10月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ ht-degree: 97%
 
 若要收到關於此頁面更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-## 2024 年 10 月
+## 2024年9月至10月
 
 最近更新： **2024年10月3日**
 
