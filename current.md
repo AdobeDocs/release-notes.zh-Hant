@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: ht
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+workflow-type: tm+mt
 source-wordcount: '3847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,9 +38,9 @@ ht-degree: 100%
 
 ## 2024 年 9 月至 10 月
 
-上次更新日期：**2024 年 10 月 3 日**
+最近更新： **2024年10月10日**
 
-* [[!DNL Experience League] 活動與最新訊息](#events) (更新時間：**9 月 10 日**)
+* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **10月10日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL WORKFRONT]** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他 Workfront 管理員相互交流，討論最佳實務及提示和技巧。| **10 月 4 日上午 10:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 | _連線： Workfront Collective_ | 加入客戶成功團隊，參加星期一上午的開放式討論，旨在將您與其他Workfront管理員聯絡起來，討論最新功能，分享想法，並針對常見挑戰集思廣益的解決方案。 | **10 月 14 日上午 07:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 社群活動 | _Admin 101：開始使用 Workfront_ | 您是 Workfront 新手嗎？請加入我們，觀看 Admin 101 系列的第一場研討會，由 3 部分組成。您可以學習有關系統設定和導覽的最佳實務和建議，以及必備資源。| **10 月 8 日上午 9:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客戶工作坊 | _學習：提高效率 — 認知者如何運用Adobe Workfront實現卓越專案_ | 加入Creative Operations資深經理、全球品牌與系統管理員的Sujatha T S，一同分享Cognizant如何最佳化其系統和流程，以提升卓越專案的效率。 | **10 月 17 日上午 9:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 及更多內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
@@ -235,7 +235,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Customer Journey Analytics]發行日期：**2024 年 10 月 2 日**
+[!DNL Customer Journey Analytics] 發行日期：**2024 年 10 月 2 日**
 
 * [!DNL Customer Journey Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest#releases)<!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
