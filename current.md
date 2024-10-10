@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3847'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud版本注意事項 — 2024年9月/10月
+# Experience Cloud 發行說明 - 2024 年 9 月/10 月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,17 +36,17 @@ ht-degree: 96%
 
 若要收到關於此頁面更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-## 2024年9月至10月
+## 2024 年 9 月至 10 月
 
-最近更新： **2024年10月3日**
+上次更新日期：**2024 年 10 月 3 日**
 
 * [[!DNL Experience League] 活動與最新訊息](#events) (更新時間：**9 月 10 日**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （發行日期： **10月2日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （發行日期： **10月2日**）
+* [[!DNL Adobe Analytics]](#analytics) (發行日期：**10 月 2 日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (發行日期：**10 月 2 日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,9 +93,9 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL WORKFRONT]** | 社群活動 | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 此客戶導向會議將引導您與其他Workfront管理員討論最佳實務以及秘訣與技巧。 | **10月4日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 | _交流：行銷和創意方面的管理員閒談_ | 您是行銷或創意團隊的系統管理員嗎？這個客戶導向會議可讓您與其他 Workfront 管理員相互交流，討論最佳實務及提示和技巧。| **10 月 4 日上午 10:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 社群活動 | _管理員101： Workfront快速入門_ | 不熟悉Workfront？ 加入我們，開始第3部分Admin 101系列的第一場會議。 您可以瞭解關於系統設定和導覽的最佳實務和建議，以及必備資源。 | **10月8日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社群活動 | _Admin 101：開始使用 Workfront_ | 您是 Workfront 新手嗎？請加入我們，觀看 Admin 101 系列的第一場研討會，由 3 部分組成。您可以學習有關系統設定和導覽的最佳實務和建議，以及必備資源。| **10 月 8 日上午 9:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 及更多內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
@@ -196,7 +196,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Analytics]發行日期： **2024年10月2日**
+[!DNL Analytics] 發行日期：**2024 年 10 月 2 日**
 
 * [!DNL Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest)<!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
@@ -235,7 +235,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Customer Journey Analytics]發行日期： **2024年10月2日**
+[!DNL Customer Journey Analytics]發行日期：**2024 年 10 月 2 日**
 
 * [!DNL Customer Journey Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest#releases)<!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -384,7 +384,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ### 最新 Campaign 產品版本
 
-* [!DNL Web User Interface]：**9 月 3 日** - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]：**9 月 3 日** - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs /campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign]v8：**9 月 3 日** - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
 
@@ -414,7 +414,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ### [!DNL Campaign] 說明資源
 
-* [!DNL Web User Interface]：**9 月 3 日** - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]：**9 月 3 日** - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs /campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign]v8：**9 月 3 日** - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
 
