@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3921'
+ht-degree: 95%
 
 ---
 
@@ -93,11 +93,9 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL WORKFRONT]** | 客戶工作坊 | _學習：提高效率 — 認知者如何運用Adobe Workfront實現卓越專案_ | 加入Creative Operations資深經理、全球品牌與系統管理員的Sujatha T S，一同分享Cognizant如何最佳化其系統和流程，以提升卓越專案的效率。 | **10 月 17 日上午 9:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | 網路研討會 | _在製作中：最佳化您的Commerce店面_ | 正在尋找策略來有效維護並最佳化您的店面？ 瞭解如何防止常見資料封鎖程式、緩解機器人活動的策略，以及規劃磁碟空間和資料庫大小。 | **10 月 17 日上午 11:00 (北美山區時區)** | [報名](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | 問答集 | _瞭解：高通採用Adobe Workfront的歷程_ | 快來瞭解高通的Adobe Workfront認證技術負責人Becky Barus策略方法，他曾用來大幅提升Adobe Workfront的使用者採用率。 | **10 月 23 日上午 10:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 到Adobe位於聖何塞的總部親自加入我們，參加Adobe Developers Live！ 與AEM和Commerce開發人員交流，探索最新創新並學習最佳實務。 11月12日，親身或線上。 立即報名！ | **11月12日上午9:00 MT** | [註冊][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 還有更多！ 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
