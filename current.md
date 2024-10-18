@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3921'
-ht-degree: 95%
+source-wordcount: '3907'
+ht-degree: 96%
 
 ---
 
@@ -142,7 +142,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 | 發行日期 | 功能 | 說明 |
 | -----------| -----------| ---------- |
 | 10 年 9 月 | [!DNL Experience Cloud] 中的 [!DNL Slack] 通知 | 您可以設定帳戶偏好，以便傳送 [!DNL Experience Cloud] 通知至 Slack。請參閱[訂閱 Slack 通知](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences)以了解詳細資料。 |
-| 2 年 10 月 | 可自訂首頁 | 在Experience Cloud登入頁面上，按一下&#x200B;**[!UICONTROL 編輯]**。 [!UICONTROL 編輯]模式可讓您透過存取Widget資料庫和自訂背景來個人化Experience Cloud首頁。 [!UICONTROL 編輯]模式提供順暢、直覺式的控制，用於移動、調整大小及管理Widget，包括大量動作和版面調整，提供更美觀且量身打造的體驗。透過存取Widget程式庫和自訂背景，可讓您設定Experience Cloud首頁。 |
+| 2 年 10 月 | 可自訂首頁 | 在Experience Cloud登入頁面上，按一下&#x200B;**[!UICONTROL 編輯]**。 [!UICONTROL 編輯]模式可讓您透過存取Widget資料庫和自訂背景來個人化Experience Cloud首頁。 [!UICONTROL 編輯]模式提供順暢、直覺式的控制，用於移動、調整大小和管理Widget，包括大量動作和版面調整，提供更美觀且量身打造的體驗。 |
 
 如需有關 [!DNL Experience Cloud] 統一介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包括 [!UICONTROL Customer Attributes]、[!DNL Experience Cloud Assets] 和 [!UICONTROL Audiences])。
 
