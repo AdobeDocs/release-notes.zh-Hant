@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
+source-git-commit: 1a51bbbeef7022125cd7498e6863f9ad367198a4
 workflow-type: tm+mt
-source-wordcount: '3907'
-ht-degree: 96%
+source-wordcount: '3952'
+ht-degree: 95%
 
 ---
 
@@ -95,7 +95,9 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 * **[!DNL WORKFRONT]** | 問答集 | _瞭解：高通採用Adobe Workfront的歷程_ | 快來瞭解高通的Adobe Workfront認證技術負責人Becky Barus策略方法，他曾用來大幅提升Adobe Workfront的使用者採用率。 | **10 月 23 日上午 10:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 到Adobe位於聖何塞的總部親自加入我們，參加Adobe Developers Live！ 與AEM和Commerce開發人員交流，探索最新創新並學習最佳實務。 11月12日，親身或線上。 立即報名！ | **11月12日上午9:00 MT** | [註冊][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | 問答集 | _Adobe Experience League Live：在Experience Ecostems中協調受眾 — 在Experience Platform中聯合受眾構成_ | 瞭解同盟受眾構成如何透過Real-Time CDP和Journey Optimizer提供全方位受眾組織與啟用方法。 | **10 月 24 日上午 08:30 (北美山區時區)** | [報名](https://engage.adobe.com/ExpLeagueLive-241024.html)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 到Adobe位於聖何塞的總部親自加入我們，參加Adobe Developers Live！ 與AEM和Commerce開發人員交流，探索最新創新並學習最佳實務。 11月12日，親身或線上。 立即報名！ | **11月12日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 還有更多！ 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
