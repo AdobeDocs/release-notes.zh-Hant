@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
 workflow-type: tm+mt
-source-wordcount: '4532'
-ht-degree: 99%
+source-wordcount: '4608'
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 99%
 
 ## 2024 年 11 月
 
-最近更新日期：**10 月 30 日**
+最近更新： **11月4日**
 
 * [[!DNL Experience League] 活動與最新訊息](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,6 +92,10 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 ### Experience League 活動
 
 +++詳細資訊
+
+* **[!DNL Workfront]** | 客戶工作坊 | _學習：套用變更管理至您的Workfront歷程_ | 加入資深客戶成功經理Keri Amundson的行列，分享變更管理最佳實務，以協助推動您Workfront歷程中的變更。 | **11 月 7 日上午 9:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | 客戶工作坊 | _學習：套用變更管理至您的Workfront歷程_ | 加入資深客戶成功經理Keri Amundson的行列，分享變更管理最佳實務，以協助推動您Workfront歷程中的變更。 | **11 月 7 日上午 9:00 (北美山區時區)** | [報名](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](多產品)** | Adobe Developers Live | _Adobe Developers Live 2024_ | 親臨現場參加我們在聖荷西 Adobe 總部的 Adobe Developers Live！與 AEM 及 Commerce 開發人員互動，探索最新的創新並學習最佳實務。11 月 12 日，親臨現場或線上參與。立即報名！| **11 月 12 日上午 9:00 (北美山區時區)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
