@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
+source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
 workflow-type: tm+mt
-source-wordcount: '4710'
-ht-degree: 95%
+source-wordcount: '4660'
+ht-degree: 94%
 
 ---
 
@@ -38,15 +38,15 @@ ht-degree: 95%
 
 ## 2024 年 11 月
 
-最近更新： **11月12日**
+最近更新： **11月22日**
 
-* [[!DNL Experience League] 活動與最新訊息](#events)
+* [[!DNL Experience League] 個活動和更新](#events) （**11月24日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (版本：**10 月 23 日**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (版本：**10 月 23 日**)
+* [[!DNL Adobe Analytics]](#analytics) （發行日期： **10月23日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （發行日期： **10月23日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -57,7 +57,7 @@ ht-degree: 95%
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**新推出！**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -71,6 +71,17 @@ ht-degree: 95%
 ## ![圖示](/assets/experience-league.png)[!DNL Experience League]活動與最新訊息 {#events}
 
 了解 Experience League 上的精彩活動。 若要向 Adobe 產品專家學習、與之互動或獲得解答，這是您絕佳的選擇！
+
+### 目錄增強功能
+
+更新： **2024年11月22日**
+
+Experience League中的每個目錄皆已進行下列更新：
+
+* **[!UICONTROL 展開所有區段]**：在任何Experience League指南上顯示整個目錄。 (此切換會在頁面載入後關閉。 此問題將在未來的更新中修正。) 已移除&#x200B;**[!UICONTROL 檢視更多]**&#x200B;和&#x200B;**[!UICONTROL 檢視更少]**&#x200B;選項。
+* **捲動**：啟用捲動長目錄。
+* **[!UICONTROL 依關鍵字篩選]**：可讓您輸入關鍵字來篩選目錄專案。 下拉式清單會顯示相關結果，您可以按一下「清除&#x200B;**[!UICONTROL 」]**&#x200B;來清除篩選器。
+* **使用中頁面可見性**：使用中頁面一律會在目錄中反白顯示。
 
 ### Experience League 上的播放清單
 
@@ -93,15 +104,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL Experience Cloud](多產品)** | Adobe Developers Live | _Adobe Developers Live 2024_ | 親臨現場參加我們在聖荷西 Adobe 總部的 Adobe Developers Live！與 AEM 及 Commerce 開發人員互動，探索最新的創新並學習最佳做法。11 月 12 日，親臨現場或線上參與。立即報名！| **11 月 12 日上午 9:00 (北美山區時區)** | [報名](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | Experience League即時 | _在Real-Time CDP中向行銷人員介紹受眾適用的AI助理_ | 加入Adobe產品專家，即可快速瀏覽即將來到Adobe Real-Time CDP的AI Assistant for Audiences，以強化受眾見解和動作。 獲得Adobe產品專家的解答！ | **11 月 13 日上午 10:00 (北美山區時區)** | [報名](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage冠軍 | _2024年11月Marketo Engage冠軍營業時間_ | 參加我們在11月14日星期四的11月Marketo Champion營業時間活動，我們由Alsyha Khan主持的Champions Vu、Maria Cruz、AJ Navarro和Lucas Goncalves Machado小組代表參加。 | **11 月 14 日上午 9:00 (北美山區時區)** | [報名](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud技術研討會 | _Adobe Customer Journey Analytics產品創新：季度總覽 — 2025年第四季度_ | 與Adobe Analytics產品專家一起探索Adobe Customer Journey Analytics的最新創新。 2025年第4季課程即將舉辦，請立即註冊以確保您的資格。 | **11 月 14 日上午 10:00 (北美山區時區)** | [報名](https://event.adobe.com/customerjourneyanalytics)
-
-還有更多精彩內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
+檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
 +++
 
@@ -130,6 +133,10 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 了解關於 [!DNL Experience Cloud] 統一介面元件和管理。管理產品和使用者、配置輪廓的設定和偏好設定、搜尋 Experience Cloud 物件以及管理 Cookie。
 
 +++詳細資訊
+
+為了更方便控制Experience Cloud產品使用資料偏好設定，我們簡化了Experience Cloud偏好設定頁面，以移除重複選項。 為簡化起見，我們保留目前的使用者偏好設定，您可以隨時在https://experience.adobe.com/preferences更新您的偏好設定。
+
+
 
 | 發行日期 | 功能 | 說明 |
 | -----------| -----------| ---------- |
