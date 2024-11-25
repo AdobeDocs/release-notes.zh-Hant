@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 **2024 年 11 月**
 
-最近更新： **2024年11月22日**
+最近更新： **2024年11月24日**
 
 * [[!DNL Experience League] 個活動和更新](#events) （**11月24日**）
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ ht-degree: 94%
 * [Adobe 的認證](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
 
-## [!DNL Experience League] 活動與最新訊息 {#events}
+## [!DNL Experience League]個更新與活動 {#events}
 
 了解 Experience League 上的精彩活動。 若要向 Adobe 產品專家學習、與之互動或獲得解答，這是您絕佳的選擇！
 
-+++詳細資訊
+### Experience League的更新
 
-### 目錄增強功能
++++詳細資訊
 
 更新： **2024年11月22日**
 
-Experience League中的每個目錄皆已進行下列更新：
+**目錄更新：**&#x200B;已對Experience League中的每個目錄進行下列更新：
 
 * **[!UICONTROL 展開所有區段]**：在任何Experience League指南上顯示整個目錄。 (此切換會在頁面載入後關閉。 此問題將在未來的更新中修正。) 已移除&#x200B;**[!UICONTROL 檢視更多]**&#x200B;和&#x200B;**[!UICONTROL 檢視更少]**&#x200B;選項。
 * **捲動**：啟用捲動長目錄。
