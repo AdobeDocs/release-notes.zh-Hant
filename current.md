@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 92%
 
 ---
 
@@ -34,15 +34,15 @@ ht-degree: 94%
 
 **2024 年 11 月**
 
-最近更新： **2024年11月24日**
+最近更新： **2024年12月11日**
 
-* [[!DNL Experience League] 個活動和更新](#events) （**11月24日**）
+* [[!DNL Experience League] 事件和更新](#events) （**12月11日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （發行日期： **10月23日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （發行日期： **10月23日**）
+* [[!DNL Adobe Analytics]](#analytics) （最新版本： **10月23日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （最新版本： **10月23日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 ### Experience League 活動
 
 +++詳細資訊
+
+* **[!DNL Workfront]** | 社群活動 | _連線： Workfront Collective_ | 參加我們每週一舉辦的Workfront集體活動，這些活動旨在與其他客戶交流、討論Workfront功能、分享想法，並一起集思廣益，以解決常見的挑戰。 | **12月16日上午7:00 MT** | [註冊](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | 問答聊天 | _管理員101：提出您的Workfront問題_ | 不熟悉Workfront？ 您錯過先前任何管理員基本知識研討會了嗎？歡迎加入我們的摘要研討會，以提出問題並獲得資源和建議，並認識其他新手管理員。| **12月17日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
