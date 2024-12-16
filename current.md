@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4720'
-ht-degree: 92%
+source-wordcount: '4775'
+ht-degree: 91%
 
 ---
 
@@ -32,11 +32,11 @@ ht-degree: 92%
 
 **取得通知：**&#x200B;若要收到關於此頁面更新的每月電子郵件通知，請訂閱[Adobe優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-**2024 年 11 月**
+**2024年11月/12月**
 
-最近更新： **2024年12月11日**
+最近更新： **2024年12月16日**
 
-* [[!DNL Experience League] 事件和更新](#events) （**12月11日**）
+* [[!DNL Experience League] 事件和更新](#events) （**12月16日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL Workfront]** | 社群活動 | _連線： Workfront Collective_ | 參加我們每週一舉辦的Workfront集體活動，這些活動旨在與其他客戶交流、討論Workfront功能、分享想法，並一起集思廣益，以解決常見的挑戰。 | **12月16日上午7:00 MT** | [註冊](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | 問答聊天 | _管理員101：提出您的Workfront問題_ | 不熟悉Workfront？ 您錯過先前任何管理員基本知識研討會了嗎？歡迎加入我們的摘要研討會，以提出問題並獲得資源和建議，並認識其他新手管理員。| **12月17日上午9:00 MT** | [註冊](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Adobe Workfront第一季發行網路研討會_ | 此網路研討會由Jeremy Flores (Sr.Product Manager)負責託管，重點介紹定於下週在2025年第一季度發行中發佈的最新Adobe Workfront功能增強功能。 | **1月9日上午10:30 MT** | [註冊](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 這次由客戶導向的研討會，與天主教救濟會合作舉辦，將提供最佳實務，以及自由的時間提出問題。 | **1月10日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
