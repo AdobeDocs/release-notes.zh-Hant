@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4855'
-ht-degree: 89%
+source-wordcount: '5013'
+ht-degree: 86%
 
 ---
 
@@ -34,7 +34,8 @@ ht-degree: 89%
 
 **2024年11月/12月**
 
-最近更新： **2024年1月9日**
+最近更新： **2024年1月21日**
+下一頁重新整理：**2025年1月22日**
 
 * [[!DNL Experience League] 事件和更新](#events) （**12月16日**）
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ ht-degree: 89%
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (**1 月 21 日**&#x200B;更新)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -104,9 +105,17 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL Workfront]** | Workfront | _Adobe Workfront第一季發行網路研討會_ | 此網路研討會由Jeremy Flores (Sr.Product Manager)負責託管，重點介紹定於下週在2025年第一季度發行中發佈的最新Adobe Workfront功能增強功能。 | **1月9日上午10:30 MT** | [註冊](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _使用Workfront喚醒：詢問我任何問題_ | 在這場「詢問我任何事情」研討會中，Adobe Workfront業務顧問Samantha Miller、Aaron Baker和Mary Ann Erickson將回答現場問題並分享Workfront的最佳實務，以協助客戶2025年獲得成功。 | **1月23日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的系統管理員嗎？ 這次由客戶導向的研討會，與天主教救濟會合作舉辦，將提供最佳實務，以及自由的時間提出問題。 | **1月10日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _連線： Workfront Collective_ | 參加我們每週一舉辦的Workfront集體活動，這些活動旨在與其他客戶交流、討論Workfront功能、分享想法，並一起集思廣益，以解決常見的挑戰。 | **1月27日上午7:00 MT** | [註冊](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _學習：克服在Workfront歷程中遇到的變革阻力_ | 加入我們的Workfront變更管理專家，與使用者討論找出並克服阻力的最佳實務。 | **1月30日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target成熟度網路研討會系列_ | Adobe Target創新，包括GenAI，以及大規模AI支援的個人化和實驗的最佳實務。 | **2月4日上午9:00 MT** | [註冊](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo與Mochas：2025年須知5項Marketo功能_ | 在第一屆Marketo與Mochas年度大會中，Marketo專家Carly Gaver和Kate Colbert將提供5項功能豐富的功能，協助我們提升客戶體驗並推動2025年的需求。 | **2月6日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce &amp; Coffee： B2B中自助服務的興起_ | 與我們的Commerce專家Corey Gelato和Agbi Bajruhi一起探索最新的B2B趨勢，以及運用新Adobe Commerce功能全年保持競爭領先地位的方法，讓開年充滿活力。 | **2月13日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
@@ -381,13 +390,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ### 最新 Campaign 產品版本
 
-* [!DNL Web User Interface]：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs /campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8： [2025年1月15日 — 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign] v8：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/release-notes/latest-release) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]： [25.1 - 2025年發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
 
 ### 新 [!DNL Campaign]教學課程 {#tutorials-campaign}
 
@@ -437,7 +446,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 | -----------| ---------- | ---------- | ---------- |
 | 2024 年 10 月 | [建立資料使用原則](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies) | 影片 | 了解如何建立和管理資料使用原則。資料使用原則讓您根據資料標籤，限制特定目的的資料使用。 |
 | 2024 年 10 月 | [使用 AI 助理內容加速器建立內容](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator) | 影片 | 了解如何使用 AI 助理內容加速器產生文字和影像的主動式內容變化版本建議。 |
-| 2024 年 10 月 | [使用標籤進行資料分類](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables) | 影片 | 了解如何在您的方案和資料集套用標籤。 您可以利用資料使用標籤來標記資料和進行分類，以反映 Adobe Experience Platform 的公司政策、合約義務、合規性要求以及區域法規。 |
+| 2024 年 10 月 | [使用標籤進行資料分類](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables) | 影片 | 了解如何在您的結構描述和資料集套用標籤。 您可以利用資料使用標籤來標記資料和進行分類，以反映 Adobe Experience Platform 的公司政策、合約義務、合規性要求以及區域法規。 |
 | 2024 年 10 月 | [使用 AI 助理內容加速器建立內容](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator) | 影片 | 了解如何使用 AI 助理內容加速器產生文字和影像的主動式內容變化版本建議。 |
 | 2024 年 10 月 | [實驗 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/experimentation-overview) | 影片 | 了解如何在 Journey Optimizer 中執行測試和模擬，進一步改善您的內容，以利根據資料導向的深入分析提供最佳化的客戶歷程。 |
 | 2024 年 10 月 | [AI 助理內容加速器 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/ai-assistant-content-accelerator-overview) | 影片 | 了解 AI 助理內容加速器如何透過提供文字和影像的主動式內容變化版本建議來幫助行銷人員。 |
