@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4493'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
@@ -19,25 +19,25 @@ ht-degree: 40%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home)可協助您瞭解Experience Cloud和Adobe企業應用程式。 為獲得最佳體驗，請登入並在我們的免費資源庫中自訂您的搜尋，包括：
+[Experience League](https://experienceleague.adobe.com/#home) 可幫助您了解 Experience Cloud 及 Adobe 企業應用程式。為了獲得最佳體驗，請登入並在我們的免費資源庫中自訂搜尋，其中包括：
 
 * [產品文件](https://experienceleague.adobe.com/zh-hant/docs)
-* [視訊播放清單](https://experienceleague.adobe.com/zh-hant/playlists)
-* [事件](https://experienceleague.adobe.com/events/)
+* [影片播放清單](https://experienceleague.adobe.com/zh-hant/playlists)
+* [活動](https://experienceleague.adobe.com/events/)
 * [社群論壇](https://experienceleaguecommunities.adobe.com/?profile.language=en)
 * [支援](https://experienceleague.adobe.com/?support-tab=home#support)
 
-**保持通知：**&#x200B;若要收到關於此頁面更新的每月電子郵件通知，請訂閱[Adobe優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
+**持續通知：**&#x200B;若要收到關於此頁面更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-**提供意見回饋：**&#x200B;尋找&#x200B;**_此內容是否有幫助？每篇文章或影片底部都有_**&#x200B;個快顯視窗。 您的意見回饋會經過剪輯並傳送給內容作者。
+**留下意見反應：**&#x200B;尋找「**_這些內容對您有幫助嗎？_** 每篇文章或影片底部的快顯視窗。您的意見反應會經過整理後傳遞給內容作者。
 
 ## 2025 年 1 月
 
-最近更新： **2025年1月22日**
+上次更新日期：**2025 年 1 月 22 日**
 
-如需瞭解特定應用程式的發行日期，請參閱產品的發行說明。
+如需有關特定應用程式的發行日期，請參閱該產品的發行說明。
 
-* [[!DNL Experience League] 活動與最新訊息](#events)
+* [[!DNL Experience League] 活動和更新](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -65,22 +65,22 @@ ht-degree: 40%
 * [Adobe 的認證](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
 
-## [!DNL Experience League]個更新與活動 {#events}
+## [!DNL Experience League] 更新和活動 {#events}
 
 了解 Experience League 上的精彩活動。 若要向 Adobe 產品專家學習、與之互動或獲得解答，這是您絕佳的選擇！
 
-### Experience League的更新
+### Experience League 更新
 
 +++詳細資訊
 
-發行日期： **2024年秋季**
+發行時間：**2024 年秋季**
 
-**目錄更新：**&#x200B;已對Experience League中的每個目錄進行下列更新：
+**目錄更新：**&#x200B;已對 Experience League 中的每個目錄進行以下更新：
 
-* **[!UICONTROL 展開所有區段]**：在任何Experience League指南上顯示整個目錄。 (此切換會在頁面載入後關閉。 此問題將在未來的更新中修正。) 已移除&#x200B;**[!UICONTROL 檢視更多]**&#x200B;和&#x200B;**[!UICONTROL 檢視更少]**&#x200B;選項。
-* **捲動**：啟用捲動長目錄。
-* **[!UICONTROL 依關鍵字篩選]**：可讓您輸入關鍵字來篩選目錄專案。 下拉式清單會顯示相關結果，您可以按一下「清除&#x200B;**[!UICONTROL 」]**&#x200B;來清除篩選器。
-* **使用中頁面可見性**：使用中頁面一律會在目錄中反白顯示。
+* **[!UICONTROL 展開所有區段]**：在任何 Experience League 指南中顯示完整的目錄。(此切換按鈕會在頁面載入後自動關閉。此問題將在未來的更新中修復。)「**[!UICONTROL 檢視更多]**」和「**[!UICONTROL 檢視較少]**」選項已移除。
+* **捲動**：啟用捲動以瀏覽長目錄。
+* **[!UICONTROL 按關鍵字篩選]**：讓您透過輸入關鍵字來篩選目錄中的項目。下拉式清單會顯示相關結果，您可以按一下「**[!UICONTROL 清除]**」來清除篩選器。
+* **活動頁面可見度**：活動頁面在目錄中始終會醒目顯示。
 
 ### Experience League 上的播放清單
 
@@ -105,17 +105,17 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL Workfront]** | _使用Workfront喚醒：詢問我任何問題_ | 在這個「詢問我任何事情」課程中，Adobe[!DNL Workfront]業務顧問Samantha Miller、Aaron Baker和Mary Ann Erickson將接受即時問題並分享[!DNL Workfront]中的最佳實務，以幫助客戶在2025年取得成功。 | **1月23日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | _Wake Up With Workfront：隨意提問_ | 在這場「隨意提問」會議中，Adobe [!DNL Workfront] 企業顧問 Samantha Miller、Aaron Baker 和 Mary Ann Erickson 將現場回答問題，並分享 [!DNL Workfront] 中的最佳做法，以幫助客戶在 2025 年取得成功。| **北美山區時間 1 月 23 日上午 11:00** | [註冊](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | _連線： [!DNL Workfront]集合_ | 參加我們每個月的星期一[!DNL Workfront]集體活動，這些活動旨在與其他客戶交流、討論[!DNL Workfront]功能、分享想法並一起集思廣益，以解決共同的挑戰。 | **1月27日上午7:00 MT** | [註冊](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _連結：[!DNL Workfront] Collective_ |參加我們每月一次的週一 [!DNL Workfront] Collective 活動，旨在與其他客戶聯繫、討論 [!DNL Workfront] 功能、分享想法並共同集思廣益，以解決常見挑戰。| **北美山區時間 1 月 27 日上午 7:00** | [註冊](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _學習：克服您[!DNL Workfront]歷程中的變革阻力_ | 加入我們的[!DNL Workfront]變更管理專家，與您的使用者討論識別及克服阻力的最佳實務。 | **1月30日上午10:00 MT** | [註冊](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _學習：克服 [!DNL Workfront] 旅程中的變革阻力_ | 與我們的 [!DNL Workfront] 變革管理專家一起討論如何識別並克服使用者遇到的阻力，並學習最佳做法。| **北美山區時間 1 月 30 日上午 10:00** | [註冊](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target成熟度網路研討會系列_ | Adobe Target創新，包括GenAI，以及大規模AI支援的個人化和實驗的最佳實務。 | **2月4日上午9:00 MT** | [註冊](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Target]** | _Adobe Target 成熟度網路研討會系列_ | 介紹 Adobe Target 的創新，包括 GenAI，以及有關 AI 驅動的個性化和大規模實驗的最佳做法。| **北美山區時間 2 月 4 日上午 9:00** | [註冊](https://event.adobe.com/adobetargetmaturitywebinars)
 
-* **[!DNL Target]** | _Marketo與Mochas：2025年須知5項Marketo功能_ | 在年度第一個[!DNL Marketo]與Mochas研討會中，[!DNL Marketo]專家Carly Gaver和Kate Colbert介紹5項功能豐富的功能，有助於提升客戶體驗並推動2025年的需求。 | **2月6日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+* **[!DNL Target]** | _Marketo 與 Mochas：2025 年必知的 5 大 Marketo 功能_ | 在我們今年的第一場 [!DNL Marketo] &amp; Mochas 會議中，[!DNL Marketo] 專家 Carly Gaver 和 Kate Colbert 會介紹 5 項功能豐富的功能，這些功能將有助於提升客戶體驗，並在 2025 年推動需求。| **北美山區時間 2 月 6 日上午 11:00** | [註冊](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Commerce]** | _Commerce &amp; Coffee： B2B中自助服務的興起_ | 我們的[!DNL Commerce]專家Corey Gelato和Agbi Bajruhi探索最新的B2B趨勢，並嘗試運用新Adobe[!DNL Commerce]功能來全年保持競爭優勢，協助您開啟這強勁的一年。 | **2月13日上午11:00 MT** | [註冊](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Commerce]** | _商業與咖啡：B2B 自助服務的崛起_ | 與我們的 [!DNL Commerce] 專家 Corey Gelato 和 Agbi Bajrushi 一起開啟新的一年，他們將探索最新的 B2B 趨勢，以及如何利用新的 Adobe [!DNL Commerce] 功能來保持競爭優勢，並在整個年度領先一步。| **北美山區時間 2 月 13 日上午 11:00** | [註冊](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過去活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
@@ -149,8 +149,8 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 | 日期 | 功能 | 說明 |
 | -----------| -----------| ---------- |
-| 9 年 1 月 | 產品使用資料 | 為了更方便控制[!DNL Experience Cloud]產品使用資料偏好設定，我們簡化了[!DNL Experience Cloud] [偏好設定](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences)頁面，以移除重複選項。 透過這項簡化，我們已保留目前的使用者偏好設定，您可以隨時在[Experience Cloud偏好設定](https://experience.adobe.com/preferences)更新您的偏好設定。 |
-| 2月5日（預計發行日期） | 頻譜2 | [!DNL Experience Cloud]應用程式框架（包括標題列和從標題列存取的元件，以及某些應用程式的左側導覽邊欄）將更新為Spectrum 2。 光譜是Adobe的設計標準。 此更新後的設計包含更新的圖示，但功能相同。 不過，標頭中的數個元素會重新定位，以與其他Adobe網站和應用程式對齊。 |
+| 9 年 1 月 | 產品使用資料 | 為了讓控制 [!DNL Experience Cloud] 產品使用資料喜好設定變得更簡單，我們簡化了 [!DNL Experience Cloud] [喜好設定](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences)頁面，移除了重複的選項。透過這次簡化，我們保留了目前的使用者喜好設定，您可以隨時在 [Experience Cloud 喜好設定](https://experience.adobe.com/preferences)中更新您的喜好設定。 |
+| 2 月 5 日 (預計發行日期) | Spectrum 2 | 該 [!DNL Experience Cloud] 應用程式框架，包括標題列和從標題列存取的元件 (以及某些應用程式的左側導航欄)，將更新為 Spectrum 2。Spectrum 是 Adobe 的設計標準。這個更新設計包含了更新的圖示設計，但功能保持不變。然而，標題中的幾個元素已重新定位，以便與其他 Adobe 網站和應用程式保持一致。 |
 
 如需有關 [!DNL Experience Cloud] 統一介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包括 [!UICONTROL Customer Attributes]、[!DNL Experience Cloud Assets] 和 [!UICONTROL Audiences])。
 
@@ -158,7 +158,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 ## [!DNL Experience Platform] {#platform}
 
-尋找 [!DNL Experience Platform] 和 [!UICONTROL Mobile SDK] 的最新發行資訊和新文件。查看 Experience League 上的新教學課程和知識庫。
+尋找 [!DNL Experience Platform] 和 [!UICONTROL Mobile SDK] 的最新發行資訊和新文件。檢視 Experience League 上的新教學課程和知識庫。
 
 +++詳細資訊
 
@@ -172,7 +172,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025 年 1 月 | [!DNL Experience Platform] | [AI 助理](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/overview) | 多部影片 | 瞭解如何搭配Experience Platform使用AI助理。 您可使用多個新的教學課程影片來協助您快速上手。 |
+| 2025 年 1 月 | [!DNL Experience Platform] | [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/ai-assistant/overview) | 多部影片 | 了解如何在 Experience Platform 中使用 AI 助理。有多個新的教學影片可供您參考，幫助您快速上手。 |
 
 ### 新的 [!DNL Experience Platform] 支援知識庫{#kb-aep}
 
@@ -180,22 +180,22 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|----|----|-----------|
-| 2024 年 11 月 | [透過 [!DNL AEP] [!DNL API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25337)刪除對象時解決&#x200B;*[!DNL UPAPI-113434-400]*&#x200B;錯誤 | 新文章 | 瞭解如何解決當嘗試透過[!DNL Adobe Experience Platform (AEP)] [!DNL API]刪除對象時發生&#x200B;*[!DNL UPAPI-113434-400]*&#x200B;錯誤的問題。 |
-| 2024 年 11 月 | [在 [!DNL Privacy Service API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25330)中建立包含多個使用者和身分型別的隱私權請求 | 新文章 | 瞭解如何使用[!DNL Privacy Service API]建立包含多個使用者和身分型別的隱私權[!DNL JSON]請求。 |
-| 2024 年 12 月  | [瞭解 [!DNL Adobe Experience Platform] 標籤內嵌程式碼與 [!DNL HTTPS]的變更](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-22265) | 新文章 | 瞭解當指令碼來源從`//assets.adobedtm.com/xxxx`變更為`https://assets.adobedtm.com/xxxx`時，是否需要更新[!DNL Adobe Experience Platform Data Collection] （標籤）的內嵌程式碼。 |
-| 2024 年 12 月  | [正在解決 [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25463)中 [!DNL Eloqua Destinations] 的&#x200B;*[!DNL 400 BAD_REQUEST]*&#x200B;啟用錯誤 | 新文章 | 瞭解如何解決從[!DNL Adobe Experience Platform (AEP)]到[!DNL Oracle Eloqua] [!DNL API]型目的地啟用對象時發生&#x200B;*[!DNL 400 BAD_REQUEST]*&#x200B;錯誤的問題。 |
-| 2024 年 12 月  | [無法為 [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25431)中的 [!DNL HTTP] [!DNL API]來源新增更多帳戶 | 新文章 | 瞭解如何解決發生錯誤時無法將多個[!DNL HTTP] [!DNL API]帳戶新增為來源的問題。 |
-| 2024 年 12 月  | [[!DNL Adobe Experience Platform]：雜湊電子郵件上的串流驗證失敗](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25489) | 新文章 | 瞭解當雜湊電子郵件上的串流驗證失敗時，如何解決[!DNL Adobe Experience Platform]問題。 |
-| 2024 年 12 月  | [使用 [!DNL AEP]中的 [!DNL Privacy API] 處理設定檔刪除請求時發生不一致](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25442) | 新文章 | 瞭解在使用[!DNL privacy API]時，當設定檔刪除請求處理中發生差異時，如何解決此問題。 |
-| 2024 年 12 月  | 在 [!DNL AEP Notebooks]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25472)中匯入 [!DNL DatasetWriter] 模組時[[!DNL ImportError]  | 新文章 | 瞭解如何解決[!DNL Adobe Experience Platform Notebooks]中發生[!DNL ImportError]與[!DNL DatasetWriter]之間的問題。 |
-| 2024 年 12 月  | [儘管在 [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25440)中有大量對象，但 [!DNL Facebook] 上仍顯示較小的對象人數 | 新文章 | 瞭解如何解決將受眾區段從[!DNL Adobe Experience Platform]傳輸至[!DNL Facebook]時，[!DNL Facebook]受眾明顯小於Adobe中大型受眾大小的問題。 |
-| 2024 年 12 月  | [無法將[!UICONTROL 區段]推送至 [!DNL Freewheel] 目的地](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25350) | 新文章 | 瞭解如何解決將對象[!UICONTROL 區段]從[!DNL Adobe Experience Platform (AEP)]推送到[!DNL Freewheel]目的地時的錯誤。 |
-| 2024 年 12 月  | [在 [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25432)中存取非生產環境中的計算屬性 | 新文章 | 瞭解如何解決計算屬性在[!DNL Adobe Experience Platform (AEP)]的非生產環境中無法存取的相關問題。 |
-| 2024 年 12 月  | [[!DNL Adobe Experience Platform]：從 [!DNL Azure Data Factory]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25359)串流處理資料時解決&#x200B;*[!DNL 500 Internal Server Error]* | 新文章 | 瞭解如何解決將[!DNL Azure Data Factory (ADF)]與[!DNL Adobe Experience Platform (AEP)]整合時的問題，因為重複的[!DNL Content-Type]標題會發生&#x200B;*[!DNL 500 Internal Server Error]*。 |
-| 2024 年 12 月  | [[!DNL AEP]：鎖定的自訂欄位群組無法在結構描述編輯器中編輯](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25400) | 新文章 | 瞭解如何修改[!UICONTROL 資料型別]編輯器中的`enum`值，以解決[!DNL Adobe Experience Platform]的結構描述編輯器中鎖定的自訂欄位群組問題。 |
-| 2024 年 12 月  | [[!DNL AEP]：設定檔快照集匯出的合併原則](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25407) | 新文章 | 瞭解如何在[!DNL Adobe Experience Platform (AEP)]中識別附加到設定檔快照匯出資料集的合併原則。 |
-| 2024 年 12 月  | [[!DNL HTML] 片段未顯示在 [!DNL Adobe Journey Optimizer] 電子郵件](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25441)中 | 新文章 | 瞭解如何解決[!DNL HTML]片段在[!DNL Adobe Journey Optimizer]電子郵件中無法正確顯示的問題。 |
-| 2024 年 12 月  | [從 [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25449)刪除資料擷取錯誤所導致的不需要的設定檔 | 新文章 | 瞭解如何由於資料擷取錯誤而從[!DNL Adobe Experience Platform]中刪除不需要的設定檔。 |
+| 2024 年 11 月 | [解決透過  [!DNL AEP] [!DNL API] 刪除客群時出現的 *[!DNL UPAPI-113434-400]* 錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25337) | 新文章 | 了解如何解決嘗試透過 [!DNL Adobe Experience Platform (AEP)] [!DNL API] 刪除客群時出現的 *[!DNL UPAPI-113434-400]* 錯誤。 |
+| 2024 年 11 月 | [在  [!DNL Privacy Service API] 中建立包含多個使用者和身分識別類型的隱私請求](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25330) | 新文章 | 了解如何使用 [!DNL Privacy Service API] 建立包含多個使用者和身分識別類型的隱私 [!DNL JSON] 請求。 |
+| 2024 年 12 月 | [了解在  [!DNL Adobe Experience Platform]  標籤嵌入程式碼中使用  [!DNL HTTPS] 的變更](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-22265) | 新文章 | 了解當指令碼來源從 `//assets.adobedtm.com/xxxx` 變更為 `https://assets.adobedtm.com/xxxx` 時，是否需要更新 [!DNL Adobe Experience Platform Data Collection] (標籤) 的嵌入程式碼。 |
+| 2024 年 12 月 | [解決在  [!DNL Adobe Experience Platform] 中，針對  [!DNL Eloqua Destinations]  出現的 *[!DNL 400 BAD_REQUEST]* 啟動錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25463) | 新文章 | 了解如何解決在將客群從 [!DNL Adobe Experience Platform (AEP)] 啟動到 [!DNL Oracle Eloqua] [!DNL API] 型目的地時，發生 *[!DNL 400 BAD_REQUEST]* 錯誤的問題。 |
+| 2024 年 12 月 | [無法為  [!DNL Adobe Experience Platform] 中的  [!DNL HTTP] [!DNL API] 來源新增更多帳戶](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25431) | 新文章 | 了解如何解決當錯誤發生，導致無法將多個 [!DNL HTTP] [!DNL API] 帳戶新增為來源的問題。 |
+| 2024 年 12 月 | [[!DNL Adobe Experience Platform]：雜湊電子郵件上的串流驗證失敗](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25489) | 新文章 | 了解如何解決雜湊電子郵件上的串流驗證失敗時出現的 [!DNL Adobe Experience Platform] 問題。 |
+| 2024 年 12 月 | [使用  [!DNL Privacy API]  在  [!DNL AEP] 中處理設定檔刪除請求時出現差異](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25442) | 新文章 | 了解如何解決使用 [!DNL privacy API] 處理設定檔刪除請求時出現的差異問題。 |
+| 2024 年 12 月 | 在導入  [!DNL AEP Notebooks] 中的  [!DNL DatasetWriter]  模組時，發生 [[!DNL ImportError] ](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25472) | 新文章 | 了解如何解決在 [!DNL Adobe Experience Platform Notebooks] 中使用 [!DNL DatasetWriter] 時發生 [!DNL ImportError] 的問題。 |
+| 2024 年 12 月 | [在  [!DNL Adobe Experience Platform] 中儘管有大量客群， [!DNL Facebook]  上顯示的客群規模仍然很小](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25440) | 新文章 | 了解如何解決當將客群細分群體從 [!DNL Adobe Experience Platform] 轉移到 [!DNL Facebook] 時，[!DNL Facebook] 上顯示的客群數量顯著小於 Adobe 中大型客群的問題。 |
+| 2024 年 12 月 | [無法將[!UICONTROL 細分群體]推送至  [!DNL Freewheel]  目的地](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25350) | 新文章 | 了解如何解決將客群[!UICONTROL 細分群體]從 [!DNL Adobe Experience Platform (AEP)] 推送到 [!DNL Freewheel] 目的地時出現的錯誤。 |
+| 2024 年 12 月 | [在  [!DNL Adobe Experience Platform] 中存取非生產環境中的計算屬性](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25432) | 新文章 | 了解如何解決 [!DNL Adobe Experience Platform (AEP)] 非生產環境中無法存取計算屬性的問題。 |
+| 2024 年 12 月 | [[!DNL Adobe Experience Platform]：解決從  [!DNL Azure Data Factory] 串流資料時出現的 *[!DNL 500 Internal Server Error]* 錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25359) | 新文章 | 了解如何解決在將 [!DNL Azure Data Factory (ADF)] 與 [!DNL Adobe Experience Platform (AEP)] 整合時，由於重複的 [!DNL Content-Type] 標頭導致發生 *[!DNL 500 Internal Server Error]* 的問題。 |
+| 2024 年 12 月 | [[!DNL AEP]：鎖定的自訂欄位群組無法在綱要編輯器中進行編輯](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25400) | 新文章 | 了解如何透過修改 [!UICONTROL Data Types] 編輯器中的 `enum` 值來解決在 [!DNL Adobe Experience Platform] 的模式編輯器中，無法編輯鎖定自訂欄位群組的問題。 |
+| 2024 年 12 月 | [[!DNL AEP]：設定檔快照匯出的合併策略](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25407) | 新文章 | 了解如何識別附加於 [!DNL Adobe Experience Platform (AEP)] 中設定檔快照匯出資料集的合併策略。 |
+| 2024 年 12 月 | [[!DNL HTML]  片段未在  [!DNL Adobe Journey Optimizer]  的電子郵件中顯示](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25441) | 新文章 | 了解如何解決當 [!DNL HTML] 片段未正確顯示在 [!DNL Adobe Journey Optimizer] 電子郵件中的問題。 |
+| 2024 年 12 月 | [從  [!DNL Adobe Experience Platform] 中刪除由於資料匯入錯誤而產生的多餘設定檔](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25449) | 新文章 | 了解如何因資料匯入錯誤從 [!DNL Adobe Experience Platform] 中刪除不需要的設定檔。 |
 
 +++
 
@@ -217,7 +217,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Analytics]發行日期： **2025年1月22日**
+[!DNL Analytics] 發行日期：**2025 年 1 月 22 日**
 
 * [!DNL Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -235,8 +235,8 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025 年 1 月 | [Adobe [!DNL Analytics] &amp; CJA：基本至中繼分析功能的快速入門](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/basic-to-intermediate-analysis-capabilities) | 活動 | 瞭解Adobe[!DNL Analytics]和[!DNL Customer Journey Analytics]，並著重於基本到中繼分析功能。 |
-| 2025 年 1 月 | [AEP Web SDK疑難排解、Assurance和秘訣與技巧](https://experienceleague.adobe.com/en/docs/events/tech-sessions/2024/rtcdp-office-hours-2024/aep-web-sdk-troubleshooting) | 活動 | 深入瞭解Adobe[!DNL Experience Platform] (AEP) Web SDK的疑難排解、保證以及提示和秘訣。 |
+| 2025 年 1 月 | [Adobe  [!DNL Analytics] &amp; CJA：基礎到中級分析功能快速入門](https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/basic-to-intermediate-analysis-capabilities) | 活動 | 了解 Adobe [!DNL Analytics] 和 [!DNL Customer Journey Analytics]，重點介紹基礎到中級的分析功能。 |
+| 2025 年 1 月 | [AEP Web SDK 疑難排解、保證以及技巧與竅門](https://experienceleague.adobe.com/zh-hant/docs/events/tech-sessions/2024/rtcdp-office-hours-2024/aep-web-sdk-troubleshooting) | 活動 | 深入了解 [!DNL Experience Platform] (AEP) Web SDK 的疑難排解、保證以及技巧與竅門。 |
 
 ### 新增 Adobe [!DNL Analytics] 支援知識庫{#kb-analytics}
 
@@ -244,8 +244,8 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|----|----|-----------|
-| 2024 年 12 月  | [使用[!UICONTROL 同類群組]視覺效果的許可權](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25318) | 新文章 | 瞭解在[!DNL Adobe Analytics]中使用[!UICONTROL 同類群組]視覺效果所需的許可權。 |
-| 2024 年 12 月  | [在[!UICONTROL 直播串流]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25364)中遺漏點選 | 新文章 | 瞭解[!UICONTROL 直播串流]輸出[!DNL Adobe Analytics]中遺漏的點選。 |
+| 2024 年 12 月 | [使用 [!UICONTROL Cohort] 視覺化的權限](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25318) | 新文章 | 了解在 [!DNL Adobe Analytics] 中使用 [!UICONTROL Cohort] 視覺化所需的權限。 |
+| 2024 年 12 月 | [[!UICONTROL Livestream] 中缺少點擊數](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25364) | 新文章 | 了解在 [!DNL Adobe Analytics] 中 [!UICONTROL Livestream] 輸出中缺少的點擊數。 |
 
 +++
 
@@ -255,7 +255,7 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-[!DNL Customer Journey Analytics]發行日期： **2025年1月22日**
+[!DNL Customer Journey Analytics] 發行日期：**2025 年 1 月 22 日**
 
 * [!DNL Customer Journey Analytics] [發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest#releases)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -291,7 +291,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 ### Experience Manager 發行資訊
 
-下一個[!DNL Experience Manager as a Cloud Service]版本： **1月30日**
+下一個 [!DNL Experience Manager as a Cloud Service] 版本：**1 月 30 日**
 
 所有 [!DNL Experience Manager] 的發行說明都會保留在以下頁面：
 
@@ -312,12 +312,12 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025 年 1 月 | [!DNL AEM Sites] | [雲端5 — 在Edge Delivery Services中最佳化搜尋](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-search-optimization#_blank) | 影片 | 處理大量記錄時，使用查詢和搜尋最佳化，將您的Lighthouse分數設為100次購買。 |
-| 2025 年 1 月 | [!DNL AEM Sites] | [Cloud 5 — 與Google地圖整合](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-google-maps#_blank) | 影片 | 來自戰壕的故事片 — 探索如何將Edge Delivery Services與Google地圖整合，以及如何透過整合將效能最佳化。 |
-| 2025 年 1 月 | [!DNL AEM Sites] | [雲端5 -Edge Delivery Services的開發最佳實務](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-edge-delivery-services-best-practices#_blank) | 影片 | 探索與經驗豐富的架構師在Edge Delivery Services中進行開發的技巧。 Kiran會帶您瞭解他在專案上遇到的許多問題，以及如何解決這些問題。 |
-| 2025 年 1 月 | [!DNL AEM CS] | 從網頁應用程式](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app#setup-and-run-web-app)使用使用者驗證叫用OpenAPI型AEM API[ | 影片 | 瞭解如何使用來自外部網頁應用程式的使用者型驗證搭配OAuth網頁應用程式驗證，在AEM as a Cloud Service上叫用OpenAPI型AEM API。 |
-| 2025 年 1 月 | [!DNL ADM Assets] | [Content credentials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/content-credentials) | 影片 | 瞭解AEM Assetscontent credentials如何提供可驗證的中繼資料，以確保數位資產的真實性和完整性，在內容建立過程中加強信任和透明度。 |
-| 2025 年 1 月 | [!DNL AEM Forms] | [整合Turnstile驗證碼與最適化Forms](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/integrate-adaptive-forms-turnstile) | 影片 | 透過Turnstile服務輕鬆增強表單安全性。 內的逐步指南！ |
+| 2025 年 1 月 | [!DNL AEM Sites] | [Cloud 5 - Edge Delivery Services 中的搜尋最佳化](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-search-optimization#_blank) | 影片 | 處理大量記錄時，透過查詢和搜尋最佳化將您的 Lighthouse 分數提升至 100。 |
+| 2025 年 1 月 | [!DNL AEM Sites] | [Cloud 5 - 與 Google 地圖整合](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-google-maps#_blank) | 影片 | 從前線的故事中探索，了解如何將 Edge Delivery Services 與 Google 地圖整合，以及如何透過整合來最佳化效能。 |
+| 2025 年 1 月 | [!DNL AEM Sites] | [Cloud 5 - Edge Delivery Services 的開發最佳做法](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-edge-delivery-services-best-practices#_blank) | 影片 | 與資深架構師一起探索在 Edge Delivery Services 中開發的技術。Kiran 將帶您了解他在專案中面臨的許多問題，以及如何解決這些問題。 |
+| 2025 年 1 月 | [!DNL AEM CS] | [從網頁應用程式中調用基於 OpenAPI 的 AEM API，並進行使用者驗證。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app#setup-and-run-web-app) | 影片 | 了解如何使用來自外部網頁應用程式的 OAuth Web App 驗證，透過基於 OpenAPI 的 AEM API 在 AEM as a Cloud Service 中進行使用者驗證。 |
+| 2025 年 1 月 | [!DNL ADM Assets] | [內容憑證](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/advanced/content-credentials) | 影片 | 了解 AEM Assets 內容憑證如何提供可驗證的中繼資料，以確保數位資產的真實性和完整性，並促進內容創作中的信任與透明度。 |
+| 2025 年 1 月 | [!DNL AEM Forms] | [將 Turnstile CAPTCHA 與 Adaptive Forms 整合](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/integrate-adaptive-forms-turnstile) | 影片 | 輕鬆使用 Turnstile 服務增強表單安全性。裡面有詳細的逐步指南！ |
 
 ### 新的 [!DNL Experience Manager] 支援知識庫{#kb-aem}
 
@@ -325,23 +325,23 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|--------|---------|---------|
-| 2024 年 11 月 | [如何修正瀏覽器中Dynamic Media視訊載入和播放的問題](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25308) | 新文章 | 瞭解如何解決[!DNL Dynamic Media] (DM)視訊無法載入、經常緩衝，或不允許使用者在某些瀏覽器或裝置上重新定位視訊的問題。 |
-| 2024 年 11 月 | [[!DNL Dynamic Media] 一般設定頁面未開啟](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25294) | 新文章 | 瞭解如何解決即使已正確設定[!DNL Dynamic Media] [!UICONTROL CloudConfig]並成功與[!DNL DMS7]進行資產同步，[!DNL Dynamic Media]「一般設定」頁面仍無法載入的問題。 |
-| 2024 年 11 月 | [影像預覽無法運作](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25297) | 新文章 | 瞭解如何調整JPEG品質設定，以解決影像預覽在[!DNL Adobe Experience Manager (AEM) as a Cloud Service]中無法正常運作的問題。 |
-| 2024 年 11 月 | [[!DNL AEM Content Fragment] 模型欄位](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25300) | 新文章 | 瞭解[!DNL Adobe Experience Manager (AEM) Content Fragment (CF)]模型中欄位數的限制和設定。 |
-| 2024 年 11 月 | [引數`includeChildren`在[!UICONTROL Publish內容樹狀工作流程] （預覽代理程式）中無法運作](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25257) | 新文章 | 瞭解如何解決客戶建立的工作流程問題，該工作流程用於將內容片段([!DNL CFs])發佈到預覽伺服器，儘管包含`includeChildren`選項，但已停止複製巢狀片段和未發佈的資產。 |
-| 2024 年 11 月 | [在 [!DNL AEM 6.5.18] 中版本清除失敗，因為&#x200B;*[!DNL NullPointerException]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25299) | 新文章 | 瞭解如何在[!DNL Adobe Experience Manager (AEM) version 6.5.18]中發生版本清除任務失敗，導致`java.lang.NullPointerException`的已知問題時解決問題。 |
-| 2024 年 11 月 | [防止意外刪除 [!DNL AEM] 指南](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25255)中參考的主題/檔案 | 新文章 | 瞭解如何解決以下問題：如果您在[!DNL Adobe Experience Manager (AEM)]中點選`maps/rootmaps`中參考的刪除指南主題/檔案，則系統不會使用[!UICONTROL 強制刪除]選項提示您確認刪除。 |
-| 2024 年 11 月 | [如何在 [!DNL AEM] 指南稽核工具中區分條件文字和草稿註解](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25309) | 新文章 | 瞭解如何在[!DNL AEM Guides Review Tool]中區分條件文字和草稿註解。 |
-| 2024 年 11 月 |  [!DNL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25296)中 [!DNL DMS7] 個資產的&#x200B;[*[!DNL Fail to load data]*錯誤 | 新文章 | 瞭解在開啟包含[!DNL DMS7]個資產的資料夾時，如何解決[!DNL Brand Portal]中的`Fail to load data`錯誤。 |
-| 2024 年 11 月 | [疑難排解 [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25099)中的 [!DNL HTTP 5XX] 錯誤 | 新文章 | 瞭解如何解決在[!UICONTROL Publish]層發生[!DNL HTTP 5XX]個錯誤（通常顯示為`Service Unavailable`訊息）時的問題。 |
-| 2024 年 11 月 | [疑難排解 [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25100)中的 [!DNL HTTP 429] 錯誤回應 | 新文章 | 瞭解當[!DNL AEMaaCS]收到來自太多要求的[!DNL HTTP 429]個錯誤而導致效能問題時，如何解決問題。 |
-| 2024 年 12 月  | [動態媒體同步處理使用者建議](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25471) | 新文章 | 瞭解[!DNL AEM]到[!DNL Dynamic Media]同步處理的建議。 |
-| 2024 年 12 月  | [請協助我找出誰從 [!DNL Dynamic Media] / [!DNL Scene7]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25461)刪除了影像 | 新文章 | 瞭解如何解決客戶資產遺失時，應該在網站上即時的問題。 |
-| 2024 年 12 月  | [[!DNL Adobe Experience Manager]：驗證是否成功載入 [!DNL JavaScript] 覆蓋](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25495) | 新文章 | 瞭解如何解決您的重疊[!DNL JavaScript]無法如預期運作的問題，您可能想要驗證其是否正確載入。 |
-| 2024 年 12 月  | [[!DNL Adobe Experience Manager: Service Pack 21] 安裝因&#x200B;*[!DNL org.apache.sling.installer.core]*&#x200B;錯誤而卡住](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25476) | 新文章 | 瞭解如何在`error.log`中出現`org.apache.sling.installer.core`錯誤訊息後，根據特定套件組合版本，繼續安裝[!DNL AEM 6.5.21]時解決問題。 |
-| 2024 年 12 月  | [自訂使用者群組在 [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25396)的新[!UICONTROL 內容片段]編輯器中以唯讀模式鎖定 | 新文章 | 本文說明如何解決[!DNL Adobe Experience Manager (AEM) as a Cloud Service]中的問題，其中自訂使用者群組在存取新的[!UICONTROL 內容片段(CF)]編輯器時以唯讀模式鎖定。 |
-| 2024 年 12 月  | [預設中繼資料結構描述未填入值](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25371) | 新文章 | 瞭解如何解決修改`dm_video`中繼資料結構描述中的欄位標籤時，預設中繼資料值可能無法填入，導致欄位顯示空白的問題。 |
+| 2024 年 11 月 | [如何修復瀏覽器中的 Dynamic Media 影片載入和播放問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25308) | 新文章 | 了解如何解決 [!DNL Dynamic Media] (DM) 影片無法載入、頻繁緩衝或無法讓使用者在某些瀏覽器或裝置上重新定位影片的問題。 |
+| 2024 年 11 月 | [[!DNL Dynamic Media] 一般設定頁面無法打開](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25294) | 新文章 | 了解如何解決即使已正確設定 [!DNL Dynamic Media] [!UICONTROL CloudConfig]，且資產成功同步到 [!DNL DMS7]，[!DNL Dynamic Media] 一般設定頁面仍無法載入的問題。 |
+| 2024 年 11 月 | [影像預覽無法正常顯示](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25297) | 新文章 | 了解如何透過調整 JPEG 品質設定來解決在 [!DNL Adobe Experience Manager (AEM) as a Cloud Service] 中影像預覽無法正常顯示的問題。 |
+| 2024 年 11 月 | [[!DNL AEM Content Fragment] 模型欄位](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25300) | 新文章 | 了解 [!DNL Adobe Experience Manager (AEM) Content Fragment (CF)] 模型中欄位數量的限制和設定。 |
+| 2024 年 11 月 | [參數 `includeChildren` 在[!UICONTROL 發佈內容樹狀工作流程] (預覽代理程式) 中無法正常運作](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25257) | 新文章 | 了解如何解決客戶創建的工作流程，該工作流程用於將內容片段 ([!DNL CFs]) 發佈到預覽伺服器時，儘管包含了 `includeChildren` 選項，卻停止複製嵌套片段和未發佈的資產的問題。 |
+| 2024 年 11 月 | [在  [!DNL AEM 6.5.18]  中，由於 *[!DNL NullPointerException]*，版本清除失敗。](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25299) | 新文章 | 了解如何解決在 [!DNL Adobe Experience Manager (AEM) version 6.5.18] 中發生的已知問題，該問題導致版本清除任務失敗，並出現 `java.lang.NullPointerException`。 |
+| 2024 年 11 月 | [防止在  [!DNL AEM]  指南中意外刪除參考的主題/檔案。](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25255) | 新文章 | 了解如何解決當您在 [!DNL Adobe Experience Manager (AEM)] 中刪除在 `maps/rootmaps` 中參考的指南主題/檔案時，未顯示 [!UICONTROL  強制刪除 ] 選項以確認刪除的問題。 |
+| 2024 年 11 月 | [如何區分  [!DNL AEM]  指南審核工具中的條件式文字和草稿留言。](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25309) | 新文章 | 了解如何在 [!DNL AEM Guides Review Tool] 中區分條件式文字和草稿留言。 |
+| 2024 年 11 月 |  [!DNL Brand Portal] 中的  [!DNL DMS7]  資產 [*[!DNL Fail to load data]*錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25296) | 新文章 | 了解如何解決在開啟包含 [!DNL DMS7] 資產的資料夾時，在 [!DNL Brand Portal] 中出現的 `Fail to load data` 錯誤。 |
+| 2024 年 11 月 | [疑難排解  [!DNL AEM as a Cloud Service] 中的  [!DNL HTTP 5XX]  錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25099) | 新文章 | 了解如何解決當 [!DNL HTTP 5XX] 錯誤發生在[!UICONTROL 發佈]層時，通常顯示為 `Service Unavailable` 訊息的問題。 |
+| 2024 年 11 月 | [疑難排解  [!DNL AEM as a Cloud Service] 中的  [!DNL HTTP 429]  錯誤回應](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25100) | 新文章 | 了解如何解決當 [!DNL AEMaaCS] 接收到來自過多請求的 [!DNL HTTP 429] 錯誤，並導致效能問題的問題。 |
+| 2024 年 12 月 | [Dynamic Media 同步使用者建議](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25471) | 新文章 | 了解有關 [!DNL AEM] 與 [!DNL Dynamic Media] 同步的建議。 |
+| 2024 年 12 月 | [請幫我找出是誰從  [!DNL Dynamic Media]  /  [!DNL Scene7] 中刪除了圖片](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25461) | 新文章 | 了解如何解決客戶網站上資產遺失的問題。 |
+| 2024 年 12 月 | [[!DNL Adobe Experience Manager]：確認 [!DNL JavaScript] 覆蓋](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25495)載入成功 | 新文章 | 了解如何解決當您已覆蓋的 [!DNL JavaScript] 無法正常運作時，您可能需要確認其是否正確載入。 |
+| 2024 年 12 月 | [[!DNL Adobe Experience Manager: Service Pack 21]  安裝停滯，顯示 *[!DNL org.apache.sling.installer.core]* 錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25476) | 新文章 | 了解如何解決當 `error.log` 中出現 `org.apache.sling.installer.core` 錯誤訊息後，[!DNL AEM 6.5.21] 無法繼續安裝的問題 (與特定的 bundle 版本有關)。 |
+| 2024 年 12 月 | [ [!DNL AEM] 中新[!UICONTROL 內容片段]編輯器中的自訂使用者群組鎖定在唯讀模式](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25396) | 新文章 | 本文說明如何解決在 [!DNL Adobe Experience Manager (AEM) as a Cloud Service] 中，當自訂使用者群組在存取新的[!UICONTROL 內容片段 (CF)] 編輯器時，被鎖定為唯讀模式的問題。 |
+| 2024 年 12 月 | [預設後設資料結構未填寫值](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25371) | 新文章 | 了解如何解決當修改 `dm_video` 後設資料結構中的欄位標籤時，無法填寫預設的中繼資料值，導致欄位顯示為空的問題。 |
 
 +++
 
@@ -361,16 +361,16 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025 年 1 月 | [自訂簽出體驗](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-checkout) | 影片 | 瞭解如何從Edge Delivery Services車下拉式元件自訂Adobe Commerce中的結帳體驗。 本影片著重於修改送貨選項及實作多步驟結帳程式。 |
-| 2025 年 1 月 | [大量套件全域參考架構模式](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/bulk-packages) | 影片 | 瞭解如何使用大量套件全域參考架構(GRA)模式設定Adobe Commerce。 |
-| 2025 年 1 月 | [分割Git全域參考架構模式](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/split-git) | 影片 | 瞭解如何使用分割Git全域參考架構(GRA)模式設定Adobe Commerce。 |
-| 2025 年 1 月 | [獨立套件全域參考架構模式](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/separate-packages) | 影片 | 瞭解如何使用個別套件全域參考架構(GRA)模式設定Adobe Commerce。 |
-| 2025 年 1 月 | [新增BOPI以簽出](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/add-bopis-to-checkout) | 影片 | 瞭解如何將必要的元件新增到Edge Delivery Services結帳，以容納線上購買和商店提貨（又稱為BOPIS）。 |
-| 2025 年 1 月 | [調整結帳的交易流程](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/transactional-flow) | 影片 | 瞭解如何使用Edge Delivery Services車下拉式功能表調整結帳異動流程。 |
-| 2025 年 1 月 | [使用購物車專案的產品屬性](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/product-attributes-cart-items) | 影片 | 瞭解如何自訂和擴充Adobe Commerce購物車。 |
-| 2025 年 1 月 | [全域參考架構實作技術](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/overview) | 影片 | 瞭解如何使用全域參考架構模式最佳化Adobe Commerce中的程式碼重複使用，以提升多個執行個體的效能和合規性。 |
-| 2025 年 1 月 | [自訂地址表單配置與Google地址查詢整合](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link) | 影片 | 瞭解如何在結帳時自訂地址表單版面配置，以確保所有欄位的寬度均為50%，但文字區域除外。 |
-| 2025 年 1 月 | [Monorepo全域參考架構模式](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo) | 影片 | 瞭解如何使用Monorepo全域參考架構(GRA)模式設定Adobe Commerce。 |
+| 2025 年 1 月 | [自訂結帳體驗](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-checkout) | 影片 | 了解如何從 Adobe Commerce 的 Edge Delivery Services 購物車嵌入元件自訂結帳體驗。這段影片重點介紹修改運送選項和實施多步驟結帳程序。 |
+| 2025 年 1 月 | [大量套件全域參考架構模式](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/bulk-packages) | 影片 | 了解如何使用大量套件全域參考架構 (GRA) 模式設定 Adobe Commerce。 |
+| 2025 年 1 月 | [分割 Git 全域參考架構模式](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/split-git) | 影片 | 了解如何使用分割 Git 全域參考架構 (GRA) 模式設定 Adobe Commerce。 |
+| 2025 年 1 月 | [獨立套件全域參考架構模式](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/separate-packages) | 影片 | 了解如何使用獨立套件全域參考架構 (GRA) 模式設定 Adobe Commerce。 |
+| 2025 年 1 月 | [新增 BOPIS 進行結帳](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/add-bopis-to-checkout) | 影片 | 了解如何將必要元件加入 Edge Delivery Services 的結帳程序中，以支援線上購物並在店內取貨，亦即 BOPIS (Buy Online, Pickup In Store) 功能。 |
+| 2025 年 1 月 | [調整結帳交易流程](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/transactional-flow) | 影片 | 了解如何使用 Edge Delivery Services 的購物車嵌入式元件調整結帳的交易流程。 |
+| 2025 年 1 月 | [使用購物車商品的產品屬性](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/product-attributes-cart-items) | 影片 | 了解如何自訂和擴展 Adobe Commerce 的購物車功能。 |
+| 2025 年 1 月 | [全球參考架構實施技術](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/overview) | 影片 | 了解如何利用全球參考架構模式在 Adobe Commerce 中最佳化程式碼重用，提升多個執行個體的效能和合規性。 |
+| 2025 年 1 月 | [自訂地址表單版面和 Google 地址查詢整合](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link) | 影片 | 了解如何自訂結帳頁面的地址表單版面，確保所有欄位寬度均為 50% (唯獨文字區域除外)。 |
+| 2025 年 1 月 | [Monorepo 全域參考架構模式](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo) | 影片 | 了解如何使用 Monorepo 全域參考架構 (GRA) 模式設定 Adobe Commerce。 |
 
 ### 新的 [!DNL Commerce] 支援知識庫{#kb-commerce}
 
@@ -378,13 +378,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|--------|---------|---------|
-| 2024 年 12 月  | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 新文章 | 關於如何套用 [!DNL QPT] 1.1.52、[!DNL QPT] 1.1.53、[!DNL QPT] 1.1.54、[!DNL QPT] 1.1.55、[!DNL QPT] 1.1.56 與 [!DNL QPT] 1.1.57 中可用之修補程式的新文章已發佈，而且可以在其各自區段中找到。 |
-| 2024 年 11 月 | 在Adobe Commerce 2.4.6-p8](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/backwards-incompatible-changes-for-graphql-placeorder-api-in-adobe-commerce-2-4-6-p8)中 [!DNL GraphQL] `placeOrder` [!DNL API] 的[回溯不相容變更 | 新文章 | 本文提供已知的Adobe Commerce 2.4.6-p8版雲端和內部部署問題的修補程式，其中`placeOrder` [!DNL GraphQL API]未傳回預期的錯誤回應，如舊版2.4.6修補程式所示。 |
-| 2024 年 11 月 | [解決Adobe Commerce中 [!DNL PHP] 8.2升級至8.3的 [!DNL New Relic] 代理程式問題](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25301) | 新文章 | 瞭解如何解決[!DNL PHP]從8.2版升級至8.3版時的問題，您注意到[!DNL New Relic]代理程式停止在您的Adobe[!DNL Commerce]環境中運作。 |
-| 2024 年 11 月 | 即使已套用修補程式，[[!DNL Security Scan Tool] 也會傳回&#x200B;*[!DNL APSByy-xx security updates available]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25321) | 新文章 | 瞭解如何解決[!DNL Security Scan Tool]報告Adobe[!DNL Commerce]和[!DNL Magento Open Source]的`APSByy-xx security updates available`時的問題，即使您已套用修補程式。 |
-| 2024 年 11 月 | [可用於Adobe Commerce ([!DNL APSB24-90])的安全性更新](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25289) | 新文章 | 瞭解Adobe於2024年11月12日發佈安全性更新的時間，該更新適用於Adobe[!DNL Commerce] （雲端和內部部署）以及由[!DNL Commerce Services]支援並部署為[!DNL SaaS (Software as a Service)]的[!DNL Magento Open Source]功能。 |
-| 2024 年 12 月  | [正在解決Adobe Commerce Cloud中停滯的資料庫匯入](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25510) | 新文章 | 瞭解如何解決Adobe Commerce Cloud中的資料庫匯入因[!DNL InnoDB] [!DNL Full-Text Search (FTS)]限制或其他設定限制而卡住的問題。 |
-| 2024 年 12 月  | [無法透過[!UICONTROL Admin Console]或 [!DNL Adobe Experience League]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25312)提交 [!DNL Adobe Commerce Marketplace] 支援要求 | 新文章 | 瞭解當您無法透過Adobe Commerce [!UICONTROL Admin Console]或[!DNL Adobe Experience League]網站提交[!DNL Adobe Commerce Marketplace]的支援要求時，如何解決問題。 |
+| 2024 年 12 月 | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 新文章 | 關於如何套用 [!DNL QPT] 1.1.52、[!DNL QPT] 1.1.53、[!DNL QPT] 1.1.54、[!DNL QPT] 1.1.55、[!DNL QPT] 1.1.56 與 [!DNL QPT] 1.1.57 中可用之修補程式的新文章已發佈，而且可以在其各自區段中找到。 |
+| 2024 年 11 月 | [Adobe Commerce 2.4.6-p8 中的  [!DNL GraphQL] `placeOrder` [!DNL API]  向後不相容變更](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/backwards-incompatible-changes-for-graphql-placeorder-api-in-adobe-commerce-2-4-6-p8) | 新文章 | 本文提供了針對已知的 Adobe Commerce 2.4.6-p8 版本的修補程式，該問題出現在雲端和內部部署安裝環境中，`placeOrder` [!DNL GraphQL API] 未能傳回預期的錯誤回應，這個問題在先前的 2.4.6 修補版本中已經出現過。 |
+| 2024 年 11 月 | [解決 Adobe Commerce 中  [!DNL PHP]  8.2 升級至 8.3 版本的  [!DNL New Relic]  代理程式問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25301) | 新文章 | 了解如何解決當您將 [!DNL PHP] 從 8.2 升級至 8.3 版本後，發現 [!DNL New Relic] 代理程式在 Adobe [!DNL Commerce] 環境中無法正常運作的問題。 |
+| 2024 年 11 月 | [[!DNL Security Scan Tool] 即使已套用修補程式，仍然傳回 *[!DNL APSByy-xx security updates available]*](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25321) | 新文章 | 了解如何解決即使您已經套用修補程式，[!DNL Security Scan Tool] 仍對 Adobe [!DNL Commerce] 和 [!DNL Magento Open Source] 報告 `APSByy-xx security updates available` 的問題。 |
+| 2024 年 11 月 | [可用於 Adobe Commerce 的安全性更新 ([!DNL APSB24-90])](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25289) | 新文章 | 了解 2024 年 11 月 12 日，Adobe 為 Adobe [!DNL Commerce] (在雲端和內部部署) 和 [!DNL Magento Open Source] 釋出了安全更新，這些功能由 [!DNL Commerce Services] 提供支援，並作為 [!DNL SaaS (Software as a Service)] 部署。 |
+| 2024 年 12 月 | [解決 Adobe Commerce Cloud 中資料庫匯入停滯的問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25510) | 新文章 | 了解如何解決當 Adobe Commerce Cloud 中的資料庫匯入因 [!DNL InnoDB] [!DNL Full-Text Search (FTS)] 限制或其他設定限制而停滯的問題。 |
+| 2024 年 12 月 | [無法透過 [!UICONTROL Admin Console] 或  [!DNL Adobe Experience League] 提交  [!DNL Adobe Commerce Marketplace]  支援請求](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25312) | 新文章 | 了解如何解決當您無法透過 Adobe Commerce [!UICONTROL Admin Console] 或 [!DNL Adobe Experience League] 網站提交 [!DNL Adobe Commerce Marketplace] 的支援請求時的問題。 |
 
 +++
 
@@ -403,8 +403,8 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | ----------| ---------- | ---------- |---------- |
-| 2025 年 1 月 | [建立Adobe Target Recommendations活動](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | 影片 | 瞭解如何建立Adobe[!DNL Target] Recommendations活動。 |
-| 2025 年 1 月 | [建立A/B測試](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | 影片 | 瞭解在[!DNL Adobe Target]中建立A/B活動的關鍵工作流程。 使用視覺化體驗撰寫器(VEC)建立基本A/B活動。 |
+| 2025 年 1 月 | [建立 Adobe Target 推薦活動](https://experienceleague.adobe.com/zh-hant/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | 影片 | 了解如何建立 Adobe [!DNL Target] 推薦活動。 |
+| 2025 年 1 月 | [建立 A/B 測試](https://experienceleague.adobe.com/zh-hant/docs/target-learn/tutorials/activities/create-ab-tests) | 影片 | 了解在 [!DNL Adobe Target] 中建立 A/B 活動的主要工作流程。使用視覺體驗編輯器 (VEC) 建立個基本的 A/B 活動。 |
 
 * 如需搶鮮版資訊，請參閱 [[!DNL Adobe Target]  搶鮮版](https://experienceleague.adobe.com/zh-hant/docs/target/using/release-notes/target-release-notes)
 * 如需目前版本資訊，請參閱 [[!DNL Adobe Target]  發行說明](https://experienceleague.adobe.com/zh-hant/docs/target/using/release-notes/release-notes)
@@ -419,13 +419,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ### 最新 Campaign 產品版本
 
-* [!DNL Campaign] v8： [2025年1月15日 — 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8：[2025 年 1 月 15 日 - 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]： （2月5日發行） [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]：(2 月 5 日發行) [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/release-notes/latest-release) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]： [25.1 - 2025年發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]：[25.1 - 2025 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
 
 ### 新 [!DNL Campaign]教學課程 {#tutorials-campaign}
 
@@ -433,8 +433,8 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025 年 1 月 | | [建立和管理測試設定檔](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles) | 影片 | 瞭解如何在使用者端主控台中建立測試設定檔，以及如何在Adobe Campaign Web UI中管理和編輯設定檔。 |
-| 2025 年 1 月 | | [使用動態內容增強傳遞](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content) | 影片 | 了解如何使用運算式編輯器來個人化您的訊息或新增條件內容，藉以製作動態訊息內容。 |
+| 2025 年 1 月 | | [建立和管理測試輪廓](https://experienceleague.adobe.com/zh-hant/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles) | 影片 | 了解如何在用戶端主控台中建立測試設定檔，以及如何在 Adobe Campaign Web UI 中管理和編輯設定檔。 |
+| 2025 年 1 月 | | [透過動態內容增強傳遞](https://experienceleague.adobe.com/zh-hant/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content) | 影片 | 了解如何使用運算式編輯器來個人化您的訊息或新增條件內容，藉以製作動態訊息內容。 |
 
 ### 新的 [!DNL Campaign] 支援知識庫{#kb-campaign}
 
@@ -442,13 +442,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|----|----|-----------|
-| 2024 年 11 月 | [[!DNL Adobe Campaign Classic]：修正批次事件預覽](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25302)的&#x200B;*[!DNL bad mirror link]*&#x200B;錯誤 | 新文章 | 瞭解如何解決當嘗試存取[!DNL Adobe Campaign Classic]中批次RT `eventType`的&#x200B;**預覽**&#x200B;索引標籤時，發生`bad mirror link`錯誤的問題。 |
-| 2024 年 12 月  | [在 [!DNL Adobe Campaign Classic] 個追蹤記錄檔中區分 [!DNL Mac] 與 [!DNL Windows] 個裝置記錄](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25360) | 新文章 | 瞭解如何解決在[!DNL Adobe Campaign Classic]的追蹤記錄表格中，您看到裝置記錄顯示為[!DNL PC]而沒有區分[!DNL MAC]和[!DNL Windows]裝置的問題。 |
-| 2024 年 12 月  | [正在解決 [!DNL AEM] 到 [!DNL Adobe Campaign Classic] 同步處理問題](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25484) | 新文章 | 瞭解當使用者在將電子郵件內容從[!DNL Adobe Experience Manager (AEM)]傳輸到[!DNL Adobe Campaign Classic (ACC)]時遇到同步處理錯誤時，如何解決問題。 |
-| 2024 年 12 月  | [「*[!DNL Oops. Something went wrong. Check your [!DNL URI] and try again]*」](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25415) | 新文章 | 瞭解如何在生產環境中呼叫[!DNL Adobe Campaign Standard]時發生`Oops. Something went wrong. Check your URI and try again`錯誤時解決此問題。[!DNL API] |
-| 2024 年 12 月  | [工作流程失敗，因為 [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25410)中遺失傳遞範本 | 新文章 | 瞭解如何解決[!DNL Adobe Campaign Classic]中因手動刪除`nmsDelivery`結構描述中的傳遞範本而導致的工作流程失敗的問題。 |
-| 2024 年 12 月  | [正在解決 [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25404)中的 [!DNL LDAP] 超過 [!DNL TLS] 個連線問題 | 新文章 | 瞭解如何解決在[!DNL Adobe Campaign Classic]中使用[!DNL LDAP]超過[!DNL TLS]時的登入問題。 |
-| 2024 年 12 月  | [[!DNL Adobe Campaign Classic v7]：*[!DNL Error loading private key file: permission denied]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25413) | 新文章 | 瞭解如何解決嘗試透過[!DNL FDA]連線[!DNL Adobe Campaign Classic v7]至[!DNL Snowflake]資料庫時的`Error loading private key file: permission denied`錯誤。 |
+| 2024 年 11 月 | [[!DNL Adobe Campaign Classic]：修正批次事件預覽中的 *[!DNL bad mirror link]* 錯誤](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25302) | 新文章 | 了解如何解決在嘗試存取 [!DNL Adobe Campaign Classic] 中批次 RT `eventType` 的&#x200B;**預覽**&#x200B;索引標籤時，出現 `bad mirror link` 錯誤的問題。 |
+| 2024 年 12 月 | [區分  [!DNL Adobe Campaign Classic]  追蹤記錄中的  [!DNL Mac]  與  [!DNL Windows]  裝置記錄](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25360) | 新文章 | 學習如何解決當您在 [!DNL Adobe Campaign Classic] 的追蹤記錄表格中看到裝置記錄顯示為 [!DNL PC]，且未能區分 [!DNL MAC] 和 [!DNL Windows] 裝置的問題。 |
+| 2024 年 12 月 | [解決  [!DNL AEM]  與  [!DNL Adobe Campaign Classic]  同步的問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25484) | 新文章 | 了解如何解決當使用者在將電子郵件內容從 [!DNL Adobe Experience Manager (AEM)] 傳輸到 [!DNL Adobe Campaign Classic (ACC)] 時，遇到同步錯誤的問題。 |
+| 2024 年 12 月 | [「*[!DNL Oops. Something went wrong. Check your [!DNL URI] and try again]*」](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25415) | 新文章 | 了解如何解決當在生產環境中進行 [!DNL API] 呼叫至 [!DNL Adobe Campaign Standard] 時，遇到 `Oops. Something went wrong. Check your URI and try again` 錯誤的問題。 |
+| 2024 年 12 月 | [工作流程因  [!DNL Adobe Campaign Classic] 中缺少交付範本而失敗](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25410) | 新文章 | 了解如何解決當 [!DNL Adobe Campaign Classic] 中的工作流程，因手動刪除 `nmsDelivery` 綱要中的交付範本而失敗的問題。 |
+| 2024 年 12 月 | [解決在  [!DNL Adobe Campaign Classic] 中使用  [!DNL LDAP]  透過  [!DNL TLS]  連線時的連線問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25404) | 新文章 | 了解如何解決在 [!DNL Adobe Campaign Classic] 中使用 [!DNL LDAP] 透過 [!DNL TLS] 連線時的登入問題。 |
+| 2024 年 12 月 | [[!DNL Adobe Campaign Classic v7]：*[!DNL Error loading private key file: permission denied]*](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-25413) | 新文章 | 了解如何解決在透過 [!DNL FDA] 嘗試將 [!DNL Adobe Campaign Classic v7] 連接到 [!DNL Snowflake] 資料庫時，出現 `Error loading private key file: permission denied` 錯誤的問題。 |
 
 ### [!DNL Campaign] 說明資源
 
@@ -464,7 +464,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ## [!DNL Journey Optimizer] {#journey-opt}
 
-了解關於 [!DNL Journey Optimizer] 的最新發行資訊。在 Experience League 上查看最新的教學課程和知識庫支援文章。
+了解關於 [!DNL Journey Optimizer] 的最新發行資訊。在 Experience League 上檢視最新的教學課程和知識庫支援文章。
 
 +++詳細資訊
 
@@ -493,7 +493,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 +++詳細資訊
 
-* 有關發行說明和自助功能，請參閱 [[!DNL Journey Optimizer B2B Edition] 文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/guide-overview)。
+* 請參閱 [[!DNL Journey Optimizer B2B Edition] 文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/guide-overview)，以取得發行說明和自助功能。
 * 請參閱 [[!DNL Journey Optimizer B2B Edition]](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) 以了解產品資訊。
 
 +++
@@ -574,11 +574,11 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025 年 1 月 | [瞭解業務案例](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case) | 影片 | 瞭解如何在[!DNL Workfront]中使用業務案例來評估請求的專案，並將它們與您投資組合中的其他專案進行比較。 |
-| 2025 年 1 月 | [管理應用程式內及電子郵件事件通知](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications) | 影片 | 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知，以便收到與其工作相關的實用電子郵件。 |
-| 2025 年 1 月 | [尋找及管理要求](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests) | 影片 | 瞭解如何尋找指派給您的請求、已建立的請求以及您管理的請求。 |
-| 2025 年 1 月 | [了解專案組合](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios) | 影片 | 瞭解投資組合是什麼以及它們如何協助您比較專案和排列專案的優先順序。 |
-| 2025 年 1 月 | [管理校訂版本](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/upload-proofs/manage-proof-versions) | 影片 | 瞭解如何在上傳校訂時尋找詳細資訊、下載所有版本的校訂，以及刪除Workfront中的校訂版本。 |
+| 2025 年 1 月 | [了解業務案例](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case) | 影片 | 了解如何使用業務案例在 [!DNL Workfront] 中評估所請求的專案，並將那些專案與專案組合中的其他專案進行比較。 |
+| 2025 年 1 月 | [管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications) | 影片 | 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知，以便收到與其工作相關的實用電子郵件。 |
+| 2025 年 1 月 | [尋找和管理請求](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests) | 影片 | 了解如何尋找指派給您的請求、您建立的請求以及您管理的請求。 |
+| 2025 年 1 月 | [了解專案組合](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios) | 影片 | 了解什麼是專案組合，以及它們如何協助您比較專案並確定其優先順序。 |
+| 2025 年 1 月 | [管理校訂版本](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-proof/upload-proofs/manage-proof-versions) | 影片 | 了解在 Workfront 中如何找到關於校訂上傳時間的詳細資料、下載校訂的所有版本和刪除校訂版本。 |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -607,16 +607,16 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++詳細資訊
 
-* GenStudio for Performance Marketing 的[發行說明](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest)
-* GenStudio for Performance Marketing 的[產品文件](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)
+* GenStudio for Performance Marketing 的[發行說明](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest)
+* GenStudio for Performance Marketing 的[產品文件](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/home)
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) 產品資訊
 
 最新的 [!DNL GenStudio for Performance Marketing] 影片教學課程。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024年秋季 | [建立符合品牌形象的行銷電子郵件](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-brand-emails) | 影片 | 檢視逐步說明，了解如何使用 Adobe 的 GenStudio for Performance Marketing 建立符合品牌形象的行銷電子郵件。 |
-| 2024年秋季 | [建立符合品牌形象的 Meta 廣告](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-meta-ads) | 影片 | 檢視在 GenStudio for Performance Marketing 中建立 Meta 廣告的產品逐步操作示範。 |
+|   2024 年秋季 | [建立符合品牌形象的行銷電子郵件](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-brand-emails) | 影片 | 檢視逐步說明，了解如何使用 Adobe 的 GenStudio for Performance Marketing 建立符合品牌形象的行銷電子郵件。 |
+|   2024 年秋季 | [建立符合品牌形象的 Meta 廣告](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-meta-ads) | 影片 | 檢視在 GenStudio for Performance Marketing 中建立 Meta 廣告的產品逐步操作示範。 |
 
 +++
 
@@ -669,8 +669,8 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2025 年 1 月 | Acrobat，Adobe Express | [設計新頁面](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page) | 影片 | 瞭解如何使用Adobe Express在您的PDF中建立新的專業外觀頁面。 設計新頁面可讓您在幾分鐘內建立極具專業外觀的品牌自訂內容，與眾不同。 此影片教學課程使用新的[工作區體驗](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace)。 |
-| 2025 年 1 月 | Acrobat，Adobe Express | [即時共同作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | 影片 | 隨著遠端工作無所不在，無縫共同作業對於快速和大規模地交付內容至關重要。 隨時隨地即時收集註釋、共同處理回應及追蹤檔案進度，推展您的專案。 瞭解如何建立檔案檢閱程式，不僅提高效率，同時提高內容品質。 此影片教學課程使用新的[工作區體驗](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace)。 |
+| 2025 年 1 月 | Acrobat、Adobe Express | [設計新頁面](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page) | 影片 | 了解如何使用 Adobe Express 打造新的 PDF 專業頁面。透過設計新頁面，您只需幾分鐘便能創造出與眾不同、具有專業外觀的品牌客製化內容。本影片教學使用新的「[工作區體驗](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace)」。 |
+| 2025 年 1 月 | Acrobat、Adobe Express | [即時共同作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | 影片 | 隨著遠端工作無所不在，無縫共同作業對於快速和大規模地交付內容至關重要。 隨時隨地即時收集註釋、共同處理回應及追蹤文件的進度，推展您的專案。了解如何建立一個不僅能提升效率，還能提高內容品質的文件審查程序。本影片教學使用新的「[工作區體驗](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace)」。 |
 
 如需 [!DNL Document Cloud] 教學課程，請參閱：
 
@@ -681,7 +681,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## 適用於企業的[!DNL Creative Cloud] {#creative-cloud}
+## 適用於企業的 [!DNL Creative Cloud] {#creative-cloud}
 
 針對 [!DNL Adobe Creative Cloud for enterprise] 應用程式的全新教學課程。
 
@@ -701,7 +701,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025 年 1 月 | [護欄](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails) | 已更新的文章 | 瞭解Adobe Experience Platform和應用程式內元件和服務的護欄、效能預期和影響。 |
+| 2025 年 1 月 | [護欄](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails) | 已更新的文章 | 了解 Adobe Experience Platform 和應用程式中各個元件和服務的防範措施、效能期望及其影響。 |
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
