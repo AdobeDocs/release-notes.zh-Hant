@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
-workflow-type: ht
-source-wordcount: '4493'
-ht-degree: 100%
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+workflow-type: tm+mt
+source-wordcount: '4370'
+ht-degree: 95%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## 2025 年 1 月
 
-上次更新日期：**2025 年 1 月 22 日**
+最近更新： **2025年2月5日**
 
 如需有關特定應用程式的發行日期，請參閱該產品的發行說明。
 
@@ -69,35 +69,23 @@ ht-degree: 100%
 
 了解 Experience League 上的精彩活動。 若要向 Adobe 產品專家學習、與之互動或獲得解答，這是您絕佳的選擇！
 
-### Experience League 更新
+### Experience League更新（2025年2月）
 
 +++詳細資訊
 
-發行時間：**2024 年秋季**
+**個人化首頁**
 
-**目錄更新：**&#x200B;已對 Experience League 中的每個目錄進行以下更新：
+發行日期：**2025年2月5日**
 
-* **[!UICONTROL 展開所有區段]**：在任何 Experience League 指南中顯示完整的目錄。(此切換按鈕會在頁面載入後自動關閉。此問題將在未來的更新中修復。)「**[!UICONTROL 檢視更多]**」和「**[!UICONTROL 檢視較少]**」選項已移除。
-* **捲動**：啟用捲動以瀏覽長目錄。
-* **[!UICONTROL 按關鍵字篩選]**：讓您透過輸入關鍵字來篩選目錄中的項目。下拉式清單會顯示相關結果，您可以按一下「**[!UICONTROL 清除]**」來清除篩選器。
-* **活動頁面可見度**：活動頁面在目錄中始終會醒目顯示。
+全新的[Experience League首頁](https://experienceleague.adobe.com/?lang=en)提供由[!DNL Adobe Target]支援的個人化學習推薦。
 
-### Experience League 上的播放清單
+主要功能：
 
-Experience League 提供新影片[播放清單](https://experienceleague.adobe.com/zh-hant/playlists)。播放清單是精選的影片集，旨在協助您獲得所需的技能和知識。
-
-播放清單功能包括：
-
-* 自動播放影片
-* 章節選擇和播放速度
-* 從上次停止的地方繼續
-* 影片文字記錄
-
-若要瀏覽播放清單，請導覽至「**[!UICONTROL 學習]** > **[!UICONTROL 瀏覽所有播放清單]**」。
-
->[!NOTE]
->
->如果您在 Experience League 上將課程加入書籤，就會轉到對應的播放清單。在某些情況下，您可能需要瀏覽至涵蓋您所尋找主題的新播放清單。
+* 根據角色、產品和最近活動的建議內容
+* 最近檢視的內容
+* 建議的隨選事件與認證
+* 您產品的新發佈內容
+* 重新設計、重新整理的介面
 
 +++
 
@@ -105,15 +93,17 @@ Experience League 提供新影片[播放清單](https://experienceleague.adobe.c
 
 +++詳細資訊
 
-* **[!DNL Workfront]** | _Wake Up With Workfront：隨意提問_ | 在這場「隨意提問」會議中，Adobe [!DNL Workfront] 企業顧問 Samantha Miller、Aaron Baker 和 Mary Ann Erickson 將現場回答問題，並分享 [!DNL Workfront] 中的最佳做法，以幫助客戶在 2025 年取得成功。| **北美山區時間 1 月 23 日上午 11:00** | [註冊](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _連結：[!DNL Workfront] Collective_ |參加我們每月一次的週一 [!DNL Workfront] Collective 活動，旨在與其他客戶聯繫、討論 [!DNL Workfront] 功能、分享想法並共同集思廣益，以解決常見挑戰。| **北美山區時間 1 月 27 日上午 7:00** | [註冊](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _學習：克服 [!DNL Workfront] 旅程中的變革阻力_ | 與我們的 [!DNL Workfront] 變革管理專家一起討論如何識別並克服使用者遇到的阻力，並學習最佳做法。| **北美山區時間 1 月 30 日上午 10:00** | [註冊](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Adobe Target 成熟度網路研討會系列_ | 介紹 Adobe Target 的創新，包括 GenAI，以及有關 AI 驅動的個性化和大規模實驗的最佳做法。| **北美山區時間 2 月 4 日上午 9:00** | [註冊](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _數位體驗會議_ | 加入同行的行列，聆聽可口可樂公司、JPMorganChase、ServiceNow等公司的主管意見。 | **3月18日至19日@ Las Vegas &amp; Online** | [註冊](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo 與 Mochas：2025 年必知的 5 大 Marketo 功能_ | 在我們今年的第一場 [!DNL Marketo] &amp; Mochas 會議中，[!DNL Marketo] 專家 Carly Gaver 和 Kate Colbert 會介紹 5 項功能豐富的功能，這些功能將有助於提升客戶體驗，並在 2025 年推動需求。| **北美山區時間 2 月 6 日上午 11:00** | [註冊](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _連線：行銷與創意的管理員聊天_ | 您是行銷或創意團隊的Workfront系統管理員嗎？ 加入我們的互動式討論，與其他管理員交流並分享最佳實務！ | **北美山區時間 2 月 7 日上午 10:00** | [註冊](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _管理員101：讓使用者使用Workfront_ | 不熟悉Workfront？ 參加我們3部分系列的第二次會議，我們提供有關專案接收和使用者採用的最佳實務。 | **北美山區時間 2 月 11 日上午 09:00** | [註冊](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _詢問有關Workfront治理的任何問題_ | 請詢問我們的內部專家，瞭解如何改善Workfront流程、政策和控制措施，以更符合貴組織的策略目標！ | **北美山區時間 2 月 12 日上午 09:00** | [註冊](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion營業時間 — 2025年2月_ | 加入我們，參加由2024/25Marketo Engage冠軍引領的北美和拉丁美時間友好型Champion Office Hours。 | **北美山區時間 2 月 13 日上午 08:00** | [註冊](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _商業與咖啡：B2B 自助服務的崛起_ | 與我們的 [!DNL Commerce] 專家 Corey Gelato 和 Agbi Bajrushi 一起開啟新的一年，他們將探索最新的 B2B 趨勢，以及如何利用新的 Adobe [!DNL Commerce] 功能來保持競爭優勢，並在整個年度領先一步。| **北美山區時間 2 月 13 日上午 11:00** | [註冊](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
