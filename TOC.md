@@ -6,9 +6,9 @@ breadcrumb-title: 發行說明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 的新功能、修正和重要注意事項。
 user-guide-url: https://www.adobe.com
 source-git-commit: 8f4ea5b37d066b825b9f13e994d751042b1e121a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 97%
 
 + [最新發行說明](current.md)
 + 舊版發行說明 {#previous}
-   + 2025 {#2025}
-      + [2025年1月](c-legacy-releases/2025/01222025.md)
-   + 2024 {#2024}
+   + 2025 年{#2025}
+      + [2025 年 1 月](c-legacy-releases/2025/01222025.md)
+   + 2024 年{#2024}
       + [2024 年 11 月](c-legacy-releases/2024/10232024.md)
       + [2024 年 9 月](c-legacy-releases/2024/09122024.md)
       + [2024 年 8 月](c-legacy-releases/2024/09142023.md)
@@ -30,7 +30,7 @@ ht-degree: 97%
       + [2024 年 3 月](c-legacy-releases/2024/03132024.md)
       + [2024 年 2 月](c-legacy-releases/2024/02142024.md)
       + [2024 年 1 月](c-legacy-releases/2024/01112024.md)
-   + 2023 {#2023}
+   + 2023 年{#2023}
       + [2023 年 11 月](c-legacy-releases/2023/10252023.md)
       + [2023 年 10 月](c-legacy-releases/2023/10042023.md)
       + [2023 年 9 月](c-legacy-releases/2023/09132023.md)
@@ -42,7 +42,7 @@ ht-degree: 97%
       + [2023 年 3 月](c-legacy-releases/2023/03082023.md)
       + [2023 年 2 月](c-legacy-releases/2023/02082023.md)
       + [2023 年 1 月](c-legacy-releases/2023/01112023.md)
-   + 2022 {#2022}
+   + 2022 年{#2022}
       + [2022 年 10 月](c-legacy-releases/2022/10052022.md)
       + [2022 年 9 月](c-legacy-releases/2022/09072022.md)
       + [2022 年 8 月](c-legacy-releases/2022/08172022.md)
