@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
+source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
-source-wordcount: '3671'
-ht-degree: 95%
+source-wordcount: '3590'
+ht-degree: 97%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 95%
 
 ## 2025 年 2 月
 
-最近更新： **2025年2月24日**
+最近更新： **2025年2月27日**
 
 使用這些連結尋找應用程式發行說明、事件、新教學課程，以及最新的知識庫支援文章：
 
-* [[!DNL Experience League] 活動和更新](#events)
+* [[!DNL Experience League] 事件和更新](#events) （**2月26日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -69,8 +69,6 @@ ht-degree: 95%
 
 **個人化首頁**
 
-發行日期：**2025 年 2 月 5 日**
-
 全新的 [Experience League 首頁](https://experienceleague.adobe.com/?lang=en) 上會提供由 [!DNL Adobe Target] 所支援的個人化學習推薦內容。
 
 主要功能：
@@ -81,15 +79,13 @@ ht-degree: 95%
 * 針對您的產品最新發佈的內容
 * 經過重新設計的全新改版介面
 
+[了解更多...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
+
 +++
 
 ### Experience League 活動
 
 +++詳細資訊
-
-* **[!DNL Workfront]** | 向同儕學習 | _如何測量和共用Workfront值_ | **太平洋時間2月26日上午8:00** | 歡迎在2025年2月26日加入我們，來自Synchrony和EMMsphere的同行將分享他們如何建立終極的「Workfront理由」，以及如何傳達可衡量的成果，例如節省時間和成本。 | [註冊](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
-
-* **[!DNL Workfront]** | 網路研討會 | _獲得Adobe Workfront的執行贊助_ | **2月27日上午9:00 MST** | 探索AI Assistant如何在Adobe Experience Platform及其平台型應用程式中解鎖有價值的營運見解、提升生產力並重新定義工作。 | [註冊](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _在Adobe Experience Platform中使用AI助理解除鎖定操作深入分析_ | **2月27日上午8:30 PST** | 探索AI Assistant如何在Adobe Experience Platform及其平台型應用程式中解鎖有價值的營運見解、提升生產力並重新定義工作。 | [註冊](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
