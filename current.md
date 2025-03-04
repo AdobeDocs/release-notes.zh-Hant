@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
+source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
 workflow-type: tm+mt
-source-wordcount: '3590'
-ht-degree: 97%
+source-wordcount: '3666'
+ht-degree: 95%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 97%
 
 ## 2025 年 2 月
 
-最近更新： **2025年2月27日**
+最近更新： **2025年3月4日**
 
 使用這些連結尋找應用程式發行說明、事件、新教學課程，以及最新的知識庫支援文章：
 
-* [[!DNL Experience League] 事件和更新](#events) （**2月26日**）
+* [[!DNL Experience League] 個事件和更新](#events) （**3月4日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -87,9 +87,13 @@ ht-degree: 97%
 
 +++詳細資訊
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _在Adobe Experience Platform中使用AI助理解除鎖定操作深入分析_ | **2月27日上午8:30 PST** | 探索AI Assistant如何在Adobe Experience Platform及其平台型應用程式中解鎖有價值的營運見解、提升生產力並重新定義工作。 | [註冊](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Manager Forms]** | _濃縮咖啡與Experience Manager： AEM Forms_ | **3月6日** | 加入Adobe的AEM產品團隊，他們將重點說明AEM Forms的最新創新，包括：新的Gen AI助理、與AEM Sites的統一構成，以及通過對話部署表單的新方式。 | [報名](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _數位體驗會議_ | **3月18日至19日@ Las Vegas &amp; Online**| 加入同行的行列，聆聽可口可樂公司、JPMorganChase、ServiceNow等公司的主管意見。 |  [註冊](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | _連線：行銷與Creative的管理員聊天_ | **3月7日** | 無論您是行銷、創意或任何其他團隊的Workfront系統管理員，此互動式討論將專注於最佳實務和集體腦力激盪。 | [報名](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+
+* **[!DNL Workfront]** | _管理員101：取得Workfront資料_ | **3月11日** | 不熟悉Workfront？ 參加第三屆Admin 101系列會議，瞭解所有報告內容。 您可以期待有關藍圖、控制面板、自訂Forms等專案的互動式討論。 | [報名](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud]** | _Adobe Summit — 數位體驗會議_ | **3月18日至19日@ Las Vegas &amp; Online**| 加入同行的行列，聆聽可口可樂公司、JPMorganChase、ServiceNow等公司的主管意見。 |  [報名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 還有更多精彩內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過往活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
