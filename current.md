@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
+source-wordcount: '3696'
 ht-degree: 95%
 
 ---
@@ -125,8 +125,9 @@ ht-degree: 95%
 
 +++詳細資訊
 
-| 日期 | 功能 | 說明 |
+| 日期 | 更新 | 說明 |
 | -----------| -----------| ---------- |
+| 2025年3月6日 | 在功能表選項上按一下右鍵 | Experience Cloud標題導覽標籤現在允許按一下右鍵、瀏覽器下拉式選單功能。 這修正了2月發行的Spectrum 2設計系統所引入的問題。 |
 | 2 月 13 日 | Spectrum 2 | [!DNL Experience Cloud] 應用程式框架將更新為 Spectrum 2，包括標題列和從標題列存取的元件 (以及某些應用程式的左側導覽邊欄)。Spectrum 是 Adobe 的設計標準。這個更新設計包含了更新的圖示設計，但功能保持不變。然而，標題中的幾個元素已重新定位，以便與其他 Adobe 網站和應用程式保持一致。 |
 
 如需有關 [!DNL Experience Cloud] 中央介面元件的說明，請參閱 [Experience Cloud 介面與管理指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud) (包括 [!UICONTROL Customer Attributes]、[!DNL Experience Cloud Assets] 和 [!UICONTROL Audiences])。
