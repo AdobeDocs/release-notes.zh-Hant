@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3696'
-ht-degree: 95%
+source-wordcount: '3688'
+ht-degree: 96%
 
 ---
 
@@ -87,13 +87,13 @@ ht-degree: 95%
 
 +++詳細資訊
 
-* **[!DNL Experience Manager Forms]** | _濃縮咖啡與Experience Manager： AEM Forms_ | **3月6日** | 加入Adobe的AEM產品團隊，他們將重點說明AEM Forms的最新創新，包括：新的Gen AI助理、與AEM Sites的統一構成，以及通過對話部署表單的新方式。 | [報名](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _數位體驗會議_ | **3月18日至19日@ Las Vegas &amp; Online**| 加入同行的行列，聆聽可口可樂公司、JPMorganChase、ServiceNow等公司的主管意見。 |  [報名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _連線：行銷與Creative的管理員聊天_ | **3月7日** | 無論您是行銷、創意或任何其他團隊的Workfront系統管理員，此互動式討論將專注於最佳實務和集體腦力激盪。 | [報名](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _學習：使用Adobe Workfront規劃繪製課程成功圖表_ | **3月13日** | 加入我們的Adobe產品經理，參加有關Workfront Planning的深入入門課程，他們將分享此功能如何提供組織運營詳細資訊的全面可見性。 | [報名](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _管理員101：取得Workfront資料_ | **3月11日** | 不熟悉Workfront？ 參加第三屆Admin 101系列會議，瞭解所有報告內容。 您可以期待有關藍圖、控制面板、自訂Forms等專案的互動式討論。 | [報名](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _管理員101：提出您的Workfront問題_ | **3月25日** | 不熟悉Workfront？ 您錯過先前任何管理員基本知識研討會了嗎？歡迎加入我們的摘要研討會，以提出問題並獲得資源和建議，並認識其他新手管理員。| [報名](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit — 數位體驗會議_ | **3月18日至19日@ Las Vegas &amp; Online**| 加入同行的行列，聆聽可口可樂公司、JPMorganChase、ServiceNow等公司的主管意見。 |  [報名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _Personalization at Scale Insights， Intelligence and Impact_ | **4月1日** | Adobe Target創新，包括Gen AI，以及大規模AI支援的個人化和實驗的最佳實務。 | [報名](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 還有更多精彩內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過往活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
