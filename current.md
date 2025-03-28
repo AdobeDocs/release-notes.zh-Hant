@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ ht-degree: 96%
 +++事件
 
 * **[!DNL Adobe Summit]** | _數位體驗大會_ | **3 月 18 日至 19 日，於拉斯維加斯和線上舉行**| 與同行一起聆聽可口可樂公司、JPMorganChase、ServiceNow 等公司高階主管的演說。| [報名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _管理員基本知識：提出您的 Workfront 問題_ | **3 月 25 日** | 您是 Workfront 新手嗎？您錯過先前任何管理員基本知識研討會了嗎？歡迎加入我們的摘要研討會，以提出問題並獲得資源和建議，並認識其他新手管理員。| [報名](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _學習：Adobe Workfront 中的 10 個文字模式提示_ | **3 月 27 日** | 想要增加使用文字模式處理報告的知識嗎？來這裡就對了！本研討會為您介紹文字模式基本知識和 API Explorer，然後介紹 Adobe Workfront 的 10 個基本提示。| [報名](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _連結：Workfront Collective_ | **3 月 31 日** | 參與我們每月一次的週一 Workfront Collective 活動，與其他客戶聯繫交流、討論 Workfront 功能、分享想法並共同集思廣益，以解決常見挑戰。| [報名](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
