@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
 workflow-type: tm+mt
 source-wordcount: '3879'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home)是您的資源庫，可協助您瞭解Experience Cloud和Adobe企業應用程式。 登入並：
+[Experience League](https://experienceleague.adobe.com/#home) 是您的資源庫，可幫助您了解 Experience Cloud 和 Adobe 企業應用程式。登入然後：
 
-* [自訂您的學習](https://experienceleague.adobe.com/en/home/profile-settings)：請協助我們自訂您的學習體驗。 選取您的角色、產業以及您感興趣的產品。
-* [瀏覽並探索](https://experienceleague.adobe.com/en/browse)：尋找熱門內容、新教學課程、檔案、即將到來的活動等！
-* [取得全新的觀點](https://experienceleague.adobe.com/en/perspectives)：我們已收集各種真實的使用案例和最佳實務，由您的同業和Adobe產品專家撰寫。
-* [取得認證](https://experienceleague.adobe.com/en/certification-home)：新的Adobe認證入口網站可讓您輕鬆磨練技能，取得認證。
-* [與同儕社群互動](https://experienceleaguecommunities.adobe.com/)：加入群組、與我們的Experience League社群顧問會面，甚至瞭解如何成為社群。
+* [自訂您的學習](https://experienceleague.adobe.com/en/home/profile-settings)：協助我們打身打造您的學習體驗。選取您的角色、產業，以及您感興趣的產品。
+* [瀏覽與探索](https://experienceleague.adobe.com/en/browse)：尋找熱門內容、新的教學課程、文件、即將舉行的活動等！
+* [取得全新觀點](https://experienceleague.adobe.com/en/perspectives)：我們收集了各種真實使用案例和最佳實務，皆由您的同業及 Adobe 產品專家所撰寫。
+* [獲得認證](https://experienceleague.adobe.com/en/certification-home)：透過新的 Adobe 認證入口網站，輕鬆精進技能並獲得認證。
+* [與同業社群互動](https://experienceleaguecommunities.adobe.com/)：加入小組，認識我們的 Experience League 社群顧問，甚至也能學習如何成為顧問。
 
-若要收到關於此頁面更新的每季電子郵件通知，請訂閱[Adobe優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
+若要收到關於本頁面更新的每季電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
 ## 2025 年 3 月
 
-最近更新： **2025年3月13日**
+最近更新日期：**2025 年 3 月 13 日**
 
 使用這些連結尋找應用程式發行說明、事件、新教學課程，以及最新的知識庫支援文章：
 
@@ -62,11 +62,11 @@ ht-degree: 95%
 * [Adobe 的認證](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
 
-## [!DNL Experience League]上的事件 {#events}
+## [!DNL Experience League] 上的活動 {#events}
 
-尋找[事件](https://experienceleague.adobe.com/events/)並註冊您感興趣的事件。
+尋找並報名參加您感興趣的[活動](https://experienceleague.adobe.com/events/)。
 
-+++事件
++++活動
 
 * **[!DNL Adobe Summit]** | _數位體驗大會_ | **3 月 18 日至 19 日，於拉斯維加斯和線上舉行**| 與同行一起聆聽可口可樂公司、JPMorganChase、ServiceNow 等公司高階主管的演說。| [報名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
@@ -86,7 +86,7 @@ ht-degree: 95%
 
 了解 [!DNL Adobe System Status] 的最新功能和更新。
 
-無三月更新。
+沒有 3 月份的更新。
 
 +++發行說明
 
@@ -357,7 +357,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * [!DNL Campaign] v8：(2025 年 2 月 14 日) [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]：(2025 年 2 月 18 日) [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs /campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]：(2025 年 2 月 18 日) [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Standard]：[25.1 - 2025 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
 
