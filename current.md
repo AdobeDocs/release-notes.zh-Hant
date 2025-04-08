@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
 workflow-type: tm+mt
-source-wordcount: '3879'
+source-wordcount: '3746'
 ht-degree: 99%
 
 ---
@@ -31,11 +31,9 @@ ht-degree: 99%
 
 ## 2025 年 3 月
 
-最近更新日期：**2025 年 3 月 13 日**
-
 使用這些連結尋找應用程式發行說明、事件、新教學課程，以及最新的知識庫支援文章：
 
-* [[!DNL Experience League] 活動和更新](#events)
+* [[!DNL Experience League] 事件與更新](#events) （4 月 8 **日更新**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +66,9 @@ ht-degree: 99%
 
 +++活動
 
-* **[!DNL Adobe Summit]** | _數位體驗大會_ | **3 月 18 日至 19 日，於拉斯維加斯和線上舉行**| 與同行一起聆聽可口可樂公司、JPMorganChase、ServiceNow 等公司高階主管的演說。| [報名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _連結：Workfront Collective_ | **3 月 31 日** | 參與我們每月一次的週一 Workfront Collective 活動，與其他客戶聯繫交流、討論 Workfront 功能、分享想法並共同集思廣益，以解決常見挑戰。| [報名](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _大規模個人化的相關洞察、情報與影響_ | **4 月 1 日** | Adobe Target 創新，包括 [!DNL Gen AI]，以及 AI 驅動的個人化和大規模實驗的最佳實務。| [報名](https://event.adobe.com/adobetargetmaturitywebinars03)
-
-* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _完美融合：AEM 與 Workfront 共同開啟協作新紀元_ | **4 月 2 日** |探索 Adobe Experience Manager 和 Workfront 的整合如何協助團隊順利完成從構思至交付的過程，不再遭遇常見的瓶頸，確保內容井然有序、符合品牌形象，而且更快完成上線準備。| [報名](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
-
 * **[!DNL Analytics]** | _資料滴灌：從舊系統遷移至 WebSDK 的優勢_ | **4 月 10 日** | 一起加入，由 Adobe 技術顧問 Arindam Agarwal 引導我們了解實施 Adobe WebSDK 的優點。Arindam 將會提供深入淺出的概觀，並在問答環節現場回答問題。立即報名！| [報名](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-還有更多精彩內容！檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過往活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
+檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過往活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
 +++
 
@@ -475,7 +465,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 最新版本：
 
-* [2025年第二季版本總覽](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+* [2025 年第二季度版本概述](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
 
 如需所有發行資訊：
 
