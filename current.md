@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
+source-git-commit: aa6db19854fe6a00df59aa25a18874bc3a0d72f4
 workflow-type: tm+mt
-source-wordcount: '3864'
-ht-degree: 96%
+source-wordcount: '3879'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
 
 使用這些連結尋找應用程式發行說明、事件、新教學課程，以及最新的知識庫支援文章：
 
-* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **4月9日**）
+* [[!DNL Experience League] 個活動和更新](#events) （更新日期： **4月15日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,11 +66,11 @@ ht-degree: 96%
 
 +++活動
 
-* **[!DNL Analytics]** | _資料滴灌：從舊系統遷移至 WebSDK 的優勢_ | **4 月 10 日** | 一起加入，由 Adobe 技術顧問 Arindam Agarwal 引導我們了解實施 Adobe WebSDK 的優點。Arindam 將會提供深入淺出的概觀，並在問答環節現場回答問題。立即報名！| [報名](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+* **[!DNL Marketo]** | _Marketo &amp; Mochas：稽核繼承或目前的執行個體_ | **4月17日** | 您最近是否繼承Marketo執行個體？ 抑或尋求對目前的執行個體執行定期稽核，以發揮其最大潛力？ 加入我們的Marketo和Mochas網路研討會，與我們的Adobe業務顧問Cynthia Chang和Carly Gaver一起參加，中心討論如何執行深入稽核以瞭解您執行個體的目前狀態。 | [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Real-Time Customer Data Platform]** | _請勿等候……共同作業！ 介紹Real-Time CDP Collaboration_ | **4月10日** | Real-Time CDP Collaboration現在可供美國客戶使用，為品牌和發佈商提供專門建置、使用者友好、以隱私權為中心的資料共同作業。 它可協助您探索、啟用及衡量對象，以根據付費行銷的步伐最大化廣告收入並強化付費媒體工作。 最棒的部分是，如果您是Real-Time CDP的客戶，便已能存取這項令人驚歎的新功能！ | [報名](https://engage.adobe.com/ExpLeagueLive-250410.html)
+* **[!DNL Workfront]** | _連線： Workfront Collective_ | **4月21日** | 此活動沒有正式簡報或議程。 討論的主題是根據您的參與程度。 如果您在Workfront中遇到挑戰（或想要分享和推廣成功！）而想要與其他客戶討論解決方案，請將此研討會想像成一次集體性的問題解決會議，這是最適合您的活動。 | [報名](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _連線：行銷與Creative的管理員聊天_ | **4月11日** | 此互動式討論旨在將您與其他管理員連線在一起，並分享最佳實務以及提示和秘訣，以協助您和您的使用者充分利用Workfront。 | [報名](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **多重解決方案** | _Brew之後：主動式監控工具的完整劃分_ | **4月24日** | 加入我們的行列，深入瞭解如何運用SWAT、Fastly和New Relic等尖端監控工具，最佳化系統健康狀況和效能。  | [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 檢視所有[即將舉行的活動](https://experienceleague.adobe.com/events/)或瀏覽關於 Experience League 的[過往活動錄影](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
 
@@ -349,11 +349,13 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 ### 最新 Campaign 產品版本
 
-* [!DNL Campaign] v8：(2025 年 2 月 14 日) [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4： [發行說明](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]：(2025 年 2 月 18 日) [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-Hant/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]：[25.1 - 2025 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]：[發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/campaign-standard-home)
+
+* [!DNL Campaign Classic] 7.4.2： [發行說明](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
