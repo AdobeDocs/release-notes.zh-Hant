@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 4c6d4a25f4dba2d88fc986eab08b34d7d9a4fa97
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4067'
 ht-degree: 37%
 
 ---
@@ -96,8 +96,8 @@ ht-degree: 37%
 
 | 功能 | 說明 |
 | ------- | ------- |
-| **虛擬助理測試版** | <ul><li>虛擬協助是一項功能，可讓[!DNL Adobe Status]位網頁和行動客戶獲得問題的解答，並協助執行快速動作，而不需離開首頁。 這可作為一個位置，讓他們可取得所有查詢的解析。 如果您想要參與客戶測試版，請傳送電子郵件至[statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com)。 </li></ul> |
-| **新的事件字彙表說明頁面** | <ul><li>專用說明頁面可針對[!DNL Adobe Status]使用者提供所有事件型別、圖示及其詳細狀態的指南，讓您更輕鬆地瀏覽網站。</li><li>Adobe狀態概觀頁面>說明功能表的新功能表專案（事件字彙表）會指向此新頁面。</li><li>任何參考[!DNL Adobe Status]的Adobe表面都可以新增連結至新的說明頁面。</li></ul> |
+| **虛擬助理測試版** | <ul><li>虛擬助理功能可讓Status客戶在網頁和行動裝置上取得問題的解答，並幫助執行快速動作而不需離開首頁。 它可以當作一個取得所有查詢解析的位置。 如果您想要參與客戶測試版，請傳送電子郵件至[statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com)。 </li></ul> |
+| **新的事件字彙表** | <ul><li>專用說明頁面可針對[!DNL Adobe Status]使用者提供所有事件型別、圖示及其詳細狀態的指南，讓您更輕鬆地瀏覽網站。</li><li>Adobe狀態概觀頁面>說明功能表的新功能表專案（事件字彙表）會指向此新頁面。</li><li>任何參考[!DNL Adobe Status]的Adobe表面都可以新增連結至新的說明頁面。</li></ul> |
 | **錯誤修正和改良** | <ul><li>Slack通知 — 提醒訊息顯示為已排程</li><li>已淘汰的產品事件不應顯示在概觀頁面上</li><li>_已關閉_ > _已解除的CSO_&#x200B;更新訊息，未傳送通知</li><li>重新整理時載入狀態網頁頁首和頁尾需要很長時間</li><li>頁尾上的狀態本地化功能表損毀</li></ul> |
 
 [!DNL Adobe System Status]的舊版發行說明：
