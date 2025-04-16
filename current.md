@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ ht-degree: 37%
 若要收到關於此頁面更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
 更新日期： **2025年4月16日**
+
++++檢視所有產品
 
 * [[!DNL Experience League] 個活動和更新](#events) （更新日期： **4月15日**）
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ ht-degree: 37%
 * [Adobe 的認證](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 產品安全性漏洞](https://helpx.adobe.com/tw/security.html)
 
++++
+
 ## [!DNL Experience League] 上的活動 {#events}
 
 尋找並報名參加您感興趣的[活動](https://experienceleague.adobe.com/en/events)。
 
-+++活動
++++即將到來的活動
 
 * **[!DNL Marketo]** | _Marketo &amp; Mochas：稽核繼承或目前的執行個體_ | **4月17日** | 您最近是否繼承Marketo執行個體？ 抑或尋求對目前的執行個體執行定期稽核，以發揮其最大潛力？ 加入我們的Marketo和Mochas網路研討會，與我們的Adobe業務顧問Cynthia Chang和Carly Gaver一起參加，中心討論如何執行深入稽核以瞭解您執行個體的目前狀態。 | [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
