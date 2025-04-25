@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
-workflow-type: ht
-source-wordcount: '4065'
-ht-degree: 100%
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
+workflow-type: tm+mt
+source-wordcount: '3833'
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 若要收到關於此頁面更新的每月電子郵件通知，請訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)。
 
-**更新日期：2025 年 4 月 16 日**
+**更新日期：2025年4月25日**
 
 +++檢視所有產品
 
@@ -67,15 +67,7 @@ ht-degree: 100%
 
 +++即將舉辦的活動
 
-* **[!DNL Marketo]** | _Marketo &amp; Mochas: Auditing an Inherited or Current Instance_ | **4 月 17 日** | 您最近繼承一個 Marketo 執行個體嗎？又或者您想對現有執行個體定期進行稽核，發揮其最大潛力？歡迎加入我們的 Marketo &amp; Mochas 網路研討會，由 Adobe 業務顧問 Cynthia Chang 和 Carly Gaver 主持，著重討論如何進行深度稽核並藉此了解執行個體目前的狀態。| [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **4 月 21 日** | 此活動無官方簡報或議程。討論主題依您的參與互動而定。請將本研討會視為集體解決問題的會議。如果您在 Workfront 中遭遇一些難題 (或者您想分享與宣傳成功經歷！)，想與其他客戶討論解決方式，那麼您非常適合參加本活動。| [報名](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **多元解決方案** | _Behind the Brew: A Full Breakdown on Proactive Monitoring Tools_ | **4 月 24 日** | 加入我們提供獨到見解的研討會，瞭解如何利用 SWAT、Fastly 和 New Relic 等先進監控工具讓系統運作狀況與效達到最佳化。| [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _Adobe ACC Delivery Performance - Troubleshooting_ | **4 月 25 日** | 我們將在本會議中探討使用 Adobe Campaign Classic (ACC) 提供最佳效能時面臨的常見難題，並提供故障排除與解決問題的可行策略。了解如何找出效能瓶頸、解決傳遞準備/設定不一致的狀況，以及實作最佳實務以確保傳遞順暢。| [報名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-查看 Experience League 上完整列出的[即將舉辦的活動](https://experienceleague.adobe.com/en/events)或瀏覽[過去的活動](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)。
+在Experience League上檢視[即將到來的](https://experienceleague.adobe.com/en/events)和[隨選](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview)活動的完整清單。
 
 +++
 
