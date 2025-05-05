@@ -12,7 +12,7 @@ ht-degree: 100%
 ## Adobe 開放原始碼行為準則
 
 
-此專案採行 [Adobe 開放原始碼行為準則](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html)或 [.NET Foundation 行為準則](https://dotnetfoundation.org/code-of-conduct)。如需詳細資訊，請參閱[貢獻](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html)一文。
+此專案採行 [Adobe 開放原始碼行為準則](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=zh-Hant)或 [.NET Foundation 行為準則](https://dotnetfoundation.org/code-of-conduct)。如需詳細資訊，請參閱[貢獻](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=zh-Hant)一文。
 
 ## 關於您對 Adobe 內容的貢獻
 
