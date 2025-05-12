@@ -237,7 +237,7 @@ ht-degree: 89%
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025 年 3 月 | [使用 Analysis Workspace 中的引導式分析](https://experienceleague.adobe.com/zh-hant/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace) | 新影片 | 使用[!UICONTROL  Analysis Workspace] 中的[!UICONTROL 引導式分析]，透過引導式工作流程，以自助方式獲取高品質資料深入分析。 |
+| 2025 年 3 月 | [使用 Analysis Workspace 中的引導式分析](https://experienceleague.adobe.com/zh-hant/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace) | 新影片 | 使用[!UICONTROL &#x200B; Analysis Workspace] 中的[!UICONTROL 引導式分析]，透過引導式工作流程，以自助方式獲取高品質資料深入分析。 |
 
 +++
 
