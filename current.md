@@ -162,7 +162,7 @@ ht-degree: 34%
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|----|----|-----------|
-| 2025 年 6 月 | [在AEP **[!UICONTROL 設定檔檢視器]****[!UICONTROL 中解析灰色]** Edge](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26624)按鈕 | 新文章 | 瞭解當Adobe Experience Platform (AEP) **[!UICONTROL 設定檔檢視器]**&#x200B;中&#x200B;**[!UICONTROL 對象成員資格]**&#x200B;底下的&#x200B;**[!UICONTROL Edge]**&#x200B;按鈕顯示為灰色時，此問題的解決方案。 |
+| 2025 年 6 月 | [在AEP **[!UICONTROL 設定檔檢視器]**&#x200B;**[!UICONTROL 中解析灰色]** Edge](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26624)按鈕 | 新文章 | 瞭解當Adobe Experience Platform (AEP) **[!UICONTROL 設定檔檢視器]**&#x200B;中&#x200B;**[!UICONTROL 對象成員資格]**&#x200B;底下的&#x200B;**[!UICONTROL Edge]**&#x200B;按鈕顯示為灰色時，此問題的解決方案。 |
 | 2025 年 6 月 | 在Adobe Experience Platform中修正[SFTP多重存取擷取錯誤](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26748) | 新文章 | 瞭解當檔案存取原則限制多次存取時，Adobe Experience Platform (AEP)無法從SFTP擷取資料的問題解決方案。 |
 | 2025 年 6 月 | [無法存取Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26778) | 新文章 | 瞭解您看到錯誤&#x200B;*此使用者未啟用任何沙箱問題的解決方案。 請洽詢組織管理員，要求存取至少一個沙箱。在Adobe Experience Platform中*，即使您已新增至具有管理許可權的正確產品設定檔。 |
 | 2025 年 6 月 | Adobe Experience Platform [對象產生器中的](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26806)運算元比較問題 | 新文章 | 瞭解使用Adobe Experience Platform (AEP) [!UICONTROL Audience Builder]時問題的解決方案，使用體驗事件資料篩選對象時，會發生多個錯誤。 |
@@ -506,7 +506,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * 請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)取得更新和協助
 
-**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
+**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
