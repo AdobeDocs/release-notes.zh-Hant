@@ -548,7 +548,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * 請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)取得更新和協助
 
-**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
+**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
