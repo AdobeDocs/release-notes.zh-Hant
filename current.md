@@ -454,7 +454,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 | 2025 年 7 月 | [啟用 Braintree 付款後，管理員無法建立訂單/重新訂購](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27169) | 新文章 | 了解 Adobe Commerce 2.4.5 問題的修補程式，該問題為當啟用 Braintree 付款方式時，管理員使用者無法為客戶建立訂單或重新訂購。 |
 | 2025 年 7 月 | [[!DNL JQuery] 針對 2.4.4、2.4.5 和 2.4.6 版本使用者介面安全性漏洞 CVE-2022-31160 修復](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27176) | 新文章 | 了解針對 2.4.4、2.4.5 和 2.4.6 版本 [!DNL JQuery] 使用者介面安全性漏洞 CVE-2022-31160 的修復程式。 |
 | 2025 年 7 月 | [可用於 Adobe Commerce - APSB25-50 的安全性更新](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27181) | 新文章 | 了解針對 APSB25-50 安全性公告的修補程式。 |
-| 2025 年 7 月 | 從低於 2.4.5 的版本升級時出現 [**[!UICONTROL salesRule ]**標籤問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27186) | 新文章 | 了解能解決 **[!UICONTROL salesRule]** 標籤從低於 2.4.5 版本的 Adobe Commerce 升級後不相符之問題的修補程式。 |
+| 2025 年 7 月 | 從低於 2.4.5 的版本升級時出現 [**[!UICONTROL salesRule &#x200B;]**&#x200B;標籤問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27186) | 新文章 | 了解能解決 **[!UICONTROL salesRule]** 標籤從低於 2.4.5 版本的 Adobe Commerce 升級後不相符之問題的修補程式。 |
 | 2025 年 7 月 | [Adobe Commerce 2.4.6 從管理員面板下訂單時出錯](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27187) | 新文章 | 了解能解決當您從 Commerce 管理員面板提交訂單後會停留在商店選擇步驟之已知 Adobe Commerce on Cloud 基礎結構 2.4.6 問題的修補程式。 |
 | 2025 年 7 月 | [整合環境增強請求 - Pro 和 Starter](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27242) | 新文章 | 了解 Pro 和 Starter 計畫商家如何透過減少整合分支、提交支援服務單和重新部署環境來進行升級，解決部署緩慢和效能問題。 |
 | 2025 年 7 月 | [App Builder 使用動態 IP 與外部服務整合](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-27043) | 新文章 | 了解 App Builder 使用動態 IP 與外部服務整合。 |
@@ -534,7 +534,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。
 
-**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
+**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
