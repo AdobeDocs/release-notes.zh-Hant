@@ -170,7 +170,7 @@ ht-degree: 39%
 
 **Mobile SDK**
 
-更新日期： 2025年9月5日&#x200B;****
+更新日期： 2025年9月5日&#x200B;**&#x200B;**
 
 如需詳細資訊，請參閱 [[!DNL Experience Platform] Mobile SDK 發行說明](https://developer.adobe.com/client-sdks/documentation/release-notes/)。
 
@@ -362,7 +362,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 |---------|--------|---------|---------|
 | 2025 年 8 月 | [使用[!UICONTROL LiveCopy]後，發佈至DM對某些資產無法運作](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27254) | 新文章 | 瞭解當來源位置中的資產同步到DynamicMedia Scene7時，這可能會導致與同步無法如預期運作之目標位置中的資產發生衝突。 |
 | 2025 年 8 月 | [在AEM中停用特定元件執行個體的Dispatcher快取](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27185) | 新文章 | 瞭解為特定元件執行個體停用Dispatcher快取時，當一個頁面上的多個元件共用相同`resourceType`時，問題的解決方案。 |
-| 2025 年 8 月 | 從Dynamic Media連線Adobe Analytics時，[*[!UICONTROL 更新您的瀏覽器&#x200B;]*錯誤](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27200) | 新文章 | 瞭解當透過&#x200B;*[!UICONTROL 上的AEM Dynamic Media案頭應用程式連線Adobe Analytics時發生]*&#x200B;更新您的瀏覽器[!DNL Windows]錯誤的問題解決方案。 |
+| 2025 年 8 月 | 從Dynamic Media連線Adobe Analytics時，[*[!UICONTROL 更新您的瀏覽器&#x200B;]*&#x200B;錯誤](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27200) | 新文章 | 瞭解當透過&#x200B;*[!UICONTROL 上的AEM Dynamic Media案頭應用程式連線Adobe Analytics時發生]*&#x200B;更新您的瀏覽器[!DNL Windows]錯誤的問題解決方案。 |
 | 2025 年 8 月 | [Adobe Experience Manager： 6.5.23](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27297)上Dynamic Media混合式本機影像傳遞的404錯誤 | 新文章 | 瞭解當Dynamic Media混合式無法在AEM 6.5.23上傳遞本機影像時問題的解決方案。 |
 | 2025 年 8 月 | [Adobe Experience Manager：在AEM 6.5.23[!UICONTROL 中切換至]開發人員](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27405)模式後，無法編輯頁面 | 新文章 | 瞭解在頁面編輯器中切換至[!UICONTROL 開發人員]模式時發生多個問題的解決方案。 |
 | 2025 年 8 月 | 在AEM網站頁面[上停用](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27075)最適化表單提交按鈕 | 新文章 | 瞭解當您將[!UICONTROL 最適化表單]內嵌至AEM網站頁面時，由於遺失或未初始化的JavaScript相依性，**提交**&#x200B;按鈕保持停用狀態。 |
@@ -378,7 +378,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2025 年 8 月 | [無法在AEMaaCS的[!UICONTROL 網域設定]中建立內部網域 — Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27171) | 新文章 | 瞭解當您無法透過AEMaaCS - Assets中的[!UICONTROL 網域設定]介面為[!UICONTROL 作者]執行個體設定自訂內部網域時，問題的解決方案。 |
 | 2025 年 8 月 | [無法從AEMaaCS中的CRX封裝管理員下載封裝](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27175) | 新文章 | 瞭解在CRX封裝管理員中標示為`SYSTEM`的封裝無法在AEMaaCS中下載時問題的解決方案。 |
 | 2025 年 8 月 | 超過100 MB的檔案在AEMaaCS中[PDF預覽失敗](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27183) | 新文章 | 瞭解當大於100 MB的PDF檔案無法在AEMaaCS中預覽時問題的解決方案。 |
-| 2025 年 8 月 | 在AEMaaCS中於排程時間清除Dispatcher快取[](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27184) | 新文章 | 瞭解如何在支援在AEMaaCS中排程的內容發佈所需的特定時間清除Dispatcher快取。 |
+| 2025 年 8 月 | 在AEMaaCS中於排程時間清除Dispatcher快取[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27184) | 新文章 | 瞭解如何在支援在AEMaaCS中排程的內容發佈所需的特定時間清除Dispatcher快取。 |
 | 2025 年 8 月 | 在AEMaaCS[記錄檔轉送期間發生 [!DNL Splunk] 部署錯誤](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27196) | 新文章 | 瞭解在設定[!DNL Splunk]記錄檔轉送時，由於AEMaaCS中的端點使用不當或網路設定錯誤，導致部署失敗的問題解決方案。 |
 | 2025 年 8 月 | [無效的SAML Token封鎖登入AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27217) | 新文章 | 瞭解在AEMaaCS的開發環境中測試SAML驗證的更新設定時問題的解決方案，系統在登入期間傳回&#x200B;*invalid_token*&#x200B;錯誤。 |
 | 2025 年 8 月 | [在AEMaaCS中啟用ESI的說明](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27280) | 新文章 | 瞭解如何在AEMaaCS中啟用[!DNL Edge Side Includes] (ESI)。 |
@@ -497,7 +497,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。
 
-**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
+**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
