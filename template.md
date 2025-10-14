@@ -4,9 +4,9 @@ description: Experience Cloud 發行說明
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Adobe Experience Cloud 的新功能及修正項目。
 
 請參閱 [Adobe 系統狀態](https://status.adobe.com/)。
 
-## ![圖示](/assets/ec_appicon_24.png) Experience Cloud 中央 UI 元件 {#ecloud}
+## Experience Cloud 中央 UI 元件 {#ecloud}
 
 Experience Cloud 中央介面元件包括可從統一產品標題存取的更新，例如自助服務、搜尋和使用者帳戶偏好設定。  您可以在此處找到人員、地點 (定位) 和產品管理的更新。
 
@@ -64,9 +64,9 @@ Experience Cloud 中央介面元件包括可從統一產品標題存取的更新
 
 功能和修正。
 
-## ![圖示](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
-[!DNL Experience Platform,] 的發行說明，內容包括 [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL 選件]、[!UICONTROL 人員]、[!UICONTROL 地點]、[!UICONTROL 行動服務]和安全性公告。
+[!DNL Experience Platform,] 的發行說明，內容包括 [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL 產品建議]、[!UICONTROL 人員]、[!UICONTROL 地點]、[!UICONTROL 行動服務]和安全性公告。
 
 * [Experience Cloud ID 服務](#ecid)
 * [Experience Platform 發行說明](https://www.adobe.com/go/platform-release-notes_tw)
@@ -260,7 +260,7 @@ Marketo Engage 是銷售機會管理的完整解決方案，也適合 B2B 行銷
 * **Microsoft® Dynamics _在 Microsoft®_ Flow Action 中的變更負責人：**&#x200B;直接從 Marketo Engage 變更銷售機會或連絡負責人。
 * **增強 API 呼叫功能：**
    * 使用者管理 API
-   * 自訂物件綱要 API
+   * 自訂物件結構描述 API
    * 登陸頁面重新導向規則 API
 * **表單描述元快取：**&#x200B;改善登陸頁面與表單。
 
