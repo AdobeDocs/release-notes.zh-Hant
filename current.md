@@ -646,7 +646,7 @@ GenStudio for Performance Marketing的教學影片。
 
 * [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/zh-hant/browse/genstudio-for-performance-marketing) (全自助功能)
 * GenStudio for Performance Marketing 的[產品文件](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/home)
-* [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) 產品資訊
+* [GenStudio for Performance Marketing](https://business.adobe.com/tw/products/genstudio-for-performance-marketing.html) 產品資訊
 
 +++
 
