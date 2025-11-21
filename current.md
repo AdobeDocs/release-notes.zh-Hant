@@ -306,7 +306,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025 年 10 月 | [使用Dynamic Media及Open API進行效能相關問答](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27825) | 新文章 | 瞭解當DMwOA影像提供的延遲時間比預期更長時問題的解決方案。 |
 | 2025 年 10 月 | [使用OpenAPI的DM問題 — 視訊播放器容器API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27804) | 新文章 | 瞭解當使用具有開放API函式的DynamicMedia，並使用傳回的程式碼在未變更的情況下顯示外部網站的檢視器時，程式碼會產生格式錯誤的URL來擷取視訊詳細資訊，且無法如預期運作。 |
 | 2025 年 10 月 | 在AEM Forms as a Cloud Service中使用本機開發權杖時發生[401錯誤](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27706) | 新文章 | 瞭解在AEM Forms as a Cloud Service中使用Adobe Developer Console (ADC)的本機開發權杖時，問題的解決方案，發生401錯誤。 |
-| 2025 年 10 月 | [**[!UICONTROL 刪除請求&#x200B;]**工作流程在AEM Sites中無法運作](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | 新文章 | 瞭解當您刪除沒有&#x200B;**[!UICONTROL 復寫]**&#x200B;許可權的內容頁面時，AEM Sites中的問題解決方案，系統會觸發&#x200B;**[!UICONTROL 刪除請求]**&#x200B;工作流程。 |
+| 2025 年 10 月 | [**[!UICONTROL 刪除請求&#x200B;]**&#x200B;工作流程在AEM Sites中無法運作](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | 新文章 | 瞭解當您刪除沒有&#x200B;**[!UICONTROL 復寫]**&#x200B;許可權的內容頁面時，AEM Sites中的問題解決方案，系統會觸發&#x200B;**[!UICONTROL 刪除請求]**&#x200B;工作流程。 |
 | 2025 年 10 月 | [AEMaaCS：行動裝置在Dynamic Media影片中顯示兩個播放按鈕](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27477) | 新文章 | 瞭解當Adobe Experience Manager (AEM) as a Cloud Service中的Dynamic Media影片在行動裝置上檢視時顯示兩個重疊的播放按鈕時，問題的解決方案。 |
 | 2025 年 10 月 | [New Relic儀表板只會顯示AMS虛擬機器器(VM)，而不是AEMaaCS中的AEMaaCS VM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27864) | 新文章 | 瞭解New Relic儀表板僅顯示AMS虛擬機器器(VM)而非AEMaaCS VM時，AEMaaCS中問題的解決方案。 |
 | 2025 年 10 月 | [Querybuilder API略過Dispatcher篩選並公開敏感資訊](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27832) | 新文章 | 瞭解在Adobe Experience Manager as a Cloud Service (AEMaaCS)中存取控制問題時，Querybuilder API可以繞過Dispatcher篩選器，潛在地公開敏感資訊的問題的解決方案。 |
@@ -335,7 +335,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++發行說明、新的教學課程，以及支援文章
 
-* 請參閱 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
+* 請參閱 [&#x200B; [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
 * 請參閱「[Adobe [!DNL Commerce] 服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/home)」，查看 Commerce 服務版本資訊和文件。
 * 請參閱[產品可用性](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/product-availability)以存取個別的產品發行說明並確認可用性。
 
@@ -420,7 +420,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 |---------|----|----|-----------|
-| 2025 年 10 月 | 在Adobe Campaign Standard中啟用追蹤時，[電子郵件截斷為&quot;`&`&quot; ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27837) | 新文章 | 瞭解啟用追蹤時，&quot;`&`&quot;符號的電子郵件內容消失，ACS中問題的解決方案。 |
+| 2025 年 10 月 | 在Adobe Campaign Standard中啟用追蹤時，[電子郵件截斷為&quot;`&`&quot; &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27837) | 新文章 | 瞭解啟用追蹤時，&quot;`&`&quot;符號的電子郵件內容消失，ACS中問題的解決方案。 |
 | 2025 年 10 月 | [行銷活動：多儲存格[!UICONTROL 訊息中心]安裝程式中的多品牌](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27800) | 新文章 | 瞭解使用相同異動電子郵件範本、電子郵件內容中的URL未針對不同收件者顯示完全相同的子網域時，問題的解決方案，並瞭解如何使用多個[!UICONTROL 訊息中心]執行個體為使用者端設定多品牌。 |
 
 +++
@@ -437,7 +437,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。
 
-**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
+**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
@@ -503,7 +503,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 發行版本： **2025年10月**
 
 * [最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current)
-* [!DNL Marketo Engage] [ 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
+* [!DNL Marketo Engage] [&#x200B; 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
 * Dynamic Chat [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat) (2025 年 6 月 30 日)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
@@ -619,13 +619,13 @@ GenStudio for Performance Marketing 的教學影片。
 
 2025年10月29日
 
-查看 [ [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
+查看 [&#x200B; [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新功能 {#advertising-search}
 
 2025年10月15日
 
-查看 [ [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
+查看 [&#x200B; [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
 
 +++
 
