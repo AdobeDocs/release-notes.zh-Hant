@@ -393,7 +393,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++發行說明、新的教學課程，以及支援文章
 
-* 請參閱 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
+* 請參閱 [&#x200B; [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
 * 請參閱「[Adobe [!DNL Commerce] 服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/home)」，查看 Commerce 服務版本資訊和文件。
 * 請參閱[產品可用性](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/product-availability)以存取個別的產品發行說明並確認可用性。
 
@@ -501,7 +501,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 最新版本： **2026年1月**
 
-如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。(**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
+如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。(**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
@@ -565,7 +565,7 @@ New or updated videos tutorials published for Adobe Campaign.
 最新發行日期：**2025 年 10 月**
 
 * [最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current)
-* [!DNL Marketo Engage] [ 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
+* [!DNL Marketo Engage] [&#x200B; 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
 * Dynamic Chat [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat) (2025 年 6 月 30 日)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
@@ -678,13 +678,13 @@ Video tutorials for GenStudio for Performance Marketing.
 
 2025 年 12 月 17 日
 
-查看 [ [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
+查看 [&#x200B; [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新功能 {#advertising-search}
 
 2025 年 11 月 12 日
 
-查看 [ [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
+查看 [&#x200B; [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
 
 +++
 
