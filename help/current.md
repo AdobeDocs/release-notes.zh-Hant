@@ -45,7 +45,7 @@ ht-degree: 52%
 +++檢視區段連結
 
 * [活動排程](#events)
-* [ [!DNL Experience Cloud] 中的 AI 功能](#ai)
+* [&#x200B; [!DNL Experience Cloud] 中的 AI 功能](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -179,7 +179,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 | 2026 年 1 月 | 在AEP中執行來源資料流的[錯誤延遲警示](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29745) | 新文章 | 瞭解當來源資料流執行延遲的警報即使資料流執行成功完成(因為警報系統的監視訊號不總是符合Adobe Experience Platform中的實際執行量度)時，該問題的解決方案。 |
 | 2026 年 1 月 | [在Adobe Experience Platform中未觸發串流資料流擷取失敗的警示](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29762) | 新文章 | 瞭解當來源流量失敗的警報無法用於Adobe Experience Platform中的串流資料流時，問題的解決方案。 |
 | 2026 年 1 月 | 在AEP[中將區段匯出至 [!DNL LiveRamp] 時發生](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29774)驗證錯誤 | 新文章 | 瞭解從生產沙箱將區段匯出到Adobe Experience Platform中的[!DNL LiveRamp]上線目的地時出現驗證錯誤時問題的解決方案。 |
-| 2026 年 1 月 | [設定檔未同步至AEP中的Google Customer Match ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29806) | 新文章 | 瞭解僅一小部分設定檔在啟用對象至Google Customer Match時，因設定檔缺少Google支援的身分屬性或對應不正確而成功同步問題的解決方案。 |
+| 2026 年 1 月 | [設定檔未同步至AEP中的Google Customer Match &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29806) | 新文章 | 瞭解僅一小部分設定檔在啟用對象至Google Customer Match時，因設定檔缺少Google支援的身分屬性或對應不正確而成功同步問題的解決方案。 |
 | 2026 年 1 月 | [[!DNL Meta Pixel] 擴充功能會在AEP中先載入JavaScript再取得同意](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29840) | 新文章 | 瞭解當Adobe Experience Platform中的[!DNL Meta Pixel]擴充功能在同意前載入`fbevents.js`指令碼時，問題的解決方案。 |
 | 2026 年 1 月 | [整合 [!DNL The Trade Desk] 與Adobe Experience Platform並收集 [!DNL The Trade Desk ID]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29847) | 新文章 | 瞭解在整合[!DNL The Trade Desk ID]與Adobe Experience Platform時，透過Web SDK收集及對應[!DNL The Trade Desk]存在不確定性時的問題解決方案。 |
 
@@ -375,7 +375,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++發行說明、新的教學課程，以及支援文章
 
-* 請參閱 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
+* 請參閱 [&#x200B; [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
 * 請參閱「[Adobe [!DNL Commerce] 服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/home)」，查看 Commerce 服務版本資訊和文件。
 * 請參閱[產品可用性](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/product-availability)以存取個別的產品發行說明並確認可用性。
 
@@ -473,7 +473,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 最新版本：**2026年2月**
 
-如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。(**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
+如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。(**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
@@ -541,7 +541,7 @@ New or updated videos tutorials published for Adobe Campaign.
 最新版本： **2026年1月**
 
 * [最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current)
-* [!DNL Marketo Engage] [ 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
+* [!DNL Marketo Engage] [&#x200B; 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
 * Dynamic Chat [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat) (2025 年 6 月 30 日)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
@@ -654,13 +654,13 @@ GenStudio for Performance Marketing 的教學影片。
 
 2026年1月21日
 
-查看 [ [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
+查看 [&#x200B; [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新功能 {#advertising-search}
 
 2026年1月21日
 
-查看 [ [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
+查看 [&#x200B; [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
 
 +++
 
