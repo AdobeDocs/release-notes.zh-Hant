@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6327dedf77da7697e83326abcbe1ed75187eb138
+source-git-commit: c267781827d72bcd75bdfe8920b873c014095d8f
 workflow-type: tm+mt
-source-wordcount: '5639'
-ht-degree: 52%
+source-wordcount: '5811'
+ht-degree: 50%
 
 ---
 
@@ -82,7 +82,13 @@ ht-degree: 52%
 
 +++檢視即將舉行的活動
 
-* **[!DNL Workfront]** | _連線：行銷與Creative的管理員聊天_ | 我們很高興在2月26日將Adobe Insider巡迴賽帶到西雅圖 — 我們很樂意您加入我們。 | **3月6日** | [註冊](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _探索新的深入分析以及行銷和AI的下一步_ | 親身實踐最新的Adobe AI創新技術、聽取Adobe領導在主管主題演講中的意見，並從Accenture和Deloitte的合作夥伴及真實客戶中獲得深入見解，而所有這一切都與影響未來動向的同行們齊頭並進。 | **3月10日** | [註冊](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _向您的同行網路研討會學習： Adobe Commerce_ | 與Adobe Commerce Champions Manav Padhariya和Michael Schenck一起參加教育課程，說明如何將Adobe Commerce產品推薦從基本功能轉變為促進業務增長的強大AI原生策略性驅動因素。 | **3月11日** | [註冊](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe Insider導覽_ | 這個免費的半天活動充滿了專家深入分析、客戶成功案例，以及與同業及Adobe產品領導者交流的機會。 透過互動式會議與討論，探索最佳實務並瞭解如何使用Adobe解決方案實現價值最大化。 | **3月11日** | [註冊](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _探索新的深入分析以及行銷和AI的下一步_ | 親身實踐最新的Adobe AI創新技術、聽取Adobe領導在主管主題演講中的意見，並從Accenture和Deloitte的合作夥伴及真實客戶中獲得深入見解，而所有這一切都與影響未來動向的同行們齊頭並進。 | **3月12日** | [註冊](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]** | _洞見行銷、創意和 AI 的未來_ | 探索行銷、創意和 AI 的新未來。 | **拉斯維加斯，4 月 19 至 22 日** | [報名](https://summit.adobe.com/na/)
 
@@ -470,7 +476,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 ## [!DNL Journey Optimizer] {#journey-opt}
 
-了解 [!DNL Journey Optimizer] 的最新版本資訊。 在 Experience League 上檢視最新的教學課程和知識庫支援文章。
+了解關於 [!DNL Journey Optimizer] 的最新發行資訊。 在 Experience League 上檢視最新的教學課程和知識庫支援文章。
 
 +++發行說明和新的教學課程
 
