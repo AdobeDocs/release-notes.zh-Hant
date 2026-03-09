@@ -45,7 +45,7 @@ ht-degree: 50%
 +++檢視區段連結
 
 * [活動排程](#events) （更新日期： **2月20日**）
-*  [!DNL Experience Cloud]](#ai)中的[AI功能（更新日期： **3月3日**）
+* [!DNL Experience Cloud][&#128279;](#ai)中的AI功能（更新日期： **3月3日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 統一介面與管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -184,13 +184,13 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 |---------|----|----|-----------|
 | 2026 年 1 月 | [Customer Journey Analytics BI延伸模組未到期的認證發生連線問題](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29891) | 新文章 | 瞭解Adobe Experience Platform中不會到期的認證必須具有正確的Customer Journey Analytics存取權和資料檢視許可權，才能與BI工具搭配使用時的問題解決方案。 |
 | 2026 年 1 月 | [資料流擷取失敗，因為結構描述參考無效](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29710) | 新文章 | 瞭解當串流擷取因Adobe Experience Platform中的結構描述參考不正確或格式錯誤而失敗時，該問題的解決方案。 |
-| 2026 年 1 月 | 由於AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29715)中的SAS權杖過期，[[!DNL Databricks] 聯結器失敗 | 新文章 | 瞭解基礎架構變更後[!DNL Databricks]聯結器停止運作，或Spark設定中的SAS ([!DNL Shared Access Signature])權杖過期或在AEP中重新整理時，此問題的解決方案。 |
+| 2026 年 1 月 | 由於AEP[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29715)中的SAS權杖過期，[!DNL Databricks] 聯結器失敗 | 新文章 | 瞭解基礎架構變更後[!DNL Databricks]聯結器停止運作，或Spark設定中的SAS ([!DNL Shared Access Signature])權杖過期或在AEP中重新整理時，此問題的解決方案。 |
 | 2026 年 1 月 | [增量匯出至S3目的地時未匯出AEP中的對應對象](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29725) | 新文章 | 瞭解當遞增式匯出至Amazon S3目的地導致零筆記錄匯出時(即使對應的對象在AEP中顯示有效的遞增計數)，該問題的解決方案。 |
 | 2026 年 1 月 | [行銷動作清單在Adobe Experience Platform中不可見](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29744) | 新文章 | 瞭解行銷動作清單未出現且設定廣告目的地時頁面顯示空白(因為受影響使用者在Adobe Experience Platform中沒有Data Governance的正確許可權)時，此問題的解決方案。 |
 | 2026 年 1 月 | 在AEP中執行來源資料流的[錯誤延遲警示](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29745) | 新文章 | 瞭解當來源資料流執行延遲的警報即使資料流執行成功完成(因為警報系統的監視訊號不總是符合Adobe Experience Platform中的實際執行量度)時，該問題的解決方案。 |
 | 2026 年 1 月 | [在Adobe Experience Platform中未觸發串流資料流擷取失敗的警示](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29762) | 新文章 | 瞭解當來源流量失敗的警報無法用於Adobe Experience Platform中的串流資料流時，問題的解決方案。 |
-| 2026 年 1 月 | 在AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29774)中將區段匯出至 [!DNL LiveRamp] 時發生[驗證錯誤 | 新文章 | 瞭解從生產沙箱將區段匯出到Adobe Experience Platform中的[!DNL LiveRamp]上線目的地時出現驗證錯誤時問題的解決方案。 |
-| 2026 年 1 月 | [設定檔未同步至AEP中的Google Customer Match ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29806) | 新文章 | 瞭解僅一小部分設定檔在啟用對象至Google Customer Match時，因設定檔缺少Google支援的身分屬性或對應不正確而成功同步問題的解決方案。 |
+| 2026 年 1 月 | 在AEP[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29774)中將區段匯出至 [!DNL LiveRamp] 時發生驗證錯誤 | 新文章 | 瞭解從生產沙箱將區段匯出到Adobe Experience Platform中的[!DNL LiveRamp]上線目的地時出現驗證錯誤時問題的解決方案。 |
+| 2026 年 1 月 | [設定檔未同步至AEP中的Google Customer Match &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29806) | 新文章 | 瞭解僅一小部分設定檔在啟用對象至Google Customer Match時，因設定檔缺少Google支援的身分屬性或對應不正確而成功同步問題的解決方案。 |
 | 2026 年 1 月 | [[!DNL Meta Pixel] 擴充功能會在AEP中先載入JavaScript再取得同意](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29840) | 新文章 | 瞭解當Adobe Experience Platform中的[!DNL Meta Pixel]擴充功能在同意前載入`fbevents.js`指令碼時，問題的解決方案。 |
 | 2026 年 1 月 | [整合 [!DNL The Trade Desk] 與Adobe Experience Platform並收集 [!DNL The Trade Desk ID]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29847) | 新文章 | 瞭解在整合[!DNL The Trade Desk]與Adobe Experience Platform時，透過Web SDK收集及對應[!DNL The Trade Desk ID]存在不確定性時的問題解決方案。 |
 
@@ -346,8 +346,8 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2026 年 1 月 | [DASH/HLS最適化串流傳回&#x200B;*AEM Dynamic Media中未啟用進階串流*&#x200B;錯誤](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29657) | 新文章 | 瞭解當存取DASH最適化串流傳回&#x200B;*由於AEM Dynamic Media中MPD檔案的URL格式不正確而導致進階串流未啟用*&#x200B;錯誤時，此問題的解決方案。 |
 | 2026 年 1 月 | [Adobe Experience Manager：體驗片段(XF)複製和貼上作業失敗，出現錯誤快顯](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29837) | 新文章 | 瞭解當複製和貼上體驗片段(XF)導致錯誤快顯視窗出現且XF未貼上時的問題解決方案。 |
 | 2026 年 1 月 | [Adobe Experience Manager：如何停止傳送給不再使用AEM之使用者的AEM電子郵件](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29839) | 新文章 | 瞭解當使用者在停止使用AEM後仍繼續收到系統或工作流程電子郵件時問題的解決方案。 |
-| 2026 年 1 月 | 由於AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28132)中的Java版本不符，[TCP定位器無法啟動 | 新文章 | 瞭解當TCP定位器無法啟動時，因為在叢集環境中，SP22 Hotfix之後需要JDK 17或更新版本，問題的解決方案。 |
-| 2026 年 1 月 | 在AEM as a Cloud Service或AEM 6.5中使用Dispatcher](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28174)的[!UICONTROL 發佈]上，[ZIP資產傳回404 | 新文章 | 瞭解當上傳至AEM DAM的ZIP檔案在[!UICONTROL 作者]中發佈但於[!UICONTROL 發佈]存取時傳回404錯誤(因為Dispatcher預設會封鎖ZIP要求)問題的解決方案。 |
+| 2026 年 1 月 | 由於AEM[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28132)中的Java版本不符，TCP定位器無法啟動 | 新文章 | 瞭解當TCP定位器無法啟動時，因為在叢集環境中，SP22 Hotfix之後需要JDK 17或更新版本，問題的解決方案。 |
+| 2026 年 1 月 | 在AEM as a Cloud Service或AEM 6.5中使用Dispatcher[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28174)的[!UICONTROL 發佈]上，ZIP資產傳回404 | 新文章 | 瞭解當上傳至AEM DAM的ZIP檔案在[!UICONTROL 作者]中發佈但於[!UICONTROL 發佈]存取時傳回404錯誤(因為Dispatcher預設會封鎖ZIP要求)問題的解決方案。 |
 | 2026 年 1 月 | [透過 [!DNL Nginx]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28164)將AEM記錄檔轉送至HTTP端點時遺失錯誤記錄檔 | 新文章 | 瞭解當使用[!DNL Nginx]將AEM記錄檔轉送至自訂HTTP端點時，由於HTTP端點暫時無法使用或回應緩慢，導致遺失錯誤例外狀況記錄檔的問題的解決方案。 |
 | 2026 年 1 月 | [瞭解AEM as a Cloud Service中的Adobe Launch （標籤）環境對應](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28165) | 新文章 | 瞭解在AEM as a Cloud Service中設定Adobe Launch時問題的解決方案，該問題僅會顯示「測試」和「生產」標籤，而造成每個環境使用哪個Launch程式庫的混淆。 |
 | 2026 年 1 月 | 在AEM as a Cloud Service發佈Pod間的[Dispatcher `vhost`設定不一致](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29602) | 新文章 | 瞭解當部分AEM as a Cloud Service發佈Pod未一致套用更新的Dispatcher `vhost`設定，而導致&#x200B;*HTTP 301*&#x200B;重新導向和無限重新導向回圈（因為未明確定義所需主機）時，此問題的解決方案。 |
@@ -386,7 +386,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++發行說明、新的教學課程，以及支援文章
 
-* 請參閱 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
+* 請參閱 [&#x200B; [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)以取得最新資訊。
 * 請參閱「[Adobe [!DNL Commerce] 服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/home)」，查看 Commerce 服務版本資訊和文件。
 * 請參閱[產品可用性](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/product-availability)以存取個別的產品發行說明並確認可用性。
 
@@ -484,7 +484,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 最新版本：**2026年2月**
 
-如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。 (**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
+如需詳細資訊，請參閱 [Journey Optimizer 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes)。 (**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
@@ -552,7 +552,7 @@ New or updated videos tutorials published for Adobe Campaign.
 最新版本： **2026年1月**
 
 * [最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current)
-* [!DNL Marketo Engage] [ 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
+* [!DNL Marketo Engage] [&#x200B; 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
 * Dynamic Chat [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat) (2025 年 6 月 30 日)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
@@ -665,13 +665,13 @@ GenStudio for Performance Marketing 的教學影片。
 
 2026年1月21日
 
-查看 [ [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
+查看 [&#x200B; [!DNL Advertising DSP]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新功能 {#advertising-search}
 
 2026年1月21日
 
-查看 [ [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
+查看 [&#x200B; [!DNL Advertising Search, Social, & Commerce]中的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home)
 
 +++
 
