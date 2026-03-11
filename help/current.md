@@ -6,7 +6,7 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1554fc412f68ac6f8e1b7cf34af86d9a62de87ca
+source-git-commit: db9d2104abf27dc3faa73381ea7c3375cc9a4ce5
 workflow-type: tm+mt
 source-wordcount: '7201'
 ht-degree: 35%
@@ -114,9 +114,11 @@ ht-degree: 35%
 
 請參閱 [Experience Cloud 介面和管理](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud)指南，並獲得以下方面的協助：
 
-<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/generative-ai)
+<!-- 
+* [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/generative-ai)
 * [User management and product licenses](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/services/overview), and more -->
+* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/services/overview), and more 
+-->
 
 +++
 
@@ -195,9 +197,11 @@ ht-degree: 35%
 
 +++檢視新的教學課程
 
-<!-- | Published | Name | Type | Description |
+<!-- 
+| Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| -->
+| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| 
+-->
 
 如需說明，請參閱：
 
@@ -404,7 +408,8 @@ Adobe Analytics 版本會在持續傳遞模式上運作，允許以更可擴展�
 * 請參閱「[Adobe [!DNL Commerce] 服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/home)」，查看 Commerce 服務版本資訊和文件。
 * 請參閱[產品可用性](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/product-availability)以存取個別的產品發行說明並確認可用性。
 
-<!-- ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
+<!-- 
+### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 New tutorials for [!DNL Adobe Commerce] on Experience League.
 
@@ -413,7 +418,8 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 | January 2026 | [Observability overview](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/observability/overview) | Video | Learn why centralized observability is essential for modern Adobe Commerce architectures. |
 | January 2026 | [Open telemetry](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/observability/open-telemetry)| Video | Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. |
 | January 2026 | [Setup and Configuration](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/observability/demo-setup-configuration) | Video | Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. |
-| January 2026 |[Observability demo](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | -->
+| January 2026 |[Observability demo](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | 
+-->
 
 ### 新的 [!DNL Commerce] 支援知識庫{#kb-commerce}
 
@@ -446,7 +452,8 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 發行日期： **26.1.2 - 2026年1月30日**
 
-<!-- ### New [!DNL Target] support knowledge base{#kb-target}
+<!-- 
+### New [!DNL Target] support knowledge base{#kb-target}
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
@@ -473,7 +480,8 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 * [!DNL Campaign Classic] 7.4.2：2025 年 5 月 12 日 - [發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [產品文件](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/campaign-classic-home)
 
-<!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
+<!-- 
+### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
@@ -481,7 +489,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | ----------| ---------- | ---------- | ---------- |---------- |
 |August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/zh-hant/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
 |August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/zh-hant/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
- -->
+-->
 
 ### 新的 [!DNL Campaign] 支援知識庫{#kb-campaign}
 
@@ -577,13 +585,15 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 * [!DNL Marketo Engage] [&#x200B; 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule)
 * Dynamic Chat [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat) (2025 年 6 月 30 日)
 
-<!-- ### New Marketo tutorials {#tutorials-marketo}
+<!-- 
+### New Marketo tutorials {#tutorials-marketo}
 
 New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| 
+-->
 
 如需最新的產品文件，請參閱 [Marketo 產品文件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home)首頁
 
@@ -701,10 +711,12 @@ GenStudio for Performance Marketing 的教學影片。
 
 +++最新教學課程
 
-<!-- |Published|Application|Name|Type|Description |
+<!-- 
+|Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 | September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
-| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | 
+-->
 
 瀏覽我們的[適用於企業的 Creative Cloud](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) 教學課程資料庫，以了解更多資訊。
 
@@ -718,7 +730,8 @@ GenStudio for Performance Marketing 的教學影片。
 
 [客戶體驗協調藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/overview)是可重複的實作，可讓您處理策略，並快速解決既定的業務問題。 每個藍圖都提供一系列成品，解釋高價值業務問題、架構、實作步驟、技術考量以及相關文件的連結。
 
-<!-- ## ![Icon](assets/certification-badge.png) Certification{#certification}
+<!-- 
+## ![Icon](assets/certification-badge.png) Certification{#certification}
 
 Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/zh-hant/docs/certification/program/overview) site on Experience League. 
 
@@ -732,4 +745,5 @@ The [Experience Cloud Certification](https://experienceleague.adobe.com/zh-hant/
 
 And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/zh-hant/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++ -->
++++ 
+-->
