@@ -6,10 +6,10 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 760308da350bfa9769914ccabb1aab5dd7884c45
+source-git-commit: d5fdcb1d2d561318122a5941bbd04050b537559c
 workflow-type: tm+mt
-source-wordcount: '6709'
-ht-degree: 31%
+source-wordcount: '6872'
+ht-degree: 30%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 31%
 * 檢視每個應用程式的新教學影片
 * 查看最新的支援文章
 
-最近更新： **2026年3月13日**
+最近更新： **2026年3月19日**
 
 在此頁面上：
 
-* [事件排程](#events)
+* [網路研討會與學習活動](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]管理](#ecloud)
 * [Experience Cloud 中的 AI](#ai)
@@ -58,10 +58,15 @@ ht-degree: 31%
 * [Adobe 的認證](https://experienceleague.adobe.com/zh-hant/certification-home){target="_blank"}
 * [Adobe產品安全漏洞](https://helpx.adobe.com/tw/security.html){target="_blank"}
 
-## 活動排程 {#events}
+## 網路研討會與學習活動 {#events}
 
-* [近期](https://experienceleague.adobe.com/zh-hant/events){target="_blank"}事件排程
-* [隨選](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview){target="_blank"}事件排程
+* **[!DNL Experience Cloud]** | _Adobe Experience Platform Champion營業時間_ |讓我們討論挑戰、封鎖程式和願望清單。 您需要什麼才能讓系統發出嗡嗡聲？ | **2026年3月24日** | [註冊](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
+
+* **[!DNL Workfront]** | _管理員101：提出您的Workfront問題_ |加入我們進行一小時的後續工作坊，我們將快速分享每個工作階段的摘要，然後將其開啟以供問答。 | **2026年3月24日** | [註冊](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _已解碼Fusion：第2部分 — 開始建置_ |在Fusion系列的第2部分，我們將深入探討可立即使用的範本，並示範如何使用範本快速啟動您的自動化歷程。 | **2026年3月25日** | [註冊](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+檢視[即將到來的](https://experienceleague.adobe.com/zh-hant/events){target="_blank"}和[隨選](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview){target="_blank"}事件的完整排程。
 
 ## [!DNL Adobe System Status] {#status}
 
