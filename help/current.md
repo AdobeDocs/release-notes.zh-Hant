@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 8bcfd73109a76f83b9bdb8afed13693561eb0e5e
+source-git-commit: 47738804b28c044373041282fa74527bf2f29128
 workflow-type: tm+mt
-source-wordcount: 6788
-ht-degree: 83%
+source-wordcount: 6824
+ht-degree: 80%
 
 ---
 
@@ -26,14 +26,14 @@ ht-degree: 83%
 * 檢視每個應用程式的新教學影片
 * 查看最新的支援文章
 
-最新更新： **2026年4月6日**
+最新更新： **2026年4月15日**
 
 在此頁面上：
 
 * [網路研討會與學習活動](#events)
+* [Experience Cloud 中的 AI](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]管理](#ecloud)
-* [Experience Cloud 中的 AI](#ai)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -100,6 +100,7 @@ ht-degree: 83%
 
 | 產品 | 資源 | 說明 | 已更新 |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [AI中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"} | Experience League的AI中心可協助行銷人員建立實用的AI技能，以進行日常的行銷工作。 向同行學習如何應對相同的挑戰，並探索實際可行的做法。 | **2026年4月15日** |
 | [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | 瞭解Adobe Marketing Agent for Microsoft 365 Copilot如何將Experience Platform直接連線至Microsoft 365 Copilot。 | 2026年4月6日 |
 | [!DNL AEM CS] | [Cloud Manager MCP伺服器](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | 瞭解Cloud Manager MCP伺服器如何讓AI工具與AEM as a Cloud Service互動，以管理方案、環境、存放庫和管道。 | 2026年4月6日 |
 | [!DNL Acrobat Services] | [Acrobat分析器](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | 探索Adobe Acrobat Analyzer網路研討會，瞭解Generative AI如何從檔案中擷取結構化、可稽核的深入分析，以自動化工作流程、降低風險並大規模加速企業決策。 | 2026年3月10日 |
