@@ -8,9 +8,9 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 47738804b28c044373041282fa74527bf2f29128
+source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
 workflow-type: tm+mt
-source-wordcount: 6824
+source-wordcount: 6867
 ht-degree: 80%
 
 ---
@@ -31,9 +31,9 @@ ht-degree: 80%
 在此頁面上：
 
 * [網路研討會與學習活動](#events)
+* [[!DNL Adobe Experience Cloud]中央UI和管理](#ecloud)
 * [Experience Cloud 中的 AI](#ai)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]管理](#ecloud)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -64,33 +64,11 @@ ht-degree: 80%
 
 檢視[即將到來的](https://experienceleague.adobe.com/zh-hant/events){target="_blank"}和[隨選](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview){target="_blank"}事件的完整排程。
 
-## [!DNL Adobe System Status] {#status}
+## [!DNL Adobe Experience Cloud]中央UI和管理 {#ecloud}
 
-[!DNL Adobe System Status] 提供有關 Adobe 產品和服務的詳細資訊、狀態更新和電子郵件通知。 收到有關服務中斷、作業中斷和維護事件的通知。 請前往 [status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"} 了解詳情。
-
-* AI虛擬助理測試版
-* 錯誤修正與改善功能
-
-| 功能 | 說明 |
-| ------- | ------- |
-| **AI虛擬助理測試版** | <ul><li>虛擬助理功能可協助網頁和行動裝置上的Status客戶執行快速動作並提供意見回饋。 它是解決所有查詢的單一連絡視窗。</li><li>我們為虛擬助理新增AI功能，以便以更快、更富對話性的方式存取事件和訂閱資訊。</li><li>客戶測試版仍在進行中。 如果您想要參與，請傳送電子郵件給[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)。</li></ul> |
-| **錯誤修正與改善功能** | <ul><li>在Events API的歷史層級啟用日期。</li><li>協助工具錯誤修正。</li><li>Marketo訂閱 — 環境未彙整至資料中心，導致遺漏通知。</li><li>「狀態」頁面上的頁首與頁尾未當地語系化。</li><li>預定的維護作業未顯示最早的維護作業。</li><li>狀態API未傳回與狀態網頁相同的資訊，並帶有已解除的事件。</li><li>當維護在實際結束日期後關閉時，它無法正確顯示在狀態UI上。</li></ul> |
-
-
-發行說明歷史記錄：
-
-* [2025年12月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
-* [2025 年 8 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
-* [2025 年 4 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
-* [2024 年 8 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
-* [2024 年 5 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
-* [2024 年 1 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
-* [2023 年 10 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
-* [2023 年 8 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
-* [2023 年 3 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
-* [2023 年 1 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
-
-## [!DNL Adobe Experience Cloud]管理 {#ecloud}
+| 功能 | 發行日期 | 說明 |
+| ------- | ------- | ------- |
+| 重新整理的首頁 | 2026年4月20日 | 在`https://experience.adobe.com/home`處重新整理首頁的外觀與風格。 在此版本中，所有功能都維持不變，更新UI、支援完整&#x200B;_深色模式_&#x200B;並改善協助工具。 |
 
 如需相關檔案，請參閱[Experience Cloud介面與管理](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud){target="_blank"}。
 
@@ -107,6 +85,30 @@ ht-degree: 80%
 | [!DNL Experience Cloud] | [Adobe Experience Platform代理程式，用於改善行銷效率和更好的業務成果](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 此獨家會議包含與Adobe Experience Cloud資深副總裁Anjul Bhambhri進行的深入問答會。 探索Adobe的歷程和大膽願景，提供創新的Agentic AI功能，讓行銷和創意從業人員能夠自動執行複雜步驟、加快決策並擴展團隊容量，而不會影響控制或監督。 | 2026年3月3日 |
 | [!DNL Experience Cloud] | [代理程式工作和AI點數消耗](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | 瞭解Experience Cloud應用程式中的代理程式工作和AI信用消費率。 | 2026年3月3日 |
 
+## [!DNL Adobe System Status] {#status}
+
+[!DNL Adobe System Status] 提供有關 Adobe 產品和服務的詳細資訊、狀態更新和電子郵件通知。 收到有關服務中斷、作業中斷和維護事件的通知。 請前往 [status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"} 了解詳情。
+
+* AI虛擬助理測試版
+* 錯誤修正與改善功能
+
+| 功能 | 說明 |
+| ------- | ------- |
+| **AI虛擬助理測試版** | <ul><li>虛擬助理功能可協助網頁和行動裝置上的Status客戶執行快速動作並提供意見回饋。 它是解決所有查詢的單一連絡視窗。</li><li>我們為虛擬助理新增AI功能，以便以更快、更富對話性的方式存取事件和訂閱資訊。</li><li>客戶測試版仍在進行中。 如果您想要參與，請傳送電子郵件給[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)。</li></ul> |
+| **錯誤修正與改善功能** | <ul><li>在Events API的歷史層級啟用日期。</li><li>協助工具錯誤修正。</li><li>Marketo訂閱 — 環境未彙整至資料中心，導致遺漏通知。</li><li>「狀態」頁面上的頁首與頁尾未當地語系化。</li><li>預定的維護作業未顯示最早的維護作業。</li><li>狀態API未傳回與狀態網頁相同的資訊，並帶有已解除的事件。</li><li>當維護在實際結束日期後關閉時，它無法正確顯示在狀態UI上。</li></ul> |
+
+發行說明歷史記錄：
+
+* [2025年12月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [2025 年 8 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
+* [2025 年 4 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
+* [2024 年 8 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
+* [2024 年 5 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
+* [2024 年 1 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
+* [2023 年 10 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
+* [2023 年 8 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
+* [2023 年 3 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
+* [2023 年 1 月](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
