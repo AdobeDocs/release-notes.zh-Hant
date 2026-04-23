@@ -1,6 +1,6 @@
 ---
 title: 中央發行說明
-description: 尋找Experience Cloud應用程式發行說明的連結。 檢視新的教學課程影片、閱讀支援文章，並找到Experience League上的自助資源。
+description: 尋找所有Adobe CX Enterprise應用程式（先前稱為Experience Cloud）的發行說明連結。 瞭解新的影片、活動，並尋找自助資源。
 doc-type: release notes
 last-update: April 2026
 author: mfrei
@@ -8,31 +8,33 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 3b12ac9312a38290356a4c80d01e3deaf3fcccf2
+source-git-commit: 7911b9606a2247f7b6427f14c1d1a88e53f755f4
 workflow-type: tm+mt
-source-wordcount: 6867
-ht-degree: 98%
+source-wordcount: 6909
+ht-degree: 96%
 
 ---
 
-# Experience Cloud 中央發行說明 - 2026 年 4 月
+# Adobe CX Enterprise central發行說明
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
 此頁面能協助您：
 
-* 尋找應用程式特定發行說明的連結
-* 尋找事件和新資源
-* 檢視每個應用程式的新教學影片
+* 尋找應用程式專屬發行說明的所有連結
+* 尋找Experience League （Adobe的CX Enterprise說明網站）提供的最新學習機會
+* 取得有關新事件的資訊
 * 查看最新的支援文章
 
-最新更新： **2026年4月15日**
+最新更新： **2026年4月23日**
+
+**宣佈Adobe CX Enterprise：** Experience Cloud現在是[Adobe CX Enterprise](https://business.adobe.com/tw/)。 在我們完成Experience Cloud的更新之前，您仍會在產品檔案、課程和影片中看到&#x200B;_Experience League_。
 
 在此頁面上：
 
 * [網路研討會與學習活動](#events)
-* [[!DNL Adobe Experience Cloud]中央UI和管理](#ecloud)
-* [Experience Cloud 中的 AI](#ai)
+* [[!DNL Adobe CX Enterprise]中央UI和管理](#ecloud)
+* [CX Enterprise中的AI](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
@@ -64,26 +66,26 @@ ht-degree: 98%
 
 檢視[即將到來的](https://experienceleague.adobe.com/zh-hant/events){target="_blank"}和[隨選](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-recorded-events/overview){target="_blank"}事件的完整排程。
 
-## [!DNL Adobe Experience Cloud]中央UI和管理 {#ecloud}
+## [!DNL Adobe CX Enterprise]中央UI和管理 {#ecloud}
 
 | 功能 | 發行日期 | 說明 |
 | ------- | ------- | ------- |
 | 重新整理的首頁 | 2026年4月20日 | 在`https://experience.adobe.com/home`處重新整理首頁的外觀與風格。 在此版本中，所有功能都維持不變，更新UI、支援完整&#x200B;_深色模式_&#x200B;並改善協助工具。 |
 
-如需相關檔案，請參閱[Experience Cloud介面與管理](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud){target="_blank"}。
+如需相關檔案，請參閱[CX Enterprise介面與管理](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud){target="_blank"}。
 
-## Experience Cloud 中的 AI {#ai}
+## CX Enterprise中的AI {#ai}
 
-在 Experience Cloud 中尋找最新和近期發佈之針對 AI 的學習資源。
+尋找在CX Enterprise中為AI發佈的新和最新學習資源。
 
 | 產品 | 資源 | 說明 | 已更新 |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [AI中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"} | Experience League的AI中心可協助行銷人員建立實用的AI技能，以進行日常的行銷工作。 向同行學習如何應對相同的挑戰，並探索實際可行的做法。 | **2026年4月15日** |
-| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | 了解 Adobe Marketing Agent for Microsoft 365 Copilot 如何直接將 Experience Platform 連接至 Microsoft 365 Copilot。 | 2026 年 4 月 6 日 |
+| [!DNL CX Enterprise] | [AI中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"} | Experience League的AI中心可協助行銷人員建立實用的AI技能，以進行日常的行銷工作。 向同行學習如何應對相同的挑戰，並探索實際可行的做法。 | **2026年4月15日** |
+| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | 了解 Adobe Marketing Agent for Microsoft 365 Copilot 如何直接將 Experience Platform 連接至 Microsoft 365 Copilot。 | 2026 年 4 月 6 日 |
 | [!DNL AEM CS] | [Cloud Manager MCP 伺服器](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | 了解 Cloud Manager MCP 伺服器如何讓 AI 工具與 AEM as a Cloud Service 互動，以便管理程式、環境、存放庫和管道。 | 2026 年 4 月 6 日 |
 | [!DNL Acrobat Services] | [Acrobat分析器](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | 探索Adobe Acrobat Analyzer網路研討會，瞭解Generative AI如何從檔案中擷取結構化、可稽核的深入分析，以自動化工作流程、降低風險並大規模加速企業決策。 | 2026 年 3 月 10 日 |
-| [!DNL Experience Cloud] | [Adobe Experience Platform代理程式，用於改善行銷效率和更好的業務成果](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 此獨家會議包含與Adobe Experience Cloud資深副總裁Anjul Bhambhri進行的深入問答會。 探索Adobe的歷程和大膽願景，提供創新的Agentic AI功能，讓行銷和創意從業人員能夠自動執行複雜步驟、加快決策並擴展團隊容量，而不會影響控制或監督。 | 2026 年 3 月 3 日 |
-| [!DNL Experience Cloud] | [代理程式工作和AI點數消耗](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | 瞭解Experience Cloud應用程式中的代理程式工作和AI信用消費率。 | 2026 年 3 月 3 日 |
+| [!DNL CX Enterprise] | [Adobe Experience Platform代理程式，用於改善行銷效率和更好的業務成果](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 此獨家會議包含與Adobe CX Enterprise資深副總裁Anjul Bhambhri進行的深入問答會。 探索Adobe的歷程和大膽願景，提供創新的Agentic AI功能，讓行銷和創意從業人員能夠自動執行複雜步驟、加快決策並擴展團隊容量，而不會影響控制或監督。 | 2026 年 3 月 3 日 |
+| [!DNL CX Enterprise] | [代理程式工作和AI點數消耗](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | 瞭解CX Enterprise應用程式中的代理程式工作和AI信用消費率。 | 2026 年 3 月 3 日 |
 
 ## [!DNL Adobe System Status] {#status}
 
