@@ -2,39 +2,41 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.zh-Hant
 index: true
-source-git-commit: 8f759d75cb9aa77491a96a8158296e9a541fe48d
+source-git-commit: d6696605b4b4e357fac81509884625dad2c83fd9
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: 175
+ht-degree: 72%
 
 ---
 
 
-# 內部使用的中繼資料
+# 僅限內部使用的中繼資料
 
-metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
+metadata.md 檔案包含存放庫層級的中繼資料，會將這些資料傳遞至存放庫中的使用者指南 TOC.md 檔案。 如果您想變更任何使用者指南的 metadata.md 內容，請在任何 TOC.md 檔案中進行變更。
 
-| 中繼資料 | 作用 |
+| 中繼資料 | 功能說明 |
 |--- |--- |
 | solution-title | 在文章標題中作為連結使用。 保持簡短。 |
-| solution-hub-url | 開啟Helpx中樞頁面 |
-| solution-icon | 在解決方案標題旁邊顯示解決方案圖示。 尚未實作 |
+| solution-hub-url | 開啟 HelpX 中心頁面 |
+| solution-icon | 會在解決方案標題旁，顯示解決方案圖示。 尚未執行 |
 | getting-started-title | 教學課程不適合時極少使用 |
-| getting-started-url | helpx快速入門頁面連結 |
+| getting-started-url | 連結至 HelpX 快速入門頁面 |
 | tutorials-title | 教學課程不適合時極少使用 |
-| tutorials-url | 教學課程影片（helpx或KT教學課程其中之一）的連結 |
-| mini-toc-levels | 決定顯示在右側欄中的標題層數。 預設為2 |
+| tutorials-url | 連結至影片教學課程，包含 HelpX 教學課程，或是 KT 教學課程 |
+| mini-toc-levels | 決定右側邊欄中顯示的標題層級數量。 預設值為 2 |
 | git-repo | 指定共同作業存放庫的位置。 針對公開檔案使用github.com映象 |
 
-在TOC.md檔案中
+在 TOC.md 檔案中
 
-| 中繼資料 | 作用 |
+| 中繼資料 | 功能說明 |
 |--- |--- |
-| user-guide-title | 在文章標題中作為連結使用 |
-| 使用手冊 — url | 開啟Helpx中樞頁面 |
+| user-guide-title | 可用來當作文章頁首中的連結 |
+| user-guide-url | 開啟 helpx 說明中心頁面 |
