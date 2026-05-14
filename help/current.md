@@ -6,7 +6,8 @@ last-update: April 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 9c9be826f969072c37a2721d0a671e3bae033d16
 workflow-type: tm+mt
 source-wordcount: 5645
@@ -236,13 +237,13 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 2026 年 3 月 25 日
 
-* [ [!DNL Advertising DSP] 新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home){target="_blank"}
+* [&#x200B; [!DNL Advertising DSP] 新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home){target="_blank"}
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新功能 {#advertising-search}
 
 2026 年 2 月 25 日
 
-* [ [!DNL Advertising Search, Social, & Commerce] 新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home){target="_blank"}
+* [&#x200B; [!DNL Advertising Search, Social, & Commerce] 新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home){target="_blank"}
 
 ## [!DNL Adobe Experience Manager] {#aem}
 
@@ -296,20 +297,20 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2026 年 4 月 | [解決&#x200B;**[!UICONTROL 為Assets]**&#x200B;工作建立即時副本](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30207)的長佇列時間和錯誤 | 新文章 | 瞭解當&#x200B;**[!UICONTROL 在Adobe Experience Manager as a Cloud Service中對Assets內容片段建立Live Copy]**&#x200B;作業佇列時間超過預期或失敗並出現錯誤指出目的地片段已存在時，此問題的解決方案。 |
 | 2026 年 4 月 | [在AEM內容片段編輯器中發佈許可權的差異](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30216) | 新文章 | 瞭解當移除`crx:replicate`許可權會移除頁面的快速發佈，但仍會在新內容片段編輯器中顯示內容片段的發佈動作時，此問題的解決方案。 |
 | 2026 年 4 月 | [由於不支援的編碼設定檔，來自DAM的視訊不會在iOS裝置上播放](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30313) | 新文章 | 瞭解當DAM中儲存的視訊無法載入或在iOS裝置上播放時，因為視訊是使用iOS不支援的[!DNL H.264]設定檔層級進行編碼，問題的解決方案。 |
-| 2026 年 4 月 | 復寫佇列在AEM Author](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262)上增長時，[**[!UICONTROL 傳統UI Siteadmin ]**緩慢 | 新文章 | 瞭解當&#x200B;**[!UICONTROL 傳統UI Siteadmin]**&#x200B;在無法連線發佈執行個體時變得緩慢，且其復寫佇列在作者執行個體上變大時問題的解決方案。 |
+| 2026 年 4 月 | 復寫佇列在AEM Author[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262)上增長時，**[!UICONTROL 傳統UI Siteadmin &#x200B;]**&#x200B;緩慢 | 新文章 | 瞭解當&#x200B;**[!UICONTROL 傳統UI Siteadmin]**&#x200B;在無法連線發佈執行個體時變得緩慢，且其復寫佇列在作者執行個體上變大時問題的解決方案。 |
 | 2026 年 4 月 | [Adobe Experience Manager：如果未設定認證存放區，設定管理員會在AEM Forms 6.5 LTS中停止](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30419) | 新文章 | 瞭解安裝AEM Forms 6.5 LTS Configuration Manager時於&#x200B;**[!UICONTROL 部署AEM Forms EAR檔案]**&#x200B;畫面停止並顯示錯誤&#x200B;*[!DNL JBOSS]未上線時問題的解決方案。* |
 | 2026 年 4 月 | [在Adobe Experience Manager as a Cloud Service中下載大型CRX套件逾時](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30325) | 新文章 | 瞭解當使用&#x200B;**[!UICONTROL 封裝管理員]**&#x200B;下載大型CRX封裝時進入平台和CDN強制的HTTP逾時無法增加的問題解決方案。 |
-| 2026 年 4 月 | 在Dynamic Media [!DNL OpenAPI] 搜尋](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304)中出現&#x200B;[*501 Not Implemented error*&#x200B;和`projectedFields` | 新文章 | 瞭解使用要求內文中具有`projectedFields`或`facets`的Dynamic Media [!DNL OpenAPI]傳遞層搜尋API時，因為伺服器端無法支援這些功能，而傳回&#x200B;*501未實作錯誤*，問題的解決方案。 |
+| 2026 年 4 月 | 在Dynamic Media [!DNL OpenAPI] 搜尋[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304)中出現&#x200B;*501 Not Implemented error*&#x200B;和`projectedFields` | 新文章 | 瞭解使用要求內文中具有`projectedFields`或`facets`的Dynamic Media [!DNL OpenAPI]傳遞層搜尋API時，因為伺服器端無法支援這些功能，而傳回&#x200B;*501未實作錯誤*，問題的解決方案。 |
 | 2026 年 4 月 | [管道驗證失敗，因為Cloud Manager中的AEM版本已過期](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30301) | 新文章 | 瞭解當管道設定了過期的AEM版本而導致Adobe Experience Manager as a Cloud Service中的管道驗證失敗時，該問題的解決方案。 |
-| 2026 年 4 月 | 在AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30333)的後端要求中遺失[行銷查詢引數 | 新文章 | 瞭解當行銷查詢引數（例如`utm_*`、`cid`和`bid`）無法用於後端servlet或服務時，因為CDN在請求到達Dispatcher或AEM之前移除這些引數，問題的解決方案。 |
+| 2026 年 4 月 | 在AEMaaCS[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30333)的後端要求中遺失行銷查詢引數 | 新文章 | 瞭解當行銷查詢引數（例如`utm_*`、`cid`和`bid`）無法用於後端servlet或服務時，因為CDN在請求到達Dispatcher或AEM之前移除這些引數，問題的解決方案。 |
 | 2026 年 4 月 | [正在套用 [!DNL Subresource Integrity] 並限制直接存取Adobe RUM指令碼](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30336) | 新文章 | 瞭解當Adobe Experience Manager as a Cloud Service中的Adobe [!DNL Real User Monitoring] (RUM)指令碼公開內部環境詳細資料，並且即使在啟用外部網域設定後，仍可從發佈者網域直接存取，該問題的解決方案。 |
-| 2026 年 4 月 | [**[!UICONTROL 以發佈的形式檢視&#x200B;]**在AEM中傳回404未發佈的頁面](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | 新文章 | 瞭解對目前未發佈的頁面使用&#x200B;**[!UICONTROL 以發佈的形式檢視]**&#x200B;功能時，如果頁面在過去設定`offTime`，會顯示404錯誤。 |
+| 2026 年 4 月 | [**[!UICONTROL 以發佈的形式檢視&#x200B;]**&#x200B;在AEM中傳回404未發佈的頁面](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | 新文章 | 瞭解對目前未發佈的頁面使用&#x200B;**[!UICONTROL 以發佈的形式檢視]**&#x200B;功能時，如果頁面在過去設定`offTime`，會顯示404錯誤。 |
 
 ## [!DNL Adobe Commerce] {#commerce}
 
 存取 [!DNL Adobe Commerce] 的發行說明、新的教學課程和知識庫支援文章。
 
-* [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 的發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [&#x200B; [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 的發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview){target="_blank"}
 * [Adobe  [!DNL Commerce]  服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/home){target="_blank"}
 * [產品可用性](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/product-availability){target="_blank"}
 
@@ -398,7 +399,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 * [Journey Optimizer發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}
 
-(**注意：**[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
+(**注意：**&#x200B;[Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) 是一款單獨的產品。)
 
 ### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
@@ -455,7 +456,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 最新版本：**2026年2月**
 
 * [最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current){target="_blank"}
-* [!DNL Marketo Engage] [ 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule){target="_blank"}
+* [!DNL Marketo Engage] [&#x200B; 發行排程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/release-schedule){target="_blank"}
 * Dynamic Chat [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} (2026 年 3 月)
 
 <!-- 
