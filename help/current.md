@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b142d7e8d2b4b939a706e6065c85a58a9a9e9c1d
+source-git-commit: c2c033d86d985c059d1266f70568087b756605d5
 workflow-type: tm+mt
-source-wordcount: '6331'
+source-wordcount: '6383'
 ht-degree: 48%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 48%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最近更新： **2026年6月10日**
+最近更新： **2026年6月11日**
 
 ## 新增功能
 
@@ -84,6 +84,7 @@ ht-degree: 48%
 
 | 產品 | 資源 | 說明 | 已更新 |
 | ------- | ------- | ------- | ------- |
+| CX企業版 | [CX Enterprise Agentic AI功能目錄](https://agentic-capability-explorer.entapp.adproto.com/) | 探索您的授權CX Enterprise應用程式中有哪些代理程式AI工作。 如需詳細資訊，請參閱[Adobe Experience Platform代理程式工作和AI積分消耗](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)。 | **2026年6月11日** |
 | [!DNL CX Enterprise] | [AI監視儀表板](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise現在提供儀表板，可監控現有應用程式中代理程式人工智慧的使用情況。 針對透過AI Assistant和其他對話介面存取的Experience Platform代理程式，追蹤採用、檢閱交談和回饋，以及管理AI點數消耗。 概述、使用者、意見和AI評分檢視有助於控管利害關係人引導資料採用。 | **2026年6月2日** |
 | [!DNL CX Enterprise] - Experience League | [AI 資源中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"} | Experience League 的 AI 資源中心可協助行銷人員培養實用的 AI 技能，以應付日常的行銷工作。 向應對相同挑戰的同業學習，探索實際可行的做法。 | 2026年4月15日 |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | 了解 Adobe Marketing Agent for Microsoft 365 Copilot 如何直接將 Experience Platform 連接至 Microsoft 365 Copilot。 | 2026 年 4 月 6 日 |
