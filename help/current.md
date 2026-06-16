@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 8f10855ecf307977cb13bee410a823c0102138cc
+source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
 workflow-type: tm+mt
-source-wordcount: '7264'
-ht-degree: 30%
+source-wordcount: '7107'
+ht-degree: 28%
 
 ---
 
@@ -28,14 +28,27 @@ ht-degree: 30%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最近更新： **2026年6月11日**
+最近更新： **2026年6月16日**
 
 ## 新增功能
 
-* [新發行說明 — 所有應用程式](#application-release-notes)
 * [CX Enterprise中的新AI功能](#ai)
+* [新發行說明 — 所有應用程式](#application-release-notes)
 * [即將舉辦的網路研討會與活動](#events)
 * [新的教學課程和支援文章](#articles)
+
+## CX Enterprise中的新AI功能 {#ai}
+
+尋找CX Enterprise中針對產生式和代理式AI發佈的最新學習資源。
+
+| 應用程式 | 更新 | 說明 | 已更新 |
+| ------- | ------- | ------- | ------- |
+| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Co-worker是一款人工智慧應用程式，可自動化端對端客戶體驗工作流程。 它會偵測訊號、建立對象，並在小時內透過內建治理功能啟動行銷活動。 | 2026年6月11日 |
+| CX Enterprise | **代理式AI功能目錄** | 探索您的授權CX Enterprise應用程式中有哪些代理程式AI工作。 尋找有關[Adobe Experience Platform代理程式工作和AI積分消耗的連結](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)。 | 2026年6月11日 |
+| [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX Enterprise現在提供[AI監視儀表板](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring){target="_blank"}，以監視現有應用程式中的代理程式AI使用情形。 針對透過AI Assistant和其他對話介面存取的Experience Platform代理程式，追蹤採用、檢閱交談和回饋，以及管理AI點數消耗。 概述、使用者、意見和AI評分檢視有助於控管利害關係人引導資料採用。 | 2026年6月2日 |
+| [!DNL CX Enterprise] - Experience League | **AI訓練** | Experience League的[AI中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"}可協助行銷人員建立實用的AI技能，以用於日常行銷工作。 向應對相同挑戰的同業學習，探索實際可行的做法。 | 2026年4月15日 |
+| [!DNL CX Enterprise] | **適用於Microsoft 365 Copilot的行銷代理** | 瞭解[Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"}如何將Experience Platform直接連線至Microsoft 365 Copilot。 | 2026 年 4 月 6 日 |
+| [!DNL AEM CS] | **Cloud Manager MCP 伺服器** | 瞭解[Cloud Manager MCP伺服器](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"}如何讓AI工具與AEM as a Cloud Service互動，以管理程式、環境、存放庫和管道。 | 2026 年 4 月 6 日 |
 
 ## 新發行說明 — 所有應用程式 {#application-release-notes}
 
@@ -71,7 +84,7 @@ ht-degree: 30%
 | [!DNL Adobe Campaign] v8 | 2026年3月11日 | [[!DNL Campaign] v8發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13和PostgreSQL 17升級</li><li>安全性與穩定性修正</li></ul> |
 | [!DNL Adobe Campaign Standard] | 2026年2月(26.2) | [[!DNL Campaign Standard] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>安全性修正</li><li>其他修正</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026年6月 | [[!DNL Campaign Classic] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>安全性更新（v7.4.3 6月建置）</li><li>Debian 13和PostgreSQL 17升級</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026年6月 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>歷程運算式的AI助理（公開Beta）</li><li>非循環讀取對象歷程的自動完成</li><li>自訂動作中的憑證式自訂驗證</li><li>歷程模擬（可用性限制）</li><li>歷程片段（可用性限制）</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年6月 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>用於歷程運算式的 AI 助理 (公開 Beta 版)</li><li>非循環讀取對象歷程的自動完成</li><li>自訂動作中的憑證式自訂驗證</li><li>歷程模擬（可用性限制）</li><li>歷程片段 (有限可用性)</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 2026年5月22日 | [Journey Optimizer B2B edition發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>登陸頁面</li><li>表單</li><li>帳戶清單篩選的成員</li><li>體驗事件歷史記錄篩選</li><li>下一個最佳路徑歷程節點</li></ul> |
 | [!DNL Adobe Marketo Engage] | 2026年5月 | [Marketo Engage目前的發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>MARKETO AI</li><li>Marketo Engage MCP伺服器</li><li>電子郵件片段的電子郵件Designer條件式內容</li><li>挑選清單管理</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | 2026年3月 | [Dynamic Chat發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>訪客等待時間限制</li><li>下載成績單</li><li>路由邏輯改寫</li></ul> |
@@ -79,22 +92,6 @@ ht-degree: 30%
 | [!DNL Adobe Workfront Fusion] | 2026年6月 | [Adobe Workfront Fusion發行活動](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>重新觸發程式特定案例執行</li><li>更新為「執行一次」功能</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年3月 | [GenStudio for Performance Marketing發行說明](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Meta、LinkedIn和Display on Horizon畫布的快速範本</li><li>TikTok摘要影片廣告建立、核准和啟用</li></ul> |
 | [!DNL Adobe Pass] | 2026年5月(3.7.0.2) | [Adobe Pass 3.7.0發行說明](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>OAuth2型MVPD驗證的PKCE支援</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO組態不符修正</li><li>HTTP 500 authorization-deny fix</li></ul> |
-
-## CX Enterprise中的新AI功能 {#ai}
-
-尋找針對CX Enterprise中的創造性和代理式AI所發佈的最新和最新的學習資源。
-
-| 產品 | 資源 | 說明 | 已更新 |
-| ------- | ------- | ------- | ------- |
-| CX Enterprise Co-worker （一般可用性） | 即將推出 | CX Enterprise Co-worker是一款人工智慧應用程式，可自動化端對端客戶體驗工作流程。 它會偵測訊號、建立對象，並在小時內透過內建治理功能啟動行銷活動。 | **2026年6月11日** |
-| CX企業版 | CX Enterprise Agentic AI功能目錄 | 探索您的授權CX Enterprise應用程式中有哪些代理程式AI工作。 尋找有關[Adobe Experience Platform代理程式工作和AI積分消耗的連結](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)。 | **2026年6月11日** |
-| [!DNL CX Enterprise] | [AI監視儀表板](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise現在提供儀表板，可監控現有應用程式中代理程式人工智慧的使用情況。 針對透過AI Assistant和其他對話介面存取的Experience Platform代理程式，追蹤採用、檢閱交談和回饋，以及管理AI點數消耗。 概述、使用者、意見和AI評分檢視有助於控管利害關係人引導資料採用。 | **2026年6月2日** |
-| [!DNL CX Enterprise] - Experience League | [AI 資源中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"} | Experience League 的 AI 資源中心可協助行銷人員培養實用的 AI 技能，以應付日常的行銷工作。 向應對相同挑戰的同業學習，探索實際可行的做法。 | 2026年4月15日 |
-| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | 了解 Adobe Marketing Agent for Microsoft 365 Copilot 如何直接將 Experience Platform 連接至 Microsoft 365 Copilot。 | 2026 年 4 月 6 日 |
-| [!DNL AEM CS] | [Cloud Manager MCP 伺服器](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | 了解 Cloud Manager MCP 伺服器如何讓 AI 工具與 AEM as a Cloud Service 互動，以便管理程式、環境、存放庫和管道。 | 2026 年 4 月 6 日 |
-| [!DNL Acrobat Services] | [Acrobat分析器](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | 探索Adobe Acrobat Analyzer網路研討會，瞭解Generative AI如何從檔案中擷取結構化、可稽核的深入分析，以自動化工作流程、降低風險並大規模加速企業決策。 | 2026 年 3 月 10 日 |
-| [!DNL CX Enterprise] | [Adobe Experience Platform代理程式，用於改善行銷效率和更好的業務成果](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 此獨家直播場次主打與 Adobe CX Enterprise 資深副總裁 Anjul Bhambhri 進行具啟發性的問答環節。 探索Adobe的歷程和大膽願景，提供創新的Agentic AI功能，讓行銷和創意從業人員能夠自動執行複雜步驟、加快決策並擴展團隊容量，而不會影響控制或監督。 | 2026 年 3 月 3 日 |
-| [!DNL CX Enterprise] | [代理程式工作和AI點數消耗](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | 瞭解 CX Enterprise 應用程式中的 AI 代理工作和 AI 點數消耗率。 | 2026 年 3 月 3 日 |
 
 ## 即將舉辦的網路研討會與活動 {#events}
 
