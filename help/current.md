@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
+source-git-commit: fee1ea6a1eee833f040e73e5fa19ef25be81043c
 workflow-type: tm+mt
-source-wordcount: '7116'
-ht-degree: 98%
+source-wordcount: '7175'
+ht-degree: 97%
 
 ---
 
@@ -28,14 +28,22 @@ ht-degree: 98%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最近更新： **2026年6月16日**
+最近更新： **2026年6月19日**
 
 ## 新增功能
 
+* [新活動和網路研討會](#events)
 * [CX Enterprise 中的新 AI 功能](#ai)
 * [最新發行說明 - 所有應用程式](#application-release-notes)
-* [即將舉辦的網路研討會與活動](#events)
 * [新的教學課程與支援文章](#articles)
+
+## 新活動和網路研討會 {#events}
+
+| 日期 | 事件 | 說明 |
+| ------- | ------- | ------- |
+| 2026年6月17日 | [Experience League LIVE - Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | 在啟動之前測試並驗證您的歷程，並瞭解如何使用全新的歷程模擬更進一步。 |
+
+若要檢視所有活動，請造訪 [Experience League 活動](https://experienceleague.adobe.com/zh-hant/events)。
 
 ## CX Enterprise 中的新 AI 功能 {#ai}
 
@@ -92,10 +100,6 @@ ht-degree: 98%
 | [!DNL Adobe Workfront Fusion] | 2026 年 6 月 | [Adobe Workfront Fusion 發行活動](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>重新觸發程式特定情境執行</li><li>更新為「執行一次」功能</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026 年 3 月 | [GenStudio for Performance Marketing 發行說明](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>在 Horizon 畫布上用於製作 Meta、LinkedIn 和 Display 廣告的 Express 範本</li><li>TikTok 動態消息影片廣告建立、核准和啟用</li></ul> |
 | [!DNL Adobe Pass] | 2026 年 5 月 (3.7.0.2) | [Adobe Pass 3.7.0 發行說明](https://experienceleague.adobe.com/zh-hant/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>OAuth2 型 MVPD 驗證的 PKCE 支援</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO 設定不符的修正</li><li>HTTP 500 authorization-deny 的修正</li></ul> |
-
-## 即將舉辦的網路研討會與活動 {#events}
-
-若要檢視所有活動，請造訪 [Experience League 活動](https://experienceleague.adobe.com/zh-hant/events)。
 
 ## 新的教學課程與支援文章 {#articles}
 
