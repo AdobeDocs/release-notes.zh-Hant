@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: dedb338724c4970578fa8cff358485eb1196c3ae
+source-git-commit: 2dcd5bb15f6b27756d4f1f0b5993976b008d0c07
 workflow-type: tm+mt
-source-wordcount: '14824'
+source-wordcount: '14809'
 ht-degree: 26%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 26%
 
 | 應用程式 | 更新 | 說明 | 已更新 |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Co-worker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home)是自動執行端對端客戶體驗工作流程的代理式AI應用程式。 此應用程式可偵測訊號、建立客群，並在幾小時內建立內建治理功能的行銷活動。 | 2026年6月11日 |
+| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Co-worker](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-coworker/content/home)是自動執行端對端客戶體驗工作流程的代理式AI應用程式。 此應用程式可偵測訊號、建立客群，並在幾小時內建立內建治理功能的行銷活動。 | 2026年6月11日 |
 | CX Enterprise | **代理式AI功能目錄** | 了解您的授權 CX Enterprise 應用程式中有哪些代理式 AI 工作。 尋找有關 [Adobe Experience Platform 代理工作和 AI 點數消耗的連結](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)。 | 2026年6月11日 |
 | [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX Enterprise現在提供[AI監視儀表板](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring){target="_blank"}，以監視現有應用程式中的代理程式AI使用情形。 針對透過 AI 助理和其他對話式介面存取的 Experience Platform 代理，追蹤採用情況、檢閱交談內容和意見回饋，以及管理 AI 點數消耗。 「概觀」、「使用者」、「意見回饋」和「AI 點」視圖，協助治理利害關係人利用資料來引導 AI 採用。 | 2026年6月2日 |
 | [!DNL CX Enterprise] - Experience League | **AI訓練** | Experience League的[AI中心](https://experienceleague.adobe.com/zh-hant/ai-training){target="_blank"}可協助行銷人員建立實用的AI技能，以用於日常行銷工作。 向應對相同挑戰的同業學習，探索實際可行的做法。 | 2026 年 4 月 15 日 |
@@ -467,11 +467,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 ### [!DNL Adobe Journey Optimizer] {#journey-opt}
 
-在 Experience League 上檢視最新的教學課程和知識庫支援文章。
-
-#### [!DNL Journey Optimizer] 產品發行更新
-
-尋找 Journey Optimizer 的最新教學課程和支援文章。
+檢視Experience League的最新教學課程和支援文章。
 
 #### [!DNL Journey Optimizer] 最新教學課程 {#tutorials-ajo}
 
