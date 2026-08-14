@@ -475,7 +475,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年7月 | [!DNL Journey Optimizer] | [AJO - Claude設計示範影片](https://video.tv.adobe.com/v/3492418){target="_blank"} | 影片 | 觀看示範如何直接將在Claude中建立的設計傳送到Adobe Journey Optimizer。 |
+| 2026年7月 | [!DNL Journey Optimizer] | [AJO - Claude設計示範影片](https://video.tv.adobe.com/v/3492427?captions=chi_hant){target="_blank"} | 影片 | 觀看示範如何直接將在Claude中建立的設計傳送到Adobe Journey Optimizer。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [根據輪廓偏好設定或傾向分數最佳化管道](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/channel-optimization){target="_blank"} | 影片 | 瞭解Journey Optimizer的管道最佳化功能如何使用最有效的管道（使用手動優先順序、設定檔屬性或Adobe的AI模型）將訊息送達每位客戶最有可能參與的地方。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [如何搭配Journey Optimizer Decisioning使用Experience Manager內容片段](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/use-aem-content-fragments-with-ajo-decisioning){target="_blank"} | 影片 | 瞭解如何搭配Adobe Journey Optimizer Decisioning使用Adobe Experience Manager內容片段，以個人化並最佳化您的優惠方案中的內容。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [使用API觸發行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/api-triggered-campaigns.html?lang=zh-Hant){target="_blank"} | 影片 | 瞭解如何使用互動式訊息執行REST API，根據使用者互動從外部系統建立及觸發行銷活動。 |
