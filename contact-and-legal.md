@@ -24,7 +24,7 @@ ht-degree: 34%
 
 Adobe Marketing Cloud客戶服務團隊在此協助您，並提供可以與其聯絡的許多種途徑：
 
-請參閱[聯絡Adobe企業支援](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+請參閱[聯絡Adobe企業支援](https://helpx.adobe.com/tw/contact/enterprise-support.ec.html)
 
 ## 服務、功能和帳單 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -46,4 +46,4 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol （®、™等） 表示Adobe商標。
 
-所有第三方商標都是其各自的所有者的財產。 更新資訊/其他協力廠商程式碼資訊，請參閱[https://www.adobe.com/go/thirdparty](https://www.adobe.com/tw/products/eula/third_party/)。
+所有第三方商標都是其各自的所有者的財產。 更新資訊/其他協力廠商程式碼資訊，請參閱[https://www.adobe.com/go/thirdparty_tw](https://www.adobe.com/tw/products/eula/third_party/)。
