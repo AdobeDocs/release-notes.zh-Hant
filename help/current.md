@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
+source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
 workflow-type: tm+mt
-source-wordcount: '20806'
+source-wordcount: '20832'
 ht-degree: 11%
 
 ---
@@ -21,16 +21,9 @@ ht-degree: 11%
 * 適用於所有CX Enterprise應用程式的新產品[發行說明](#application-release-notes)
 * 新的[教學課程與支援文章](#articles)可在Experience League上取得
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>若要收到有關本頁新CX Enterprise功能和更新的每月電子郵件，請在[[!UICONTROL 電子報]](https://account.adobe.com/magazines)頁面上啟用&#x200B;**[!UICONTROL 優先產品更新]**。
 
 最新更新： **2026年8月14日**
 
@@ -306,7 +299,7 @@ Experience Manager as a Cloud Service 的最新教學影片與支援文章
 | 2026年7月 | [AEM：安全性掃描器報告`/etc.clientlibs`](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-36743)中的過時 [!DNL jQuery]  | 新文章 | 瞭解當安全性掃描器報告Adobe Experience Manager從`/etc.clientlibs/`提供過時的[!DNL jQuery]版本，並將結果分類為未修補的弱點時，該問題的解決方案，因為掃描器僅依版本字串識別套件式1.12.4-aem版本。 |
 | 2026年7月 | [Oak LTS中內容片段模型的AEM周遊警告和效能問題](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-37798) | 新文章 | 瞭解從Oak 6.5移轉後，Adobe Experience Manager LTS中的AEM內容片段模型發生周遊警告和效能問題時，因為所需的內容片段索引未安裝且作用中，問題的解決方案。 |
 | 2026年7月 | [AEM Managed Services發佈者由於 [!DNL Sling Scripting JSP] 競爭條件而不健康](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-38059) | 新文章 | 瞭解當Adobe Experience Manager Managed Services發佈者由於[!DNL Apache] [!DNL Sling Scripting JSP]模組中的競爭條件（通常由記憶體壓力觸發）而變得不正常時，此問題的解決方案。 |
-| 2026年7月 | 重新命名[!UICONTROL 產品設定檔][&#128279;](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-38343)後，在AEM中解決重複的使用者群組 | 新文章 | 瞭解當在Adobe Admin Console中重新命名[!UICONTROL 產品設定檔]後重複的使用者群組出現在Adobe Experience Manager中的問題解決方案。 |
+| 2026年7月 | 重新命名[!UICONTROL 產品設定檔]&#x200B;[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-38343)後，在AEM中解決重複的使用者群組 | 新文章 | 瞭解當在Adobe Admin Console中重新命名[!UICONTROL 產品設定檔]後重複的使用者群組出現在Adobe Experience Manager中的問題解決方案。 |
 | 2026年7月 | [移除Adobe Experience Manager Assets中孤立的資產](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-38286) | 新文章 | 瞭解當您需要為具有和沒有管理許可權的使用者識別並移除Adobe Experience Manager Assets中的孤立資產時，此問題的解決方案。 |
 | 2026年7月 | [由於EBS儲存效能不足(AMS)，導致AEM作者不穩定和嚴重延遲](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-35831) | 新文章 | 瞭解在Adobe Managed Services上託管的Adobe Experience Manager Author執行個體發生週期性效能降低和不穩定時，因為基礎EBS磁碟區型別不符合AEM [!UICONTROL TarMK]存放庫的I/O需求，此問題的解決方案。 |
 | 2026年7月 | [AEM Dispatcher：由於重寫規則變更，導覽URL會重新導向至英文網站](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-kcs/kbarticles/ka-38413) | 新文章 | 瞭解當Adobe Experience Manager中本地化網站上的導覽連結因Dispatcher設定或重寫規則變更而錯誤地將使用者重新導向至英文網站時問題的解決方案。 |
