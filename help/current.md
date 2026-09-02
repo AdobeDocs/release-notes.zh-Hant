@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
+source-git-commit: 25162d69b1259beed585214bc65cc058d8ca3934
 workflow-type: tm+mt
-source-wordcount: '20832'
+source-wordcount: '21003'
 ht-degree: 11%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 11%
 >
 >若要收到有關本頁新CX Enterprise功能和更新的每月電子郵件，請在[[!UICONTROL 電子報]](https://account.adobe.com/magazines)頁面上啟用&#x200B;**[!UICONTROL 優先產品更新]**。
 
-最新更新： **2026年8月14日**
+最新更新： **2026年8月31日**
 
 ## Experience League新增功能{#events}
 
@@ -49,20 +49,22 @@ ht-degree: 11%
 
 **注意：**&#x200B;數個 CX Enterprise 應用程式每週發行。 請經常造訪您的應用程式發行說明頁面，隨時掌握最新資訊。
 
-上次更新： **2026年8月12日**
+上次更新： **2026年8月31日**
 
 | 應用程式 | 發行日期 | 發行說明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
+| [!DNL Adobe Commerce] as a Cloud Service | 2026年8月12日 | [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>新的商業發票付款事件([!DNL observer.sales_order_invoice_pay])可讓整合訂閱商業發票付款狀態，而非輪詢</li><li>更新至Adobe Commerce 2.4.9，使用新REST API端點來同步沙箱和生產設定（沙箱；生產日期： 2026年9月1日）</li><li>針對每個來源庫存存貨可見性的新GraphQL [!DNL sourceAvailability]查詢</li><li>持續性購物車和願望清單設定的GraphQL曝光</li><li>依產品、SKU或訂單ID搜尋客戶訂單</li></ul> |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 2026年8月10日 | [Adobe Experience Manager as a Cloud Service 最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>改進內容參考選擇器，針對新內容片段編輯器推廣到所有RDE和開發環境</li><li>功能版本2026.7.0現已更新；2026.8.0已排定於2026年8月27日</li><li>視覺內容片段（以格式化的HTML呈現內容片段輸出）</li><li>在Adobe Express內嵌編輯器中開啟Photoshop (.psd)資產</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | 2026年8月10日 | [Customer Journey Analytics 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>CJA報表API「首次呼叫」指南（基本報表請求設定）</li><li>子事件分析（事件內個別容器上的區段）</li><li>B2B edition對臨時和關聯式資料集的支援</li><li>CX Enterprise [!DNL Coworker]：分析Customer Journey Analytics資料</li><li>CX Enterprise [!DNL Coworker]：從Adobe Analytics移轉時驗證資料</li></ul> |
 | [!DNL Adobe Analytics] | 2026年8月10日 | [[!DNL Analytics] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Analytics 1.4 API生命週期結束客戶常見問題集已發佈</li><li>2.0 API新增行銷管道參考和端點指南</li><li>子點選分析</li><li>Activity Map擴充功能UI重新整理</li><li>AA 2.0 API搜尋功能</li></ul> |
+| [!DNL Adobe Commerce Optimizer] | 2026年8月7日 | [Adobe Commerce Optimizer發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>新[!DNL externalIds]欄位新增至目錄服務GraphQL，公開產品的原始外部資料來源</li><li>修正[!DNL refineProduct]個GraphQL查詢，此查詢傳回某些可設定產品的不正確價格範圍和可見度</li><li>類別導覽效能改善： [!DNL CategoryNavigation]查詢的輸送量較高，且P99延遲較低</li><li>語意搜尋（由AI支援，含意和內容型）新增到進階搜尋索引標籤，預設為符合資格的英文目錄啟用</li><li>產品推薦單位的推薦價格篩選器(Beta)</li></ul> |
 | [!DNL Adobe Journey Optimizer] | 2026年8月5日 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>適用於AI內容產生的彈性影像來源（平衡、僅限Assets或從AEM Assets Essentials提取的Creative AI模式）</li><li>忠誠度挑戰：利用AI支援的報表將忠誠度計畫遊戲化</li><li>管道最佳化：歷程和行銷活動的自動最佳管道選擇</li><li>電子郵件Designer模組：拖放式佈局元件庫</li><li>全新Journey Canvas UI （在新版和舊版之間切換）</li></ul> |
 | [!DNL Adobe Brand Visibility] (原稱為 [!DNL Adobe LLM Optimizer]) | 2026年8月4日 | [品牌可見度發行說明](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>全面發佈：Brand Visibility中的AI可見度測量、最佳化和影響追蹤（來自LLM Optimizer的品牌重塑）</li><li>使用Semrush資料的全新AI可見性儀表板</li><li>自助服務品牌和網域上線</li><li>提示策略功能以發現高影響力的提示</li><li>更廣泛的LLM平台涵蓋範圍([!DNL Claude]、Grok、DeepSeek)</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026年8月 | [[!DNL Campaign Classic] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>安全性更新（v7.4.3，版本編號9399,8月3日）</li><li>安全性更新（v7.4.3、版本編號9398、7月29日）</li><li>安全性修正和webForm.jsp ctx-parameter行為變更（版本編號9397）</li></ul> |
 | [!DNL Adobe Target] | 2026年7月30日 | [[!DNL Adobe Target] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>A/B測試（手動）活動的貝葉斯統計資料</li><li>自動分配活動的Customer Journey Analytics報表</li><li>修正視覺化體驗撰寫器在選取或修改HTML或體驗片段選件時當機的問題</li></ul> |
 | Adobe Advertising | 2026年7月29日 | [Advertising Search、Social 和 Commerce 的新增功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li>AI Max功能在新的UI中擴充至行銷活動、廣告群組和創意管理</li><li>透過Customer Journey Analytics Web SDK進行Experience Platform資料交換</li><li>排程報告、大量表單、廣告網路管理員帳戶和支出規劃工具現在位於新UI</li><li>Google AI最大搜尋詞報告</li><li>下載所有產品組合的大量操作</li><li>AI Max最佳化支援所有Google Ads行銷活動</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年7月28日 | [[!DNL Experience Platform] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>目的地：對象/目的地篩選、每小時增量匯出、Microsoft Ads客戶比對和廣告支援</li><li>Real-Time CDP：光譜2視覺重新整理</li><li>即時客戶個人檔案：更快的匯出和啟用</li><li>區段服務：外部對象的JSON/Parquet支援；區段比對將於2026年11月27日終止</li><li>來源：已新增Google Ads和Meta Ads來源</li></ul> |
-| [!DNL Adobe Campaign] Web UI | 2026年7月28日 | [Campaign Web UI 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>直接在Web UI中進行優惠方案管理（目錄建立、適用性規則、部署）</li><li>不透過使用者端主控台進行品牌設定</li><li>電子郵件Designer中的公用資源</li><li>資料載入(RDBMS)工作流程活動</li><li>在Web UI中建立和管理動態JavaScript頁面(JSSP)</li></ul> |
+| [!DNL Adobe Campaign] Web UI | 2026年7月28日 | [Campaign Web UI 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>直接在Web UI中進行優惠方案管理（目錄建立、適用性規則、部署）</li><li>不透過使用者端主控台進行品牌設定</li><li>電子郵件設計工具中的公用資源</li><li>資料載入 (RDBMS) 工作流程活動</li><li>在Web UI中建立和管理動態JavaScript頁面(JSSP)</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年7月16日 | [GenStudio for Performance Marketing 發行說明](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>在Horizon畫布上大量編輯（連結的文字/影像欄位會傳播對各個大小和頁面的編輯）</li><li>顯示廣告至交易台</li><li>內容片段交換：以AEM中預先核准、可重複使用的內容片段取代文字區塊</li></ul> |
 | [!DNL Experience Platform] Mobile SDK | 2026年7月16日 | [[!DNL Experience Platform] Mobile SDK 發行說明](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} | <ul><li>React Native Optimize 7.2.0：React Native Turbo模組支援</li><li>iOS EdgeIdentity 5.1.0：將timeZone設定檔屬性同步至Edge （需要AEPCore 5.10.0+）</li><li>iOS Core 5.10.0：全新updateProfileAttributes API</li><li>Android Core 3.8.0：更新設定檔屬性API以進行時區同步</li><li>Android BOM 3.20.0：更新核心、EdgeIdentity和最佳化擴充功能</li></ul> |
 | [!DNL CX Enterprise] | 2026年7月10日 | [CX Enterprise 中央 UI 和管理](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>同盟來賓帳戶的CX企業支援（7月10日）</li><li>CX Enterprise [!DNL Coworker]：適用於CX工作流程的agentic AI應用程式（6月11日）</li><li>Agentic AI使用監控儀表板（6月1日）</li><li>Adobe CX Enterprise介面重新整理（深色模式，改善協助工具） （4月20日）</li></ul> |
