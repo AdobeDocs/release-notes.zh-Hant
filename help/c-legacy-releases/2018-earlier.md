@@ -1,12 +1,12 @@
 ---
-description: Experience Cloud 產品和服務上一版的發行說明查看適用於企業的 Creative Cloud 和 Document Cloud 的最新說明和教學課程。
+description: Experience Cloud 產品和服務上一版的發行說明 查看適用於企業的 Creative Cloud 和 Document Cloud 的最新說明和教學課程。
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: Central 2019及舊版的發行說明
-solution: Experience Cloud,Analytics,Target,Advertising
+solution: CX Enterprise,Analytics,Target,Advertising
 seo-title: Central Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
-source-git-commit: e40d2dd3a1d11e5ac45c86cebeffabb0de17f631
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 89%

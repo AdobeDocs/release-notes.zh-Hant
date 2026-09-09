@@ -1,17 +1,16 @@
 ---
 cloud: Experience Cloud
 type: Documentation
-solution: Experience Cloud
+solution: CX Enterprise
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/release-notes.zh-Hant
+git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 usetq: true
-source-git-commit: 099001c6f80fe04eb3169c31ef24f5f1bce0169c
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: 175
 ht-degree: 72%
@@ -19,7 +18,7 @@ ht-degree: 72%
 ---
 
 
-# 僅限內部使用的中繼資料
+# 內部專用中繼資料
 
 metadata.md 檔案包含存放庫層級的中繼資料，會將這些資料傳遞至存放庫中的使用者指南 TOC.md 檔案。 如果您想變更任何使用者指南的 metadata.md 內容，請在任何 TOC.md 檔案中進行變更。
 
