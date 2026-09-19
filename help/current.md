@@ -62,7 +62,7 @@ ht-degree: 13%
 | [!DNL Adobe Campaign] v8 | 2026 年 5 月 3 日 | [[!DNL Campaign] v8 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13 和 PostgreSQL 17 升級</li><li>修正伺服器當機和電子郵件管道記憶體問題</li><li>解決追蹤工作流程和型別規則失敗的問題</li><li>30多項穩定性與安全性修正</li></ul> |
 | [!DNL Adobe Campaign Standard] | 2026年4月24日(26.2) | [[!DNL Campaign Standard] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Debian 13 和 PostgreSQL 17 升級</li><li>增強的動態報告可靠性</li><li>增強的IMS驗證</li><li>選項中的加密密碼型別欄位</li><li>修正AEM內容擷取錯誤</li></ul> |
 | [!DNL Adobe Mix Modeler] | 2026 年 3 月 30 日 | [Mix Modeler 發行說明](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/releases/latest){target="_blank"} | <ul><li>管道 Adstock</li></ul> |
-| [!DNL Adobe System Status] | 2026年3月 | [Adobe系統狀態發行說明](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/system-status-release-notes){target="_blank"} | <ul><li>AI 虛擬助理 Beta 版</li><li>錯誤修正與改善功能</li></ul> |
+| [!DNL Adobe System Status] | 2026年3月 | [Adobe系統狀態發行說明](https://experienceleague.adobe.com/zh-hant/docs/release-notes/experience-cloud/system-status-release-notes){target="_blank"} | <ul><li>AI 虛擬助理 Beta 版</li><li>錯誤修正與改善功能</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | 2026年3月 | [Dynamic Chat 發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>訪客等待時間限制</li><li>下載逐字稿</li><li>即時對話轉接邏輯全新改版</li></ul> |
 | [!DNL Experience Manager] [!DNL Brand Portal] | 2026 年 1 月 1 日 | [Experience Manager Brand Portal 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} | <ul><li>Dynamic Media 設定的重設按鈕</li><li>發佈前的來源資料夾驗證</li></ul> |
 | [!DNL Experience Manager] [!DNL Dispatcher] | 2025 年 11 月 20 日 | [Experience Manager Dispatcher 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} | <ul><li>Dispatcher 設定中的 /allowedClients 控制項</li><li>針對 429 回應啟用 stale-while-error 處理方式</li><li>虛名 URL 載入最佳化</li></ul> |
@@ -675,7 +675,7 @@ GenStudio for Performance Marketing 的教學影片。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [語音交談](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/voice-conversation){target="_blank"} | 影片 | 瞭解語音交談功能如何讓訪客與Brand Concierge擴音互動，並具備自動語音偵測功能以及支援自然中斷的完整多模式體驗。 |
+| 2026年9月 | [語音交談](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/getting-started/voice-conversation){target="_blank"} | 影片 | 瞭解語音交談功能如何讓訪客與Brand Concierge擴音互動，並具備自動語音偵測功能以及支援自然中斷的完整多模式體驗。 |
 | 2026年9月 | [瞭解評估集](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/getting-started/learn-about-evaluation-sets){target="_blank"} | 影片 | 瞭解功能性、範圍外和安全性評估如何讓您確認禮賓人員回答正確、保持在範圍內，並安全地處理棘手的問題。 |
 | 2026年9月 | [調整第一位禮賓的視覺效果](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/getting-started/customize-visual-style){target="_blank"} | 影片 | 瞭解如何自訂禮賓的視覺風格，包括歡迎訊息、入門提示卡、影像和顏色。 |
 | 2026年9月 | [部署服務人員](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/getting-started/deploy-the-concierge){target="_blank"} | 影片 | 瞭解如何透過資料流和表面設定來部署您的服務人員，然後將安裝指令碼新增到您的網站。 |
