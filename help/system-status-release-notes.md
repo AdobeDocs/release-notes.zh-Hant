@@ -12,7 +12,7 @@ ht-degree: 30%
 
 # [!DNL Adobe System Status] 發行說明 {#status-release-notes}
 
-[!DNL Adobe System Status] 提供有關 Adobe 產品和服務的詳細資訊、狀態更新和電子郵件通知。 收到有關服務中斷、作業中斷和維護事件的通知。 請前往 [status.adobe.com](https://status.adobe.com/){target="_blank"} 了解詳情。
+[!DNL Adobe System Status] 提供有關 Adobe 產品和服務的詳細資訊、狀態更新和電子郵件通知。 收到有關服務中斷、作業中斷和維護事件的通知。 請前往 [status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"} 了解詳情。
 
 此頁面會追蹤[!DNL Adobe System Status]個更新在一段時間內的變化。 只有在有新版本可報告時才會更新。
 
