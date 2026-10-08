@@ -6,9 +6,9 @@ breadcrumb-title: 中央發行說明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 的新功能、修正和重要注意事項。
 user-guide-url: https://www.adobe.com
 color: red
-source-git-commit: ad2cdb4ea1c447429bc2c4371233b79d4fc53a5e
+source-git-commit: 8bec27c50695e72a6e2648c5d17aebd7a21ab73a
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '128'
 ht-degree: 92%
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 92%
 + {hide-from-toc}[Adobe系統狀態發行說明](system-status-release-notes.md)
 + 上一版的發行說明 {#previous}
   + 2026 {#2026}
+    + [2026 年 9 月](c-legacy-releases/2026/09112026.md)
     + [2026年8月](c-legacy-releases/2026/08142026.md)
     + [2026年7月](c-legacy-releases/2026/07152026.md)
     + [2026 年 6 月](c-legacy-releases/2026/06112026.md)
