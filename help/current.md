@@ -683,7 +683,7 @@ GenStudio for Performance Marketing 的教學影片。
 | 2026年10 | [什麼是Edge的最佳化？](https://experienceleague.adobe.com/zh-hant/docs/brand-visibility-learn/tutorials/technical/what-is-optimize-at-the-edge){target="_blank"} | 影片 | Edge中的最佳化位於您的CDN中，並提供預先轉譯的HTML給AI機器人，讓這些機器人看到隱藏在使用者端JavaScript後的內容，對使用者沒有影響。 |
 | 2026年10 | [什麼是可見度分數？您應該使用哪些量度來測量AI可見度？](https://experienceleague.adobe.com/zh-hant/docs/brand-visibility-learn/tutorials/measurement/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility){target="_blank"} | 影片 | 可見度分數彙總提及次數、引用次數、位置和情緒。 瞭解它測量什麼，以及要與哪些量度配對，以使AI可見度可操作。 |
 | 2026年10 | [正在預先轉譯AI機器人遮罩的內容嗎？](https://experienceleague.adobe.com/zh-hant/docs/brand-visibility-learn/tutorials/technical/is-pre-rendering-content-for-ai-bots-cloaking){target="_blank"} | 影片 | 預先呈現不會遮蔽。 它只會讓AI代理程式看到人類看見的相同內容，符合Google在JavaScript轉譯上的指引。 |
-| 2026年10 | [Google現在會透過AI概述回應您的品牌名稱](https://experienceleague.adobe.com/en/docs/brand-visibility-learn/tutorials/news-and-insights/google-now-answers-your-brand-name-with-an-ai-overview){target="_blank"} | 影片 | Google現在會顯示大部分品牌名稱搜尋的AI概觀。 瞭解您的品牌會有哪些改變（從引文到Search Console曝光數），以及要觀看哪些改變。 |
+| 2026年10 | [Google現在會透過AI概述回應您的品牌名稱](https://experienceleague.adobe.com/zh-hant/docs/brand-visibility-learn/tutorials/news-and-insights/google-now-answers-your-brand-name-with-an-ai-overview){target="_blank"} | 影片 | Google現在會顯示大部分品牌名稱搜尋的AI概觀。 瞭解您的品牌會有哪些改變（從引文到Search Console曝光數），以及要觀看哪些改變。 |
 
 ### 客戶資料管理 - 對話 {#tutorials-voices}
 
