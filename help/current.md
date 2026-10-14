@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: a01234edb05a1df886bcff92668492f8ae961256
+source-git-commit: cc2ce02bd5c2ed35c3103d22b0c946a1bb4a0715
 workflow-type: tm+mt
-source-wordcount: '21360'
+source-wordcount: '21377'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise]中央發行說明 — 2026年10月 {#top}
@@ -29,11 +29,11 @@ ht-degree: 12%
 
 **重要：**&#x200B;某些應用程式每週發行。 若要取得最新消息，請經常造訪這些頁面。
 
-上次更新日期： **2026年10月12日**
+上次更新日期： **2026年10月14日**
 
 | 應用程式 | 發行日期 | 發行說明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | 2026年10月9日 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>隨選歷程驗證（10月9日）</li><li>[!DNL CX Enterprise Coworker]中的業務績效分析技能（10月7日）</li><li>自訂傳出頻道(GA)：整合WeChat或Kakao Talk等HTTP型訊息頻道，與決策、商業規則和API觸發的行銷活動支援整合</li><li>LINE現在可作為協調行銷活動中的原生傳出頻道</li><li>對象資格歷程中的跳轉活動（從批次對象跳轉至事件型歷程）</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年10月12日 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>停止動作歷程活動：從最多五個傳入活動或體驗中移除設定檔，而不結束其歷程（10月12日）</li><li>隨選歷程驗證（10月9日）</li><li>[!DNL CX Enterprise Coworker]中的業務績效分析技能（10月7日）</li><li>自訂傳出頻道(GA)：整合WeChat或Kakao Talk等HTTP型訊息頻道，與決策、商業規則和API觸發的行銷活動支援整合</li><li>熟客方案設定中的績效設定：選取熟客方案資料集和優先順序KPI （10月1日）</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | 2026年10月8日 | [Customer Journey Analytics 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>在Analysis Workspace中分析LLM客戶體驗的交談見解</li><li>Customer Journey Analytics MCP伺服器的唯讀許可權</li><li>[!DNL CX Enterprise Coworker]現已提供升級與實作技能</li><li>符合Experience Platform同意原則的訪客的同意原則篩選和報告</li><li>子事件分析（事件內個別容器上的區段）</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | 2026年10月7日 | [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>公司詳細資訊現在可在運費webhook中取得，以判斷出貨資格</li><li>管理目錄價格規則的新REST API端點</li><li>針對預先簽署的檔案上傳提供reCAPTCHA保護</li><li>REST API支援傳回專案的自訂屬性</li><li>防止未驗證的來賓註冊公司的選項</li><li>型錄價格規則的已排程啟動與到期時間</li><li>訂單稽核：透過GraphQL依original_number篩選訂單</li></ul> |
 | [!DNL Adobe Analytics] | 2026年10月6日 | [[!DNL Analytics] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>[!DNL Adobe Analytics] MCP伺服器的唯讀許可權</li><li>直接從[!DNL Coworker Chat]在Analysis Workspace中開啟視覺效果</li><li>[!DNL Coworker Chat]根本原因分析說明量度變更的原因，而不只是變更了什麼</li><li>使用自然語言提示分析[!DNL Coworker Chat]中的[!DNL Adobe Analytics]資料</li><li>將區段限制在報表日期範圍（適用於訪客最上層容器）</li></ul> |
@@ -88,7 +88,7 @@ ht-degree: 12%
 
 ## [!DNL CX Enterprise Coworker]和AI資源 {#ai}
 
-尋找[!DNL CX Enterprise]應用程式中針對[!DNL Coworker]和AI功能發佈的最新學習資源。
+尋找[!DNL CX Enterprise]應用程式中針對[[!DNL Coworker]](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/home)和AI功能發佈的最新學習資源。
 
 | 應用程式 | 更新 | 說明 | 已更新 |
 | ------- | ------- | ------- | ------- |
