@@ -546,7 +546,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 7 月 | [Project Falco高峰會公告](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=zh-Hant){target="_blank"} | 影片 | 觀看Project Falco測試版示範，其中重點說明2026年Summit上發佈的所有公告。 |
+| 2026 年 7 月 | [Project Falco高峰會公告](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=zh-Hant&lang=zh_tw){target="_blank"} | 影片 | 觀看Project Falco測試版示範，其中重點說明2026年Summit上發佈的所有公告。 |
 
 ### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
 
