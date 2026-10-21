@@ -5,16 +5,16 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 0bce3cba7c147e4ca315acd81b304c9e33b1989f
+source-git-commit: 99aaf4496ef35edbeaabab7cf1df20ac1d957f33
 workflow-type: tm+mt
-source-wordcount: '21508'
+source-wordcount: '21568'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise]中央發行說明 — 2026年10月 {#top}
 
 此頁面可協助您尋找最新資訊：
 
-* 所有[!DNL CX Enterprise]應用程式的[發行說明](#application-release-notes) （更新日期： **10月16日**）
+* 所有[!DNL CX Enterprise]應用程式的[發行說明](#application-release-notes) （更新日期： **10月20日**）
 * 在Experience League上進行[活動與新增功能](#events)
 * [[!DNL CX Enterprise Coworker] 和AI](#ai)學習資源（更新日期： **10月14日**）
 * [教學課程與支援文章](#articles)可在[!DNL Experience League]上取得
@@ -29,21 +29,21 @@ ht-degree: 12%
 
 **重要：**&#x200B;某些應用程式每週發行。 若要取得最新消息，請經常造訪這些頁面。
 
-上次更新日期： **2026年10月16日**
+上次更新日期： **2026年10月20日**
 
 | 應用程式 | 發行日期 | 發行說明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
+| [!DNL Adobe Commerce] as a Cloud Service | 2026年10月20日 | [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>REST端點用於管理自訂國家/地區</li><li>透過Adobe I/O Events訂閱客戶地址建立、更新和刪除事件</li><li>選用的SHA-256總和檢查碼可驗證預先簽署檔案的上傳（GraphQL和REST）</li><li>適用於最多100個SKU的GraphQL查詢（已移除sourceAvailability欄位）</li><li>訂單編輯鏈結中的訂單總計（chain_totals欄位和「管理訂單鏈」格線；透過Adobe支援啟用）</li><li>產品摘要匯出存貨、購物車數量、稅捐類別和屬性集（需要手動重新同步資料摘要）</li><li>公司詳細資訊現在可在運費webhook中取得，以判斷出貨資格（10月7日）</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 2026年10月19日 | [Customer Journey Analytics 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>歷程畫布：比較百分比選項顯示節點、箭頭和流失與先前時段（10月19日）的百分點變更</li><li>在Analysis Workspace中分析LLM客戶體驗的交談見解</li><li>Customer Journey Analytics MCP伺服器的唯讀許可權</li><li>[!DNL CX Enterprise Coworker]現已提供升級與實作技能</li><li>符合Experience Platform同意原則的訪客的同意原則篩選和報告</li></ul> |
+| [!DNL Adobe Analytics] | 2026年10月19日 | [[!DNL Analytics] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>歷程畫布：比較百分比選項顯示節點、箭頭和流失與先前時段（10月19日）的百分點變更</li><li>Data Warehouse報表中的分類資料改善，包括已刪除值的空白（10月14日）</li><li>[!DNL Adobe Analytics] MCP伺服器的唯讀許可權</li><li>[!DNL Coworker Chat]根本原因分析說明量度變更的原因，而不只是變更了什麼</li><li>使用自然語言提示分析[!DNL Coworker Chat]中的[!DNL Adobe Analytics]資料</li></ul> |
+| [!DNL Adobe Experience Manager] as a Cloud Service | 2026年10月19日 | [Adobe Experience Manager as a Cloud Service 最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>APM的OpenTelemetry現在提供有限可用性（10月19日）</li><li>功能版本2026.9.0目前為最新；2026.10.0計畫於2026年10月29日發行</li><li>意圖型、多語言資產探索的AI 搜尋；可自動更新的智慧型集合</li><li>可自訂的視訊檢視器，具備分析、AI產生的註解及多語言音軌</li><li>一般可透過[!DNL CX Enterprise Coworker]使用AEM代理程式功能</li><li>Canary部署和Java 25移轉指南</li></ul> |
 | [!DNL Adobe Target] | 2026年10月15日 | [[!DNL Adobe Target] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.10.2：修正活動概觀中錯誤顯示的目標設定、促銷活動編輯後建立的備份建議，以及約兩週後刪除的報告預設集；新增Safari支援（視覺化體驗撰寫器或增強體驗撰寫器不支援）</li><li>26.10.1：修正A4T報告錯誤，新新增的報告套裝和原始HTML會出現，而不是視覺化體驗撰寫器中體驗片段的選件名稱</li><li>26.9.8：樣本大小電腦（Beta版），可藉由估計流量、持續時間和最低可偵測效果來規劃實驗</li><li>26.9.8： A/B測試（手動）活動的AI Insights (beta)</li><li>26.9.8：修正使用者無法授予AI許可權的問題</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026年10月15日 | [[!DNL Campaign Classic] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5 （建置9420、10月15日）：修正Analytics外部帳戶「Gone」錯誤、傳送卡在個人化擱置中、高CPU來自鎖定回圈、誤判的「垃圾郵件檢查失敗」錯誤，以及軟退信後未隔離收件者</li><li>重大弱點的安全性更新（7.4.4、版本編號9403、10月15日；需要重新啟動nlserver）</li><li>重大漏洞的安全性更新（v7.4.3、版本編號9401、8月25日）</li><li>Adobe Analytics聯結器已移轉至Analytics 2.0 API （版本編號9400,8月11日）</li></ul> |
-| [!DNL Adobe Analytics] | 2026年10月14日 | [[!DNL Analytics] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Data Warehouse報表中的分類資料改善，包括已刪除值的空白（10月14日）</li><li>[!DNL Adobe Analytics] MCP伺服器的唯讀許可權</li><li>直接從[!DNL Coworker Chat]在Analysis Workspace中開啟視覺效果</li><li>[!DNL Coworker Chat]根本原因分析說明量度變更的原因，而不只是變更了什麼</li><li>使用自然語言提示分析[!DNL Coworker Chat]中的[!DNL Adobe Analytics]資料</li></ul> |
 | [!DNL Adobe Journey Optimizer] | 2026年10月13日 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>自訂動作的HMAC簽署JWT驗證（可用性限制） （10月13日）</li><li>停止動作歷程活動：從最多五個傳入活動或體驗中移除設定檔，而不結束其歷程（10月12日）</li><li>隨選歷程驗證（10月9日）</li><li>[!DNL CX Enterprise Coworker]中的業務績效分析技能（10月7日）</li><li>自訂傳出頻道(GA)：整合WeChat或Kakao Talk等HTTP型訊息頻道，與決策、商業規則和API觸發的行銷活動支援整合</li></ul> |
 | [!DNL Adobe Brand Visibility] (原稱為 [!DNL Adobe LLM Optimizer]) | 2026年10月10日 | [品牌可見度發行說明](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>AI可見性：選擇在追蹤主題時要新增的個別提示</li><li>品牌宣告：搜尋所有宣告清單中的宣告文字</li><li>提示程式庫：更可靠的匯入、寫入和刪除狀態</li><li>AI可見性：明確的每月快照</li><li>代理流量和引薦流量：持續的自訂日期範圍</li><li>全面發佈：Brand Visibility中的AI可見度測量、最佳化和影響追蹤（來自LLM Optimizer的品牌重塑）</li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | 2026年10月8日 | [Customer Journey Analytics 發行說明](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>在Analysis Workspace中分析LLM客戶體驗的交談見解</li><li>Customer Journey Analytics MCP伺服器的唯讀許可權</li><li>[!DNL CX Enterprise Coworker]現已提供升級與實作技能</li><li>符合Experience Platform同意原則的訪客的同意原則篩選和報告</li><li>子事件分析（事件內個別容器上的區段）</li></ul> |
-| [!DNL Adobe Commerce] as a Cloud Service | 2026年10月7日 | [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>公司詳細資訊現在可在運費webhook中取得，以判斷出貨資格</li><li>管理目錄價格規則的新REST API端點</li><li>針對預先簽署的檔案上傳提供reCAPTCHA保護</li><li>REST API支援傳回專案的自訂屬性</li><li>防止未驗證的來賓註冊公司的選項</li><li>型錄價格規則的已排程啟動與到期時間</li><li>訂單稽核：透過GraphQL依original_number篩選訂單</li></ul> |
 | Adobe Advertising | 搜尋、社交和Commerce： 2026年10月5日<br>DSP： 2026年8月14日<br>Creative： 2026年7月1日 | <ul><li>[搜尋、社交和Commerce的新功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/search-social-commerce/home){target="_blank"}</li><li>[DSP的新功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/dsp/home){target="_blank"}</li><li>[Creative的新功能](https://experienceleague.adobe.com/zh-hant/docs/advertising/creative/home){target="_blank"}</li></ul> | <ul><li>搜尋、社交和Commerce：ChatGPT廣告支援(Beta)</li><li>搜尋、社交和Commerce：重新整理新UI中的導覽功能表，並逐步說明</li><li>搜尋、社交和Commerce： Google AI最大搜尋片語合報表會依據轉換動作新增轉換</li><li>DSP：自我歸因轉換報表</li><li>DSP：Creative Studio，含產生式AI (Beta)和品牌設定檔；郵遞區號目標定位清單</li><li>Creative：具有AI和品牌設定檔的Creative Studio，用於產生顯示廣告</li><li>Creative：Adobe Analytics中的變異和分支層級效能；來自摘要範本的VAST相容視訊廣告</li></ul> |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 2026年10月1日 | [Experience Manager Cloud Manager 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>2026.10.0：穩定部署後安全性測試中間歇性失敗的SSL設定檢查</li><li>AEM Managed Services (Beta)的Web層級管道</li><li>透過Smart Build模組層級的快取改善組建效能</li><li>客戶自管金鑰 (CMK) 自助服務</li></ul> |
 | [!DNL Adobe Marketo Engage] | 2026年9月25日 | [Marketo Engage 最新發行說明 &#x200B;](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL Marketo Engage]個新UI：重新整理的功能表、圖示和配置</li><li>為啟用工作區的環境選取匯入時分割區</li><li>對已訂閱管理員的CRM同步狀態變更立即發出警報</li><li>自助服務流程步驟回呼逾時從1小時增加到4小時</li><li>電子郵件Designer：拖放表格內容型別</li></ul> |
-| [!DNL Adobe Experience Manager] as a Cloud Service | 2026年9月24日 | [Adobe Experience Manager as a Cloud Service 最新發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>功能版本2026.9.0目前為最新；2026.10.0計畫於2026年10月29日發行</li><li>意圖型、多語言資產探索的AI 搜尋；可自動更新的智慧型集合</li><li>可自訂的視訊檢視器，具備分析、AI產生的註解及多語言音軌</li><li>一般可透過[!DNL CX Enterprise Coworker]使用AEM代理程式功能</li><li>Canary部署、OpenTelemetry APM支援和Java 25移轉指南</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年9月22日 | [[!DNL Experience Platform] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]：資料管理和資料驗證代理程式技能</li><li>細分服務：已更新的Audience Builder可供普遍使用；彈性的批次排程和大規模對象（可用性限制）</li><li>目的地：Azure事件中樞和Microsoft Blob儲存空間的Azure Entra ID驗證；Salesforce CRM OAuth 2使用者端憑證</li><li>來源： Snapchat Ads、Pinterest Ads、Google Ads和HubSpot V2聯結器</li><li>執行與操作：使用情況深入分析已普遍可用；Privacy Service支援印度DPDP法案</li></ul> |
 | [!DNL Adobe Campaign] Web UI | 2026年9月22日 | [Campaign Web UI 發行說明](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>LINE頻道支援：在獨立傳遞或工作流程中建立並傳送LINE訊息</li><li>預算和傳遞開始核准型別</li><li>SMS傳送現在支援訪客型目標定位</li><li>擴充和建立對象活動中的外部資料庫擴充</li><li>管理員可以限制特定側邊導覽功能表專案</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年9月15日 | [GenStudio for Performance Marketing 發行說明](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>大量啟用：從單一啟用表格跨付費廣告頻道([!DNL Meta]、[!DNL LinkedIn]、Google Campaign Manager 360、Amazon Ads、Innovid、[!DNL TikTok]、[!DNL YouTube]、ChatGPT、The Trade Desk)發佈多個已核准體驗</li><li>在Horizon畫布上大量編輯（連結的文字/影像欄位會傳播對各個大小和頁面的編輯）</li><li>顯示廣告至交易台</li><li>內容片段交換：以AEM中預先核准、可重複使用的內容片段取代文字區塊</li></ul> |
@@ -546,7 +546,7 @@ Adobe Commerce 的新文章和現有文章的更新。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 7 月 | [Project Falco高峰會公告](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=zh-Hant&lang=zh_tw){target="_blank"} | 影片 | 觀看Project Falco測試版示範，其中重點說明2026年Summit上發佈的所有公告。 |
+| 2026 年 7 月 | [Project Falco高峰會公告](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?lang=zh_tw){target="_blank"} | 影片 | 觀看Project Falco測試版示範，其中重點說明2026年Summit上發佈的所有公告。 |
 
 ### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
 
