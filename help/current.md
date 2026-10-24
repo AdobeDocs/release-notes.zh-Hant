@@ -92,11 +92,11 @@ ht-degree: 12%
 
 | 應用程式 | 更新 | 說明 | 已更新 |
 | ------- | ------- | ------- | ------- |
-| [!DNL Coworker] | **資料深入分析** | [透過同事、AEM和CJA加速資料深入分析](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — 瞭解[!DNL Coworker]如何連線[!DNL Experience Manager]、[!DNL Experience Platform]、Web SDK和[!DNL Customer Journey Analytics]以規劃及執行實作，讓網站參與資料準備好進行分析。 | 2026年10月14日 |
+| [!DNL Coworker] | **資料深入分析** | [透過同事、AEM和CJA加速資料深入分析](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — 瞭解[!DNL Coworker]如何連線[!DNL Experience Manager]、[!DNL Experience Platform]、Web SDK和[!DNL Customer Journey Analytics]以規劃及執行實作，讓網站參與資料準備好進行分析。 | 2026年10月14日 |
 | [!DNL Coworker] | **Experience League LIVE** | [同事已解除鎖定](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}：同事中的對象和歷程B2C功能 | 2026年10月8日 |
 | [!DNL Coworker] | **行銷活動** | [與同事一起規劃數位行銷活動啟動](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/workflow-and-planning/plan-digital-campaign-launch){target="_blank"} — 瞭解如何透過一次聊天中建立對象、歷程、內容和登陸頁面，以規劃及啟動B2C行銷活動。 | 2026年10月8日 |
 | [!DNL Adobe Target] | **最佳化** | [加速使用同事、AEM和Target的實驗](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/optimization/accelerate-experimentation){target="_blank"} — 檢視跨產品工作流程，在WKND Magazine頁面上建立實驗，讓同事協調達成目標所需的Adobe功能。 | 2026年10月8日 |
-| [!DNL Coworker] | **技能** | [使用資料驗證技能驗證資料集品質](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/validate-dataset-quality-for-cja){target="_blank"} — 瞭解資料驗證技能如何在您建立儀表板和歷程之前，檢查Customer Journey Analytics資料集的結構描述、身分和欄位品質問題。 | 2026年10月8日 |
+| [!DNL Coworker] | **技能** | [使用資料驗證技能驗證資料集品質](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/data-insights/validate-dataset-quality-for-cja){target="_blank"} — 瞭解資料驗證技能如何在您建立儀表板和歷程之前，檢查Customer Journey Analytics資料集的結構描述、身分和欄位品質問題。 | 2026年10月8日 |
 | [!DNL Coworker] | **技能** | [管理及反複處理技能](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/customizations/skills/manage-and-iterate-on-skills){target="_blank"} — 瞭解如何編輯、評估基準比較，以及隨著時間推移刪除技能。 | 2026年10月8日 |
 | [!DNL Coworker] | **整合** | [瞭解同事中的整合](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/customizations/integrations/understanding-integrations-in-coworker){target="_blank"} — 取得同事中的整合導覽，包括內容、您為何要使用以及如何使用介面。 | 2026年10月8日 |
 | [!DNL Coworker] | **外掛程式** | [管理您組織的外掛程式](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/customizations/plugins/manage-plugins-for-your-org){target="_blank"} — 瞭解管理員如何使用核准的外掛程式來延長同事聊天時間，並控管技能和相關工具的存取權。 | 2026年10月8日 |
