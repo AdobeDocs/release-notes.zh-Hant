@@ -2,12 +2,12 @@
 title: Adobe系統狀態發行說明
 description: Adobe系統狀態的版本記錄(status.adobe.com)。
 doc-type: release notes
-last-update: October 2026
+last-update: November 2026
 author: mfrei
-source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
+source-git-commit: 7c1a3d1b65801e3ae5f6b17cfc32e6e3de249fc3
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '401'
+ht-degree: 21%
 ---
 
 # [!DNL Adobe System Status] 發行說明 {#status-release-notes}
@@ -16,8 +16,14 @@ ht-degree: 30%
 
 此頁面會追蹤[!DNL Adobe System Status]個更新在一段時間內的變化。 只有在有新版本可報告時才會更新。
 
+<!-- 
+[internal](https://wiki.corp.adobe.com/pages/viewpage.action?pageId=2821708019&spaceKey=AdobeStatus&title=Product%2Bpriority%2Bupdate%2B-%2Brelease%2Bnotes) 
+-->
+
 | 日期 | 更新 |
 | ------- | ------- |
+| 2026年9月16日 | <ul><li>AI虛擬助理中的內容：支援連續提示之間的內容，以進行更有效率的交談</li><li>預設首頁、雲端和產品頁面：事件現在會根據您的權益和訂閱來預設；在&#x200B;**所有**&#x200B;和&#x200B;**我的事件**&#x200B;之間切換以檢視其他事件</li><li>Status MCP （測試版）：透過Model Context Protocol (MCP)將Status API直接連線至AI代理程式和LLM；若要加入客戶測試版，請傳送電子郵件至statuscom-adobe-support@adobe.com</li></ul> |
+| 2026 年 6 月 4 日 | <ul><li>AI Virtual Assistant一般可用性：更快速、對話式存取網頁和行動裝置上的事件和訂閱資訊</li><li>Microsoft Teams通知：當您建立或編輯訂閱時，為Teams頻道的訂閱發佈進行中事件</li><li>從訂閱電子郵件（Outlook和其他行事曆）新增至行事曆，以利即將進行的維護和事件</li><li>協助工具修正與其他改善專案</li></ul> |
 | 2026年3月 | <ul><li>AI 虛擬助理 Beta 版</li><li>錯誤修正與改善功能</li></ul> |
 | 2025年12月8日 | <ul><li>虛擬助理意見反應增強功能（簡化的引導式工作流程、直覺式圖示）</li><li>錯誤修正與改善功能</li></ul> |
 | 2025年7月16日 | <ul><li>正式推出虛擬助理</li><li>在Product和Cloud頁面上以及虛擬助理中搜尋事件ID</li><li>Slack 通知設定更新</li><li>錯誤修正與改善功能</li></ul> |
