@@ -719,7 +719,7 @@ GenStudio for Performance Marketing 的教學影片。
 
 | 發佈日期 | 名稱 | 類型 | 說明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年11月 | [在Marketo中使用Brand Concierge活動](https://experienceleague.adobe.com/en/docs/brand-concierge/content/live-chat-and-meeting-booking/use-brand-concierge-activities-in-marketo){target="_blank"} | 教學課程 | 瞭解Brand Concierge如何將潛在客戶詳細資料和參與活動傳送至Marketo，以及如何將其用於智慧行銷活動。 |
+| 2026年11月 | [在Marketo中使用Brand Concierge活動](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/live-chat-and-meeting-booking/use-brand-concierge-activities-in-marketo){target="_blank"} | 教學課程 | 瞭解Brand Concierge如何將潛在客戶詳細資料和參與活動傳送至Marketo，以及如何將其用於智慧行銷活動。 |
 | 2026年11月 | [設定即時聊天和會議的可用性和路由](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/live-chat-and-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings){target="_blank"} | 教學課程 | 瞭解代表如何設定其可用性，以及管理員如何為Brand Concierge Live Chat和會議預約建立路由規則。 |
 | 2026 年 10 月 | [即時聊天和會議預訂：端對端體驗](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/live-chat-and-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience){target="_blank"} | 教學課程 | 瞭解Brand Concierge如何透過即時聊天或會議預約將網站訪客與代表連結在一起。 |
 | 2026 年 10 月 | [使用查詢服務與終端機匯出交談](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/getting-started/exporting-conversations-using-query-service-and-terminal){target="_blank"} | 教學課程 | 瞭解如何使用Brand Concierge查詢服務和終端機，儲存和匯出Experience Platform交談。 |
