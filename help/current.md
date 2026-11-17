@@ -6,23 +6,29 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1d8a31b77f449087cd7c194b3dd2309e28d50634
+source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
 workflow-type: tm+mt
-source-wordcount: '34884'
+source-wordcount: '34982'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise]中央發行說明 — 2026年11月 {#top}
 
 此頁面可協助您尋找最新資訊：
 
-* 所有[!DNL CX Enterprise]應用程式的[發行說明](#application-release-notes)彙總（更新日期： **11月13日**）
+* 所有[!DNL CX Enterprise]應用程式的[發行說明](#application-release-notes)彙總（更新日期： **11月17日**）
 * [最新影片和支援文章](#articles) （依應用程式）
-
-若要尋找並註冊活動，請造訪[Experience League活動](https://experienceleague.adobe.com/zh-hant/events)。
 
 >[!TIP]
 >
 >若要收到關於此頁面新[!DNL CX Enterprise]功能和更新的每月電子郵件，請在[[!UICONTROL 電子報]](https://account.adobe.com/magazines)頁面上啟用&#x200B;**[!UICONTROL 優先產品更新]**。
+
+## 活動 {#events}
+
+| 應用程式 | 事件 | 說明 | 日期 | 註冊 |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [!DNL Adobe Experience Platform], [!DNL Real-Time CDP], [!DNL Adobe Journey Optimizer] | _Experience League LIVE_ | 更快速擴充、更靈活地演化：符合Adobe Experience Platform成長積分。 | 太平洋時間12月2日上午8:30 | [註冊](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} |
+
+若要尋找並註冊活動，請造訪[Experience League活動](https://experienceleague.adobe.com/zh-hant/events)。
 
 ## [!DNL CX Enterprise] 發行說明 {#application-release-notes}
 
@@ -30,11 +36,11 @@ ht-degree: 11%
 
 **重要：**&#x200B;某些應用程式每週發行。 若要取得最新消息，請經常造訪這些頁面。
 
-上次更新： **2026年11月13日**
+上次更新： **2026年11月16日**
 
 | 應用程式 | 新增日期 | 發行說明 URL | 新增功能 |
 | ------------- | ------------- | ------------- | ------------- |
-| **[!DNL Adobe Journey Optimizer]** | 2026年11月13日 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>移轉交易式電子郵件行銷活動：移轉工作區現在支援行銷活動，因此您可以將現有行銷平台的交易式電子郵件轉換為API觸發的行銷活動（可用性限制） （11月13日）</li><li>Experience Manager片段的動態權杖替代：直接在內容片段中使用設定檔屬性路徑，不需要權杖對應（可用性限制） （11月5日）</li><li>個人化最佳化模型的設定檔和內容功能，以改善選件關聯性（可用性限制） （11月3日）</li><li>在[!DNL CX Enterprise Coworker]中協調行銷活動技能：列出並篩選行銷活動、擷取詳細資料和歷史記錄，以及轉譯工作流程圖表（11月3日）</li><li>行銷活動和歷程的自訂中繼資料：每個實體型別最多10個自訂業務欄位（可用性限制） （10月29日）</li></ul>[教學課程與支援文章](#tutorials-ajo) |
+| **[!DNL Adobe Journey Optimizer]** | 2026年11月16日 | [[!DNL Journey Optimizer] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>移轉交易式電子郵件行銷活動：移轉工作區現在支援行銷活動，因此您可以將現有行銷平台的交易式電子郵件轉換為API觸發的行銷活動（可用性限制） （11月13日）</li><li>Experience Manager片段的動態權杖替代：直接在內容片段中使用設定檔屬性路徑，不需要權杖對應（可用性限制） （11月5日）</li><li>個人化最佳化模型的設定檔和內容功能，以改善選件關聯性（可用性限制） （11月3日）</li><li>在[!DNL CX Enterprise Coworker]中協調行銷活動技能：列出並篩選行銷活動、擷取詳細資料和歷史記錄，以及轉譯工作流程圖表（11月3日）</li><li>行銷活動和歷程的自訂中繼資料：每個實體型別最多10個自訂業務欄位（可用性限制） （10月29日）</li></ul>[教學課程與支援文章](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 2026年11月12日 | [[!DNL Adobe Target] 發行說明](https://experienceleague.adobe.com/zh-hant/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1：「活動」清單中的[!DNL Coworker]進入點：「檢閱我的即時測試」按鈕和每個活動的「詢問[!DNL Coworker]」功能表</li><li>26.10.2：修正活動概觀中錯誤顯示的目標設定、促銷活動編輯後建立的備份建議，以及約兩週後刪除的報告預設集；新增Safari支援（視覺化體驗撰寫器或增強體驗撰寫器不支援）</li><li>26.10.1：修正A4T報告錯誤，新新增的報告套裝和原始HTML會出現，而不是視覺化體驗撰寫器中體驗片段的選件名稱</li><li>26.9.8：樣本大小電腦（Beta版），可藉由估計流量、持續時間和最低可偵測效果來規劃實驗</li></ul>[教學課程與支援文章](#tutorials-target) |
 | **[!DNL Adobe Commerce]as a Cloud Service** | 2026年11月10日 | [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>產品審查（預設為停用）透過GraphQL可讀取和建立；依自訂屬性篩選銷退折讓單；新增或更新訂單自訂屬性的端點；退貨(RMA)的自訂屬性（11月18日；沙盒）</li><li>購物車專案上的自訂屬性通過`addProductsToCart`突變；出貨專案篩選器webhook以排除第三方履行的專案（11月10日；現在為Sandbox）</li><li>新的`observer.rma_save_before` webhook可在儲存之前讀取及修改傳回資料（11月10日）</li><li>透過REST API建立的非虛擬訂單現在需要送貨地址（11月10日）</li><li>存放區信用餘額的`GET /V1/customers/:customerId/balance`端點；`InvoiceItemInterface`上的`row_total`欄位（11月10日）</li></ul>[教學課程與支援文章](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | 2026年11月6 | [Marketo Engage 最新發行說明 &#x200B;](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]計畫行銷活動技能：將行銷活動簡報轉換為[!DNL Marketo Engage]方案設定檔案</li><li>可呼叫的代理程式：以智慧行銷活動流程步驟執行的AI代理程式，並將結果寫入潛在客戶欄位（即將推出）</li><li>複製至此程式/資料夾選項以複製目的地（即將推出）</li><li>對已訂閱管理員的CRM同步狀態變更立即發出警報</li><li>[!DNL Marketo Engage]個新UI：重新整理的功能表、圖示和配置</li></ul>[教學課程與支援文章](#tutorials-marketo) |
@@ -147,6 +153,7 @@ ht-degree: 11%
 
 | 發佈日期 | 應用程式 | 名稱 | 類型 | 說明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 2026年12 | [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer] | [[!DNL Experience League LIVE]：使用Adobe Experience Platform成長積分，更快速擴充、更靈活地演化](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} | 事件 | 瞭解[!DNL Experience Platform]成長積分，這是隨著您的需求變更而為[!DNL Real-Time CDP]或[!DNL Journey Optimizer]投資新增容量的彈性方式。 於太平洋時間12月2日上午8:30上線。 |
 | 2026 年 10 月 | [!DNL Experience Platform] | [AI助理安全性總覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | 影片 | 根據Adobe的AI Assistant安全性說明書，取得Adobe Experience Platform中AI Assistant背後的安全性功能概觀。 |
 | 2026 年 10 月 | [!DNL Real-Time CDP] | [監視並解決成長信用超額](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | 教學課程 | 瞭解如何在Adobe Experience Platform中監控成長信用使用情況，並在超額影響您的帳戶之前解決超額問題。 |
 | 2026 年 10 月 | [!DNL Real-Time CDP] | [排程串流容量](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | 影片 | 瞭解如何在重大業務事件之前排程額外的串流容量，讓Experience Platform在流量激增期間保持即時服務順暢運作。 |
